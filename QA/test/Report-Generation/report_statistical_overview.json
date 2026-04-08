@@ -1,0 +1,1406 @@
+[
+  {
+    "id": "A6",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 61-year-old male. How would you summarize the key ECG recording statistics?",
+      "answer": "Recording duration was 22 hours 39 minutes, with a total of 138,156 heartbeats and an average heart rate of 102 bpm. The maximum recorded heart rate was 135 bpm, the minimum was 82 bpm, and tachycardia episodes (>100 bpm) accounted for 66.4% of the recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A9",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 72-year-old male patient. Please summarize the key ECG recording statistics for this patient?",
+      "answer": "The recording captured 24 hours of ECG data totaling 113,145 heartbeats. The average heart rate was 79 bpm, with a fastest rate of 138 bpm and a slowest rate of 58 bpm. Tachycardia periods (>100 bpm) made up 3.0% of the total time, while bradycardia periods (<60 bpm) comprised <0.1%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A10",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 36-year-old male patient. Could you summarize the ECG waveform information and key recording statistics?",
+      "answer": "Over 24 hours, the recording captured 179,613 heartbeats with an average heart rate of 125 bpm. The fastest recorded rate was 191 bpm, the slowest 101 bpm, and periods with heart rate over 100 bpm comprised 100.0% of the recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A11",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 75-year-old male. Which key quantitative points capture an overview of the ECG recording statistics?",
+      "answer": "The 23-hour recording captured 94,660 heartbeats, with an average heart rate of 69 bpm, a highest recorded rate of 109 bpm and a lowest of 53 bpm. Tachycardia periods (>100 bpm) comprised <0.1% of the total time, while bradycardia periods (<60 bpm) comprised 13.5%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A14",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 74-year-old male. Please summarize an overview of the ECG recording's waveform information, and list the key numeric statistics?",
+      "answer": "Recording duration was 22 hours 5 minutes, with a total of 111,384 heartbeats and an average heart rate of 84 bpm. The fastest recorded rate was 133 bpm and the slowest was 65 bpm, and periods with heart rate over 100 bpm accounted for 8.7% of the recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A17",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 68-year-old male. Please summarize the ECG recording statistics, emphasizing the main numerical metrics?",
+      "answer": "The 24-hour recording captured 108,991 heartbeats. The average heart rate was 76 bpm; the fastest recorded rate was 101 bpm, the slowest 60 bpm, and periods with heart rate >100 bpm comprised <0.1% of the recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A18",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 71-year-old female patient. Could you provide an overview of the statistical details of this ECG recording?",
+      "answer": "The recording spanned 20 hours 3 minutes and included 101,846 heartbeats. The average heart rate was 85 bpm, with a maximum of 145 bpm and a minimum of 63 bpm. Periods with heart rate over 100 bpm comprised 9.1% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A25",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 81-year-old female patient. Please summarize the statistical details of this ECG recording in a concise way?",
+      "answer": "Overview: the 24-hour recording captured 113,009 heartbeats with an average heart rate of 78 bpm. The maximum recorded heart rate was 137 bpm and the minimum recorded heart rate was 55 bpm. Periods with heart rate over 100 bpm comprised 3.5% of the total recording time, while periods with heart rate under 60 bpm comprised 0.2%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A29",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 65-year-old female. Could you briefly describe the main ECG recording statistics?",
+      "answer": "Monitoring lasted 22 hours 20 minutes and recorded 129,914 heartbeats with an average heart rate of 99 bpm. The maximum recorded heart rate was 178 bpm and the minimum was 79 bpm; periods with heart rate >100 bpm comprised 17.7% of the total monitoring time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A34",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 43-year-old female. Could you provide an overview of this patient's ECG recording statistics?",
+      "answer": "Overview: 24-hour recording with 112,368 total heartbeats and an average heart rate of 79 bpm. The maximum recorded heart rate was 116 bpm and the minimum was 55 bpm. Burden: periods with heart rate >100 bpm comprised 3.1% of the total monitoring time, while periods with heart rate <60 bpm comprised 2.2%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A37",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 57-year-old male patient. Please summarize the key ECG recording statistics for this patient?",
+      "answer": "The recording lasted 23 hours 23 minutes and captured 89,074 heartbeats, with an average heart rate of 63 bpm, a maximum of 95 bpm and a minimum of 50 bpm; bradycardia (heart rate <60 bpm) accounted for 35.7% of the total monitoring time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A40",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 59-year-old male patient. Please summarize the statistical details of this ECG recording in a concise way?",
+      "answer": "Duration 22 hours 5 minutes; total heartbeats 83,243 and average heart rate 63 bpm. The fastest recorded heart rate was 92 bpm and the slowest 48 bpm; bradycardia (heart rate <60 bpm) occupied 43.2% of the recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A43",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 52-year-old male. What are the key recording statistics to include in a concise summary of this ECG recording?",
+      "answer": "Overview: 24-hour recording. It captured 104,109 heartbeats with an average heart rate of 72 bpm. Tachycardia episodes (HR >100 bpm) accounted for 0.7% of the total time, while bradycardia episodes (HR <60 bpm) accounted for 18.9% of the total time. The maximum recorded heart rate was 95 bpm and the minimum was 50 bpm."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A59",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 71-year-old female patient. Could you summarize the ECG waveform recording statistics for this monitoring period?",
+      "answer": "Recording duration was 22 hours 50 minutes and it captured 115,479 heartbeats, with an average heart rate of 84 bpm. The maximum recorded heart rate was 135 bpm and the minimum 58 bpm; periods with heart rate >100 bpm accounted for 9.4% of the total time while periods with heart rate <60 bpm accounted for <0.1%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A65",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 81-year-old female. Please summarize the ECG recording's detailed statistics, and provide a concise overview of the key waveform metrics?",
+      "answer": "Overview: recording duration 23 hours 30 minutes; total heartbeats 110,392; average heart rate 78 bpm; maximum heart rate 117 bpm; minimum heart rate 61 bpm; periods with heart rate >100 bpm comprised 0.6% of total time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A75",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 19-year-old male patient. What are the key points summarizing the ECG recording statistics, and can you provide a concise statistical overview?",
+      "answer": "Recording captured 23 hours 5 minutes of data, with a total of 103,231 heartbeats. Average heart rate 75 bpm; maximum recorded rate 127 bpm and minimum 50 bpm. Time with heart rate >100 bpm accounted for 1.3% of the recording, and time with heart rate <60 bpm accounted for 4.2%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A79",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 80-year-old male patient. Could you provide an overview of the ECG recording summary?",
+      "answer": "Recording duration 23 hours 17 minutes; total heartbeats 117,905 with an average heart rate of 84 bpm; periods with heart rate >100 bpm accounted for 14.1% of the recording and periods with heart rate <60 bpm accounted for 0.6%; fastest recorded rate 132 bpm and slowest 54 bpm."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A85",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 81-year-old female patient. Could you summarize the detailed ECG recording statistics for this record?",
+      "answer": "Captured ECG data lasted 23 hours 59 minutes and recorded 177,137 heartbeats with an average heart rate of 124 bpm. The fastest recorded rate was 158 bpm, the slowest 85 bpm, and time with heart rate >100 bpm comprised 99.7% of the recording."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A87",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 73-year-old male. Please summarize the ECG recording statistics, and provide a concise overview of the key waveform information?",
+      "answer": "The captured ECG data covered 21 hours 50 minutes, approximately 21.83 hours, with a total of 98,779 heartbeats and an average heart rate of 75 bpm. Tachycardia events (heart rate >100 bpm) accounted for 6.0% of the total recording time, while bradycardia events (heart rate <60 bpm) accounted for 0.2% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A89",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 70-year-old female. Could you briefly describe the main ECG recording statistics?",
+      "answer": "Captured data duration 23 hours 50 minutes. Total heartbeats 97,620 with a mean heart rate of 68 bpm; the maximum recorded rate was 102 bpm and the minimum was 48 bpm. Time with heart rate >100 bpm comprised <0.1% of the recording, while time with heart rate <60 bpm comprised 24.7%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A93",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 64-year-old male patient. What are the key points summarizing the ECG recording statistics?",
+      "answer": "Overview: The ECG recording lasted 23 hours 35 minutes and captured 128,601 heartbeats with a mean heart rate of 91 beats per minute. The maximum recorded rate was 130 bpm and the minimum was 58 bpm, with time at >100 bpm comprising 20.6% of the recording and time at <60 bpm comprising <0.1%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A102",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 20-year-old male patient. What are the key points of this ECG recording's statistics, and how can its main metrics be concisely summarized?",
+      "answer": "Overview: duration 22 hours 20 minutes (≈22.33 hours); total beats 87,261; average heart rate 66 bpm; time with heart rate >100 bpm 4.3% and time with heart rate <60 bpm 43.2%. Extremes: fastest recorded rate 134 bpm and slowest 45 bpm."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A106",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 82-year-old female patient. Please summarize the ECG recording statistics, and present a concise waveform information summary?",
+      "answer": "Duration 21 hours 35 minutes. Total heartbeats 91,735; average heart rate 71 bpm; fastest recorded rate 171 bpm; slowest recorded rate 54 bpm; time with heart rate >100 bpm 1.1% of the recording and time with heart rate <60 bpm 4.5%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A111",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 33-year-old male patient. How would you concisely summarize the ECG recording statistics in a brief statistical overview?",
+      "answer": "This ECG monitoring record lasted 23 hours 50 minutes, approximately 23.83 hours. Overall, a total of 100,362 heartbeats were recorded, and the average heart rate was 71 bpm. Tachycardia events (heart rate >100 bpm) accounted for 1.6% of the total recording time, while bradycardia events (heart rate <60 bpm) accounted for 24.5% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A120",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 29-year-old male. What key points should be highlighted in a clinical overview of the ECG recording statistics?",
+      "answer": "Overall, the recording covered 23 hours 4 minutes, approximately 23.07 hours, with a total of 82,158 heartbeats and an average heart rate of 59 bpm. Bradycardia events (heart rate <60 bpm) accounted for 54.5% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A138",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 63-year-old female. Could you summarize the ECG recording statistics concisely?",
+      "answer": "Duration: 22 hours 50 minutes. Total heartbeats 101,074 with an average heart rate of 74 bpm. Time with heart rate >100 bpm accounted for 0.6% of the recording, and time with heart rate <60 bpm accounted for 14.6%. The fastest recorded rate was 109 bpm and the slowest was 53 bpm."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A139",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 65-year-old male patient. Could you provide an overview of this patient's ECG recording statistics?",
+      "answer": "The recording lasted 22 hours 35 minutes (approximately 22.58 hours) and captured 95,075 heartbeats. The average heart rate was 70 bpm, with a maximum of 117 bpm and a minimum of 44 bpm; time with heart rate >100 bpm comprised 1.5% of the recording and time with heart rate <60 bpm comprised 24.0%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A149",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 53-year-old female. Could you briefly describe the main ECG recording statistics?",
+      "answer": "Overview: 22 hours of ECG recording with a total of 71,843 heartbeats and an average heart rate of 57 bpm; periods with heart rate <60 bpm accounted for 55.4% of the recording. Extremes: the fastest recorded heart rate was 97 bpm and the slowest was 42 bpm."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A150",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 81-year-old male. How would you summarize the ECG recording statistics in a concise statistical summary?",
+      "answer": "Overview — duration 23 hours 35 minutes; total heartbeats 123,204, mean heart rate 87 bpm, maximum 129 bpm, minimum 66 bpm, with periods of heart rate >100 bpm comprising 15.3% of the recording."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A151",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 50-year-old female patient. What are the key points summarizing the ECG recording statistics?",
+      "answer": "The recording captured 22 hours 50 minutes of ECG data, totaling 106,641 heartbeats. The mean heart rate was 78 bpm, with a maximum of 123 bpm and a minimum of 54 bpm. Time with heart rate >100 bpm comprised 2.6% of the recording, while time with heart rate <60 bpm comprised 0.1%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A172",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 65-year-old female patient. How would you summarize the ECG waveform recording statistics in clinical terms?",
+      "answer": "Overview: recording duration 21 hours 44 minutes; total 101,178 heartbeats with an average heart rate of 78 bpm, a maximum of 123 bpm and a minimum of 57 bpm; time with heart rate >100 bpm accounted for 7.2% of the recording and time with heart rate <60 bpm accounted for 0.4%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A174",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 53-year-old female patient. Could you briefly describe the key ECG recording information?",
+      "answer": "Overview: recording duration 23 hours 35 minutes with a total of 86,379 heartbeats and an average heart rate of 61 bpm. The maximum recorded heart rate was 93 bpm, the minimum 46 bpm, and periods with heart rate <60 bpm comprised 52.4% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A175",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 68-year-old male. What are the key points giving an overview of the ECG recording statistics?",
+      "answer": "Duration 23 hours 36 minutes; total beats 144,161; average heart rate 102 bpm; time with heart rate >100 bpm 62.4%; fastest recorded rate 130 bpm and slowest 77 bpm."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A178",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 66-year-old male patient. Please summarize the key ECG recording statistics for this patient?",
+      "answer": "The recording duration was 23 hours 50 minutes and included 100,080 heartbeats. The average heart rate was 70 bpm, with a fastest recorded rate of 103 bpm and a slowest of 50 bpm. Time with heart rate >100 bpm accounted for <0.1% of the recording, while time with heart rate <60 bpm comprised 7.8%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A181",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 63-year-old male patient. How would you summarize the ECG recording statistics, and provide a concise overview of its main recording metrics?",
+      "answer": "The recording captured 22 hours 5 minutes of ECG data and totaled 87,665 heartbeats. The average heart rate was 66 bpm, with a fastest recorded rate of 124 bpm and a slowest of 52 bpm. Time with heart rate >100 bpm comprised 0.2% of the recording, while time with heart rate <60 bpm comprised 17.5%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A185",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 66-year-old male. Please summarize the main ECG recording statistics in a concise way?",
+      "answer": "Overview: recording duration 23 hours 5 minutes. The tracing captured 119,755 heartbeats with an average heart rate of 86 bpm. Time with heart rate >100 bpm accounted for 15.8% of the recording, and time with heart rate <60 bpm accounted for 0.2%. The fastest recorded rate was 143 bpm and the slowest was 64 bpm."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A186",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 63-year-old female. How would you summarize the ECG recording statistics?",
+      "answer": "Overall, the recording duration was 23 hours 24 minutes (≈23.40 h) and it captured 121,543 heartbeats. The average heart rate was 87 bpm; periods with heart rate >100 bpm made up 14.5% of the recording and periods with heart rate <60 bpm made up 0.5%. The fastest recorded rate was 182 bpm and the slowest was 53 bpm."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A192",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 57-year-old female. How would you concisely summarize the waveform statistics from this ECG recording?",
+      "answer": "This ECG monitoring record lasted 22 hours 5 minutes, approximately 22.08 hours. A total of 81,221 heartbeats were recorded, and the average heart rate was 69 bpm. Tachycardia events (heart rate >100 bpm) accounted for <0.1% of the total recording time, while bradycardia events (heart rate <60 bpm) accounted for 5.9% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A199",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 50-year-old female patient. Briefly describe the waveform statistics of this ECG recording, and could you summarize the key recording metrics?",
+      "answer": "The recording lasted 22 hours 54 minutes and captured 89,526 heartbeats. The average heart rate was 65 bpm, with a maximum of 111 bpm and a minimum of 49 bpm. Tachycardia (>100 bpm) occupied 0.1% of the recording time, while bradycardia (<60 bpm) accounted for 28.2%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A200",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 71-year-old female. Please summarize the detailed recording statistics of this ECG recording, and provide a concise statistical overview?",
+      "answer": "Monitoring lasted 23 hours 47 minutes and captured 86,808 heartbeats, with an average heart rate of 61 bpm; the highest recorded rate was 133 bpm and the lowest 50 bpm. Time with heart rate >100 bpm comprised <0.1% of the recording, while time with heart rate <60 bpm comprised 50.1%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A201",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 29-year-old female. Could you summarize the waveform statistical overview of this ECG recording?",
+      "answer": "Duration 22 hours 20 minutes, during which 99,069 heartbeats were recorded and the average heart rate was 74 bpm. The maximum recorded rate was 147 bpm and the minimum 48 bpm; time with heart rate >100 bpm comprised 7.4% of the recording while time with heart rate <60 bpm comprised 29.1%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A202",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 23-year-old male. How would you summarize the ECG recording statistics?",
+      "answer": "Overall, the recording covered 22 hours 35 minutes, approximately 22.58 hours, with a total of 99,627 heartbeats and an average heart rate of 74 bpm. Tachycardia events (heart rate >100 bpm) accounted for 12.1% of the total recording time, while bradycardia events (heart rate <60 bpm) accounted for 32.2% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A213",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old female. How would you summarize the key ECG recording statistics, and could you provide a concise overview of the waveform information?",
+      "answer": "Duration 22 hours 50 minutes (≈22.83 h); total 97,298 heartbeats recorded. Average heart rate 71 bpm; maximum 118 bpm and minimum 51 bpm; time with heart rate >100 bpm 3.7% of the recording and time with heart rate <60 bpm 32.1%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A214",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 65-year-old male. Please summarize the statistical details of this ECG recording for this patient?",
+      "answer": "Duration 22 hours 50 minutes; total heartbeats 84,116, average heart rate 61 bpm; time with heart rate >100 bpm <0.1% and time with heart rate <60 bpm 57.0%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A228",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 44-year-old female patient. What are the principal statistical highlights summarizing the ECG recording statistics?",
+      "answer": "Overview: the recording lasted 23 hours 20 minutes, capturing 98,562 heartbeats with an average heart rate of 70 beats per minute. The maximum recorded heart rate was 115 bpm and the minimum was 52 bpm. Time with heart rate >100 bpm comprised 0.5% of the recording, while time with heart rate <60 bpm comprised 15.6%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A230",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 83-year-old female patient. Provide an overview of the ECG recording statistics, and summarize the waveform information succinctly?",
+      "answer": "Duration 23 hours 5 minutes (≈23.08 hours) with a total of 89,897 heartbeats recorded. Average heart rate 65 bpm; fastest recorded rate 98 bpm, slowest 49 bpm; bradycardia (heart rate <60 bpm) accounted for 41.3% of the monitoring time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A237",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 79-year-old female patient. What are the main statistical details in this ECG record?",
+      "answer": "During monitoring (23 hours 2 minutes), 132,447 heartbeats were recorded with an average heart rate of 96 bpm, and periods with heart rate >100 bpm comprised 39.2% of the total time. The fastest recorded rate was 170 bpm and the slowest was 73 bpm."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A238",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 89-year-old female patient. Please summarize the key ECG recording information for this patient?",
+      "answer": "Captured data span 23 hours 20 minutes (≈23.33 hours), recording 81,884 heartbeats with an average heart rate of 59 bpm. The fastest recorded rate was 119 bpm and the slowest 38 bpm; time with heart rate >100 bpm accounted for 1.7% of the recording while time with heart rate <60 bpm accounted for 72.6%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A240",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 74-year-old male. Briefly summarize the ECG recording statistics, and provide a concise overview of the main recording metrics?",
+      "answer": "Overview: the recording lasted 23 hours 40 minutes (≈23.67 hours) and captured 106,609 heartbeats. The average heart rate was 75 bpm, with tachycardia (>100 bpm) occupying 8.9% of the recording time and bradycardia (<60 bpm) occupying 18.5%. Extremes: the fastest recorded rate was 128 bpm, and the slowest recorded rate was 51 bpm."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A242",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 54-year-old male. Could you briefly describe the main ECG recording statistics?",
+      "answer": "The recording lasted 21 hours 54 minutes and captured 111,033 heartbeats, with an average heart rate of 84 bpm. The fastest recorded rate was 123 bpm, the slowest 65 bpm, and periods with heart rate >100 bpm comprised 6.7% of the recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A248",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 69-year-old female patient. Can you concisely summarize the ECG recording statistics?",
+      "answer": "During monitoring the recording lasted 22 hours 50 minutes and captured 108,483 heartbeats; the average heart rate was 79 bpm, with tachycardia occupying 4.3% of the time and bradycardia occupying 0.3% of the time. Extremes: fastest 119 bpm, slowest 54 bpm."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A252",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 46-year-old male patient. What are the key points of the ECG recording, and could you provide a concise overview of the waveform statistics?",
+      "answer": "During monitoring, the recording lasted 22 hours 50 minutes and captured 96,153 heartbeats. The mean heart rate was 70 bpm, with a fastest recorded rate of 114 bpm and a slowest of 49 bpm; time with heart rate >100 bpm comprised 0.3% of the recording and time with heart rate <60 bpm comprised 19.7%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A257",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 75-year-old male. Could you provide an overview of the statistical details of this ECG recording?",
+      "answer": "Duration 23 hours 5 minutes (≈23.08 h); total beats 118,288; average heart rate 85 bpm. Fastest recorded rate 141 bpm and slowest 62 bpm. Time with heart rate >100 bpm accounted for 10.6% of the recording."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A263",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 79-year-old female patient. Could you provide a concise clinical overview summarizing the ECG recording's key statistics?",
+      "answer": "Monitoring lasted 19 hours 51 minutes and captured 82,206 heartbeats, with an average heart rate of 69 bpm. The fastest recorded rate was 123 bpm and the slowest 53 bpm, with time >100 bpm accounting for 0.6% of the recording and time <60 bpm accounting for 10.6%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A264",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 50-year-old female patient. Could you briefly describe the main ECG recording statistics?",
+      "answer": "This ECG monitoring record lasted 23 hours 26 minutes, approximately 23.43 hours. A total of 105,228 heartbeats were recorded, and the average heart rate was 75 bpm. Tachycardia events (heart rate >100 bpm) accounted for 1.6% of the total recording time, while bradycardia events (heart rate <60 bpm) accounted for 0.3% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A265",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 68-year-old female. Could you summarize the key ECG recording statistics, concentrating on the main measurement values?",
+      "answer": "Overview: the recording duration was 22 hours 5 minutes. It captured 74,806 heartbeats with an average heart rate of 57 bpm; the fastest recorded rate was 112 bpm and the slowest was 46 bpm. Time with heart rate >100 bpm accounted for <0.1% of the recording, while time with heart rate <60 bpm accounted for 74.1%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A266",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 40-year-old female patient. Could you summarize the main statistical metrics of this ECG recording?",
+      "answer": "Captured recording duration was 23 hours 20 minutes, with a total of 101,783 heartbeats and an average heart rate of 73 bpm. The fastest recorded rate was 112 bpm and the slowest 50 bpm; periods with heart rate >100 bpm comprised 1.3% of the recording, while periods with heart rate <60 bpm comprised 22.2%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A269",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 65-year-old male patient. Briefly describe the detailed recording statistics for this ECG, and summarize the key waveform metrics?",
+      "answer": "Monitoring captured 22 hours 50 minutes (≈22.83 h), with 122,860 total heartbeats and an average heart rate of 90 bpm; periods with heart rate >100 bpm comprised 11.3% of the recording. The fastest recorded rate was 135 bpm and the slowest was 63 bpm."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A293",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 28-year-old female patient. Could you summarize the ECG recording's key statistical information, and provide a concise overview of its duration and rate metrics?",
+      "answer": "The ECG recording covered 22 hours 33 minutes, approximately 22.55 hours, with a total of 96,844 heartbeats and an average heart rate of 72 bpm. Tachycardia events (heart rate >100 bpm) accounted for 0.7% of the total recording time, while bradycardia events (heart rate <60 bpm) accounted for 1.0% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A302",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 70-year-old male. What are the key statistical points of the ECG recording?",
+      "answer": "Recorded for 22 hours 38 minutes (≈22.63 hours), the tracing captured 100,986 heartbeats; the average heart rate was 74 bpm. The fastest rate was 118 bpm and the slowest was 62 bpm, and periods with heart rate >100 bpm comprised <0.1% of the total recording."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A307",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 74-year-old male patient. Could you summarize the ECG recording statistics as a concise waveform information summary?",
+      "answer": "The recording captured 22 hours 42 minutes (≈22.70 h) of data, with a total of 151,219 heartbeats. The average heart rate was 111 bpm, and periods with heart rate >100 bpm comprised 90.6% of the recording time. The fastest recorded rate was 152 bpm and the slowest was 83 bpm."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A308",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 56-year-old female. Can you provide a concise overview of the ECG recording statistics that summarizes the key recording metrics?",
+      "answer": "Monitoring lasted 22 hours 20 minutes and captured a total of 87,778 heartbeats, with an average heart rate of 66 bpm. The maximum recorded rate was 124 bpm and the minimum 48 bpm, with tachycardia (>100 bpm) comprising 0.2% of the recording time and bradycardia (<60 bpm) 34.8%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A309",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old male. Could you briefly describe the ECG recording summary?",
+      "answer": "Overall, the recording covered 23 hours 20 minutes, approximately 23.33 hours, with a total of 103,045 heartbeats and an average heart rate of 74 bpm. Tachycardia events (heart rate >100 bpm) accounted for 0.2% of the total recording time, while bradycardia events (heart rate <60 bpm) accounted for 4.6% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A330",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 93-year-old male patient. Could you briefly describe the statistical summary of this ECG recording?",
+      "answer": "The recording captured 24 hours of data and included 93,319 heartbeats; the average heart rate was 65 bpm, with a fastest recorded rate of 115 bpm and a slowest of 45 bpm. Time with heart rate >100 bpm accounted for <0.1% of the recording, while time with heart rate <60 bpm accounted for 23.8%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A336",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 69-year-old male patient. What are the principal summary statistics of this ECG recording?",
+      "answer": "Monitoring lasted 22 hours 20 minutes and captured 81,701 heartbeats, with an average heart rate of 61 bpm. The maximum recorded rate was 143 bpm and the minimum 33 bpm; time with heart rate >100 bpm made up 3.6% of the recording while time with heart rate <60 bpm comprised 58.6%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A338",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 71-year-old male. What key points summarize the ECG recording statistics?",
+      "answer": "Overview: recording duration 22 hours 2 minutes with 150,484 heartbeats captured. The average heart rate was 114 bpm, with a fastest rate of 162 bpm and a slowest rate of 83 bpm. Tachycardia (heart rate >100 bpm) occupied 94.9% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A350",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 67-year-old male patient. Provide an overview of the ECG recording statistics, and summarize the key recording metrics?",
+      "answer": "Recording captured 23 hours 35 minutes of ECG data with 71,870 heartbeats. The average heart rate was 51 bpm, the fastest rate 106 bpm and the slowest 38 bpm; time with heart rate >100 bpm was <0.1% of the recording while time with heart rate <60 bpm was 89.4%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A356",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 60-year-old female patient. Could you provide a concise overview of the ECG recording summary?",
+      "answer": "Overview: recording duration 23 hours 5 minutes (≈23.08 h). The tracing captured 105,177 heartbeats with an average heart rate of 77 bpm; the fastest recorded rate was 115 bpm and the slowest 59 bpm, with periods of heart rate >100 bpm comprising 0.5% of the recording and periods of heart rate <60 bpm comprising <0.1%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A359",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 63-year-old female. Could you briefly describe the main ECG recording statistics?",
+      "answer": "The recording lasted 23 hours 35 minutes and captured 93,017 heartbeats with an average heart rate of 66 bpm. The fastest recorded heart rate was 97 bpm and the slowest 47 bpm, with periods of heart rate <60 bpm comprising 23.1% of the monitoring time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A366",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 33-year-old female. Could you summarize the ECG recording's detailed statistics, and present the duration, total beats, and primary heart-rate metrics?",
+      "answer": "The recorded period covered 22 hours 35 minutes, approximately 22.58 hours, with a total of 85,274 heartbeats and an average heart rate of 63 bpm. Tachycardia events (heart rate >100 bpm) accounted for 0.8% of the total recording time; bradycardia events (heart rate <60 bpm) accounted for 50.7% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A369",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 69-year-old male. How would you summarize the ECG recording statistics in a concise clinical overview of duration and key heart-rate metrics?",
+      "answer": "Overview: recording duration 22 hours 5 minutes (≈22.08 h), with 139,727 total heartbeats and an average heart rate of 106 bpm. Time with heart rate >100 bpm accounted for 65.9% of the recording. The fastest recorded heart rate was 183 bpm and the slowest was 78 bpm."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A373",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 70-year-old female. How would you summarize the ECG recording statistics in a brief overview?",
+      "answer": "Monitoring recorded 23 hours 50 minutes of ECG data, capturing 110,186 heartbeats with a mean heart rate of 77 beats per minute. The fastest recorded heart rate was 105 bpm, the slowest was 62 bpm, and periods with heart rate >100 bpm comprised 0.4% of the total monitoring time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A379",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 44-year-old male patient. What key waveform information summarizes the ECG recording statistics?",
+      "answer": "Monitoring lasted 23 hours 35 minutes and captured 115,369 heartbeats. The average heart rate was 82 bpm. Periods with heart rate >100 bpm comprised 8.4% of the recording, while periods with heart rate <60 bpm comprised 0.6%. The fastest recorded rate was 138 bpm and the slowest was 52 bpm."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A382",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 6-year-old female patient. What are the key points of this ECG recording's statistics in a concise clinical overview?",
+      "answer": "Monitoring recorded 22 hours 22 minutes of ECG data with a total of 123,952 heartbeats. The average heart rate was 93 bpm. Time with heart rate >120 bpm accounted for 8.0% of the recording, while time with heart rate <70 bpm accounted for 7.2%. The fastest recorded rate was 154 bpm and the slowest was 57 bpm."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A384",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 76-year-old male patient. Could you summarize the ECG waveform recording statistics concisely?",
+      "answer": "The recording lasted 23 hours 50 minutes, capturing 98,889 heartbeats with a mean heart rate of 69 bpm. The fastest recorded heart rate was 156 bpm and the slowest 47 bpm; time with heart rate >100 bpm comprised 0.5% of the recording and time with heart rate <60 bpm comprised 12.4%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A386",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 62-year-old male patient. Could you summarize the key ECG recording information, and provide a concise overview of the recording statistics?",
+      "answer": "Overview: Recording duration 23 hours 35 minutes. During this period 96,277 heartbeats were recorded with an average heart rate of 68 bpm; the fastest recorded rate was 102 bpm and the slowest was 52 bpm. Periods with heart rate >100 bpm comprised <0.1% of the recording time, while periods with heart rate <60 bpm comprised 12.9%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A392",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 61-year-old female. Please summarize the ECG recording statistics, highlighting the recording duration and key heart-rate metrics?",
+      "answer": "Monitoring lasted 23 hours 20 minutes and captured 111,341 heartbeats. The average heart rate was 80 bpm, and periods with heart rate >100 bpm comprised 5.5% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A394",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 47-year-old female. Briefly summarize the ECG recording statistics, and provide an overview of the recording's duration and key heart-rate metrics?",
+      "answer": "Monitoring spanned 23 hours 35 minutes and captured 87,765 heartbeats with an average heart rate of 62 bpm. The fastest recorded rate was 109 bpm and the slowest was 43 bpm; time with heart rate >100 bpm comprised 0.3% of the recording while time with heart rate <60 bpm comprised 50.5%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A396",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 65-year-old female patient. How would you summarize the ECG recording's detailed statistics, and highlight the key numeric measures?",
+      "answer": "The recorded period covered 22 hours 50 minutes, approximately 22.83 hours, with a total of 86,265 heartbeats and an average heart rate of 63 bpm. Tachycardia events (heart rate >100 bpm) accounted for 0.2% of the total recording time, while bradycardia events (heart rate <60 bpm) accounted for 42.8% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A398",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 71-year-old female patient. How would you summarize the ECG recording statistics, providing a concise overview of the recording duration and the key heart-rate metrics?",
+      "answer": "Recording duration was 22 hours 36 minutes, during which 100,244 heartbeats were recorded. The mean heart rate was 74 bpm; periods with heart rate >100 bpm accounted for 2.7% of the recording time, while periods with heart rate <60 bpm accounted for 0.2%. The fastest recorded rate was 114 bpm and the slowest was 58 bpm."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A399",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 53-year-old female patient. What key points summarize the ECG recording statistics, and could you provide a concise descriptive overview of the recording's measured metrics?",
+      "answer": "The recording captured 22:50 (22 hours 50 minutes) of ECG data, totaling 85,229 heartbeats with an average heart rate of 64 bpm. The fastest recorded heart rate was 117 bpm and the slowest 50 bpm, with tachycardia (>100 bpm) occupying <0.1% of the recording time while bradycardia (<60 bpm) accounted for 39.3%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A403",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 58-year-old male. Could you provide an overview of the overall ECG recording statistics?",
+      "answer": "The ECG recording captured a total of 105,037 heartbeats and an average heart rate of 76 bpm. The recording duration was 23 hours 5 minutes, approximately 23.08 hours. Tachycardia events (heart rate >100 bpm) accounted for 3.1% of the total recording time, while bradycardia events (heart rate <60 bpm) accounted for 6.2% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A404",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 52-year-old male patient. How would you summarize the ECG recording statistics in a concise statistical overview?",
+      "answer": "Recording lasted 23 hours 19 minutes and captured 107,595 heartbeats with an average heart rate of 77 bpm; the fastest rate was 149 bpm and the slowest 53 bpm, with tachycardia comprising 2.8% and bradycardia 4.1% of the monitoring time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A414",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 37-year-old female. Could you briefly describe the statistical summary of this ECG recording?",
+      "answer": "Recording duration 21 hours 20 minutes (≈21.33 h); total heartbeats 101,676; average heart rate 80 bpm; fastest rate 139 bpm and slowest rate 53 bpm; time with heart rate >100 bpm accounted for 6.9% of the recording and time with heart rate <60 bpm accounted for 0.2%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A416",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 63-year-old male. Please summarize the ECG recording summary in a concise way?",
+      "answer": "Duration 23 hours 36 minutes; total heartbeats 103,463; average heart rate 73 bpm; maximum 108 bpm; minimum 54 bpm; time with heart rate >100 bpm 0.4%; time with heart rate <60 bpm 2.5%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A418",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 42-year-old male patient. Could you provide an overview of this patient's ECG recording statistics?",
+      "answer": "The recorded period lasted 23 hours 51 minutes, approximately 23.85 hours. A total of 77,824 heartbeats were recorded, and the average heart rate was 54 bpm. Tachycardia events (heart rate >100 bpm) accounted for <0.1% of the total recording time, while bradycardia events (heart rate <60 bpm) accounted for 86.9% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A420",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 65-year-old male. What are the key points summarizing the ECG recording statistics?",
+      "answer": "Over 24 hours the recording captured 120,530 heartbeats with an average heart rate of 83 bpm. The maximum rate was 173 bpm and the minimum 50 bpm, with time at >100 bpm comprising 10.0% of the recording and time at <60 bpm comprising 0.2%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A423",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 57-year-old male patient. Please summarize the statistical details of this ECG recording in a concise way?",
+      "answer": "The recording captured 23 hours 50 minutes (≈23.83 hours) of ECG data, totaling 120,453 heartbeats with an average heart rate of 84 bpm. The fastest recorded rate was 123 bpm and the slowest was 62 bpm, and heart-rate elevations above 100 bpm accounted for 7.1% of the recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A429",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 91-year-old male patient. How would you summarize the key ECG recording statistics, and emphasize the recording duration together with the main heart-rate measures?",
+      "answer": "Overview: the recording lasted 23 hours 35 minutes (approximately 23.58 hours), during which 116,612 heartbeats were recorded and the average heart rate was 82 bpm; the fastest recorded rate was 149 bpm and the slowest was 52 bpm. Periods with heart rate >100 bpm accounted for 11.0% of the total recording time, while periods with heart rate <60 bpm comprised 2.4%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A432",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 71-year-old female patient. Could you briefly describe the statistical summary of this ECG recording?",
+      "answer": "Monitoring captured 23 hours 2 minutes of ECG data, totaling 109,960 heartbeats. The average heart rate across the recording was 80 bpm. Periods with heart rate >100 bpm accounted for 3.6% of the recording, while periods with heart rate <60 bpm comprised <0.1%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A435",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 63-year-old male patient. Could you provide an overview of the main ECG recording statistics?",
+      "answer": "Recording duration 21 hours 50 minutes, with 108,041 total heartbeats and an average heart rate of 83 bpm. The highest recorded rate was 130 bpm and the lowest 54 bpm; time with heart rate >100 bpm comprised 15.7% of the recording, while time with heart rate <60 bpm comprised 1.2%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A440",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 93-year-old male patient. How would you summarize the principal statistical characteristics of this ECG recording?",
+      "answer": "Overview: the recording lasted 22 hours 7 minutes and captured 90,826 heartbeats, with an average heart rate of 69 bpm. Periods with heart rate >100 bpm accounted for <0.1% of the total time, while periods with heart rate <60 bpm comprised 12.2%. The maximum recorded heart rate was 104 bpm and the minimum recorded heart rate was 52 bpm."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A444",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 79-year-old male. Could you summarize the ECG waveform recording statistics?",
+      "answer": "The recording captured 22 hours 20 minutes of ECG data. During this period a total of 90,705 heartbeats were recorded, with an average heart rate of 68 bpm. The highest recorded heart rate was 107 bpm and the lowest was 52 bpm. Periods with heart rate >100 bpm accounted for 0.1% of the total time, while periods with heart rate <60 bpm comprised 31.1%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A447",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 67-year-old male patient. What are the key points of the ECG waveform recording, and can you summarize its main statistical metrics?",
+      "answer": "Duration 22 hours 35 minutes; total 112,683 heartbeats, average heart rate 83 bpm, maximum 126 bpm, minimum 65 bpm, and periods with heart rate >100 bpm comprised 6.1% of the recording."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A452",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 27-year-old female patient. How would you summarize the ECG waveform information in clinical terms, and could you provide a concise overview of the recording's key statistics?",
+      "answer": "The recording lasted 22 hours 5 minutes and captured 104,459 heartbeats. The average heart rate was 79 bpm, with a maximum of 126 bpm and a minimum of 54 bpm; time with heart rate >100 bpm comprised 8.3% of the recording and time with heart rate <60 bpm comprised 1.7%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A455",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 56-year-old male. Could you provide an overview of the ECG waveform recording statistics?",
+      "answer": "Monitoring covered 21 hours 50 minutes and recorded 89,105 heartbeats, with an average heart rate of 68 bpm. The highest recorded rate was 116 bpm and the lowest 46 bpm, while periods with heart rate >100 bpm accounted for 3.3% of the recording and periods with heart rate <60 bpm comprised 40.2%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A459",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 63-year-old male patient. How would you summarize the ECG recording's detailed statistics in a concise overview?",
+      "answer": "Recording duration 23 hours 5 minutes. During this period 126,687 heartbeats were recorded, with an average heart rate of 92 bpm; the highest rate was 122 bpm and the lowest 69 bpm, and time with heart rate >100 bpm comprised 12.8% of the recording."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A462",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 65-year-old female patient. What are the key points of the ECG recording statistics?",
+      "answer": "Recording duration was 23 hours 50 minutes, during which 105,752 heartbeats were recorded. The average heart rate was 74 bpm, with a maximum of 123 bpm and a minimum of 54 bpm; tachycardia (>100 bpm) comprised 1.6% of the recording while bradycardia (<60 bpm) comprised 4.6%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A466",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 59-year-old female. How would you concisely summarize the ECG recording statistics, emphasizing the key waveform metrics?",
+      "answer": "Monitoring covered 23 hours 5 minutes (≈23.08 hours). A total of 94,018 heartbeats were recorded with an average heart rate of 68 bpm. The maximum recorded heart rate was 131 bpm and the minimum was 46 bpm. Periods with heart rate >100 bpm comprised 0.9% of the total recording time, while periods with heart rate <60 bpm comprised 28.4%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A467",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 55-year-old female. Could you summarize the ECG recording's key statistical metrics in a concise overview?",
+      "answer": "Overview: the recording lasted 22 hours 35 minutes and captured 102,737 heartbeats. The average heart rate was 76 bpm, with a maximum of 134 bpm and a minimum of 50 bpm. Periods with heart rate >100 bpm accounted for 3.9% of the total time, while periods with heart rate <60 bpm comprised 10.7%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A468",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 81-year-old male patient. How would you summarize the ECG recording's waveform statistics in a concise report?",
+      "answer": "Overview: recording duration 23:50 (23 hours 50 minutes, ≈23.83 hours); total heartbeats 95,638; average heart rate 67 bpm. Time with tachycardia (>100 bpm) accounted for 1.7% and time with bradycardia (<60 bpm) accounted for 34.7%. Extremes: fastest rate 116 bpm and slowest rate 46 bpm."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A472",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 70-year-old female patient. What key points summarize the ECG recording statistics in a concise overview?",
+      "answer": "Captured ECG data span 22 hours 20 minutes, with a total of 87,158 heartbeats and an average heart rate of 65 bpm. The maximum recorded rate was 117 bpm and the minimum 46 bpm; periods with heart rate >100 bpm comprised 0.3% of the recording while periods with heart rate <60 bpm comprised 33.0%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A476",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 74-year-old male. Could you provide a concise overview of the ECG recording summary?",
+      "answer": "Recording duration 23:50 (23 hours 50 minutes, ≈23.83 hours). Total heartbeats 96,935; average heart rate 68 bpm; fastest recorded rate 107 bpm and slowest 53 bpm; time with tachycardia (>100 bpm) 0.1% of the recording and time with bradycardia (<60 bpm) 17.2%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A482",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 36-year-old male. Could you briefly describe the main ECG recording statistics?",
+      "answer": "Recording captured 22 hours 50 minutes of ECG data with a total of 130,170 heartbeats and an average heart rate of 95 bpm; the fastest recorded rate was 152 bpm and the slowest 64 bpm. Periods with heart rate >100 bpm comprised 31.0% of the total recording time, and the dynamic ECG reported no abnormalities."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A484",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 45-year-old male. Please provide an overview of the ECG recording statistics, and summarize the duration, total beats, average and extreme heart rates along with the proportions of tachycardia and bradycardia?",
+      "answer": "Duration was 24 hours; a total of 113,432 heartbeats were recorded with an average heart rate of 79 bpm. The maximum recorded heart rate was 121 bpm and the minimum 45 bpm, with tachycardic periods (>100 bpm) comprising 6.5% of the total time and bradycardic periods (<60 bpm) comprising 7.5%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A500",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 64-year-old female. Please provide an overview of the ECG recording's detailed statistics, and could you summarize the principal waveform metrics?",
+      "answer": "Overview: recording duration 22 hours 5 minutes (≈22.08 hours). The trace contained 106,461 heartbeats with an average heart rate of 81 bpm; the maximum recorded rate was 117 bpm and the minimum 61 bpm, and periods with heart rate >100 bpm comprised 2.9% of the total time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A504",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 59-year-old female. Could you provide an overview of this patient's ECG recording statistics?",
+      "answer": "Recording duration was 22 hours 5 minutes (≈22.08 hours), during which 90,483 heartbeats were recorded and the average heart rate was 68 bpm. The maximum recorded heart rate was 108 bpm and the minimum 37 bpm, with time at heart rate >100 bpm comprising 0.3% of the recording and time at heart rate <60 bpm comprising 36.3%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A514",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 74-year-old male patient. Please briefly state the key ECG recording information, and summarize its primary recording statistics?",
+      "answer": "Recording duration was 24 hours with a total of 63,148 heartbeats and an average heart rate of 44 bpm. The fastest recorded rate was 71 bpm, the slowest 35 bpm, and periods with heart rate <60 bpm comprised 97.2% of the recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A519",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 62-year-old female patient. Could you summarize the main ECG recording statistics for this patient?",
+      "answer": "The recorded period covered 22 hours 5 minutes, approximately 22.08 hours, with a total of 110,359 heartbeats and an average heart rate of 84 bpm. Tachycardia events (heart rate >100 bpm) accounted for 10.8% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A521",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 25-year-old female. Could you briefly describe the key ECG recording information?",
+      "answer": "Duration 24 hours. Total heartbeats 107,719, with an average heart rate of 75 bpm; the fastest recorded rate was 125 bpm and the slowest 53 bpm. Time with heart rate >100 bpm accounted for 4.2% of the recording, and time with heart rate <60 bpm accounted for 5.2%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A525",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 63-year-old male. How would you summarize the recording's main ECG statistics, giving a concise description of the key numerical findings?",
+      "answer": "The recording lasted 23 hours 35 minutes and contained 105,213 total heartbeats with an average heart rate of 74 bpm. The fastest recorded rate was 108 bpm and the slowest 53 bpm; periods with heart rate >100 bpm made up 0.5% of the recording while heart rate <60 bpm comprised 21.2%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A528",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 40-year-old male. Could you briefly describe the statistical summary of this ECG recording?",
+      "answer": "Monitoring lasted 18 hours 22 minutes (18.37 hours) and captured 75,363 heartbeats. The average heart rate was 69 bpm, with a fastest recorded rate of 104 bpm and a slowest of 47 bpm. Time with heart rate >100 bpm occupied <0.1% of the recording while time with heart rate <60 bpm comprised 12.0%; the recording was terminated early due to device removal."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A529",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 67-year-old male patient. What are the key statistical points in this ECG recording?",
+      "answer": "This ECG monitoring record lasted 22 hours 50 minutes, approximately 22.83 hours. During this period, a total of 130,474 heartbeats were recorded, and the average heart rate was 95 bpm. Tachycardia events (heart rate >100 bpm) accounted for 33.0% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A533",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 78-year-old female. Please summarize the ECG recording summary for this patient?",
+      "answer": "The recording captured 23 hours 20 minutes of ECG data and included 111,057 total heartbeats. The average heart rate was 80 bpm, with a fastest recorded rate of 112 bpm and a slowest of 62 bpm. Periods with heart rate above 100 bpm comprised 2.2% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A551",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 58-year-old female. How would you summarize the ECG recording statistics for the 24-hour monitoring session?",
+      "answer": "Overall, the recording duration was 24 hours with 115,070 total heartbeats and an average heart rate of 80 beats per minute. The fastest recorded heart rate was 131 bpm and the slowest was 68 bpm; periods with heart rate >100 bpm accounted for 0.4% of the total monitoring time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A560",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 74-year-old male. Could you briefly describe the statistical details of this ECG recording?",
+      "answer": "The 24-hour recording captured 104,865 heartbeats with an average heart rate of 73 beats per minute, a maximum of 129 bpm and a minimum of 53 bpm. Time with heart rate >100 bpm made up 1.4% of the recording, while time with heart rate <60 bpm comprised 17.9%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A572",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 62-year-old male patient. How would you summarize the ECG recording statistics in a concise clinical overview focused on key metrics?",
+      "answer": "Recording duration 22:03 (22 hours 3 minutes) with 90,571 total heartbeats and an average heart rate of 68 bpm. The fastest recorded rate was 140 bpm and the slowest 47 bpm; time with heart rate >100 bpm accounted for 0.4% of the recording while time with heart rate <60 bpm accounted for 16.1%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A582",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 75-year-old female. Please summarize the key ECG recording statistics for this patient?",
+      "answer": "During 22 hours 20 minutes of monitoring the recording captured 65,935 heartbeats with an average heart rate of 49 bpm; the fastest recorded rate was 104 bpm and the slowest 38 bpm. Time with heart rate >100 bpm accounted for <0.1% of the recording, while time with heart rate <60 bpm comprised 90.9%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A583",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 25-year-old female. Please summarize the main ECG recording statistics in a concise way?",
+      "answer": "The recorded period captured a total of 114,786 heartbeats and an average heart rate of 83 bpm. The recording duration was 23 hours 6 minutes, approximately 23.10 hours. Tachycardia events (heart rate >100 bpm) accounted for 12.9% of the total recording time, while bradycardia events (heart rate <60 bpm) accounted for 5.3% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A588",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 74-year-old male patient. Could you summarize the key ECG recording statistics in a concise overview?",
+      "answer": "Recording duration 21 hours 35 minutes. Total heartbeats 102,058, with an average heart rate of 79 bpm. The fastest recorded rate was 105 bpm and the slowest was 58 bpm. Periods with heart rate >100 bpm comprised 0.3% of the recording, while periods with heart rate <60 bpm comprised 0.1%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A595",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 78-year-old female patient. Could you provide an overview of the overall ECG recording statistics?",
+      "answer": "Captured data: duration 22 hours 20 minutes (≈22.33 h), total 89,142 heartbeats, average heart rate 67 bpm. Extremes and event proportions: fastest 101 bpm, slowest 47 bpm; time with heart rate >100 bpm <0.1%, time with heart rate <60 bpm 25.0%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A596",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 83-year-old male. Could you provide a concise summary of the ECG recording statistics?",
+      "answer": "Recording duration 23 hours 49 minutes with a total of 109,215 heartbeats. The average heart rate was 79 bpm, with a maximum of 123 bpm and a minimum of 49 bpm. Time with heart rate >100 bpm comprised 1.2% of the recording, and time with heart rate <60 bpm comprised 2.6%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A602",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 67-year-old female patient. Provide an overview of the key ECG recording information, and summarize the primary recording statistics?",
+      "answer": "Monitoring lasted 22 hours 35 minutes and captured 118,924 heartbeats. The average heart rate was 88 bpm, with a maximum of 146 bpm and a minimum of 51 bpm. Time with heart rate >100 bpm comprised 30.9% of the recording, while time with heart rate <60 bpm comprised 5.5%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A609",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 51-year-old female. How would you summarize the ECG recording's statistical findings, and provide a brief numerical overview of its main metrics?",
+      "answer": "Recording duration 21 hours 35 minutes with a total of 100,466 heartbeats; mean heart rate 78 bpm, with time at heart rate >100 bpm accounting for 9.1% and time at heart rate <60 bpm accounting for 1.5%. The highest recorded heart rate was 137 bpm and the lowest was 55 bpm."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A618",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 60-year-old male patient. What are the key points of the ECG waveform information summary?",
+      "answer": "Captured 23 hours of ECG data: 86,984 total heartbeats with an average heart rate of 63 bpm. The fastest recorded rate was 125 bpm and the slowest 50 bpm; time with heart rate >100 bpm was <0.1%, and time with heart rate <60 bpm was 36.8%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A626",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 74-year-old female patient. What are the key points of the ECG recording, and please provide a concise overview of its principal numeric statistics?",
+      "answer": "The recorded period captured a total of 84,534 heartbeats and an average heart rate of 63 bpm. The recording duration was 22 hours 20 minutes, approximately 22.33 hours. Tachycardia events (heart rate >100 bpm) accounted for 1.1% of the total recording time; bradycardia events (heart rate <60 bpm) accounted for 51.5% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A627",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 55-year-old male. How would you summarize the key waveform information and statistics of this ECG recording?",
+      "answer": "Captured 23 hours 57 minutes of ECG data with 169,198 total heartbeats and an average heart rate of 118 bpm; the fastest recorded rate was 158 bpm and the slowest 72 bpm, with heart rate >100 bpm occupying 94.1% of the recording."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A628",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 82-year-old female patient. How would you summarize the main ECG recording statistics concisely?",
+      "answer": "The recording lasted 22 hours 50 minutes and captured 92,408 heartbeats. The average heart rate was 68 bpm, with a fastest rate of 106 bpm and a slowest rate of 58 bpm. Time with heart rate >100 bpm comprised 0.2% of the recording, while time with heart rate <60 bpm comprised 10.5%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A629",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 55-year-old male. Could you provide a concise overview of the ECG recording summary?",
+      "answer": "Overview: the recording duration was 22 hours 50 minutes (≈22.83 hours) and it captured 99,635 heartbeats. The average heart rate was 73 bpm; the fastest recorded rate was 116 bpm and the slowest was 54 bpm. Tachycardia occupied 0.7% of the recording time, while bradycardia occupied 2.1%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A632",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 58-year-old female patient. Could you summarize the key recording statistics for this ECG?",
+      "answer": "The recording captured 23 hours 35 minutes of data with 120,325 heartbeats and an average heart rate of 85 bpm. The maximum recorded rate was 151 bpm and the minimum 57 bpm; time with heart rate >100 bpm comprised 8.2% of the recording while time with heart rate <60 bpm comprised <0.1%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A633",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 65-year-old female patient. Could you briefly describe the main ECG recording statistics?",
+      "answer": "Recording duration 22 hours 50 minutes; the recording captured 80,003 heartbeats with an average heart rate of 59 bpm, a fastest recorded rate of 165 bpm and a slowest recorded rate of 46 bpm, with tachycardia (>100 bpm) occupying <0.1% of the total time and bradycardia (<60 bpm) occupying 60.9%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A638",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 45-year-old female patient. Please summarize the key ECG recording information for this patient?",
+      "answer": "Monitoring captured 22 hours 50 minutes of ECG data. During this period there were 113,847 heartbeats with an average heart rate of 83 bpm; the fastest recorded rate was 126 bpm and the slowest was 54 bpm. Time with heart rate >100 bpm comprised 13.7% of the recording, while time with heart rate <60 bpm comprised 1.7%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A640",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 84-year-old female. Could you briefly describe the statistical summary of this ECG recording?",
+      "answer": "The recording lasted 22 hours 35 minutes and totaled 99,106 heartbeats. The average heart rate was 73 bpm, with a fastest recorded rate of 119 bpm and a slowest rate of 51 bpm. Time with heart rate >100 bpm accounted for 1.3% of the recording, while time with heart rate <60 bpm accounted for 24.1%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A645",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 75-year-old male patient. Please summarize the ECG recording summary for this patient?",
+      "answer": "Recording duration 23 hours 33 minutes; total beats 79,242, mean heart rate 56 bpm, maximum 142 bpm and minimum 40 bpm. Tachycardia (>100 bpm) occupied <0.1% of the recording, while bradycardia (<60 bpm) accounted for 79.4%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A646",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 62-year-old male patient. Please summarize the ECG recording's detailed statistics, including duration, total heartbeats, average heart rate, fastest and slowest rates, and percentages of tachycardia and bradycardia?",
+      "answer": "The recording lasted 23 hours 59 minutes and captured 91,674 heartbeats with an average heart rate of 64 bpm. The fastest recorded rate was 112 bpm and the slowest 46 bpm; periods with heart rate >100 bpm comprised 0.4% of the recording, while rates <60 bpm comprised 43.7%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A660",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 65-year-old female. What are the key statistical points of the ECG recording?",
+      "answer": "The recording duration was 23 hours 50 minutes and included 94,082 heartbeats with an average heart rate of 69 bpm. The maximum recorded heart rate was 106 bpm and the minimum 51 bpm, with tachycardia (>100 bpm) occupying <0.1% of the time and bradycardia (<60 bpm) occupying 18.5%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A663",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 74-year-old male patient. What are the key points in an overview of the ECG recording statistics?",
+      "answer": "Monitoring captured 24 hours of ECG with 103,245 total heartbeats and an average heart rate of 66 bpm; time with heart rate >100 bpm comprised 0.2% of the recording while time with heart rate <60 bpm comprised 21.8%. The fastest recorded heart rate was 196 bpm and the slowest was 55 bpm."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A707",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 69-year-old female patient. What are the key statistical points in this ECG recording?",
+      "answer": "Overview: The recording lasted 21 hours 50 minutes and captured 86,234 heartbeats, with an average heart rate of 67 bpm; the fastest recorded rate was 107 bpm and the slowest 45 bpm. Burden: periods with heart rate >100 bpm made up 0.5% of the recording time, while periods with heart rate <60 bpm comprised 40.3%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A709",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 85-year-old female. Could you summarize the ECG recording statistics as a concise overview of the recording duration, total beats, heart rate measures, and tachycardia burden?",
+      "answer": "Duration: 24 hours. Total heartbeats recorded: 117,053, with an average heart rate of 81 bpm. Recorded extremes: maximum heart rate 119 bpm and minimum heart rate 62 bpm. Tachycardia (>100 bpm) occupied <0.1% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A710",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 30-year-old female patient. What are the key points summarizing the ECG recording statistics?",
+      "answer": "Monitoring recorded 23 hours 20 minutes of ECG data. During this period there were 102,230 heartbeats with an average heart rate of 73 bpm. The fastest recorded rate was 119 bpm and the slowest was 49 bpm. Time with heart rate >100 bpm comprised 0.8% of the recording, while time with heart rate <60 bpm comprised 10.8%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A714",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "You are reviewing a 86-year-old male patient. Could you summarize the ECG recording statistics as a concise waveform information summary, and list the key numerical recording metrics?",
+      "answer": "Recording duration 23 hours 13 minutes (≈23.22 hours) with a total of 85,304 heartbeats recorded. Average heart rate 61 bpm, maximum 80 bpm, minimum 49 bpm, and bradycardia (heart rate <60 bpm) occupied 42.3% of the total recording time."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A721",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 35-year-old female. How would you summarize the ECG recording's key statistical metrics—duration, total beats, average heart rate, and proportions of tachycardia and bradycardia?",
+      "answer": "The recording lasted 23 hours 50 minutes and captured 101,182 heartbeats, with an average heart rate of 71 beats per minute. Time with heart rate >100 bpm comprised 0.7% of the recording, while time with heart rate <60 bpm comprised 20.9%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A723",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 63-year-old male patient. Could you summarize the ECG recording's detailed statistics, and present the key recorded metrics?",
+      "answer": "Duration of the recording was 22 hours 2 minutes. During this period a total of 88,274 heartbeats were recorded with an average heart rate of 67 beats per minute; the fastest recorded rate was 110 bpm and the slowest was 50 bpm. Time with heart rate >100 bpm comprised 0.1% of the recording, while time with heart rate <60 bpm comprised 21.0%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A736",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 57-year-old female. Please summarize the key ECG recording information in a concise way?",
+      "answer": "Monitoring captured 23 hours 20 minutes of ECG data with a total of 97,764 heartbeats, an average heart rate of 70 beats per minute, a fastest recorded rate of 119 bpm and a slowest recorded rate of 49 bpm. Periods with heart rate >100 bpm made up 1.0% of the recording time, while periods with heart rate <60 bpm accounted for 24.2%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A743",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 55-year-old male. Could you summarize the ECG recording waveform statistics?",
+      "answer": "The recording lasted 22 hours 20 minutes and captured 87,647 heartbeats. The average heart rate was 66 bpm, with a fastest recorded rate of 106 bpm and a slowest of 47 bpm. Periods with heart rate >100 bpm comprised 0.1% of the recording time, while periods with heart rate <60 bpm comprised 33.2%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A745",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 36-year-old male. Could you summarize the main ECG recording statistics for this patient?",
+      "answer": "The recording captured 22 hours 20 minutes of ECG data and recorded 112,613 heartbeats with an average heart rate of 84 bpm, a fastest rate of 115 bpm and a slowest rate of 53 bpm. Tachycardia (heart rate >100 bpm) occupied 8.7% of the total monitoring time, while bradycardia (heart rate <60 bpm) accounted for 1.0%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A747",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This case concerns a 32-year-old male patient. What are the key points describing the ECG recording statistics?",
+      "answer": "The recording duration was 23 hours 50 minutes. It captured 114,551 heartbeats with an average heart rate of 80 beats per minute; the maximum recorded rate was 141 bpm and the minimum was 50 bpm. Time with heart rate >100 bpm comprised 8.6% of the recording while time with heart rate <60 bpm comprised 10.8%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A751",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 26-year-old male. What are the key points—please provide a concise clinical summary of the ECG recording statistics?",
+      "answer": "Duration 21 hours 55 minutes; total heartbeats 101,844; average heart rate 78 bpm; fastest recorded rate 162 bpm; slowest recorded rate 48 bpm; time with heart rate >100 bpm 13.1%; time with heart rate <60 bpm 28.0%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A761",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 68-year-old male. Could you briefly describe the statistical summary of this ECG recording?",
+      "answer": "The recording lasted 22 hours 35 minutes (≈22.58 hours). It captured 104,791 heartbeats with an average heart rate of 77 beats per minute. The fastest recorded rate was 166 bpm and the slowest 51 bpm, with tachycardia occupying 6.9% of the recording time and bradycardia 10.0%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A771",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 53-year-old male patient. Could you summarize the main statistics of this ECG recording?",
+      "answer": "Duration was 22 hours 32 minutes 12 seconds. The recording captured 102,269 heartbeats with an average heart rate of 76 beats per minute. Time with heart rate >100 bpm comprised 21.1% of the recording, while time with heart rate <60 bpm comprised 21.4%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A774",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 66-year-old female. Please summarize the statistical details of this ECG recording in a concise way?",
+      "answer": "Duration 14 hours 33 minutes 44 seconds; the recording captured 45,880 heartbeats with an average heart rate of 54 bpm, time with heart rate >100 bpm was <1%, and time with heart rate <60 bpm was 78.0%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A780",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 77-year-old female. How would you summarize the ECG waveform statistics for this recording, and can you provide a concise statistical overview?",
+      "answer": "Monitoring recorded 8 hours 35 minutes 22 seconds of ECG, capturing 62,879 heartbeats with an average heart rate of 131 bpm. Periods with heart rate >100 bpm accounted for 77.9% of the recording, while periods with heart rate <60 bpm accounted for 13.7%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A782",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This recording is from a 59-year-old female. Could you briefly describe the statistical details of this ECG recording?",
+      "answer": "The recording lasted 13 hours 6 minutes (≈13.10 hours). A total of 82,991 heartbeats were recorded with an average heart rate of 107 bpm; the fastest rate was 153 bpm and the slowest 74 bpm, and periods with heart rate >100 bpm comprised 83.1% of the recording."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A784",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 86-year-old male patient. What are the key summary points of the ECG recording statistics?",
+      "answer": "Overview: the recording duration was 21 hours 44 minutes and it captured 78,051 heartbeats with an average heart rate of 61 bpm. The fastest recorded rate was 275 bpm and the slowest 44 bpm; periods with heart rate >100 bpm made up 2.9% of the time while periods with heart rate <60 bpm made up 54.1%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A785",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "This patient is a 45-year-old male. What are the main statistical details in this ECG record?",
+      "answer": "The 24-hour recording captured 87,698 heartbeats with an average heart rate of 61 bpm, a fastest rate of 240 bpm and a slowest rate of 47 bpm. Time with heart rate >100 bpm comprised 0.3% of the recording, while time with heart rate <60 bpm comprised 48.8%."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A788",
+    "task_type": "report_statistical_overview",
+    "qa_pair": {
+      "question": "The ECG belongs to a 71-year-old male patient. Could you provide an overview of this patient's ECG recording statistics?",
+      "answer": "Overview: the recording lasted 10 hours 48 minutes 10 seconds, captured 63,329 heartbeats, and had an average heart rate of 99 bpm. Periods with heart rate >100 bpm comprised 47.3% of the recording, while periods with heart rate <60 bpm comprised 3.7%."
+    },
+    "tag": "test"
+  }
+]

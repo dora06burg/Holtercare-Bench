@@ -1,0 +1,569 @@
+[
+  {
+    "id": "A41",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "You are reviewing a 59-year-old male patient. Outline the ECG features and the patient's principal disease-related findings?",
+      "answer": "Recording duration 22 hours 27 minutes with a total of 127,500 beats; mean heart rate 96 bpm, fastest heart rate 127 bpm, slowest heart rate 78 bpm. Tachycardia episodes (heart rate >100 bpm) occupied 34.3% of the total recording time. Rhythm: sinus rhythm. Atrial premature beats: 8 in total (<0.1% of all beats), comprising 5 isolated atrial premature beats and 1 atrial tachycardia. Ventricular premature beats: 212 in total (0.2% of all beats), all 212 being isolated ventricular premature beats. T-wave changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A46",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "You are reviewing a 84-year-old male patient. Could you provide a brief description of the electrocardiographic features and the principal disease-related findings?",
+      "answer": "Recording duration 23:00 with a total of 75,213 beats; mean heart rate 55 bpm, fastest rate 105 bpm, slowest rate 42 bpm. Tachycardia events (heart rate >100 bpm) occupied 0.1% of the total recording time, and bradycardia events (heart rate <60 bpm) occupied 81.6% of the total recording time. Findings: (1) Sinus bradycardia; (2) One R-R interval >=2.0 seconds with longest RR interval 2.0 seconds; (3) Atrial premature beats 182 in total, accounting for 0.2% of total beats, including 167 isolated atrial premature beats, 3 paired atrial premature beats and 3 episodes of atrial tachycardia; 9 atrial premature beats were not conducted to the ventricles; (4) Ventricular premature beats 5 in total, <0.1% of total beats, all 5 isolated ventricular premature beats; (5) Atrial escape beat."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A50",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 56-year-old female patient. Would you concisely summarize the electrocardiographic features and the patient's major abnormal findings?",
+      "answer": "Recording duration 23 hours 35 minutes, total 93,980 beats; average heart rate 67 beats per minute, maximum 134 beats per minute, minimum 49 beats per minute. Tachycardia episodes (heart rate >100 bpm) occupied <0.1% of the recording time, and bradycardia episodes (heart rate <60 bpm) occupied 21.4% of the recording time. Sinus rhythm (average ventricular rate 66 beats per minute). Paroxysmal atrial fibrillation with rapid ventricular response (average ventricular rate 102 beats per minute). Atrial premature complexes totaling 2,014 (2.1% of total beats), including 2,014 isolated atrial premature beats, with 134 couplets and 29 triplets detected. ST-segment changes and T-wave changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A57",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This recording is from a 59-year-old female patient. Briefly characterize the ECG features and the patient's principal disease-related findings?",
+      "answer": "Monitoring duration 22 hours 26 minutes with 91,323 total beats; average heart rate 68 bpm, maximum 149 bpm, minimum 51 bpm. Tachycardia events (HR >100 bpm) occupied 1.1% of the recording; bradycardia events (HR <60 bpm) occupied 23.7%. Rhythm: sinus rhythm. Atrial ectopy: multifocal atrial premature beats totaling 40 beats (<0.1% of total), including 40 isolated single atrial premature beats."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A107",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 45-year-old female patient. Please describe the ECG features and the patient's main abnormal or disease-related findings?",
+      "answer": "Recording duration 22 hours 35 minutes with a total of 101,533 beats. Average heart rate 75 bpm; fastest heart rate 134 bpm; slowest heart rate 54 bpm. Tachycardia events (heart rate >100 bpm) accounted for 2.6% of the total recording time; bradycardia events (heart rate <60 bpm) accounted for 1.0% of the total recording time. Rhythm: sinus rhythm. Atrial premature beat: 1 beat (<0.1% of total), including 1 isolated atrial premature. Ventricular premature beat: 1 beat (<0.1% of total), including 1 isolated ventricular premature. Accelerated junctional escape rhythm. Intermittent ST-segment changes and T-wave changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A116",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This patient is a 66-year-old female. Give a brief description of the electrocardiographic features and the patient's main abnormal findings?",
+      "answer": "Recording duration 22 hours 35 minutes with 102,696 total beats. Average heart rate 76 bpm; fastest 119 bpm; slowest 55 bpm. Tachycardia episodes (heart rate >100 bpm) occupied 2.0% of the recording time; bradycardia episodes (heart rate <60 bpm) occupied 1.0%. Sinus rhythm. Atrial premature beats: 16 total, <0.1% of total beats, all 16 single atrial premature beats; one atrial premature beat was not conducted. Ventricular premature beats: 124 total, 0.1% of total beats, all 124 single ventricular premature beats. Intermittent first-degree atrioventricular block."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A119",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "The ECG belongs to a 48-year-old male patient. Summarize electrocardiographic features and main disease-related findings?",
+      "answer": "The recording lasted 22 hours 35 minutes, approximately 22.58 hours, contained 117,372 beats, and the average heart rate was 87 bpm. The fastest heart rate was 131 bpm and the slowest heart rate was 64 bpm. Tachycardia accounted for 17.7% of the monitoring time. Sinus rhythm. Premature atrial contractions: a total of 18 beats, accounting for <0.1% of total beats, and including 18 isolated PACs. ST-segment and T-wave abnormalities."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A125",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This case concerns a 51-year-old female patient. Characterize the ECG waveform features and the patient's main abnormal or disease-related findings?",
+      "answer": "Recording duration 22 hours 35 minutes with a total of 67,338 beats; average heart rate 52 bpm, fastest rate 133 bpm, slowest rate 33 bpm. Tachycardia events (heart rate >100 bpm) occupied 0.2% of the total monitoring time, and bradycardia events (heart rate <60 bpm) occupied 68.0%. Findings: sinus bradycardia; atrial premature beats: 1 total (<0.1% of total beats), including 1 single atrial premature beat, with 1 atrial premature beat not conducted; ventricular premature beats: 6 total (<0.1% of total beats), including 6 single ventricular premature beats."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A130",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This recording is from a 55-year-old female patient. Please characterize the ECG waveform features and indicate the patient's primary abnormal or disease-related findings?",
+      "answer": "This 23 hours 5 minutes recording includes 134,793 beats with an average heart rate of 97 bpm, a fastest rate of 143 bpm and a slowest rate of 78 bpm; tachycardia events (heart rate >100 bpm) accounted for 32.9% of the total monitoring time. Rhythm was sinus. There were 8 atrial premature beats, comprising <0.1% of total beats, all 8 being isolated single atrial premature beats. Intermittent first-degree atrioventricular block was present."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This case concerns a 78-year-old male patient. Summarize the current electrocardiographic features and the patient's main disease-related findings?",
+      "answer": "Recording duration 23 hours 26 minutes with 85,637 total beats; average heart rate 60 bpm; fastest heart rate 96 bpm; slowest heart rate 40 bpm; bradycardia episodes (heart rate <60 bpm) occupied 54.6% of the total recording time. Sinus rhythm. R-R intervals >=2.0 seconds occurred 70 times, with the longest RR interval 2.7 seconds (associated with non-conducted atrial premature beats). Atrial premature beats totaled 8,982 (10.5% of total beats), including 7,984 isolated APBs, 454 paired APBs and 28 episodes of atrial tachycardia; 258 couplets and 303 triplets detected; 2,274 non-conducted APBs. Ventricular premature beats from two foci totaled 2 (<0.1% of total), both isolated. First-degree atrioventricular block. Bradycardic junctional escape. Intermittent T-wave changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A141",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This patient is a 74-year-old female. Would you summarize the ECG waveform features and the patient's principal disease-related findings?",
+      "answer": "The recording lasted 23 hours 20 minutes, approximately 23.33 hours, contained 81,578 beats, and the average heart rate was 59 bpm. The fastest heart rate was 112 bpm and the slowest heart rate was 36 bpm. Tachycardia accounted for 0.2% of the monitoring time, while bradycardia accounted for 60.0% of the monitoring time. Atrial fibrillation. Premature ventricular contractions: a total of 918 beats, accounting for 1.1% of total beats, including 918 isolated PVCs, and 1 episode of bigeminy and 1 episode of trigeminy were detected. Intermittent ST-segment abnormalities."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old male. Provide a concise description of the ECG features and the patient's main abnormal findings?",
+      "answer": "Recording duration 23 hours 35 minutes with a total of 100,281 beats; average heart rate 71 bpm, fastest rate 105 bpm, slowest rate 53 bpm. Tachycardia episodes (heart rate >100 bpm) occupied 0.1% of the total recording time, and bradycardia episodes (heart rate <60 bpm) occupied 22.7% of the total recording time. Rhythm: sinus rhythm. Atrial premature beats: total 44, accounting for <0.1% of total beats, including 32 isolated atrial premature beats, 3 paired atrial premature beats and 1 episode of atrial tachycardia. Ventricular premature beats: total 95, accounting for <0.1% of total beats, all 95 being isolated ventricular premature beats."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A153",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "You are reviewing a 62-year-old female patient. What are the ECG characteristics and the patient's main abnormal or disease-related findings?",
+      "answer": "Recording duration 23:35 with a total of 87,307 beats; average heart rate 62 bpm, maximum 110 bpm and minimum 48 bpm. Tachycardia events (heart rate >100 bpm) occupied <0.1% of the recording, while bradycardia episodes (heart rate <60 bpm) occupied 44.5% of the recording. Rhythm: sinus rhythm. Atrial premature beats: total 90, comprising 0.1% of total beats, including 71 isolated atrial premature beats, 4 paired atrial premature beats and 2 episodes of atrial tachycardia; one occurrence of bigeminy was detected. Ventricular premature beats: total 1, accounting for <0.1% of total beats, consisting of 1 isolated ventricular premature beat. T-wave changes noted. Note: leads were removed for a period and no recording was obtained during that interval."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A191",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This recording is from a 66-year-old male patient. Please outline the ECG features and the patient's main abnormal or disease-related findings?",
+      "answer": "Duration 23:34 with a total of 77,104 heartbeats; average heart rate 54 bpm, fastest heart rate 110 bpm, slowest heart rate 39 bpm. Tachycardia events (heart rate >100 bpm) accounted for <0.1% of the total time, and bradycardia events (heart rate <60 bpm) accounted for 73.5% of the total time. Sinus bradycardia. Atrial premature beats: 15 total, representing <0.1% of total beats, including 15 single atrial premature beats. Ventricular premature beats from two sources: 2 total, representing <0.1% of total beats, including 2 single ventricular premature beats. Intermittent ST-segment changes and T-wave changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A194",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This recording is from a 64-year-old female patient. How would you describe the ECG characteristics and the patient's principal disease-related findings?",
+      "answer": "Recording duration 17:07 with a total of 72,599 beats; average heart rate 71 bpm, fastest 113 bpm, slowest 55 bpm. Tachycardia (heart rate >100 bpm) occupied 0.1% of the recording time, and bradycardia (heart rate <60 bpm) occupied 10.4% of the recording time. Rhythm: sinus rhythm. Atrial premature beats totaled 57 (<0.1% of total beats), including 35 isolated atrial premature beats and 3 episodes of atrial tachycardia. One non-conducted atrial premature beat was detected. Recording terminated early, insufficient recording time."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A222",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This recording is from a 59-year-old female patient. Outline the present electrocardiographic features and the patient's chief abnormal or disease-related findings?",
+      "answer": "Recording duration 23 hours 7 minutes, total 101,885 beats, average heart rate 73 bpm, fastest heart rate 112 bpm, slowest heart rate 48 bpm. Tachycardia events (heart rate >100 bpm) occupied 1.4% of total recording time; bradycardia events (heart rate <60 bpm) occupied 8.9%. Sinus rhythm. Atrial premature beats: total 14, accounting for <0.1% of total beats, including 11 single atrial premature beats and 1 episode of atrial tachycardia. Intermittent ST-segment changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "The ECG belongs to a 70-year-old female patient. Briefly outline the electrocardiographic features and the patient's main abnormal findings?",
+      "answer": "Recording duration 22 hours 27 minutes with 96,286 total beats; average heart rate 72 bpm, fastest 120 bpm and slowest 55 bpm. Tachycardia events (heart rate >100 bpm) accounted for 0.7% of the total recording time, and bradycardia events (heart rate <60 bpm) accounted for 8.2% of the total recording time. 1) Sinus rhythm. 2) Atrial premature beats totaling 164 (0.2% of total beats), including 127 isolated atrial premature beats, 4 paired atrial premature beats and 7 episodes of atrial tachycardia; one atrial premature beat was non-conducted. 3) Ventricular premature beats totaling 1 (<0.1% of total beats), consisting of one isolated ventricular premature beat. 4) Intermittent ST-segment and T-wave changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A291",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "You are reviewing a 36-year-old female patient. Would you summarize the current electrocardiographic features and the patient's main abnormal findings?",
+      "answer": "Recording duration 23 hours 5 minutes with 110,491 total beats; average heart rate 80 bpm, fastest rate 136 bpm, slowest rate 50 bpm. Tachycardia (heart rate >100 bpm) occupied 6.0% of the total time; bradycardia (heart rate <60 bpm) occupied 3.1% of the total time. Sinus rhythm. Atrial premature beats: 5 in total, representing <0.1% of total beats, all 5 being single atrial premature beats. Intermittent ST-segment and T-wave changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old male patient. Could you describe the ECG waveform features and identify the patient's chief disease-related abnormalities?",
+      "answer": "Monitoring duration 23:33 with a total of 62,507 heartbeats; average heart rate 44 bpm; fastest heart rate 91 bpm; slowest heart rate 35 bpm. Bradycardia episodes (heart rate <60 bpm) occupied 97.9% of the total recording time. Diagnoses: sinus bradycardia; atrial premature beats totaling 170 (0.3% of total beats), including 156 isolated atrial premature beats, 1 atrial premature couplet, and 3 episodes of atrial tachycardia; multifocal ventricular premature beats totaling 249 (0.4% of total beats), including 247 isolated ventricular premature beats and 1 ventricular premature couplet; bradycardic junctional escape; complete right bundle branch block."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This case concerns a 72-year-old female patient. Please outline briefly the ECG features and the patient's principal disease-related findings?",
+      "answer": "Recording duration 22:20 with a total of 83,866 beats; mean heart rate 63 bpm, maximum 99 bpm, minimum 50 bpm. Bradycardia (heart rate <60 bpm) occupied 42.1% of the recording. Sinus rhythm. Atrial premature beats: 105 events (0.1% of total beats), including 90 isolated atrial premature beats, 3 paired atrial premature beats and 2 episodes of atrial tachycardia; one atrial premature beat was non-conducted. Ventricular premature beats: 537 events (0.6% of total beats), including 529 isolated ventricular premature beats and 4 paired ventricular premature beats; three episodes of trigeminy were detected, occurring intermittently."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A311",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 63-year-old male patient. Can you provide a concise summary of the ECG characteristics and the patient's main abnormal findings?",
+      "answer": "Recording duration 23 hours 20 minutes with 103,757 total beats; average heart rate 75 beats per minute; maximum heart rate 119 bpm; minimum heart rate 49 bpm. Tachycardia episodes (heart rate >100 bpm) accounted for 3.3% of the total monitoring time, and bradycardia episodes (heart rate <60 bpm) accounted for 22.6%. Rhythm: sinus rhythm. Atrial premature beats totaled 38 (<0.1% of all beats), comprising 33 isolated atrial premature beats, 1 paired atrial premature beat, and 1 episode of atrial tachycardia. ST-segment and T-wave changes present."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A317",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This patient is a 56-year-old female. Please review the ECG characteristics and summarize the patient's main abnormal findings?",
+      "answer": "Recording duration 22 hours 20 minutes with a total of 123,821 beats; average heart rate 92 bpm, fastest heart rate 138 bpm, slowest heart rate 67 bpm. Tachycardia episodes (heart rate >100 bpm) comprised 29.6% of the total recording time. Sinus rhythm. Atrial premature beats: 7 in total (<0.1% of all beats), including 5 single atrial premature beats and 1 paired atrial premature beat, occasionally accompanied by phase-dependent intraventricular conduction variation."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "The ECG belongs to a 73-year-old male patient. Please characterize the ECG waveform features and the patient's main abnormal findings?",
+      "answer": "Recording duration 23 hours 50 minutes with a total of 124,973 beats. Average heart rate 88 bpm; fastest heart rate 131 bpm; slowest heart rate 60 bpm. Tachycardia episodes (heart rate >100 bpm) occupied 16.3% of the total recording time; bradycardia episodes (heart rate <60 bpm) occupied <0.1% of the time. Rhythm and arrhythmias: sinus rhythm. Atrial premature beats: 198 total (0.2% of beats), including 150 isolated atrial premature beats, 15 paired atrial premature beats and 3 episodes of atrial tachycardia. Multifocal ventricular premature beats: 13 total (<0.1% of beats), all 13 isolated ventricular premature beats; R on T phenomenon observed. Intermittent first‑degree atrioventricular block."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This patient is a 38-year-old male. Give a concise summary of the ECG features and the patient's principal abnormal or disease-related findings?",
+      "answer": "Recording duration 23 hours 56 minutes with a total of 103,270 beats; average heart rate 72 bpm, maximum 107 bpm, minimum 52 bpm. Tachycardia episodes (HR >100 bpm) occupied <0.1% of total time; bradycardia episodes (HR <60 bpm) occupied 4.1% of total time. Sinus rhythm. Atrial premature beats: 11 total (<0.1% of beats), including 3 isolated atrial premature beats, 1 couplet, and 1 episode of atrial tachycardia. Ventricular premature beats: 2,089 total (2.0% of beats), all 2,089 single ventricular premature beats. Intermittent T-wave changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A341",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This patient is a 71-year-old female. Could you review the ECG features and the patient's principal disease-related findings?",
+      "answer": "Recording duration 22 hours 35 minutes, total 80,635 heartbeats, average heart rate 60 bpm, fastest 77 bpm, slowest 58 bpm; bradycardia episodes (heart rate <60 bpm) occupied 57.2% of the total recording time. Sinus rhythm. Atrial premature beats: 2 in total, comprising <0.1% of all beats, including 2 isolated single atrial premature beats. DDD-paced rhythm, intermittently presenting in AAI mode, with ACM and VCM functions evident; pacemaker function showed no abnormalities."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A358",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 40-year-old female patient. Review and summarize the current ECG features and the patient's principal abnormal findings?",
+      "answer": "Recording duration 23:20 with a total of 90,390 beats; average heart rate 64 bpm; fastest heart rate 133 bpm; slowest heart rate 41 bpm. Tachycardia events (heart rate >100 bpm) comprised 3.0% of the total recording time, and bradycardia events (heart rate <60 bpm) comprised 47.9%. Sinus rhythm. Ventricular premature beats: 3 in total, accounting for <0.1% of all beats, including 3 isolated ventricular premature beats. Intermittent T-wave changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A360",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "The ECG belongs to a 75-year-old female patient. Describe the ECG waveform features and the patient's principal disease-related findings?",
+      "answer": "Recording duration 23 hours 19 minutes with a total of 102,133 heartbeats; average heart rate 73 bpm, fastest heart rate 122 bpm and slowest heart rate 52 bpm. Tachycardia (heart rate >100 bpm) occupied 1.2% of the recording and bradycardia (heart rate <60 bpm) occupied 7.6%. Sinus rhythm. Atrial premature beats totaled 6,219 (6.1% of total), including 5,567 isolated atrial premature beats, 213 paired atrial premature beats and 47 episodes of atrial tachycardia, with five occurrences of bigeminy detected. Ventricular premature beats totaled 2 (<0.1% of total), both isolated."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A422",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This patient is a 69-year-old male. Characterize the ECG waveform features and the patient's major abnormal findings briefly?",
+      "answer": "Recording duration 21 hours 50 minutes, total 104,659 heartbeats, average heart rate 80 bpm, fastest heart rate 127 bpm, slowest heart rate 54 bpm. Tachycardia episodes (heart rate >100 bpm) occupied 7.4% of the total recording time, and bradycardia episodes (heart rate <60 bpm) occupied 6.8% of the total recording time. Sinus rhythm. Atrial premature beats: 20 total, <0.1% of total beats, including 18 single atrial premature beats and 1 paired atrial premature beat; one atrial premature beat was non-conducted. Ventricular premature beats: 1 total, <0.1% of total beats, including 1 single ventricular premature beat. ST segment changes, T wave changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old male patient. Can you outline the ECG characteristics and the patient's main disease-related findings?",
+      "answer": "Recording duration 23 hours 35 minutes with a total of 96,633 heartbeats; average heart rate 68 bpm, fastest heart rate 122 bpm, slowest heart rate 69 bpm. Tachycardia events (heart rate >100 bpm) occupied 0.8% of the total time, and bradycardia events (heart rate <60 bpm) occupied 12.7% of the total time. Rhythm: sinus rhythm. Atrial premature beats: 124 total (0.1% of total beats), including 100 single atrial premature beats, 7 paired atrial premature beats, and 3 atrial tachycardia. Ventricular premature beats: 260 total (0.3% of total beats), including 258 single ventricular premature beats and 1 paired ventricular premature beat."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A431",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "You are reviewing a 67-year-old female patient. How do the current ECG characteristics present and what are the patient's principal abnormal or disease-related findings?",
+      "answer": "Recording duration 22 hours 5 minutes with 102,989 total beats. Average heart rate 78 bpm; fastest 112 bpm; slowest 54 bpm. Tachycardia (heart rate >100 bpm) occupied 1.3% of the recording time; bradycardia (heart rate <60 bpm) occupied 0.2% of the recording time. Sinus rhythm. One R-R interval >=2.0 seconds, longest RR interval 2.2 seconds. Atrial premature beats: 9 total (<0.1% of beats), including 5 isolated PACs and 1 episode of atrial tachycardia; 5 PACs were non-conducted. Ventricular premature beats: 241 total (0.2% of beats), all 241 isolated VPBs."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A451",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 71-year-old male patient. Could you please describe the electrocardiographic features and the patient's major abnormal findings?",
+      "answer": "Recording duration 21 hours 20 minutes with a total of 82,964 beats; average heart rate 65 beats per minute, fastest heart rate 96 beats per minute, slowest heart rate 51 beats per minute. Bradycardia episodes (heart rate <60 bpm) accounted for 20.8% of the total monitoring time. Rhythm: sinus rhythm. Atrial premature beats: 18 in total (<0.1% of total beats), including 16 isolated atrial premature beats and 1 paired atrial premature beat. Ventricular premature beats: 120 in total (0.1% of total beats), all 120 isolated ventricular premature beats."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "The ECG belongs to a 56-year-old male patient. Kindly outline the ECG waveform features and the patient's primary disease-related findings?",
+      "answer": "Recording duration 21 hours 46 minutes with 101,871 total beats; average heart rate 79 bpm, fastest 127 bpm, slowest 52 bpm. Tachycardia events (HR >100 bpm) occupied 1.9% of the recording time and bradycardia events (HR <60 bpm) occupied 0.2%. Sinus rhythm. Atrial premature beats totaling 22,515 (22.1% of total), including 22,138 single atrial premature beats, 183 paired atrial premature beats and 1 episode of atrial tachycardia; 108 episodes of bigeminy and 893 episodes of trigeminy were detected; 37 atrial premature beats were non-conducted, with intermittent aberrant intraventricular conduction. Ventricular premature beats totaling 344 (0.3% of total), all single ventricular premature beats, with 4 couplets and 7 triplets detected. First-degree atrioventricular block. ST-segment and T-wave changes, with CH1 and CH3 channels showing intermittent saddle-shaped ST elevation accompanied by T-wave inversion (correlate clinically). P-wave changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A464",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This case concerns a 68-year-old male patient. Please give a brief report of the ECG characteristics and the patient's main abnormal or disease-related findings?",
+      "answer": "Recording duration 22 hours 50 minutes with a total of 93,113 heartbeats; average heart rate 68 bpm, fastest heart rate 107 bpm, slowest heart rate 51 bpm. Tachycardia events (heart rate >100 bpm) comprised 0.1% of the total monitoring time, and bradycardia events (heart rate <60 bpm) comprised 21.3% of the total monitoring time. Rhythm: sinus rhythm. Arrhythmias: dual-source atrial premature beats total 7, accounting for <0.1% of total beats, including 7 single atrial premature beats. Additional finding: intermittent T-wave changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A469",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "You are reviewing a 51-year-old female patient. Would you briefly outline the ECG characteristics and the patient's principal abnormal or disease-related findings?",
+      "answer": "Recording duration 22 hours 20 minutes with a total of 138,600 beats; average heart rate 104 bpm, maximum heart rate 155 bpm, minimum heart rate 81 bpm. Tachycardia episodes (heart rate >100 bpm) occupied 46.3% of the total recording time. Findings: sinus tachycardia; intermittent first-degree atrioventricular block; atrial premature beats totaling 7 (<0.1% of total beats), including 7 single atrial premature beats, with one non-conducted atrial premature beat detected; ventricular premature beats totaling 2 (<0.1% of total beats), including 2 single ventricular premature beats; intermittent T-wave changes occurring during faster heart rates."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A473",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "You are reviewing a 55-year-old female patient. Review the ECG characteristics and state the key abnormalities and disease-related findings?",
+      "answer": "Recording duration 23:26 with 112,245 total heartbeats; average heart rate 80 bpm; fastest heart rate 128 bpm; slowest heart rate 56 bpm; tachycardia events (heart rate >100 bpm) accounted for 2.3% of the total recording time, and bradycardia events (heart rate <60 bpm) accounted for 0.6%. Sinus rhythm; atrial premature beats totaling 3, comprising <0.1% of total beats, including 3 single atrial premature beats; ventricular premature beats totaling 2, comprising <0.1% of total beats, including 2 single ventricular premature beats; intermittent ST-segment changes; T-wave changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A478",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This recording is from a 57-year-old female patient. How would you characterize the waveform features and the patient's main abnormal or disease-related findings on this ECG recording?",
+      "answer": "Recording duration 22 hours 5 minutes with a total of 77,560 beats; average heart rate 59 bpm; fastest heart rate 104 bpm; slowest heart rate 44 bpm. Tachycardia events (heart rate >100 bpm) occupied <0.1% of total monitoring time, while bradycardia events (heart rate <60 bpm) occupied 62.1% of total monitoring time. Diagnoses: 1) sinus bradycardia with wandering of the sinoatrial pacemaker; 2) atrial premature beats totaling 30 (<0.1% of total beats), including 18 isolated atrial premature beats, 4 paired atrial premature beats and one episode of atrial tachycardia; 3) intermittent ST-segment changes and T-wave changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A481",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 41-year-old female patient. Please give a short, formal summary of the recording's ECG characteristics and the patient's main abnormal or disease-related findings?",
+      "answer": "This recording lasted 24 hours with a total of 99,669 beats. The average heart rate was 69 bpm; the fastest heart rate was 127 bpm and the slowest was 55 bpm. Tachycardia episodes (heart rate >100 bpm) occupied 2.8% of the total recording time, and bradycardia episodes (heart rate <60 bpm) occupied 5.7% of the total recording time. Rhythm: sinus rhythm. Atrial premature beats: 2 in total (<0.1% of total beats), comprising 2 isolated atrial premature beats. Ventricular premature beats: 1 in total (<0.1% of total beats), comprising 1 isolated ventricular premature beat."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A483",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This patient is a 31-year-old female. Would you summarize the recording's ECG characteristics and the patient's main abnormal or disease-related findings?",
+      "answer": "Recording duration 22 hours 20 minutes with a total of 82,388 beats; average heart rate 61 bpm, fastest heart rate 139 bpm, slowest heart rate 35 bpm. Tachycardia episodes (heart rate >100 bpm) accounted for 3.6% of total time, and bradycardia episodes (heart rate <60 bpm) accounted for 57.5% of total time. Diagnoses: 1. Sinus rhythm; 2. Atrial premature beats totaling 6 (<0.1% of total beats), including 6 single atrial premature beats; 3. Ventricular premature beats totaling 118 (0.1% of total beats), including 78 single ventricular premature beats, 3 pairs of ventricular premature beats and 8 ventricular tachycardia episodes; 4. Atrial escape rhythm; 5. Ventricular escape beats and escape rhythm; 6. T-wave changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A488",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 78-year-old male patient. Summarize the ECG features of this 23 hours 4 minutes recording and the patient's main abnormal or disease-related findings?",
+      "answer": "Recording duration 23 hours 4 minutes with 99,047 total beats; average heart rate 72 bpm, maximum 120 bpm and minimum 58 bpm. Tachycardia episodes (heart rate >100 bpm) occupied <0.1% of the total time; bradycardia episodes (heart rate <60 bpm) occupied <0.1% of the total time. Sinus rhythm. Atrial premature beats 245 total (0.2% of total beats), including 199 isolated PACs, 5 paired PACs and 7 episodes of atrial tachycardia; 2 PACs were non-conducted. Ventricular premature beats 2,872 total (2.9% of total beats), all isolated, with 25 ventricular couplets and 16 ventricular triplets recorded. Complete right bundle branch block."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This patient is a 65-year-old female. Summarize the electrocardiographic features and the patient's key abnormalities in this recording?",
+      "answer": "Recording duration 22 hours 19 minutes, total 92,487 beats, average heart rate 69 bpm, fastest heart rate 125 bpm, slowest heart rate 47 bpm. Tachycardia events (heart rate >100 bpm) accounted for 1.1% of the recording duration; bradycardia events (heart rate <60 bpm) accounted for 31.4%. Rhythm: sinus rhythm. Atrial premature beats: 267 total (0.3% of beats), including 238 single atrial premature beats, 6 paired atrial premature beats, and 4 atrial tachycardia episodes. Ventricular premature beats: 66 total (<0.1% of beats), all 66 single ventricular premature beats, sometimes interpolated. Intermittent ST-segment and T-wave changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A490",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 56-year-old female patient. Please review the ECG features of this recording and summarize the patient's key abnormalities?",
+      "answer": "Recording duration 23 hours 19 minutes with a total of 99,452 beats; average heart rate 71 bpm, maximum heart rate 109 bpm, minimum heart rate 56 bpm. Tachycardia episodes (heart rate >100 bpm) comprised 0.3% of the total monitoring time, and bradycardia episodes (heart rate <60 bpm) comprised 1.3% of the total monitoring time. Rhythm: sinus rhythm. Atrial premature beats: 73 in total, accounting for <0.1% of total beats, including 73 isolated atrial premature beats."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A502",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "You are reviewing a 44-year-old male patient. Briefly summarize the ECG waveform features and the patient's principal abnormal findings?",
+      "answer": "Recording duration 23 hours 33 minutes with a total of 97,776 beats; mean heart rate 69 bpm, maximum heart rate 133 bpm, and minimum heart rate 51 bpm. Tachycardia episodes (heart rate >100 bpm) occupied 2.4% of the total recording time, and bradycardia episodes (heart rate <60 bpm) occupied 10.0% of the total recording time. Sinus arrhythmia. Atrial premature beats totaled 269 (0.3% of total beats), comprising 258 isolated atrial premature beats, 4 paired atrial premature beats, and 1 atrial tachycardia; one atrial premature beat was non-conducted. Intermittent ST-segment changes occurring during faster heart rates."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This patient is a 66-year-old male. Provide a short summary of the electrocardiographic features in this recording and the patient's main abnormal or disease-related findings?",
+      "answer": "Recording duration 23 hours 50 minutes with a total of 80,702 beats; average heart rate 56 bpm, fastest heart rate 102 bpm, slowest heart rate 42 bpm. Tachycardia (heart rate >100 bpm) occupied <0.1% of the total time, and bradycardia (heart rate <60 bpm) occupied 69.6% of the total time. Diagnoses: 1) Sinus bradycardia. 2) R–R >=2.0 seconds occurred 3 times, longest RR interval 2.2 seconds, occurring during the night associated with a non-conducted atrial premature beat and following a ventricular premature beat. 3) Atrial premature beats total 54 (<0.1% of total beats), including 44 single atrial premature beats, 3 paired atrial premature beats, and 1 atrial tachycardia; one atrial premature beat was not conducted. 4) Ventricular premature beats total 1,460 (1.8% of total beats), including 1,458 single ventricular premature beats and 1 paired ventricular premature beat. 5) ST-segment changes and T-wave changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A523",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 62-year-old male patient. Give a brief summary of the ECG features and the patient's main disease-related findings?",
+      "answer": "Recording duration 22:05 with a total of 117376 beats; average heart rate 89 bpm; fastest heart rate 133 bpm; slowest heart rate 54 bpm. Tachycardia episodes (heart rate >100 bpm) accounted for 20.4% of the total recording time; bradycardia episodes (heart rate <60 bpm) accounted for 0.2%. Rhythm: sinus rhythm. Atrial premature beats: 3 in total, comprising <0.1% of total beats, all 3 being isolated single atrial premature beats."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This patient is a 68-year-old male. How are the ECG features and the patient's main disease-related findings represented in this recording?",
+      "answer": "Recording duration 21 hours 50 minutes with 96,872 total beats; average heart rate 74 bpm, fastest heart rate 107 bpm, slowest heart rate 54 bpm. Tachycardia episodes (heart rate >100 bpm) comprised 0.6% of the recording time and bradycardia episodes (heart rate <60 bpm) comprised 5.3% of the recording time. Rhythm: sinus rhythm. Atrial premature beats: 109 total (0.1% of total beats), including 78 isolated atrial premature beats, 4 paired atrial premature beats (couplets), and 2 episodes of atrial tachycardia; 7 atrial premature beats were not conducted to the ventricles. Ventricular premature beats: 6 total (<0.1% of total beats), all 6 were isolated ventricular premature beats."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A536",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 63-year-old female patient. Would you provide a short characterization of the ECG features and the patient's major abnormal findings in this recording?",
+      "answer": "Recording duration 18 hours 50 minutes, with a total of 78,298 beats and an average heart rate of 70 bpm; fastest heart rate 118 bpm and slowest heart rate 50 bpm. Tachycardia events (heart rate >100 bpm) occupied 0.4% of the recording time, and bradycardia events (heart rate <60 bpm) occupied 19.0% of the recording time. Rhythm: sinus rhythm. Atrial premature beats: 23 in total, comprising <0.1% of total beats, including 23 isolated atrial premature beats, with one episode of bigeminy detected. Ventricular premature beats: 1 in total, comprising <0.1% of total beats, including 1 isolated ventricular premature beat. Note: patient disconnected early and recording duration was insufficient."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A538",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This case concerns a 69-year-old male patient. Can you outline the ECG features and the principal disease-related findings in this recording?",
+      "answer": "Recording duration 23 hours 38 minutes, total 89,629 beats, average heart rate 63 bpm, fastest heart rate 105 bpm, slowest heart rate 44 bpm; tachycardia events (heart rate >100 bpm) occupied <0.1% of total time, and bradycardia events (heart rate <60 bpm) occupied 47.3% of total time. Sinus rhythm. Atrial premature beats: 698 total, accounting for 0.8% of total beats, including 698 isolated atrial premature beats, with 2 episodes of trigeminy detected. Ventricular premature beats: 10 total, accounting for <0.1% of total beats, including 10 isolated ventricular premature beats. Intermittent ST-segment changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A573",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This case concerns a 61-year-old male patient. Could you provide a brief description of the ECG characteristics and the principal abnormal findings present?",
+      "answer": "Recording duration 23 hours 50 minutes, total 109,423 beats, average heart rate 77 bpm, fastest heart rate 111 bpm, slowest heart rate 60 bpm. Tachycardia episodes (heart rate >100 bpm) occupied 2.4% of the total monitoring time. Rhythm: sinus rhythm. Atrial premature beats: 17 in total, accounting for <0.1% of total beats, including 17 single atrial premature beats. Ventricular premature beats: 5 in total, accounting for <0.1% of total beats, including 5 single ventricular premature beats. ST-segment changes and T-wave changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "You are reviewing a 67-year-old female patient. Characterize the ECG features and the primary abnormal findings present?",
+      "answer": "Recording duration 21 hours 35 minutes with a total of 104,226 beats; average heart rate 80 bpm, fastest rate 122 bpm, slowest rate 61 bpm. Tachycardia events (heart rate >100 bpm) occupied 6.1% of the total recording time. Rhythm: sinus rhythm. Atrial premature beats: total 51 (<0.1% of total beats), comprising 48 isolated atrial premature beats and 1 atrial tachycardia; one episode of bigeminy was detected and 3 atrial premature beats were non-conducted. Ventricular premature beats: total 7 (<0.1% of total beats), all 7 isolated ventricular premature beats."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A600",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "You are reviewing a 47-year-old male patient. In one brief sentence, summarize the ECG features and the patient's main abnormal or disease-related findings?",
+      "answer": "Recording duration 23:05 with 105,491 total beats; average heart rate 76 bpm, fastest 125 bpm, slowest 53 bpm. Tachycardia events (HR >100 bpm) accounted for 3.1% of the recording time and bradycardia events (HR <60 bpm) accounted for 3.4%. Sinus rhythm. Atrial premature beats: 1 episode, comprising <0.1% of total beats, including 1 isolated atrial premature beat. Intermittent ST-segment changes and T-wave changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This patient is a 48-year-old male. Provide a concise summary of the current ECG features and the patient's main abnormal or disease-related findings?",
+      "answer": "Recording duration 23:05 with 93,171 total beats; mean heart rate 68 bpm, fastest 118 bpm, slowest 72 bpm; tachycardia events (>100 bpm) occupied 0.3% of the recording and bradycardia events (<60 bpm) occupied 29.8% of the recording. Sinus rhythm. Atrial premature beats: 15 total, <0.1% of total beats, including 12 isolated atrial premature beats and 1 atrial tachycardia. Ventricular premature beats: 36 total, <0.1% of total beats, including 36 isolated ventricular premature beats."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A635",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This recording is from a 79-year-old male patient. Please outline the ECG features and the patient's main abnormal or disease-related findings?",
+      "answer": "Recording duration 23 hours 9 minutes with 116,778 total heartbeats; average heart rate 84 bpm, maximum 106 bpm, minimum 63 bpm. Tachycardia (heart rate >100 bpm) occupied 3.7% of total monitoring time. Sinus rhythm. Atrial premature beats: 31 in total (<0.1% of all beats), including 27 isolated atrial premature beats and 2 paired atrial premature beats; 8 atrial premature beats were not conducted. Ventricular premature beats: 1 in total (<0.1% of all beats), consisting of 1 isolated ventricular premature beat. First-degree atrioventricular block."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "You are reviewing a 55-year-old male patient. Briefly review the ECG features and the patient's key abnormalities?",
+      "answer": "Recording duration 23 hours 20 minutes with a total of 107,165 beats; average heart rate 77 bpm, fastest 136 bpm, slowest 48 bpm. Tachycardia episodes (heart rate >100 bpm) occupied 10.5% of the total monitoring time and bradycardia episodes (heart rate <60 bpm) occupied 28.7% of the total time. Rhythm: sinus rhythm. Atrial premature beats: 88 in total (<0.1% of all beats), including 49 single atrial premature beats, 7 paired atrial premature beats, and 4 atrial tachycardia events, occasionally accompanied by phase-dependent intraventricular conduction differences. Ventricular premature beats: 7 in total (<0.1% of all beats), all 7 single ventricular premature beats, sometimes interpolated."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A653",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This recording is from a 53-year-old female patient. Outline the electrocardiographic features and major abnormal findings?",
+      "answer": "Recording duration 23 hours 21 minutes with 104,856 total heartbeats; mean heart rate 75 bpm, maximum 129 bpm and minimum 52 bpm. Time with tachycardia (heart rate >100 bpm) comprised 3.4% of the recording; time with bradycardia (heart rate <60 bpm) comprised 7.7%. Sinus rhythm. Atrial premature beats: 38 total (<0.1% of beats), including 36 isolated atrial premature beats and 1 paired atrial premature beat. Ventricular premature beats: 2 total (<0.1% of beats), including 1 paired ventricular premature beat. Intermittent T-wave changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 68-year-old male patient. How would you characterize the current ECG features and the patient's principal disease-related findings?",
+      "answer": "The recording lasted 23 hours 50 minutes, approximately 23.83 hours, contained 76,202 beats, and the average heart rate was 53 bpm. The fastest heart rate was 107 bpm and the slowest heart rate was 36 bpm. Tachycardia accounted for <0.1% of the monitoring time, while bradycardia accounted for 77.3% of the monitoring time. Sinus bradycardia. Sinus pause. R-R intervals >= 2.0 seconds occurred 25 times; the longest RR interval was 2.9 seconds. Premature atrial contractions: a total of 3,290 beats, accounting for 4.3% of total beats, including 3177 isolated PACs, 38 PAC couplets, 4 episodes of atrial tachycardia, 80 episodes of bigeminy and 37 episodes of trigeminy were detected, and 3 non-conducted premature atrial beats. Premature ventricular contractions: a total of 3 beats, accounting for <0.1% of total beats, and including 3 isolated PVCs. Bradycardicjunctional escape beats. Intermittent ST-segment abnormalities."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A677",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "You are reviewing a 73-year-old female patient. Describe the ECG features in this recording and state the patient's main abnormal or disease-related findings?",
+      "answer": "Recording duration 22 hours 20 minutes with 105,618 total heartbeats; average heart rate 85 bpm, fastest 172 bpm, slowest 48 bpm. Tachycardia episodes (heart rate >100 bpm) accounted for 14.8% of the recording and bradycardia episodes (heart rate <60 bpm) accounted for 0.6%. Atrial fibrillation. R-R intervals >=2.0 seconds occurred 5 times, with the longest RR interval 2.0 seconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A688",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This recording is from a 62-year-old male patient. Please outline the ECG features and the patient's principal disease-related findings?",
+      "answer": "Recording duration 21 hours 5 minutes with a total of 89,156 beats; average heart rate 71 bpm; fastest heart rate 115 bpm; slowest heart rate 55 bpm. Tachycardia events (heart rate >100 bpm) accounted for 0.4% of the total recording time, and bradycardia events (heart rate <60 bpm) accounted for 3.6% of the total recording time. Sinus rhythm. Atrial premature beats: 44 in total, comprising <0.1% of all beats, including 30 isolated PACs, 5 paired PACs and 1 atrial tachycardia. Ventricular premature beats: 1 in total, comprising <0.1% of all beats, including 1 isolated PVC."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A692",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This recording is from a 56-year-old male patient. Kindly review the ECG features and succinctly state the patient's key abnormalities?",
+      "answer": "Recording duration 21 hours 5 minutes with a total of 98,917 beats; average heart rate 78 bpm; fastest heart rate 118 bpm; slowest heart rate 58 bpm. Tachycardia episodes (heart rate >100 bpm) accounted for 3.5% of the total recording time, and bradycardia episodes (heart rate <60 bpm) accounted for 0.7% of the total recording time. Rhythm and findings: sinus rhythm; atrial premature beats totaling 5 (<0.1% of total beats), including 5 single atrial premature beats; atrial escape rhythm; ST segment changes and T wave changes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A701",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This case concerns a 73-year-old female patient. Please give a short summary of the electrocardiographic features and the patient's primary disease-related findings?",
+      "answer": "Recording duration 22:49 with a total of 122,257 heartbeats; average heart rate 89 bpm; fastest rate 141 bpm; slowest rate 67 bpm. Tachycardia episodes (heart rate >100 bpm) occupied 15.5% of the total recording time. Rhythm: sinus rhythm. Atrial premature beats: 18 in total, comprising <0.1% of all beats, including 13 isolated atrial premature beats and 1 atrial tachycardia. Ventricular premature beats: 1 in total, comprising <0.1% of all beats, including 1 isolated ventricular premature beat."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "The ECG belongs to a 73-year-old female patient. Provide a concise statement of the ECG features and the patient's main abnormal or disease-related findings?",
+      "answer": "Recording duration 23 hours 35 minutes with 93,741 total beats; average heart rate 69 bpm, fastest 133 bpm, slowest 46 bpm. Tachycardia events (heart rate >100 bpm) accounted for 7.2% of the total time, and bradycardia events (heart rate <60 bpm) accounted for 43.1% of the total time. Findings: sinus arrhythmia; atrial premature beats 90 in total, <0.1% of total beats, including 77 isolated atrial premature beats, 5 paired atrial premature beats and 1 episode of atrial tachycardia; ventricular premature beats 7 in total, <0.1% of total beats, all 7 isolated ventricular premature beats."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A708",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "You are reviewing a 69-year-old male patient. How would you describe the ECG characteristics and the patient's major disease-related findings?",
+      "answer": "Recording duration 24 hours, total 131,627 beats, average heart rate 91 bpm; fastest heart rate 139 bpm; slowest heart rate 64 bpm. Tachycardia events (heart rate >100 bpm) occupied 20.5% of the total recording time. Sinus rhythm. Atrial premature beats: 5,260 total (4.0% of total beats), including 4,549 single atrial premature beats, 287 paired atrial premature beats and 36 atrial tachycardia events; 65 occurrences of bigeminy and 11 occurrences of trigeminy were detected. Multifocal premature beats: 16 total (<0.1% of total beats), including 12 single ventricular premature beats and 2 paired ventricular premature beats. Incomplete right bundle branch block."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A720",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "This case concerns a 80-year-old female patient. Provide a brief summary of the current ECG features and the patient's main abnormal or disease-related findings?",
+      "answer": "Recording duration 22 hours 50 minutes with a total of 103,622 beats; average heart rate 76 bpm, fastest 123 bpm, slowest 56 bpm. Tachycardia events (heart rate >100 bpm) occupied 3.3% of the total recording time, and bradycardia events (heart rate <60 bpm) occupied 0.3%. Rhythm: sinus rhythm. Atrial premature beats: total 99, accounting for <0.1% of total beats, including 83 single atrial premature beats, 3 paired atrial premature beats and 3 atrial tachycardia. Dual-source ventricular premature beats: total 7, accounting for <0.1% of total beats, including 7 single ventricular premature beats."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A765",
+    "task_type": "report_general_summary",
+    "qa_pair": {
+      "question": "You are reviewing a 84-year-old female patient. Please summarize the ECG waveform features and the patient's key abnormalities?",
+      "answer": "Recording duration 22 hours 20 minutes with a total of 91,501 beats; average heart rate 69 bpm; fastest heart rate 116 bpm; slowest heart rate 51 bpm. Tachycardia events (heart rate >100 bpm) occupied 0.8% of the recording time, and bradycardia events (heart rate <60 bpm) occupied 21.8% of the recording time. Sinus rhythm. Atrial premature beats totaling 89, comprising <0.1% of total beats, including 73 isolated atrial premature beats, 3 paired atrial premature beats, and 3 episodes of atrial tachycardia; one non-conducted atrial premature beat was detected. Bifocal ventricular premature beats totaling 309, comprising 0.3% of total beats, including 307 isolated ventricular premature beats and 1 paired ventricular premature beat. Bradycardic junctional escape occurring during the compensatory pause following the non-conducted atrial premature beat. Intermittent ST-segment changes."
+    },
+    "tag": "valid"
+  }
+]

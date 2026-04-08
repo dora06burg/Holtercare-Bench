@@ -1,0 +1,1271 @@
+[
+  {
+    "id": "A107",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 45-year-old female patient. Junctional Escape Rhythm is confirmed in this rhythm tracing; which option lists the millisecond positions of all observed events? A. 67347922, 67374805; B. 67346522, 67373405; C. 67347122, 67374005; D. 67345822, 67347122",
+      "answer": "C. 67347122, 67374005"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A107",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 45-year-old female. Which option lists the occurrence time points (in milliseconds) of all recorded Premature Atrial Contraction episodes in this monitoring segment, given that Premature Atrial Contraction has already been identified and documented? A. 36963401; B. 36964801; C. 36964001, 36965501; D. 36964001",
+      "answer": "D. 36964001"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A107",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 45-year-old female patient. Which option lists the occurrence times (in milliseconds) of every recorded episode of Premature Ventricular Contraction observed in this waveform, given that Premature Ventricular Contraction has already been confirmed and documented? A. 70709927, 70711427; B. 70709927; C. 70710727; D. 70709327",
+      "answer": "B. 70709927"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A116",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 66-year-old female. Which option lists the ms offsets of all occurrences of Premature Atrial Contraction that are documented in this waveform? A. 9235089, 65741994; B. 9236089, 9235089; C. 9234489, 65741394; D. 9235889, 65742794",
+      "answer": "A. 9235089, 65741994"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A116",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 66-year-old female. Upon review of this recording, Premature Ventricular Contractions have been identified; which option lists the millisecond time points of all recorded episodes? A. 961880, 28436370; B. 961280, 28435770; C. 960180, 961880; D. 962680, 28437170",
+      "answer": "A. 961880, 28436370"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A119",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 48-year-old male patient. Premature Atrial Contraction has been documented in this rhythm tracing; what are the occurrence times in milliseconds (ms) of every observed event? A. 28277494; B. 28278094, 28279594; C. 28278894; D. 28278094",
+      "answer": "D. 28278094"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A125",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 51-year-old female. Premature Atrial Contraction has already been documented in this ECG strip; at what time points in milliseconds (ms) did the documented episodes occur? A. 56889305, 56890805; B. 56888705; C. 56890105; D. 56889305",
+      "answer": "D. 56889305"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A125",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 51-year-old female patient. Premature Ventricular Contraction has been observed in this recording; which option correctly lists the time points in milliseconds (ms) at which each recorded episode occurs? A. 52599646, 52601146; B. 52599046; C. 52600446; D. 52599646",
+      "answer": "D. 52599646"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A130",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 55-year-old female patient. First-degree AV Block has been identified and documented in this rhythm tracing; for the recorded episodes, at which millisecond positions (ms) are all occurrences observed? A. 64260402, 59163713; B. 64259002, 59162313; C. 64259602, 59162913; D. 64261302, 64259602",
+      "answer": "C. 64259602, 59162913"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A130",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 55-year-old female. As part of a clinical review, Premature Atrial Contraction has been identified and documented in this recording; for the recorded episodes, at which millisecond positions (ms) are all occurrences observed? A. 31727216, 31727966; B. 31727366, 44399395; C. 31727966, 44399995; D. 31728766, 44400795",
+      "answer": "C. 31727966, 44399995"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 78-year-old male. Atrial Tachycardia has been documented in this rhythm tracing; for the recorded episodes, which millisecond occurrence times (ms) correspond to all observed events? A. 68371104; B. 68371704; C. 68371704, 68373204; D. 68372504",
+      "answer": "B. 68371704"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 78-year-old male. Junctional Escape Rhythm has been observed and confirmed in this ECG strip; for every observed event, at which millisecond occurrence times (ms) are the Junctional Escape Rhythm episodes located in this recording? A. 57779740; B. 57778940; C. 57778940, 57780440; D. 57778340",
+      "answer": "B. 57778940"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 78-year-old male. Premature Atrial Contraction is confirmed in this ECG strip; which option lists the time points in milliseconds (ms) of all occurrences? A. 17960155, 39187103; B. 17959555, 39186503; C. 17960955, 39187903; D. 17958855, 17960155",
+      "answer": "A. 17960155, 39187103"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 78-year-old male patient. Upon review of this recording, Premature Ventricular Contraction has been documented; which option lists the occurrence times in milliseconds (ms) of all documented episodes? A. 38182107, 38180407; B. 38180407, 73640542; C. 38179807, 73639942; D. 38181207, 73641342",
+      "answer": "B. 38180407, 73640542"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A141",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 74-year-old female patient. On review of this ECG strip, Premature Ventricular Contraction has been documented; for the documented episodes, at what ms offsets were the observed events recorded? A. 800049, 245480; B. 801949, 800649; C. 800649, 246080; D. 801449, 246880",
+      "answer": "C. 800649, 246080"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 67-year-old male patient. In this recording, Atrial Tachycardia has been confirmed; what are the occurrence times (in milliseconds, ms) of the recorded episodes? A. 30968545; B. 30969345; C. 30968545, 30970045; D. 30967945",
+      "answer": "A. 30968545"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 67-year-old male. Premature Atrial Contraction has already been identified in this waveform; which option correctly specifies the occurrence time points (in milliseconds, ms) for every observed event? A. 59970453, 59969453; B. 59970253, 22664813; C. 59968853, 22663413; D. 59969453, 22664013",
+      "answer": "D. 59969453, 22664013"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 67-year-old male. Review this waveform: Premature Ventricular Contraction is documented—what are the timestamps (in milliseconds, ms) of all occurrences? A. 262764; B. 261964; C. 261964, 263464; D. 261364",
+      "answer": "B. 261964"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A153",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 62-year-old female. This ECG strip contains documented Premature Atrial Contraction episodes; at which timestamps in milliseconds do all occurrences take place? A. 38662570, 38661270, 17496715, 46786054; B. 38660670, 17496115, 46785454, 42715639; C. 38661270, 17496715, 46786054, 42716239; D. 38662070, 17497515, 46786854, 42717039",
+      "answer": "C. 38661270, 17496715, 46786054, 42716239"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A153",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 62-year-old female patient. Confirmed Premature Ventricular Contraction occurrences are present in this recording; which option lists the timestamps in milliseconds (ms) of every observed event? A. 30144452; B. 30145852; C. 30145052, 30146552; D. 30145052",
+      "answer": "D. 30145052"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A191",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 66-year-old male. Upon review of this rhythm tracing, Premature Atrial Contraction has been observed and annotated; at which millisecond positions (ms) do all occurrences appear? A. 41248710; B. 41247910; C. 41247310; D. 41247910, 41249410",
+      "answer": "B. 41247910"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A191",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 66-year-old male patient. Premature Ventricular Contraction events are documented and annotated in this recording — at which millisecond positions (ms) do all occurrences appear? A. 6498615, 81334098; B. 6499215, 81334698; C. 6500515, 6499215; D. 6500015, 81335498",
+      "answer": "B. 6499215, 81334698"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A194",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 64-year-old female. Atrial Tachycardia has been confirmed and annotated in this rhythm tracing; at which millisecond occurrence times (ms) do all occurrences appear? A. 17131836; B. 17131036, 17132536; C. 17131036; D. 17130436",
+      "answer": "C. 17131036"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A194",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 64-year-old female patient. In this recording Premature Atrial Contraction is documented; what are the occurrence times in milliseconds of the documented episodes? A. 49102464, 7974671; B. 49102964, 49101664; C. 49101664, 7973871; D. 49101064, 7973271",
+      "answer": "C. 49101664, 7973871"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A222",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 59-year-old female. Atrial Tachycardia is observed in this rhythm tracing; identify the millisecond timestamps (ms) that correspond to the occurrence times of every observed event? A. 1238301; B. 1238301, 1239801; C. 1239101; D. 1237701",
+      "answer": "A. 1238301"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A222",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 59-year-old female patient. Match the millisecond timestamps to the Premature Atrial Contraction events confirmed in this ECG strip: which option lists the occurrence times (ms) of all documented episodes? A. 3818764, 43760351; B. 3817364, 43758951; C. 3817214, 3817964; D. 3817964, 43759551",
+      "answer": "D. 3817964, 43759551"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 70-year-old female. In this recording, Atrial Tachycardia has been observed and confirmed—at which millisecond time points are all occurrences of the arrhythmia recorded? A. 35575584; B. 35574184; C. 35574784, 35576284; D. 35574784",
+      "answer": "D. 35574784"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 70-year-old female. Confirmed Premature Atrial Contraction events are present in this waveform; at which millisecond time points (ms) are all occurrences observed? A. 16876245, 17200759; B. 16877045, 17201559; C. 16876995, 16876245; D. 16875645, 17200159",
+      "answer": "A. 16876245, 17200759"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 70-year-old female patient. Premature Ventricular Contraction is confirmed in this rhythm tracing; at which ms offsets are the recorded episodes observed? A. 79033418, 79034918; B. 79032818; C. 79033418; D. 79034218",
+      "answer": "C. 79033418"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A291",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 36-year-old female. This rhythm tracing contains documented Premature Atrial Contraction events; which occurrence times (milliseconds) correspond to all documented episodes? A. 51847016, 51848516; B. 51847016; C. 51847816; D. 51846416",
+      "answer": "B. 51847016"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 75-year-old male. Match the occurrence times in milliseconds (ms) of the documented episodes of Atrial Tachycardia in this monitoring segment? A. 66603586; B. 66602786; C. 66602186; D. 66602786, 66604286",
+      "answer": "B. 66602786"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old male patient. Junctional Escape Rhythm has been documented in this monitoring segment; identify the millisecond positions of all documented episodes of Junctional Escape Rhythm? A. 62684437; B. 62685037, 62686537; C. 62685837; D. 62685037",
+      "answer": "D. 62685037"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old male patient. Having confirmed that Premature Atrial Contraction is documented in this monitoring segment, what are the occurrence times in milliseconds (ms) of every observed event? A. 2493525, 26978214; B. 2492725, 26977414; C. 2494025, 2492725; D. 2492125, 26976814",
+      "answer": "B. 2492725, 26977414"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old male patient. At which time points in milliseconds (ms) were the confirmed Premature Ventricular Contraction (PVC) events observed in this monitoring segment, listing all occurrences? A. 4041731, 9061830, 81725329, 62685837; B. 4040931, 9061030, 81724529, 62685037; C. 4040331, 9060430, 81723929, 62684437; D. 4041681, 4040931, 9061030, 81724529",
+      "answer": "B. 4040931, 9061030, 81724529, 62685037"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 72-year-old female patient. Select the option that correctly lists the ms offsets for all occurrences of Atrial Tachycardia that have already been identified and documented in this recording? A. 46244889; B. 46244289; C. 46245689; D. 46244889, 46246389",
+      "answer": "A. 46244889"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 72-year-old female patient. This rhythm tracing contains confirmed Premature Atrial Contraction episodes; which option correctly lists the ms offsets for every observed event of Premature Atrial Contraction in the recording? A. 11588750, 11587450; B. 11586850, 13600081; C. 11587450, 13600681; D. 11588250, 13601481",
+      "answer": "C. 11587450, 13600681"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 72-year-old female. Upon review of the recording, Premature Ventricular Contraction (PVC) has been identified in this rhythm tracing; at which time points in milliseconds (ms) did all occurrences of PVC take place? A. 1531537, 20824141; B. 1532137, 20824741; C. 1532937, 20825541; D. 1531387, 1532137",
+      "answer": "B. 1532137, 20824741"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A311",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 63-year-old male. Following review of this ECG segment and confirmation that Atrial Tachycardia is present; which option correctly reports how many documented episodes are present and provides the exact millisecond positions of all occurrences? A. 62548505; B. 62547105; C. 62547705, 62549205; D. 62547705",
+      "answer": "D. 62547705"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A311",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 63-year-old male. Upon review of this waveform, Premature Atrial Contraction has been documented; which time points in milliseconds correspond to every observed event of Premature Atrial Contraction? A. 53635831, 62587961; B. 53637731, 53636431; C. 53637231, 62589361; D. 53636431, 62588561",
+      "answer": "D. 53636431, 62588561"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A317",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 56-year-old female. Which option lists all occurrence times in milliseconds for the Premature Atrial Contraction events documented in this waveform? A. 51316805, 56961089, 27550440; B. 51316205, 56960489, 27549840; C. 51317805, 51316805, 56961089; D. 51317605, 56961889, 27551240",
+      "answer": "A. 51316805, 56961089, 27550440"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 73-year-old male. During clinical review of this monitoring segment, Atrial Tachycardia has been confirmed; which ms offsets correspond to every observed event of Atrial Tachycardia in the waveform? A. 45867844; B. 45867844, 45869344; C. 45868644; D. 45867244",
+      "answer": "A. 45867844"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 73-year-old male patient. First-degree AV block has been confirmed in this ECG strip; what are the occurrence times (ms) of all observed episodes? A. 71812800; B. 71813400, 71814900; C. 71814200; D. 71813400",
+      "answer": "D. 71813400"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 73-year-old male patient. Identify the millisecond positions (ms) in this monitoring segment that correspond to every observed event of Premature Atrial Contraction already documented in the waveform? A. 18329265, 6943105; B. 18328665, 6942505; C. 18330065, 6943905; D. 18330565, 18329265",
+      "answer": "A. 18329265, 6943105"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 73-year-old male patient. In this ECG strip, Premature Ventricular Contraction has been confirmed and documented; at which occurrence times in milliseconds do the documented episodes occur? A. 4705540, 7446780, 10515432, 50224075; B. 4704790, 4705540, 7446780, 10515432; C. 4704940, 7446180, 10514832, 50223475; D. 4706340, 7447580, 10516232, 50224875",
+      "answer": "A. 4705540, 7446780, 10515432, 50224075"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 38-year-old male patient. Matching the documented Atrial Tachycardia events in this rhythm tracing, which option correctly lists the occurrence times in milliseconds (ms) of every observed event? A. 42676152, 42677652; B. 42676952; C. 42675552; D. 42676152",
+      "answer": "D. 42676152"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 38-year-old male. Premature Atrial Contraction occurrences have been documented in this recording; which option correctly specifies the millisecond positions of every observed event? A. 65578485, 11625205; B. 65579285, 11626005; C. 65579485, 65578485; D. 65577885, 11624605",
+      "answer": "A. 65578485, 11625205"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 38-year-old male. Premature Ventricular Contraction is already documented in this rhythm tracing; which option correctly lists the ms offsets of every observed event? A. 158190, 159890; B. 159890, 478716; C. 159290, 478116; D. 160690, 479516",
+      "answer": "B. 159890, 478716"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A341",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 71-year-old female. Matching the annotations for Premature Atrial Contraction that have already been identified and documented in this monitoring segment, which option lists the millisecond positions of all recorded episodes? A. 50311304, 78594951; B. 50313204, 50311904; C. 50312704, 78596351; D. 50311904, 78595551",
+      "answer": "D. 50311904, 78595551"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A358",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 40-year-old female. Premature Ventricular Contraction is already documented in this ECG strip; which time points in milliseconds correspond to the recorded episodes? A. 43129455, 77323164; B. 43128655, 77322364; C. 43128055, 77321764; D. 43129405, 43128655",
+      "answer": "B. 43128655, 77322364"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A360",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 75-year-old female. Clinical review confirms Premature Atrial Contraction is documented in this rhythm tracing; at which millisecond positions did the recorded episodes occur? A. 36408525, 53117359; B. 36407725, 53116559; C. 36407125, 53115959; D. 36409025, 36407725",
+      "answer": "B. 36407725, 53116559"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A360",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old female patient. Premature Ventricular Contraction events are present and have been marked in this waveform; at which timestamps in milliseconds did every observed event occur? A. 66522385; B. 66522985; C. 66522985, 66524485; D. 66523785",
+      "answer": "B. 66522985"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A41",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 59-year-old male. Confirmed Atrial Tachycardia is documented in this monitoring segment — which timestamps (milliseconds from the start) mark every observed event? A. 3540835; B. 3540835, 3542335; C. 3541635; D. 3540235",
+      "answer": "A. 3540835"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A41",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 59-year-old male. During review, Premature Atrial Contraction is confirmed and documented in this ECG strip; which option lists the ms offsets of all recorded episodes? A. 11806699, 11808199; B. 11807499; C. 11806699; D. 11806099",
+      "answer": "C. 11806699"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A41",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 59-year-old male. At what millisecond timestamp(s) from the start of this monitoring segment do the documented Premature Ventricular Contraction events occur, i.e., which timestamps correspond to all observed events? A. 38803900, 9762043; B. 38802500, 9760643; C. 38804800, 38803100; D. 38803100, 9761243",
+      "answer": "D. 38803100, 9761243"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A422",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 69-year-old male patient. Reviewing this ECG strip, Premature Atrial Contraction has been documented; at which timestamps (milliseconds from the start of the tracing) do all observed Premature Atrial Contraction events occur? A. 30762036, 40182034; B. 30763386, 30762636; C. 30763436, 40183434; D. 30762636, 40182634",
+      "answer": "D. 30762636, 40182634"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A422",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 69-year-old male. In this annotated tracing, Premature Ventricular Contraction has been identified and documented; which option correctly provides the occurrence count and the precise millisecond offsets for every recorded episode? A. 61045935; B. 61045935, 61047435; C. 61046735; D. 61045335",
+      "answer": "A. 61045935"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old male patient. After review and confirmation that Atrial Tachycardia is present in this rhythm tracing, which millisecond timestamps (ms) correspond to the onset times of every documented episode? A. 75051435; B. 75050835; C. 75052235; D. 75051435, 75052935",
+      "answer": "A. 75051435"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 75-year-old male. During review of this rhythm tracing, Premature Atrial Contraction has been documented; what are the occurrence times in milliseconds (ms) for all documented episodes? A. 16690910, 5712096; B. 16692310, 5713496; C. 16693210, 16691510; D. 16691510, 5712696",
+      "answer": "D. 16691510, 5712696"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old male patient. Which millisecond offsets (ms offsets) in this monitoring segment mark the onset times of every recorded episode of Premature Ventricular Contraction that has already been identified in the waveform? A. 5947448, 27637320; B. 5946048, 27635920; C. 5946648, 27636520; D. 5944948, 5946648",
+      "answer": "C. 5946648, 27636520"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A431",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 67-year-old female patient. Which option lists the exact millisecond positions of every recorded episode of Premature Atrial Contraction that has been identified in this recording? A. 78564728; B. 78565328, 78566828; C. 78565328; D. 78566128",
+      "answer": "C. 78565328"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A431",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 67-year-old female patient. Premature Ventricular Contraction has been observed in this rhythm tracing; which option correctly states how many times it occurs and the exact millisecond positions of every observed event? A. 5337894, 5339394; B. 5338694; C. 5337894; D. 5337294",
+      "answer": "C. 5337894"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A451",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 71-year-old male. Analysis of this waveform confirms Premature Atrial Contraction; which millisecond positions (ms) mark all occurrences? A. 21069601, 5122300; B. 21071201, 21070201; C. 21070201, 5122900; D. 21071001, 5123700",
+      "answer": "C. 21070201, 5122900"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A451",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 71-year-old male patient. Premature Ventricular Contraction is present in this rhythm tracing; which option lists the correct occurrence times in milliseconds (ms) for all occurrences? A. 8451065; B. 8450465; C. 8451865; D. 8451065, 8452565",
+      "answer": "A. 8451065"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 56-year-old male. Which option lists the total number of occurrences of Atrial Tachycardia already identified in this monitoring segment and provides the exact occurrence times in milliseconds (ms) for every observed event? A. 49677905; B. 49677905, 49679405; C. 49678705; D. 49677305",
+      "answer": "A. 49677905"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 56-year-old male. Upon review, Premature Atrial Contraction has been documented in this waveform; which of the following lists the correct occurrence time points (in milliseconds) for every observed event? A. 77137, 9154461; B. 76537, 9153861; C. 78137, 77137; D. 77937, 9155261",
+      "answer": "A. 77137, 9154461"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 56-year-old male patient. Premature Ventricular Contractions are documented in this waveform; which option lists the correct occurrence times in ms offsets for every documented episode? A. 68188069, 68189569; B. 68188869; C. 68188069; D. 68187469",
+      "answer": "C. 68188069"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A464",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 68-year-old male patient. Premature Atrial Contraction is already documented in this recording; which option correctly reports the occurrence count and the exact millisecond positions (ms) of each observed event? A. 40712794, 45357754, 77653836; B. 40714494, 40712794, 45357754; C. 40713594, 45358554, 77654636; D. 40712194, 45357154, 77653236",
+      "answer": "A. 40712794, 45357754, 77653836"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A469",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 51-year-old female patient. For the Premature Atrial Contraction documented in this monitoring segment, which time points in milliseconds mark every observed event? A. 5736646, 5734946; B. 5735746, 74008221; C. 5734346, 74006821; D. 5734946, 74007421",
+      "answer": "D. 5734946, 74007421"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A469",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 51-year-old female patient. This waveform documents Premature Ventricular Contraction events; which option lists the occurrence time points in milliseconds (ms) for all documented episodes? A. 933181; B. 933981; C. 933181, 934681; D. 932581",
+      "answer": "A. 933181"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A46",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 84-year-old male patient. During review of this waveform, Atrial Tachycardia was identified; which option correctly lists the millisecond positions of every recorded episode in this waveform? A. 21328979, 21330479; B. 21328379; C. 21329779; D. 21328979",
+      "answer": "D. 21328979"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A46",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 84-year-old male patient. Which option lists, for this recording where Premature Atrial Contraction is confirmed, the occurrence count and the precise millisecond offsets (ms) of all documented episodes? A. 1748424, 7377410; B. 1749024, 7378010; C. 1749774, 1749024; D. 1749824, 7378810",
+      "answer": "B. 1749024, 7378010"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A46",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 84-year-old male. Upon review, Premature Ventricular Contraction has been definitively identified and annotated in this ECG strip; which timestamps in milliseconds (ms) mark all occurrences of the PVC events recorded? A. 65339070, 65340570; B. 65339870; C. 65338470; D. 65339070",
+      "answer": "D. 65339070"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A473",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 55-year-old female patient. For the Premature Atrial Contraction events identified in this ECG strip, which option lists the occurrence times in milliseconds (ms) for all documented episodes? A. 36377067, 57117745; B. 36378467, 57119145; C. 36379367, 36377667; D. 36377667, 57118345",
+      "answer": "D. 36377667, 57118345"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A473",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 55-year-old female. Match the times: Premature Ventricular Contraction is documented in this ECG segment — which option correctly states how many documented episodes are present and the exact timestamps (ms) of all occurrences? A. 15203955, 60666566; B. 15203255, 15204555; C. 15204555, 60667166; D. 15205355, 60667966",
+      "answer": "C. 15204555, 60667166"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A478",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 57-year-old female patient. On clinical review, Atrial Tachycardia has been confirmed in this waveform; which set of millisecond time points corresponds to all occurrences of Atrial Tachycardia observed in the recording? A. 4497299, 4498799; B. 4496699; C. 4498099; D. 4497299",
+      "answer": "D. 4497299"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A478",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 57-year-old female. Matching waveform annotations, Premature Atrial Contraction has been confirmed in this monitoring segment; which ms occurrence times correspond to every observed event? A. 12380541, 70372024, 50986268; B. 12379941, 70371424, 50985668; C. 12381341, 70372824, 50987068; D. 12381291, 12380541, 70372024",
+      "answer": "A. 12380541, 70372024, 50986268"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A481",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 41-year-old female patient. This monitoring segment contains confirmed Premature Atrial Contraction events; select the millisecond (ms) timestamps for all occurrences? A. 14542985, 46322505; B. 14542935, 14542185; C. 14541585, 46321105; D. 14542185, 46321705",
+      "answer": "D. 14542185, 46321705"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A481",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 41-year-old female patient. At what millisecond positions in this ECG strip have the Premature Ventricular Contraction events already identified in the waveform occurred — report all occurrences? A. 1147359; B. 1147959, 1149459; C. 1147959; D. 1148759",
+      "answer": "C. 1147959"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A483",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 31-year-old female. Following expert annotation of this recording confirming Premature Atrial Contraction, which option correctly lists the ms offsets (milliseconds) of all documented episodes? A. 26571025; B. 26571825; C. 26571025, 26572525; D. 26570425",
+      "answer": "A. 26571025"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A483",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 31-year-old female patient. Upon review of this rhythm tracing, Premature Ventricular Contraction has been confirmed — identify the millisecond positions of all recorded episodes? A. 762796, 76311310; B. 761396, 76309910; C. 760996, 761996; D. 761996, 76310510",
+      "answer": "D. 761996, 76310510"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A483",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 31-year-old female. Ventricular Tachycardia has been identified in this recording; identify the millisecond (ms) time points of all documented episodes? A. 76334912; B. 76334312; C. 76334912, 76336412; D. 76335712",
+      "answer": "A. 76334912"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A488",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 78-year-old male. Identify the occurrence times in ms for every documented episode of Atrial Tachycardia shown in this ECG strip? A. 50242670; B. 50242070; C. 50242670, 50244170; D. 50243470",
+      "answer": "A. 50242670"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A488",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 78-year-old male. During a focused review of this rhythm tracing, Premature Atrial Contraction has already been documented; which timestamps in milliseconds (ms) correspond to every observed event? A. 7825142, 15575885, 47947377; B. 7823442, 7825142, 15575885; C. 7824542, 15575285, 47946777; D. 7825942, 15576685, 47948177",
+      "answer": "A. 7825142, 15575885, 47947377"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A488",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 78-year-old male patient. At which millisecond timestamps in this rhythm tracing do the documented Premature Ventricular Contractions occur? A. 291658, 290908, 1095548, 7437833; B. 290308, 1094948, 7437233, 7467133; C. 290908, 1095548, 7437833, 7467733; D. 291708, 1096348, 7438633, 7468533",
+      "answer": "C. 290908, 1095548, 7437833, 7467733"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 65-year-old female. Atrial Tachycardia has been confirmed and annotated in this recording; which option correctly reports the total number of occurrences and provides the exact timestamps (in milliseconds) for every documented episode in this recording? A. 20790063; B. 20790863; C. 20789463; D. 20790063, 20791563",
+      "answer": "A. 20790063"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 65-year-old female. During review of this recording, Premature Atrial Contraction (PAC) events have been confirmed and documented; which timestamps in milliseconds correctly list the occurrence times for every observed event? A. 30052086, 44087071; B. 30052686, 44087671; C. 30053486, 44088471; D. 30054386, 30052686",
+      "answer": "B. 30052686, 44087671"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 65-year-old female. Reviewing this ECG segment, Premature Ventricular Contraction has been observed and documented; which option correctly states how many documented episodes are present and lists the exact ms time points of each recorded episode? A. 52549025, 74819779; B. 52547725, 52549025; C. 52549825, 74820579; D. 52548425, 74819179",
+      "answer": "A. 52549025, 74819779"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A490",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 56-year-old female. At what millisecond (ms) occurrence times do the Premature Atrial Contraction events observed in this waveform occur? A. 1421703, 14543166, 23059960; B. 1420903, 14542366, 23059160; C. 1422603, 1420903, 14542366; D. 1420303, 14541766, 23058560",
+      "answer": "B. 1420903, 14542366, 23059160"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A502",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 44-year-old male patient. Reviewing this monitoring segment, Atrial Tachycardia has been documented; which millisecond positions correspond to all observed events? A. 71315630; B. 71317030; C. 71316230; D. 71316230, 71317730",
+      "answer": "C. 71316230"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A502",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 44-year-old male. Following review of this waveform, Premature Atrial Contraction has been identified and documented; which option lists the occurrence times in milliseconds (ms) that correspond to every observed event? A. 83903084, 83904384, 6203875; B. 83905184, 6204675, 63117265; C. 83904384, 6203875, 63116465; D. 83903784, 6203275, 63115865",
+      "answer": "C. 83904384, 6203875, 63116465"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 66-year-old male. Upon review, Atrial Tachycardia has been documented in this waveform; which option correctly lists the time points in milliseconds (ms) of all documented episodes? A. 55336460; B. 55335660; C. 55335060; D. 55335660, 55337160",
+      "answer": "B. 55335660"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 66-year-old male patient. Given the Premature Atrial Contraction events identified in this waveform, which option lists the correct time points in milliseconds (ms) for all documented episodes? A. 20836065, 42123588; B. 20833565, 20835265; C. 20835265, 42122788; D. 20834665, 42122188",
+      "answer": "C. 20835265, 42122788"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 66-year-old male. Matching the Premature Ventricular Contraction events already observed in this rhythm tracing, which option correctly reports the millisecond positions for all occurrences? A. 17252305, 44953205; B. 17253705, 44954605; C. 17254205, 17252905; D. 17252905, 44953805",
+      "answer": "D. 17252905, 44953805"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A50",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 56-year-old female patient. During clinical review, Premature Atrial Contraction has been documented in this waveform; for temporal traceback, which choice correctly lists the millisecond positions of every observed event of Premature Atrial Contraction? A. 35022918, 35258210, 7206895; B. 35022118, 35257410, 7206095; C. 35022868, 35022118, 35257410; D. 35021518, 35256810, 7205495",
+      "answer": "B. 35022118, 35257410, 7206095"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A523",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 62-year-old male. Matching the Premature Atrial Contraction events already documented in this recording, which option lists the correct occurrence times in milliseconds (ms) for all observed events? A. 63282788; B. 63281988; C. 63281988, 63283488; D. 63281388",
+      "answer": "B. 63281988"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 68-year-old male. Select the option that correctly lists the timestamps (milliseconds) of all documented episodes of Atrial Tachycardia in this rhythm tracing, given that Atrial Tachycardia has already been confirmed in the waveform? A. 29770522; B. 29771922; C. 29771122; D. 29771122, 29772622",
+      "answer": "C. 29771122"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 68-year-old male. On clinical review of this recording, Premature Atrial Contraction has been confirmed; at which millisecond positions (ms) do the observed events occur? A. 59854595, 60336693; B. 59853895, 59855195; C. 59855195, 60337293; D. 59855995, 60338093",
+      "answer": "C. 59855195, 60337293"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 68-year-old male. At which millisecond timepoints (ms) do the documented Premature Ventricular Contraction events occur in this recording, given that Premature Ventricular Contraction has already been observed—provide the occurrence times for every observed event? A. 11137357; B. 11138757; C. 11137957, 11139457; D. 11137957",
+      "answer": "D. 11137957"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A536",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 63-year-old female. What timestamps (milliseconds) mark the documented episodes of Premature Atrial Contraction already identified in this recording? A. 8814060; B. 8814660, 8816160; C. 8815460; D. 8814660",
+      "answer": "D. 8814660"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A536",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 63-year-old female. List the timestamps (ms) in this waveform for all observed occurrences of Premature Ventricular Contraction that have already been documented? A. 54165960; B. 54165360; C. 54165960, 54167460; D. 54166760",
+      "answer": "A. 54165960"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A538",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 69-year-old male patient. This annotated tracing contains confirmed Premature Atrial Contraction; which option accurately gives how many times it occurs and the exact millisecond positions for each documented episode? A. 7057329, 48933645; B. 7055929, 48932245; C. 7056529, 48932845; D. 7054829, 7056529",
+      "answer": "C. 7056529, 48932845"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A538",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 69-year-old male. Matching the documented episodes of Premature Ventricular Contraction in this ECG strip, which millisecond positions indicate their occurrence times? A. 5671522, 65175687; B. 5672022, 5670722; C. 5670722, 65174887; D. 5670122, 65174287",
+      "answer": "C. 5670722, 65174887"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A573",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 61-year-old male patient. In this annotated tracing, Premature Atrial Contraction is recorded; which option correctly reports the total number of occurrences and the precise millisecond offsets for all documented episodes? A. 19394804, 19395804; B. 19395804, 45337236; C. 19395204, 45336636; D. 19396604, 45338036",
+      "answer": "B. 19395804, 45337236"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A573",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 61-year-old male patient. From this ECG strip, where Premature Ventricular Contraction has already been observed and documented, which option lists the correct timestamps (in milliseconds) for all recorded episodes? A. 33193907, 34855207; B. 33193107, 34854407; C. 33192507, 34853807; D. 33194407, 33193107",
+      "answer": "B. 33193107, 34854407"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A57",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 59-year-old female. During review, Premature Atrial Contraction has been identified in this waveform; which set of ms offsets corresponds to every observed event? A. 15050825, 27041690, 44775474, 51529500; B. 15051425, 27042290, 44776074, 51530100; C. 15050125, 15051425, 27042290, 44776074; D. 15052225, 27043090, 44776874, 51530900",
+      "answer": "B. 15051425, 27042290, 44776074, 51530100"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 67-year-old female patient. Atrial Tachycardia is present in this waveform; which ms offsets correspond to all documented episodes? A. 37325465; B. 37325465, 37326965; C. 37326265; D. 37324865",
+      "answer": "A. 37325465"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 67-year-old female patient. Per the clinical annotation, Premature Atrial Contraction has been observed in this ECG segment—what option accurately reports the total number of occurrences and the exact timestamps in milliseconds for every observed event? A. 37331310, 11756555; B. 37333610, 37331910; C. 37331910, 11757155; D. 37332710, 11757955",
+      "answer": "C. 37331910, 11757155"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old female. Provide the millisecond positions of every documented Premature Ventricular Contraction event that has been observed in this recording? A. 51251600, 14972930; B. 51251800, 51250800; C. 51250800, 14972130; D. 51250200, 14971530",
+      "answer": "C. 51250800, 14972130"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A600",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 47-year-old male. This ECG strip contains confirmed Premature Atrial Contraction events that have been documented; which option lists the ms offsets for all occurrences recorded in this ECG strip? A. 4168141, 4169641; B. 4167541; C. 4168141; D. 4168941",
+      "answer": "C. 4168141"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 48-year-old male patient. Upon expert review, Atrial Tachycardia has been confirmed in this ECG strip; which option lists the millisecond positions (ms) of all occurrences? A. 29726001, 29727501; B. 29725401; C. 29726001; D. 29726801",
+      "answer": "C. 29726001"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 48-year-old male patient. On review of this recording, Premature Atrial Contraction is documented; for all documented episodes, which option correctly gives the occurrence count and the exact timestamps (ms) for each event? A. 29475484, 35281350; B. 29475434, 29474684; C. 29474084, 35279950; D. 29474684, 35280550",
+      "answer": "D. 29474684, 35280550"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 48-year-old male patient. Premature Ventricular Contraction has been observed and confirmed in this rhythm tracing; for the observed events, which option correctly states how many times it occurs and lists the exact millisecond positions for each occurrence? A. 10301690, 48296580, 30051135; B. 10303090, 48297980, 30052535; C. 10302290, 48297180, 30051735; D. 10300590, 10302290, 48297180",
+      "answer": "C. 10302290, 48297180, 30051735"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A635",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 79-year-old male. In the clinical review of this waveform, Premature Atrial Contraction has been identified and documented; which option correctly lists the millisecond positions (ms) of all occurrences? A. 5942456, 5942991, 5931647; B. 5941656, 5942191, 5930847; C. 5941056, 5941591, 5930247; D. 5940906, 5941656, 5942191",
+      "answer": "B. 5941656, 5942191, 5930847"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A635",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 79-year-old male. Clinical annotation indicates Premature Ventricular Contraction has been observed in this waveform; which option correctly states how many documented episodes are present and provides the exact timestamps (in milliseconds, ms) for all occurrences? A. 60617349; B. 60617349, 60618849; C. 60618149; D. 60616749",
+      "answer": "A. 60617349"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 55-year-old male. Matching times: Atrial Tachycardia was documented in this monitoring segment — which timestamps in milliseconds indicate all occurrences? A. 8858287, 8859787; B. 8859087; C. 8858287; D. 8857687",
+      "answer": "C. 8858287"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 55-year-old male. During a clinical review of this rhythm tracing, Premature Atrial Contraction was confirmed and annotated; which millisecond time points (ms) correspond to all documented episodes in the recording? A. 28554769, 32437769, 46917186, 51136185; B. 28556469, 28554769, 32437769, 46917186; C. 28554169, 32437169, 46916586, 51135585; D. 28555569, 32438569, 46917986, 51136985",
+      "answer": "A. 28554769, 32437769, 46917186, 51136185"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 55-year-old male. Matching times: Premature Ventricular Contraction has been documented in this ECG strip; which millisecond offsets (ms) correspond to all occurrences of the PVCs in the tracing? A. 12105087, 18255345; B. 12105887, 18256145; C. 12104337, 12105087; D. 12104487, 18254745",
+      "answer": "A. 12105087, 18255345"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A653",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 53-year-old female patient. This ECG strip contains confirmed Premature Atrial Contraction events; identify the exact millisecond time points (ms) at which all occurrences are observed in the tracing? A. 10741945, 10740245; B. 10740245, 73803145; C. 10741045, 73803945; D. 10739645, 73802545",
+      "answer": "B. 10740245, 73803145"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A653",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 53-year-old female patient. Identify the millisecond positions in this monitoring segment that correspond to every observed Premature Ventricular Contraction event? A. 78322100; B. 78323500; C. 78322700; D. 78322700, 78324200",
+      "answer": "C. 78322700"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 68-year-old male. Atrial Tachycardia has been identified in this waveform; which option correctly states how many times it occurs and the exact millisecond positions of every recorded episode? A. 6941872, 6943372; B. 6942672; C. 6941872; D. 6941272",
+      "answer": "C. 6941872"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 68-year-old male patient. Which option lists how many times Premature Atrial Contraction, documented in this waveform, occurs and provides the exact occurrence times as precise millisecond offsets for every documented episode? A. 66441494, 66810028; B. 66440094, 66808628; C. 66439694, 66440694; D. 66440694, 66809228",
+      "answer": "D. 66440694, 66809228"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 68-year-old male patient. Matching the Premature Ventricular Contraction events already documented in this ECG strip, which option lists the millisecond positions of all documented episodes? A. 35557669; B. 35558469; C. 35557069; D. 35557669, 35559169",
+      "answer": "A. 35557669"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 68-year-old male patient. Matching this rhythm tracing in which Sinus Pause has been observed, which option lists the millisecond positions of all observed events? A. 10254264, 10253514; B. 10253514, 11489059; C. 10252914, 11488459; D. 10254314, 11489859",
+      "answer": "B. 10253514, 11489059"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A688",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 62-year-old male patient. In this ECG strip, Atrial Tachycardia has been observed and documented; what are the occurrence times in milliseconds of all documented episodes? A. 55227689; B. 55227689, 55229189; C. 55228489; D. 55227089",
+      "answer": "A. 55227689"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A688",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 62-year-old male patient. Which millisecond (ms) occurrence times in this rhythm tracing correspond to the documented episodes of Premature Atrial Contraction already observed in the recording? A. 19704861, 58546585; B. 19704061, 58545785; C. 19703461, 58545185; D. 19703311, 19704061",
+      "answer": "B. 19704061, 58545785"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A688",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 62-year-old male. Which occurrence times in milliseconds correspond to the documented Premature Ventricular Contraction episodes recorded in this waveform? A. 3630561; B. 3631161; C. 3631161, 3632661; D. 3631961",
+      "answer": "B. 3631161"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A692",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 56-year-old male. The waveform contains confirmed Premature Atrial Contraction events that have been documented in this monitoring segment; which millisecond positions mark every documented episode? A. 57818328; B. 57818928, 57820428; C. 57818928; D. 57819728",
+      "answer": "C. 57818928"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A701",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 73-year-old female patient. Provide the millisecond time points (ms) of every observed event of Premature Atrial Contraction that has been documented in this rhythm tracing? A. 5945555; B. 5945555, 5947055; C. 5946355; D. 5944955",
+      "answer": "A. 5945555"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A701",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 73-year-old female patient. Identify the timestamps in milliseconds (ms) of the recorded episodes of Premature Ventricular Contraction that have been confirmed in this monitoring segment? A. 272359; B. 272959, 274459; C. 272959; D. 273759",
+      "answer": "C. 272959"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 73-year-old female patient. Which option lists the documented occurrence time(s), expressed as ms offsets, of the recorded episodes of Atrial Tachycardia that have been confirmed in this rhythm tracing? A. 50425201; B. 50424601; C. 50425201, 50426701; D. 50426001",
+      "answer": "A. 50425201"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 73-year-old female. Premature Atrial Contraction(s) have been documented and confirmed in this ECG strip; what are the occurrence times, in milliseconds, of each recorded episode? A. 10843590, 75151800; B. 10841090, 10842790; C. 10842790, 75151000; D. 10842190, 75150400",
+      "answer": "C. 10842790, 75151000"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 73-year-old female. Premature Ventricular Contraction (PVC) episodes have been observed and confirmed in this rhythm tracing; which option correctly lists the millisecond positions of all occurrences of PVC in the recording? A. 60057450; B. 60058050; C. 60058850; D. 60058050, 60059550",
+      "answer": "B. 60058050"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A708",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 69-year-old male. Match the timing: Atrial Tachycardia has been documented and confirmed in this recording; which option lists the correct time points, in milliseconds (ms), corresponding to every observed event of Atrial Tachycardia in the recording? A. 19919850, 75833695, 34431259; B. 19920650, 75834495, 34432059; C. 19918150, 19919850, 75833695; D. 19919250, 75833095, 34430659",
+      "answer": "A. 19919850, 75833695, 34431259"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A708",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 69-year-old male. The ECG strip documents confirmed Premature Atrial Contractions; which option specifies the occurrence times in milliseconds for every observed event? A. 12365197, 12366497, 24752040; B. 12365897, 24751440, 3043922; C. 12367297, 24752840, 3045322; D. 12366497, 24752040, 3044522",
+      "answer": "D. 12366497, 24752040, 3044522"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A708",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 69-year-old male patient. For review, Premature Ventricular Contraction has been identified in this rhythm tracing; which option correctly states how many documented episodes are present and lists the exact occurrence times in milliseconds (ms) for all occurrences? A. 7036455, 7035155, 61280070; B. 7035955, 61280870, 1605565; C. 7035155, 61280070, 1604765; D. 7034555, 61279470, 1604165",
+      "answer": "C. 7035155, 61280070, 1604765"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A720",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 80-year-old female. This rhythm tracing documents Atrial Tachycardia episodes; which option lists the occurrence times in milliseconds (ms) for all occurrences? A. 2756657; B. 2755857; C. 2755857, 2757357; D. 2755257",
+      "answer": "B. 2755857"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A720",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 80-year-old female patient. Clinical annotation: Premature Atrial Contraction has been documented in this ECG segment. Which option correctly states how many times it occurs and lists the exact occurrence times in milliseconds (ms) for all documented episodes of this event? A. 579995, 34606544, 44669069; B. 580595, 34607144, 44669669; C. 581395, 34607944, 44670469; D. 581595, 580595, 34607144",
+      "answer": "B. 580595, 34607144, 44669669"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A720",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 80-year-old female. Review this monitoring segment where Premature Ventricular Contraction has already been observed and documented; which option correctly lists the timestamps in milliseconds (ms) for all occurrences? A. 8824725, 8823725; B. 8823725, 80057374; C. 8824525, 80058174; D. 8823125, 80056774",
+      "answer": "B. 8823725, 80057374"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A765",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 84-year-old female. Reviewing this rhythm tracing, Atrial Tachycardia has already been identified and documented in the recording; which specific time points in milliseconds correspond to the observed Atrial Tachycardia events? A. 7795649, 7797149; B. 7796449; C. 7795049; D. 7795649",
+      "answer": "D. 7795649"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A765",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 84-year-old female patient. Which millisecond positions in this monitoring segment correspond to every observed Premature Atrial Contraction event, given that Premature Atrial Contraction has already been identified and documented in the waveform (provide times in milliseconds)? A. 40861167, 40859867, 68186380; B. 40859267, 68185780, 36534602; C. 40860667, 68187180, 36536002; D. 40859867, 68186380, 36535202",
+      "answer": "D. 40859867, 68186380, 36535202"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A765",
+    "task_type": "closed_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 84-year-old female. Premature Ventricular Contraction has been identified in this rhythm tracing; which option correctly states how many times it occurs and lists the exact occurrence times in milliseconds for all occurrences? A. 72875560, 72874260; B. 72874260, 4660291; C. 72873660, 4659691; D. 72875060, 4661091",
+      "answer": "B. 72874260, 4660291"
+    },
+    "tag": "valid"
+  }
+]

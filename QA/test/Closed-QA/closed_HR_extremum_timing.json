@@ -1,0 +1,2828 @@
+[
+  {
+    "id": "A102",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 20-year-old male patient. On the provided rhythm strip, identify the timestamp (in ms) at which the heart rate is fastest — that is, the time point corresponding to the shortest R‑R interval on the recording? A. 19250232 ms; B. 19248232 ms; C. 18950232 ms; D. 60386120 ms",
+      "answer": "A. 19250232 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A102",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 20-year-old male patient. Examine the ECG rhythm strip and specify the timestamp (in ms) at which the instantaneous heart rate is at its lowest point (the slowest beat)? A. 60385120 ms; B. 60386120 ms; C. 58586120 ms; D. 19250232 ms",
+      "answer": "B. 60386120 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A106",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 82-year-old female. Which millisecond timestamp marks the shortest RR interval in this ECG trace? A. 12397865 ms; B. 56067270 ms; C. 12360783 ms; D. 12660783 ms",
+      "answer": "C. 12360783 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A106",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 82-year-old female patient. On the rhythm strip shown, which millisecond timestamp corresponds to the QRS complex that marks the end of the longest pause between consecutive beats (the timepoint of lowest instantaneous heart rate)? A. 56067270 ms; B. 12360783 ms; C. 56037270 ms; D. 56068270 ms",
+      "answer": "A. 56067270 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A10",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 36-year-old male. From the ECG strip provided, report the millisecond timestamp (ms) at which a QRS complex is followed by the shortest subsequent interval to the next QRS — the time point of highest instantaneous heart rate? A. 2942195 ms; B. 57543690 ms; C. 2940195 ms; D. 2937255 ms",
+      "answer": "C. 2940195 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A10",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 36-year-old male. Using the rhythm strip provided, state the millisecond offset (ms) at which the RR interval attains its largest value — the time point corresponding to the slowest instantaneous heart rate? A. 30241942 ms; B. 57543690 ms; C. 57663690 ms; D. 2940195 ms",
+      "answer": "B. 57543690 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A111",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 33-year-old male patient. Determine the millisecond offset (ms) on the ECG tracing at which the subsequent cardiac cycle has the shortest duration — in other words, the timepoint indicating the most rapid succession of beats? A. 12863899 ms; B. 12803899 ms; C. 12813899 ms; D. 68124220 ms",
+      "answer": "B. 12803899 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A111",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 33-year-old male patient. Looking at the ECG waveform, what is the millisecond timepoint (ms) at which a QRS occurs that is followed by the largest gap to the next QRS — the moment of lowest instantaneous heart rate? A. 68124220 ms; B. 12803899 ms; C. 68244220 ms; D. 68134220 ms",
+      "answer": "A. 68124220 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A11",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old male patient. Using the ECG rhythm strip, pinpoint the millisecond (ms) offset at which an R-peak occurs that is followed by the shortest subsequent RR interval — the timepoint of the highest instantaneous heart rate? A. 80308925 ms; B. 80338925 ms; C. 48355700 ms; D. 80419263 ms",
+      "answer": "B. 80338925 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A11",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 75-year-old male patient. From the rhythm recording, pinpoint the millisecond (ms) offset of the R-peak whose subsequent R-wave appears after the greatest delay — i.e., the timepoint corresponding to the slowest instantaneous heart rate? A. 48355200 ms; B. 80338925 ms; C. 48355700 ms; D. 48354700 ms",
+      "answer": "C. 48355700 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A120",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 29-year-old male patient. Using the rhythm trace, locate the millisecond (ms) timestamp of the QRS complex that is followed by the shortest subsequent RR interval on the recording — the timepoint of the fastest instantaneous heart rate? A. 41565230 ms; B. 41565730 ms; C. 68655515 ms; D. 41445730 ms",
+      "answer": "B. 41565730 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A120",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 29-year-old male. Review the ECG segment and specify the millisecond (ms) timepoint of the R-peak that is followed by the longest RR interval (i.e., the moment of lowest instantaneous heart rate)? A. 41565730 ms; B. 68655515 ms; C. 68715515 ms; D. 70455515 ms",
+      "answer": "B. 68655515 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A138",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 63-year-old female patient. Using the rhythm strip, state the millisecond (ms) time from the start of the recording of the R-peak that is followed by the shortest subsequent R–R interval (the beat after which the next R-wave appears soonest)? A. 12784209 ms; B. 12926255 ms; C. 12913342 ms; D. 54431700 ms",
+      "answer": "C. 12913342 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A138",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 63-year-old female patient. Scan the rhythm strip and report the millisecond (ms) timepoint from the start of the recording at which an R-peak marks the beginning of the maximal inter-beat interval (that is, the R-wave after which the next R-wave occurs the latest)? A. 54430700 ms; B. 54433700 ms; C. 54431700 ms; D. 12913342 ms",
+      "answer": "C. 54431700 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A139",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 65-year-old male. On the ECG rhythm strip, indicate the millisecond (ms) time from the start of the recording at which an R‑complex occurs that is followed by the shortest subsequent R–R interval (the beat after which the next R‑wave appears earliest), marking the moment of highest instantaneous heart rate? A. 56246503 ms; B. 55684038 ms; C. 56126503 ms; D. 21262119 ms",
+      "answer": "A. 56246503 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A139",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 65-year-old male. From the start of this ECG recording, state the millisecond (ms) timestamp at which an R‑wave occurs after which the next R‑wave is delayed the longest—i.e., the timepoint that precedes the single longest RR interval and corresponds to the slowest instantaneous heart rate? A. 21262119 ms; B. 21474740 ms; C. 38754311 ms; D. 56246503 ms",
+      "answer": "A. 21262119 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A149",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 53-year-old female patient. On the ECG strip, what millisecond (ms) timestamp from the start of the recording corresponds to the R‑wave that is followed by the smallest R‑R interval, representing the greatest instantaneous heart rate? A. 68428234 ms; B. 52737278 ms; C. 37416786 ms; D. 37046323 ms",
+      "answer": "D. 37046323 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A149",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 53-year-old female. Examine the rhythm strip and report the millisecond (ms) timestamp from the start of the recording at which an R‑wave occurs that initiates the greatest time gap before the next R‑wave — the moment representing the slowest beat‑to‑beat heart rate? A. 68428234 ms; B. 37046323 ms; C. 68548234 ms; D. 68427734 ms",
+      "answer": "A. 68428234 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A14",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 74-year-old male patient. On the provided rhythm strip, state the millisecond (ms) offset from the start of the recording at which an R‑complex appears that is immediately followed by the shortest interval to the next R‑complex — the point of peak instantaneous heart rate? A. 4831264 ms; B. 4216814 ms; C. 46767389 ms; D. 4816814 ms",
+      "answer": "D. 4816814 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A14",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 74-year-old male patient. From the beginning of the ECG tracing, state the millisecond (ms) timestamp at which an R‑wave is recorded whose subsequent beat arrives after the greatest delay — indicating the slowest instantaneous heart rate? A. 4816814 ms; B. 46767389 ms; C. 46827389 ms; D. 47067389 ms",
+      "answer": "B. 46767389 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A150",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 81-year-old male. Identify the millisecond (ms) timepoint from the start of the ECG recording at which an R‑complex occurs that is immediately followed by the shortest R‑R interval, indicating the peak instantaneous heart rate? A. 249031 ms; B. 849031 ms; C. 34918625 ms; D. 248531 ms",
+      "answer": "A. 249031 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A150",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 81-year-old male patient. Using the ECG tracing, report the millisecond (ms) timestamp from the start of the recording at which an R‑complex occurs immediately before the longest consecutive R‑R interval — the moment of slowest beat‑to‑beat heart rate? A. 34918125 ms; B. 34918625 ms; C. 34916625 ms; D. 249031 ms",
+      "answer": "B. 34918625 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A151",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 50-year-old female. In the ECG recording, what millisecond (ms) timestamp from the start corresponds to the R‑wave that directly precedes the shortest interval to the next R‑wave, indicating the moment of peak instantaneous heart rate? A. 82190396 ms; B. 71757644 ms; C. 82189896 ms; D. 83989896 ms",
+      "answer": "C. 82189896 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A151",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 50-year-old female. Identify the exact millisecond (ms) mark from the start of the ECG tracing that corresponds to the R‑peak which initiates the temporally longest gap to the next R‑peak (the moment of slowest beat‑to‑beat heart rate)? A. 71457644 ms; B. 71757644 ms; C. 71759644 ms; D. 82189896 ms",
+      "answer": "B. 71757644 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A172",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 65-year-old female. Inspect the ECG rhythm strip and report the millisecond (ms) offset from the start of the recording at which an R‑wave occurs that begins the briefest subsequent R–R interval, indicating the moment of maximal instantaneous heart rate? A. 7063417 ms; B. 7058917 ms; C. 7058417 ms; D. 63752007 ms",
+      "answer": "C. 7058417 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A172",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 65-year-old female patient. On the ECG timeline, identify the millisecond (ms) timestamp from the start of the recording at which an R‑complex occurs immediately before the longest gap between consecutive R‑complexes — the moment of the slowest instantaneous heart rate? A. 64052007 ms; B. 7058417 ms; C. 63752007 ms; D. 63632007 ms",
+      "answer": "C. 63752007 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A174",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 53-year-old female. Determine the millisecond (ms) timestamp from the start of the ECG recording at which an R‑wave occurs that is immediately followed by the shortest subsequent R‑R interval, representing the moment of highest instantaneous heart rate? A. 55063160 ms; B. 11887265 ms; C. 11886765 ms; D. 11899152 ms",
+      "answer": "B. 11887265 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A174",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 53-year-old female patient. Using the rhythm strip, find the millisecond (ms) timestamp from the start of the recording at which an R‑wave marks the beginning of the longest pause between consecutive R‑waves; report that millisecond (ms) offset? A. 11887265 ms; B. 55063160 ms; C. 53263160 ms; D. 55183160 ms",
+      "answer": "B. 55063160 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A175",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 68-year-old male patient. Review the ECG rhythm and give the millisecond (ms) timestamp from the start of the recording at which an R‑wave occurs that initiates the shortest subsequent R–R interval, identifying the moment of maximal heart rate? A. 55559185 ms; B. 85844480 ms; C. 84994535 ms; D. 85249518 ms",
+      "answer": "C. 84994535 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A175",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 68-year-old male patient. Refer to the ECG rhythm strip and state the millisecond (ms) offset from the start of the recording at which an R-wave occurs that initiates the single longest interval to the next R-wave — the timepoint of the slowest instantaneous heart rate? A. 55503626 ms; B. 84994535 ms; C. 55589185 ms; D. 55559185 ms",
+      "answer": "D. 55559185 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A178",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 66-year-old male. On the provided rhythm strip, identify the millisecond (ms) timepoint from the start of recording at which an R‑wave occurs that is followed by the shortest subsequent R‑R interval, marking the instant of highest heart rate? A. 7192359 ms; B. 7194359 ms; C. 7194859 ms; D. 45620815 ms",
+      "answer": "B. 7194359 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A178",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 66-year-old male. On the ECG rhythm strip, state the millisecond (ms) offset from the start of the recording at which a QRS complex appears that is followed by the single longest delay before the next QRS — the timepoint of the slowest instantaneous heart rate? A. 45620815 ms; B. 7194359 ms; C. 26407587 ms; D. 45164607 ms",
+      "answer": "A. 45620815 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A17",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 68-year-old male patient. Which timestamp in milliseconds corresponds to the fastest heart rate in this ECG recording? A. 77069020 ms; B. 51488536 ms; C. 51540525 ms; D. 51489036 ms",
+      "answer": "D. 51489036 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A17",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 68-year-old male. In the ECG recording, specify the millisecond (ms) timepoint from the start at which a QRS complex occurs that initiates the single longest R–R interval observed on the strip — the moment corresponding to the lowest instantaneous heart rate? A. 51489036 ms; B. 77069020 ms; C. 77068020 ms; D. 77039020 ms",
+      "answer": "B. 77069020 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A181",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 63-year-old male patient. Examine the rhythm trace and report the millisecond (ms) timepoint from the start of the ECG recording at which a QRS complex is followed by the briefest subsequent R‑R interval, indicating the moment of peak instantaneous heart rate? A. 63074625 ms; B. 10041111 ms; C. 8141695 ms; D. 9941695 ms",
+      "answer": "D. 9941695 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A181",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 63-year-old male patient. Using the displayed ECG rhythm strip, identify the millisecond (ms) timepoint from the start of the recording at which a QRS complex occurs that corresponds to the maximum inter‑QRS interval on the tracing, indicating the moment of the slowest instantaneous heart rate? A. 9941695 ms; B. 63069625 ms; C. 36508160 ms; D. 63074625 ms",
+      "answer": "D. 63074625 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A185",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 66-year-old male. Identify the millisecond (ms) offset from the start of the ECG recording at which an R‑wave occurs that is immediately followed by the shortest subsequent R–R interval on the tracing, indicating the moment of highest instantaneous heart rate? A. 194120 ms; B. 36918196 ms; C. 204120 ms; D. 314120 ms",
+      "answer": "A. 194120 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A185",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 66-year-old male. On the rhythm strip, identify the millisecond (ms) offset from the start of the recording at which a QRS complex appears that immediately precedes the largest pause before the next QRS — the timepoint corresponding to the slowest instantaneous heart rate? A. 194120 ms; B. 36858196 ms; C. 36948196 ms; D. 36918196 ms",
+      "answer": "D. 36918196 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A186",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 63-year-old female patient. Inspect the rhythm strip and state the millisecond (ms) offset from the start of the ECG at which a QRS complex occurs that begins the most compressed subsequent inter‑beat interval, indicating the instant of the fastest heart rate? A. 37535560 ms; B. 858696 ms; C. 868696 ms; D. 871302 ms",
+      "answer": "C. 868696 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A186",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 63-year-old female patient. At what time point in ms is the lowest instantaneous heart rate observed in this rhythm strip? A. 37536060 ms; B. 868696 ms; C. 39335560 ms; D. 37535560 ms",
+      "answer": "D. 37535560 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A18",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 71-year-old female. On the ECG trace provided, what millisecond (ms) offset from the start of the recording marks the QRS complex that immediately precedes the briefest subsequent R–R interval, indicating the timepoint of the highest instantaneous heart rate? A. 52131819 ms; B. 10150501 ms; C. 10090501 ms; D. 10088501 ms",
+      "answer": "C. 10090501 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A18",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 71-year-old female. From the start of the ECG recording, state the millisecond (ms) timestamp at which a QRS complex occurs that is followed by the longest delay until the next QRS — the timepoint of the slowest instantaneous heart rate on the rhythm strip? A. 52130819 ms; B. 52183950 ms; C. 10090501 ms; D. 52131819 ms",
+      "answer": "D. 52131819 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A192",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 57-year-old female patient. Review the ECG recording and state the millisecond (ms) offset from the start at which a QRS occurs that is followed by the minimal subsequent R–R interval — the timepoint of the fastest instantaneous heart rate? A. 70600045 ms; B. 43114990 ms; C. 70591045 ms; D. 70590045 ms",
+      "answer": "D. 70590045 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A192",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 57-year-old female. Using the waveform trace provided, state the millisecond (ms) timestamp from the start of the recording at which a QRS complex occurs that is followed by the maximum inter-beat interval (the longest R–R delay), identifying the timepoint of the slowest instantaneous heart rate? A. 43114990 ms; B. 43104990 ms; C. 43115990 ms; D. 70590045 ms",
+      "answer": "A. 43114990 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A199",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 50-year-old female. On the provided ECG strip, report the exact millisecond (ms) offset from the recording start where an R‑wave is followed by the shortest subsequent beat‑to‑beat (R–R) interval — the timepoint of the fastest instantaneous heart rate? A. 9908619 ms; B. 11706619 ms; C. 11708619 ms; D. 37861930 ms",
+      "answer": "C. 11708619 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A199",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 50-year-old female. On the provided ECG tracing, indicate the millisecond (ms) timestamp from the start of the recording at which an R‑wave is followed by the single longest interval to the next R‑wave — the timepoint corresponding to the slowest heart‑rate event? A. 37561930 ms; B. 37861930 ms; C. 11708619 ms; D. 37891930 ms",
+      "answer": "B. 37861930 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A200",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 71-year-old female. From the start of the ECG recording, report the single millisecond (ms) timepoint at which a ventricular depolarization (QRS) occurs that is immediately followed by the most rapid subsequent ventricular depolarization on the trace — the timestamp of the peak instantaneous heart rate? A. 20930336 ms; B. 52281415 ms; C. 20929336 ms; D. 21050336 ms",
+      "answer": "A. 20930336 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A200",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 71-year-old female patient. From the start of the ECG recording, state the millisecond (ms) timestamp that corresponds to the R‑wave which begins the single longest R–R interval on the rhythm strip — the timepoint associated with the slowest instantaneous heart rate? A. 52280915 ms; B. 20930336 ms; C. 52281415 ms; D. 52276415 ms",
+      "answer": "C. 52281415 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A201",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 29-year-old female patient. Review the ECG segment and report the millisecond (ms) timestamp from the start of the recording at which a QRS complex is succeeded by the shortest subsequent R–R interval (the timepoint of the highest instantaneous heart rate)? A. 80199644 ms; B. 65340725 ms; C. 79719644 ms; D. 80319644 ms",
+      "answer": "D. 80319644 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A201",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 29-year-old female. Determine the millisecond (ms) timestamp from the start of the ECG recording at which a QRS complex occurs after which the next QRS is delayed the longest, indicating the slowest instantaneous heart rate? A. 65406065 ms; B. 65338725 ms; C. 80319644 ms; D. 65340725 ms",
+      "answer": "D. 65340725 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A202",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 23-year-old male. Review the ECG strip and report the millisecond (ms) offset from the start of the recording at which the R‑wave occurs that initiates the shortest observed R‑R interval on the trace — the timepoint of the fastest instantaneous heart rate? A. 43071116 ms; B. 43114730 ms; C. 77332705 ms; D. 43114230 ms",
+      "answer": "D. 43114230 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A202",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 23-year-old male. From the start of the ECG tracing, report the millisecond (ms) timestamp at which an R‑wave occurs that is followed by the single longest pause to the next R‑wave on the recording — i.e., the timepoint of the slowest instantaneous heart rate? A. 77332705 ms; B. 43114230 ms; C. 77332205 ms; D. 77392705 ms",
+      "answer": "A. 77332705 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A213",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 67-year-old female patient. Determine the exact millisecond (ms) timepoint measured from the start of the ECG recording at which an R‑peak occurs that is followed by the shortest interval to the next R‑peak (the moment of maximum instantaneous heart rate)? A. 267986 ms; B. 40229689 ms; C. 1947986 ms; D. 147986 ms",
+      "answer": "D. 147986 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A213",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 67-year-old female. Examine the rhythm strip and give the millisecond (ms) offset from the start of the recording at which an R-wave is recorded that is followed by the single longest interval to the next R-wave — the point of lowest instantaneous heart rate on the tracing? A. 39929689 ms; B. 40229689 ms; C. 40227689 ms; D. 147986 ms",
+      "answer": "B. 40229689 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A214",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 65-year-old male patient. Measured from the start of this ECG recording, at what millisecond (ms) offset does the R‑wave occur that is immediately followed by the shortest R–R interval — the timepoint of the highest instantaneous heart rate on the trace? A. 61688069 ms; B. 40220514 ms; C. 61873690 ms; D. 61883690 ms",
+      "answer": "C. 61873690 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A214",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 65-year-old male. On the rhythm strip, what millisecond (ms) timestamp from the start of the recording identifies the R‑peak that initiates the longest consecutive R–R interval, corresponding to the slowest instantaneous heart rate? A. 40221514 ms; B. 61873690 ms; C. 40341175 ms; D. 40220514 ms",
+      "answer": "D. 40220514 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A228",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 44-year-old female. Examine the ECG tracing and give the millisecond (ms) time from the start of the recording at which a beat occurs that is followed by the shortest R–R interval, representing the point of greatest instantaneous heart rate? A. 30039870 ms; B. 69982385 ms; C. 30069870 ms; D. 30034870 ms",
+      "answer": "A. 30039870 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A228",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 44-year-old female. Identify the millisecond (ms) timepoint from the start of the ECG recording at which an R‑peak occurs that is immediately followed by the largest inter‑beat interval on the rhythm strip (the moment of lowest instantaneous heart rate)? A. 69862385 ms; B. 70052367 ms; C. 69982385 ms; D. 30039870 ms",
+      "answer": "C. 69982385 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A230",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 83-year-old female patient. Review the provided ECG and specify the millisecond (ms) timepoint from the start of the recording at which a beat occurs that is followed by the most rapid subsequent beat‑to‑beat interval, representing the moment of peak instantaneous heart rate? A. 6282410 ms; B. 6192410 ms; C. 6252410 ms; D. 54898834 ms",
+      "answer": "C. 6252410 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A230",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 83-year-old female patient. On the rhythm strip, give the millisecond (ms) timestamp from the start of the recording at which an R‑wave appears immediately before the greatest beat‑to‑beat interval observed in the tracing? A. 54908834 ms; B. 6252410 ms; C. 54898834 ms; D. 54734138 ms",
+      "answer": "C. 54898834 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A237",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 79-year-old female. Examine the ECG waveform and report the millisecond (ms) timepoint from the start of the recording at which two successive R peaks are most closely spaced; provide the timestamp of the first of those two R peaks? A. 58776823 ms; B. 59376823 ms; C. 59076823 ms; D. 64240778 ms",
+      "answer": "B. 59376823 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A237",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 79-year-old female patient. Identify the millisecond (ms) offset from the start of the ECG recording at which an R‑wave occurs that begins the longest R‑R interval on the strip (the moment of lowest instantaneous heart rate)? A. 64300778 ms; B. 64239778 ms; C. 59376823 ms; D. 64240778 ms",
+      "answer": "D. 64240778 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A238",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 89-year-old female patient. From the start of the ECG recording, at what millisecond (ms) timestamp does the first R‑peak occur that begins the pair of consecutive beats with the smallest R‑R interval (the point of highest instantaneous heart rate)? A. 1914255 ms; B. 1916171 ms; C. 68191770 ms; D. 1914171 ms",
+      "answer": "B. 1916171 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A238",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 89-year-old female. On the provided ECG tracing, indicate the millisecond (ms) offset from the start of the recording of the R‑wave that immediately precedes the longest R‑R interval on the strip (the moment of lowest instantaneous heart rate)? A. 68221770 ms; B. 67987195 ms; C. 68191770 ms; D. 1916171 ms",
+      "answer": "C. 68191770 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A240",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 74-year-old male. Inspect the ECG tracing and report the millisecond (ms) offset from the start of the recording at which an R‑wave occurs that begins the pair of consecutive beats with the minimal R‑R duration (the instant when instantaneous heart rate reaches its peak)? A. 28778844 ms; B. 28899344 ms; C. 28779344 ms; D. 2100965 ms",
+      "answer": "C. 28779344 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A240",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 74-year-old male. Review the ECG rhythm strip and state the millisecond (ms) timepoint from the start of the recording at which an R‑wave occurs after which the next R‑wave is delayed the longest (the moment of the slowest instantaneous heart rate)? A. 2094663 ms; B. 2100965 ms; C. 28779344 ms; D. 2107267 ms",
+      "answer": "B. 2100965 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A242",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 54-year-old male patient. Review the ECG waveform and report the millisecond (ms) timestamp from the start of the recording at which an R‑peak occurs that initiates the single shortest interval between consecutive R‑peaks on the strip (the point of highest instantaneous heart rate)? A. 39046184 ms; B. 46596163 ms; C. 45966163 ms; D. 46566163 ms",
+      "answer": "D. 46566163 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A242",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 54-year-old male. Inspect the rhythm strip and state the millisecond (ms) timestamp from the start of the recording when the R‑complex occurs that is followed by the longest delay before the next R‑complex (the point of lowest instantaneous heart rate)? A. 39045684 ms; B. 39436645 ms; C. 39046184 ms; D. 46566163 ms",
+      "answer": "C. 39046184 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A248",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 69-year-old female patient. Identify the exact millisecond (ms) offset from the start of the recording where an R‑complex occurs that participates in the single shortest consecutive R‑R interval on the ECG — the timepoint of highest instantaneous heart rate? A. 81850228 ms; B. 73955668 ms; C. 82095778 ms; D. 77902948 ms",
+      "answer": "A. 81850228 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A248",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 69-year-old female. Review the ECG rhythm strip and report the millisecond (ms) timestamp from the start of the recording at which an R-wave occurs that is followed by the longest interval before the next R-wave — the moment of slowest instantaneous heart rate? A. 73955168 ms; B. 81850228 ms; C. 73955668 ms; D. 74255668 ms",
+      "answer": "C. 73955668 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A252",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 46-year-old male. From the start of the ECG tracing, state the millisecond (ms) timestamp at which an R‑wave occurs that begins the single briefest interbeat gap on the strip — the instant of highest instantaneous heart rate? A. 51509850 ms; B. 33931150 ms; C. 33811150 ms; D. 69088550 ms",
+      "answer": "B. 33931150 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A252",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 46-year-old male patient. On the provided rhythm strip, what is the millisecond (ms) offset from the start of the ECG at which an R‑wave occurs that is followed by the longest interval before the next R‑wave — the timepoint of the slowest instantaneous heart rate? A. 69088550 ms; B. 69688550 ms; C. 33931150 ms; D. 69086550 ms",
+      "answer": "A. 69088550 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A257",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 75-year-old male. While reviewing the continuous ECG recording, which millisecond (ms) offset from the start marks an R‑wave after which the next R‑wave follows sooner than after any other R‑wave on the strip? A. 4183541 ms; B. 4188541 ms; C. 73864270 ms; D. 4158541 ms",
+      "answer": "B. 4188541 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A257",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 75-year-old male. Which millisecond (ms) mark from the start of the ECG recording corresponds to the R‑wave after which the subsequent R‑R interval is longest, representing the moment of slowest instantaneous heart rate? A. 73864270 ms; B. 74464270 ms; C. 73924270 ms; D. 4188541 ms",
+      "answer": "A. 73864270 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A25",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 81-year-old female. At what millisecond (ms) mark from the start of the ECG recording does an R‑peak occur that initiates the briefest subsequent R‑R interval, representing the moment of maximum instantaneous heart rate? A. 2376669 ms; B. 2381669 ms; C. 4176669 ms; D. 63001151 ms",
+      "answer": "A. 2376669 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A25",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 81-year-old female. Using the rhythm strip, report the millisecond (ms) offset from the start of the recording that marks the R‑wave after which the following R‑wave is delayed the longest — the timepoint of the slowest instantaneous heart rate? A. 32688910 ms; B. 63001151 ms; C. 63061151 ms; D. 2376669 ms",
+      "answer": "B. 63001151 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A263",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 79-year-old female. At what millisecond (ms) mark from the start of the ECG recording does an R‑wave occur whose following R‑R interval is the shortest on the rhythm strip, indicating the instant of the fastest instantaneous heart rate? A. 9455599 ms; B. 39042325 ms; C. 9424599 ms; D. 9425599 ms",
+      "answer": "D. 9425599 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A263",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 79-year-old female patient. Review the rhythm strip and report the millisecond (ms) timestamp from the start of the recording that corresponds to the onset of the most prolonged interval between consecutive ventricular depolarizations (i.e., the timepoint of the slowest instantaneous heart rate)? A. 39042825 ms; B. 39042325 ms; C. 9425599 ms; D. 38442325 ms",
+      "answer": "B. 39042325 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A264",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 50-year-old female. Examine the ECG rhythm tracing and state the millisecond (ms) offset from the start of the recording at which an R‑wave occurs that is followed by the shortest interval to the next R‑wave — the timepoint of the highest instantaneous heart rate? A. 74769500 ms; B. 51648804 ms; C. 74169500 ms; D. 74469500 ms",
+      "answer": "A. 74769500 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A264",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 50-year-old female. From the start of the ECG recording, state the millisecond (ms) timestamp that corresponds to the ventricular depolarization (R‑wave) which immediately precedes the single longest interval until the next R‑wave — the timepoint of the slowest instantaneous heart rate? A. 51648804 ms; B. 51493858 ms; C. 52248804 ms; D. 74769500 ms",
+      "answer": "A. 51648804 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A265",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 68-year-old female patient. Identify the millisecond (ms) timestamp from the start of the ECG recording at which an R‑peak occurs that is immediately followed by the smallest R‑R interval on the rhythm strip — the moment of maximum instantaneous heart rate? A. 53212230 ms; B. 74367515 ms; C. 74247015 ms; D. 74367015 ms",
+      "answer": "D. 74367015 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A265",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 68-year-old female. From the start of the ECG recording, what is the millisecond (ms) timestamp of the R-peak that is followed by the longest interval before the next R-peak on the rhythm strip, representing the point of slowest instantaneous heart rate? A. 74367015 ms; B. 51412230 ms; C. 53371866 ms; D. 53212230 ms",
+      "answer": "D. 53212230 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A266",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 40-year-old female patient. On the rhythm strip shown, which millisecond (ms) mark from the beginning of the recording corresponds to the R-peak that directly precedes the briefest R‑R interval (the moment of maximum instantaneous heart rate)? A. 400100 ms; B. 279100 ms; C. 70258885 ms; D. 399100 ms",
+      "answer": "D. 399100 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A266",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 40-year-old female. At what time point in ms is the lowest instantaneous heart rate observed in this rhythm strip? A. 70258885 ms; B. 399100 ms; C. 70198885 ms; D. 69958885 ms",
+      "answer": "A. 70258885 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A269",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 65-year-old male patient. Examine the ECG waveform trace and state the millisecond (ms) offset from the start of the recording that corresponds to the R‑peak after which the subsequent R‑R interval is shortest — the moment of maximal instantaneous heart rate? A. 81701499 ms; B. 74068766 ms; C. 79961499 ms; D. 81761499 ms",
+      "answer": "D. 81761499 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A269",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 65-year-old male patient. From the start of the ECG recording, state the millisecond (ms) timepoint at which a QRS complex occurs that initiates the single longest subsequent R‑R interval on the rhythm strip — the moment of lowest instantaneous heart rate? A. 74068766 ms; B. 72268766 ms; C. 74073766 ms; D. 81761499 ms",
+      "answer": "A. 74068766 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A293",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 28-year-old female. Starting from the beginning of the ECG recording (time zero), state the millisecond (ms) timestamp at which an R‑wave occurs that is immediately followed by the smallest time gap to the next R‑wave, indicating the moment of highest instantaneous heart rate? A. 35188557 ms; B. 98824 ms; C. 70278290 ms; D. 158824 ms",
+      "answer": "B. 98824 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A293",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 28-year-old female. From the start of the ECG tracing (time zero), at what millisecond (ms) timepoint does a beat occur that is followed by the longest interbeat interval — the moment corresponding to the slowest instantaneous heart rate? A. 70278290 ms; B. 70981072 ms; C. 98824 ms; D. 70277790 ms",
+      "answer": "A. 70278290 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A29",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 65-year-old female patient. Considering the rhythm strip with 0 ms at the left edge, at what millisecond (ms) timepoint does a beat occur that is followed by the smallest interval to the next beat — the single instant of highest instantaneous heart rate? A. 63383089 ms; B. 53231022 ms; C. 43078955 ms; D. 63683089 ms",
+      "answer": "A. 63383089 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A29",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 65-year-old female patient. From the beginning of the ECG tracing (0 ms), indicate the single millisecond (ms) timestamp of the beat after which the interval until the next beat is longest — the timepoint corresponding to the slowest instantaneous heart rate? A. 43078955 ms; B. 43079455 ms; C. 43018955 ms; D. 63383089 ms",
+      "answer": "A. 43078955 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A302",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 70-year-old male. On the ECG waveform (time axis shown in ms), indicate the single millisecond (ms) offset from the start of recording that corresponds to the QRS complex whose following R‑R interval is the shortest — the instant of highest instantaneous heart rate? A. 29620274 ms; B. 29531414 ms; C. 19121680 ms; D. 8623085 ms",
+      "answer": "A. 29620274 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A302",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 70-year-old male. From the ECG tracing with 0 ms at the left edge, indicate the single millisecond (ms) offset that marks the QRS complex preceding the longest inter‑beat pause — the moment of the slowest instantaneous heart rate? A. 8623085 ms; B. 8597216 ms; C. 29620274 ms; D. 8623585 ms",
+      "answer": "A. 8623085 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A307",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 74-year-old male. Which timestamp in milliseconds corresponds to the fastest heart rate in this ECG recording? A. 80224010 ms; B. 59414540 ms; C. 59504540 ms; D. 59384540 ms",
+      "answer": "D. 59384540 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A307",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 74-year-old male. Which timestamp in milliseconds corresponds to the slowest heart rate in this ECG recording? A. 80344010 ms; B. 59384540 ms; C. 80219010 ms; D. 80224010 ms",
+      "answer": "D. 80224010 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A308",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 56-year-old female. Which millisecond timestamp marks the shortest RR interval in this ECG trace? A. 30651280 ms; B. 30650280 ms; C. 30619630 ms; D. 63468039 ms",
+      "answer": "B. 30650280 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A308",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 56-year-old female patient. Locate the millisecond (ms) mark on the ECG timeline where a QRS complex is followed by the longest pause before the next beat — the timepoint of the slowest instantaneous heart rate (time axis shown in ms)? A. 63498039 ms; B. 30650280 ms; C. 63473039 ms; D. 63468039 ms",
+      "answer": "D. 63468039 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A309",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 67-year-old male. At what time point in ms is the highest instantaneous heart rate observed in this rhythm strip? A. 34665500 ms; B. 49388458 ms; C. 34769496 ms; D. 34318845 ms",
+      "answer": "A. 34665500 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A309",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 67-year-old male patient. Refer to the ECG trace (time axis in ms, 0 ms = start of recording); identify the single millisecond timestamp at which a beat occurs that is followed by the greatest delay until the next ventricular depolarization, representing the slowest instantaneous heart rate? A. 49393458 ms; B. 49388458 ms; C. 34665500 ms; D. 48788458 ms",
+      "answer": "B. 49388458 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A330",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 93-year-old male patient. On the ECG trace with millisecond timestamps, state the single ms timepoint corresponding to the beat that produces the shortest beat‑to‑beat interval (the R wave that is followed most quickly by the next R) — the moment of peak instantaneous heart rate? A. 16902283 ms; B. 15702283 ms; C. 17502283 ms; D. 30574510 ms",
+      "answer": "C. 17502283 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A330",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 93-year-old male. At what time point in ms is the lowest instantaneous heart rate observed in this rhythm strip? A. 24038396 ms; B. 17502283 ms; C. 30574510 ms; D. 30569510 ms",
+      "answer": "C. 30574510 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A336",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 69-year-old male patient. Inspect the ECG waveform (time axis in ms) and state the single millisecond timestamp of the R peak that is followed, sooner than any other R, by the next beat — the moment of the fastest instantaneous heart rate (provide the time in ms)? A. 6047960 ms; B. 6017960 ms; C. 6027960 ms; D. 47209506 ms",
+      "answer": "B. 6017960 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A336",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 69-year-old male. In the ECG strip with the horizontal time axis labeled in ms, at which single millisecond timestamp does an R peak occur that is followed by the largest RR interval (the slowest instantaneous heart rate)? A. 47219506 ms; B. 45409506 ms; C. 6017960 ms; D. 47209506 ms",
+      "answer": "D. 47209506 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A338",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 71-year-old male patient. From the ECG strip with the horizontal time axis labeled in ms, identify the single millisecond timestamp of the R wave that is followed by the shortest RR interval to the next R — give the time in ms? A. 9718816 ms; B. 9708816 ms; C. 9716816 ms; D. 25592305 ms",
+      "answer": "A. 9718816 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A338",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 71-year-old male. On the ECG strip with the time axis shown in ms, which single millisecond timestamp corresponds to the R complex after which the following R wave is delayed the longest (the slowest beat‑to‑beat interval)? A. 25592805 ms; B. 25597305 ms; C. 25592305 ms; D. 9718816 ms",
+      "answer": "C. 25592305 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A34",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 43-year-old female patient. Using the ECG rhythm strip with the horizontal axis labeled in ms, indicate the single millisecond time point of the R complex that immediately precedes the briefest RR interval in the recording — state that timestamp in ms? A. 38981650 ms; B. 57176200 ms; C. 75370751 ms; D. 75371251 ms",
+      "answer": "C. 75370751 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A34",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 43-year-old female. Using the ECG waveform trace with the horizontal time axis in ms, identify the single millisecond timestamp of the R wave that is followed by the longest pause before the next R wave (the largest RR interval); report that time in ms? A. 38976650 ms; B. 38942669 ms; C. 75370751 ms; D. 38981650 ms",
+      "answer": "D. 38981650 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A350",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 67-year-old male patient. On the ECG recording shown with the horizontal time scale in ms, identify the exact millisecond offset of the R complex that immediately precedes the briefest beat‑to‑beat interval in the tracing — state that time in ms? A. 84145916 ms; B. 50941435 ms; C. 84155916 ms; D. 85945916 ms",
+      "answer": "A. 84145916 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A350",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 67-year-old male patient. On the displayed ECG tracing with the horizontal time axis shown in ms, at which single millisecond offset does an R wave occur that is followed by the longest interval until the next R wave (the moment of slowest instantaneous heart rate)? A. 50941435 ms; B. 50992376 ms; C. 84145916 ms; D. 50881435 ms",
+      "answer": "A. 50941435 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A356",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 60-year-old female. Refer to the ECG tracing with the horizontal time axis labeled in ms and identify the single millisecond timestamp at which an R wave occurs immediately before the most closely spaced subsequent R wave (the moment of highest instantaneous heart rate); what is that time in ms? A. 4762349 ms; B. 4702349 ms; C. 65015065 ms; D. 4757587 ms",
+      "answer": "A. 4762349 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A356",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 60-year-old female patient. Determine the single millisecond time point on the ECG strip (horizontal time axis shown in ms) where an R complex occurs that is followed by the longest delay until the next R wave—report that timestamp in ms? A. 64820020 ms; B. 4762349 ms; C. 65015065 ms; D. 65015565 ms",
+      "answer": "C. 65015065 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A359",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 63-year-old female patient. Review the ECG strip with the time axis labeled in ms and specify the single millisecond timepoint of the R complex that is followed by the briefest interval to the next R wave (the moment of highest instantaneous heart rate) — what is that time in ms? A. 14716784 ms; B. 14776784 ms; C. 14656784 ms; D. 45587547 ms",
+      "answer": "B. 14776784 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A359",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 63-year-old female patient. On the ECG rhythm strip with the horizontal time axis labeled in ms, which single millisecond timestamp marks the R wave that is followed by the longest interval before the next R (the slowest instantaneous heart rate)? A. 14776784 ms; B. 45587547 ms; C. 45586547 ms; D. 46043422 ms",
+      "answer": "B. 45587547 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A366",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 33-year-old female. On the ECG trace with the horizontal time axis marked in ms, what single millisecond timestamp corresponds to the R wave that produces the highest instantaneous heart rate based on the interval to the next R wave? A. 8467245 ms; B. 8477245 ms; C. 64071401 ms; D. 8777245 ms",
+      "answer": "B. 8477245 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A366",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 33-year-old female. With the ECG trace displayed (horizontal time axis in ms), pinpoint the exact millisecond offset of the R‑complex whose subsequent beat occurs after the largest delay — report that time in ms? A. 36274323 ms; B. 8477245 ms; C. 63951401 ms; D. 64071401 ms",
+      "answer": "D. 64071401 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A369",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 69-year-old male patient. At what time point in ms is the highest instantaneous heart rate observed in this rhythm strip? A. 48132615 ms; B. 67863161 ms; C. 48732615 ms; D. 47832615 ms",
+      "answer": "A. 48132615 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A369",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 69-year-old male patient. Examine the rhythm strip where the horizontal time axis is labeled in ms; which single millisecond coordinate corresponds to the R‑peak that is followed by the greatest R‑R interval (i.e., the slowest instantaneous heart rate)? A. 48132615 ms; B. 67863161 ms; C. 68463161 ms; D. 67983161 ms",
+      "answer": "B. 67863161 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A373",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 70-year-old female. On the ECG strip with the horizontal time axis labeled in ms, specify the exact millisecond timestamp of the R-wave that is followed by the shortest subsequent R‑R interval? A. 82178658 ms; B. 31905419 ms; C. 83978658 ms; D. 83979158 ms",
+      "answer": "C. 83978658 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A373",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 70-year-old female patient. On the ECG timeline (horizontal axis calibrated in ms), identify the single millisecond offset where an R complex occurs that marks the beginning of the longest interval until the next R complex; report that time in ms? A. 31905419 ms; B. 31915419 ms; C. 83978658 ms; D. 32025419 ms",
+      "answer": "A. 31905419 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A379",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 44-year-old male. Review the ECG rhythm strip (horizontal time scale in ms) and state the exact millisecond offset of the R complex that is immediately followed by the quickest subsequent R‑R interval (the moment of highest instantaneous heart rate)? A. 42489912 ms; B. 42618265 ms; C. 42617765 ms; D. 59442578 ms",
+      "answer": "C. 42617765 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A379",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 44-year-old male patient. Examine the ECG trace with the horizontal time axis shown in ms and state the single millisecond timestamp of the R wave after which the next R wave occurs at the greatest delay (the slowest instantaneous heart rate), reporting the time in ms? A. 59742578 ms; B. 59442578 ms; C. 59442078 ms; D. 42617765 ms",
+      "answer": "B. 59442578 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A37",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 57-year-old male patient. Using the ECG rhythm strip with the horizontal time axis shown in ms, indicate the single millisecond timestamp of the R wave that is followed by the tightest spacing to the next R wave? A. 11795775 ms; B. 11785775 ms; C. 32355445 ms; D. 11677818 ms",
+      "answer": "A. 11795775 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A37",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 57-year-old male patient. Using the ECG strip’s ms-calibrated horizontal axis, pinpoint the single millisecond timepoint at which an R complex occurs immediately before the maximal pause until the next R complex (the slowest instantaneous heart rate)? A. 32355445 ms; B. 32678999 ms; C. 32235445 ms; D. 11795775 ms",
+      "answer": "A. 32355445 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A382",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 6-year-old female. In the ECG segment shown with the horizontal time axis calibrated in ms, identify the single millisecond timestamp of the R complex that is immediately followed by the shortest R‑R interval (the moment of highest instantaneous heart rate)? A. 803666 ms; B. 61234429 ms; C. 743666 ms; D. 748666 ms",
+      "answer": "C. 743666 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A382",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 6-year-old female patient. At what time point in ms is the lowest instantaneous heart rate observed in this rhythm strip? A. 743666 ms; B. 63034429 ms; C. 30989048 ms; D. 61234429 ms",
+      "answer": "D. 61234429 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A384",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 76-year-old male patient. On the ECG segment with the horizontal time axis marked in ms, locate the single millisecond timepoint of the R wave that is immediately followed by the shortest R‑R interval (the moment of highest instantaneous heart rate)? A. 13000629 ms; B. 13115629 ms; C. 13120629 ms; D. 74648889 ms",
+      "answer": "C. 13120629 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A384",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 76-year-old male patient. Inspect the ECG strip with the horizontal time axis in ms and provide the single millisecond timestamp of the R wave whose following R‑R interval is longer than any other in the recording; report the time in ms? A. 74648889 ms; B. 74647889 ms; C. 76448889 ms; D. 13120629 ms",
+      "answer": "A. 74648889 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A386",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 62-year-old male patient. From the rhythm strip’s timeline calibrated in ms, identify the single millisecond timepoint at which an R complex occurs that is followed by the briefest interval to the next R complex (the moment of highest instantaneous heart rate) — report that time in ms? A. 74208960 ms; B. 81726135 ms; C. 81971313 ms; D. 77967548 ms",
+      "answer": "B. 81726135 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A386",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 62-year-old male. At what time point in ms is the lowest instantaneous heart rate observed in this rhythm strip? A. 81726135 ms; B. 74208960 ms; C. 73466871 ms; D. 76008960 ms",
+      "answer": "B. 74208960 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A392",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 61-year-old female. Inspect the ECG waveform trace with its horizontal time scale in ms and report the single millisecond timestamp of the beat after which the next QRS occurs more quickly than anywhere else on the recording — the moment of highest instantaneous heart rate (report in ms)? A. 6154153 ms; B. 63116194 ms; C. 4354153 ms; D. 4352153 ms",
+      "answer": "C. 4354153 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A392",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 61-year-old female patient. Please identify, using the ECG recording’s horizontal time scale in ms, the exact millisecond timestamp of the QRS complex after which the following R‑R interval is longest — the moment of the slowest instantaneous heart rate; report that time in ms? A. 63126194 ms; B. 63146194 ms; C. 63116194 ms; D. 4354153 ms",
+      "answer": "C. 63116194 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A394",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 47-year-old female patient. On the ECG rhythm tracing with the horizontal time axis shown in ms, identify the exact millisecond timestamp of the R‑wave after which the following R‑R interval is shortest (the moment of highest instantaneous heart rate) and report that time in ms? A. 1350730 ms; B. 41538921 ms; C. 1351730 ms; D. 1351230 ms",
+      "answer": "D. 1351230 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A394",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 47-year-old female patient. On the ECG recording’s timeline (marked in ms), identify the single millisecond timepoint of the R‑wave that is immediately followed by the longest R‑R gap — report that time in ms? A. 41528921 ms; B. 42138921 ms; C. 1351230 ms; D. 41538921 ms",
+      "answer": "D. 41538921 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A396",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 65-year-old female. In the ECG excerpt shown with the horizontal time axis labeled in ms, at which single millisecond mark does a ventricular depolarization (QRS) occur that is followed by the shortest interval to the next ventricular depolarization — report that exact time in ms? A. 801572 ms; B. 769572 ms; C. 52746376 ms; D. 771572 ms",
+      "answer": "D. 771572 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A396",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 65-year-old female patient. Using the ECG tracing’s horizontal time scale (marked in ms), give the exact millisecond offset of the QRS complex that is followed by the longest pause before the next QRS — what is that time in ms? A. 52866376 ms; B. 52904615 ms; C. 52746376 ms; D. 771572 ms",
+      "answer": "C. 52746376 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A398",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 71-year-old female. Using the ECG trace’s horizontal time scale (marked in ms), pinpoint the single millisecond timestamp at which a QRS complex occurs that precedes the shortest interval to the next QRS — report that exact time in ms? A. 14423162 ms; B. 14724162 ms; C. 14424162 ms; D. 49576490 ms",
+      "answer": "C. 14424162 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A398",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 71-year-old female. Using the ECG trace’s horizontal time axis in ms, indicate the single millisecond timepoint of the R‑wave that precedes the maximal pause between consecutive ventricular depolarizations (i.e., the slowest instantaneous heart rate)? A. 14424162 ms; B. 49576490 ms; C. 47776490 ms; D. 51376490 ms",
+      "answer": "B. 49576490 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A399",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 53-year-old female. Which timestamp in milliseconds corresponds to the fastest heart rate in this ECG recording? A. 21703276 ms; B. 45580801 ms; C. 21673276 ms; D. 21486244 ms",
+      "answer": "A. 21703276 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A399",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 53-year-old female. Which ms timestamp on the ECG time axis corresponds to the beat that produces the slowest instantaneous heart rate, defined as the QRS after which the subsequent R‑R interval is greatest? A. 45580801 ms; B. 46036609 ms; C. 33642038 ms; D. 21703276 ms",
+      "answer": "A. 45580801 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A403",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 58-year-old male. Inspect the ECG strip shown with the horizontal time axis in ms and report the single millisecond timestamp at which an R‑wave occurs that is followed by the most closely spaced subsequent R‑wave (the moment of highest instantaneous heart rate) — what is that time in ms? A. 80655505 ms; B. 79736936 ms; C. 63226570 ms; D. 79856936 ms",
+      "answer": "D. 79856936 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A403",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 58-year-old male patient. Refer to the rhythm strip displayed with the horizontal time scale in ms and identify the single millisecond timestamp of the R‑wave after which the next ventricular beat is most delayed (i.e., followed by the longest R‑R interval)? A. 63226570 ms; B. 63526570 ms; C. 79856936 ms; D. 63196570 ms",
+      "answer": "A. 63226570 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A404",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 52-year-old male patient. On the ECG strip with the horizontal time scale shown in ms, identify the single millisecond timepoint at which a QRS complex occurs that is followed by the shortest subsequent R‑R interval (the moment of highest instantaneous heart rate) — state that time in ms? A. 65270075 ms; B. 65300075 ms; C. 33771166 ms; D. 65570075 ms",
+      "answer": "A. 65270075 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A404",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 52-year-old male patient. Review the ECG tracing (horizontal axis calibrated in ms) and state the single millisecond timestamp of the R‑wave that precedes the longest subsequent R‑R interval? A. 33771166 ms; B. 33872479 ms; C. 33737395 ms; D. 65270075 ms",
+      "answer": "A. 33771166 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A40",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 59-year-old male. Examine the ECG rhythm strip with the horizontal axis labeled in ms and state the exact millisecond when a beat occurs that is followed by the quickest arrival of the next QRS complex — give that time in ms? A. 79894650 ms; B. 29136080 ms; C. 79294650 ms; D. 79414650 ms",
+      "answer": "C. 79294650 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A40",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 59-year-old male patient. On the ECG rhythm strip labeled in ms, pinpoint the single millisecond timepoint at which an R‑wave occurs that is followed by the longest interval until the next QRS complex; report that time in ms? A. 29126080 ms; B. 29136080 ms; C. 79294650 ms; D. 29436080 ms",
+      "answer": "B. 29136080 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A414",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 37-year-old female patient. Refer to the ECG tracing with the horizontal time ruler in ms and indicate the single millisecond timestamp at which a ventricular beat occurs that is followed by the shortest R‑R interval (i.e., the time of the fastest instantaneous heart rate)? A. 64693475 ms; B. 18361139 ms; C. 18416388 ms; D. 18434804 ms",
+      "answer": "C. 18416388 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A414",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 37-year-old female. On the ECG tracing whose time axis is marked in ms, identify the single millisecond timestamp at which a ventricular complex occurs that is followed by the longest interval before the next ventricular beat? A. 64703475 ms; B. 64698475 ms; C. 18416388 ms; D. 64693475 ms",
+      "answer": "D. 64693475 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A416",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 63-year-old male. Review the ECG rhythm strip with the horizontal time axis shown in ms and state the precise millisecond timepoint of the beat that is followed by the shortest R‑R interval — the instant corresponding to the peak instantaneous heart rate? A. 35533640 ms; B. 35689209 ms; C. 35569209 ms; D. 75469690 ms",
+      "answer": "C. 35569209 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A416",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 63-year-old male. On the ECG strip with the horizontal time axis labeled in ms, indicate the single millisecond timestamp at which a ventricular complex occurs that is followed by the longest interval before the next QRS (the point of slowest instantaneous heart rate)? A. 75469690 ms; B. 75696099 ms; C. 35569209 ms; D. 75243281 ms",
+      "answer": "A. 75469690 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A418",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 42-year-old male. On the ECG recording shown with the horizontal time scale in ms, indicate the single millisecond timestamp of the beat after which the subsequent ventricular complex occurs in the shortest interval — the moment of the maximal instantaneous heart rate (report the time in ms)? A. 80312641 ms; B. 80012641 ms; C. 80252678 ms; D. 61591925 ms",
+      "answer": "B. 80012641 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A418",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 42-year-old male. Inspect the ECG tracing with the horizontal time axis shown in ms and specify the single millisecond timepoint at which a QRS complex occurs that is followed by the greatest interval before the next QRS (the moment of the slowest instantaneous heart rate)? A. 80012641 ms; B. 61891925 ms; C. 61591925 ms; D. 61291925 ms",
+      "answer": "C. 61591925 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A420",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 65-year-old male patient. On the ECG recording with its horizontal time scale shown in ms, identify the single millisecond timepoint at which a QRS complex is followed by the minimum subsequent interbeat interval — the moment of peak instantaneous heart rate? A. 502138 ms; B. 472138 ms; C. 352138 ms; D. 69760835 ms",
+      "answer": "B. 472138 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A420",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 65-year-old male. Inspect the ECG rhythm strip with the horizontal time ruler shown in ms and report the single millisecond offset at which a QRS/ventricular complex occurs that immediately precedes the greatest pause before the next QRS — the instant of lowest instantaneous heart rate? A. 472138 ms; B. 69761335 ms; C. 69700835 ms; D. 69760835 ms",
+      "answer": "D. 69760835 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A423",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 57-year-old male. Which timestamp in milliseconds corresponds to the fastest heart rate in this ECG recording? A. 32390896 ms; B. 34195896 ms; C. 76248630 ms; D. 34190896 ms",
+      "answer": "D. 34190896 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A423",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 57-year-old male patient. From the ECG strip shown with the horizontal time ruler labeled in ms, report the single millisecond timestamp at which a ventricular/QRS complex occurs that is immediately followed by the largest pause before the next beat — the moment of the slowest instantaneous heart rate (ms)? A. 76248630 ms; B. 76548630 ms; C. 76258630 ms; D. 34190896 ms",
+      "answer": "A. 76248630 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A429",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 91-year-old male patient. Refer to the ECG waveform trace with the horizontal time scale shown in ms; state the single millisecond timestamp at which a recorded beat occurs that begins the most rapid pair of consecutive beats (i.e., the beat followed in the shortest time by the next beat)? A. 61655881 ms; B. 45902204 ms; C. 53749042 ms; D. 61595881 ms",
+      "answer": "D. 61595881 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A429",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 91-year-old male. Look at the ECG rhythm strip with time ticks marked in ms and indicate the exact millisecond at which a beat occurs that is followed by the largest interval before the next beat — the point of the slowest instantaneous heart rate? A. 45902204 ms; B. 61595881 ms; C. 45443182 ms; D. 45932204 ms",
+      "answer": "A. 45902204 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A432",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 71-year-old female. From the ECG rhythm strip's horizontal timeline marked in ms, state the exact millisecond timestamp at which a beat occurs that is followed by the shortest subsequent R‑R interval — the time of the most rapid consecutive beat pair? A. 6525453 ms; B. 6524953 ms; C. 5925453 ms; D. 15681073 ms",
+      "answer": "A. 6525453 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A432",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 71-year-old female patient. On the ECG tracing with the horizontal time ruler marked in ms, specify the single millisecond timestamp at which a QRS complex occurs that is followed by the largest subsequent R‑R interval in the recording — the point of the slowest instantaneous heart rate? A. 6525453 ms; B. 15680073 ms; C. 15681073 ms; D. 15651073 ms",
+      "answer": "C. 15681073 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A435",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 63-year-old male. Give the millisecond (ms) timepoint on the ECG when a beat appears that is followed by the smallest subsequent interval to the next beat, representing the highest instantaneous heart rate? A. 3407390 ms; B. 21537798 ms; C. 3437390 ms; D. 39668206 ms",
+      "answer": "A. 3407390 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A435",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 63-year-old male patient. Review the ECG waveform with the horizontal time axis labeled in ms and state the single millisecond at which a QRS complex occurs that is followed by the greatest separation to the next QRS (the point of the slowest beat‑to‑beat interval)? A. 3407390 ms; B. 37868206 ms; C. 39678206 ms; D. 39668206 ms",
+      "answer": "D. 39668206 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A43",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 52-year-old male. Using the ECG rhythm strip's horizontal time axis (ms), specify the single millisecond timestamp at which a beat occurs that precedes the smallest beat‑to‑beat interval in the recording — the moment of the highest instantaneous heart rate (ms)? A. 76546017 ms; B. 77289209 ms; C. 77319209 ms; D. 55883425 ms",
+      "answer": "C. 77319209 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A43",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 52-year-old male. On the ECG rhythm strip displayed with a horizontal time axis in ms, which single millisecond timestamp corresponds to the heartbeat after which the pause to the next R wave is longest (the point of the slowest instantaneous heart rate)? A. 77319209 ms; B. 55324591 ms; C. 55873425 ms; D. 55883425 ms",
+      "answer": "D. 55883425 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A440",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 93-year-old male. On the ECG rhythm strip with the horizontal time axis labeled in ms, which single millisecond timestamp marks an R wave that is followed by the smallest subsequent R‑R spacing (the moment of the most rapid consecutive beats)? A. 63424635 ms; B. 63422635 ms; C. 61680737 ms; D. 63232368 ms",
+      "answer": "B. 63422635 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A440",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 93-year-old male patient. On the ECG rhythm strip labeled with a horizontal time axis in ms, state the exact single millisecond timepoint at which an R wave occurs that is followed by the greatest delay before the next R wave — the moment of the slowest instantaneous heart rate? A. 63422635 ms; B. 61080737 ms; C. 61680237 ms; D. 61680737 ms",
+      "answer": "D. 61680737 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A444",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 79-year-old male patient. On the rhythm strip with the horizontal time axis shown in ms, identify the single millisecond timestamp of the beat after which the next R wave occurs sooner than after any other beat — the timepoint of the highest instantaneous heart rate (ms)? A. 79087885 ms; B. 79447885 ms; C. 65698840 ms; D. 79147885 ms",
+      "answer": "D. 79147885 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A444",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 79-year-old male patient. On the ECG strip displayed with millisecond time markings, indicate the single millisecond timepoint at which a QRS complex occurs that precedes the maximal R‑R interval in the recording — the moment of the slowest instantaneous heart rate (ms)? A. 79147885 ms; B. 65698840 ms; C. 65708840 ms; D. 65501744 ms",
+      "answer": "B. 65698840 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A447",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 67-year-old male. Which single millisecond mark on the ECG time axis corresponds to the start of a QRS complex that is followed by the shortest subsequent R‑R interval in the recording — i.e., the moment of the fastest beat‑to‑beat heart rate (ms)? A. 3500749 ms; B. 68206270 ms; C. 3490749 ms; D. 3525656 ms",
+      "answer": "C. 3490749 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A447",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 67-year-old male patient. On the ECG strip shown with time marks in ms, identify the single millisecond timestamp at which a QRS complex occurs that is followed by the maximal subsequent R‑R interval (the moment of the slowest beat‑to‑beat heart rate)? A. 68086270 ms; B. 68216270 ms; C. 3490749 ms; D. 68206270 ms",
+      "answer": "D. 68206270 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A452",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 27-year-old female patient. Inspect the ECG rhythm strip annotated in ms and indicate the single millisecond timepoint at which an R‑wave occurs that precedes the most rapidly following next R‑wave in the recording? A. 74146391 ms; B. 74086391 ms; C. 74827254 ms; D. 49399706 ms",
+      "answer": "B. 74086391 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A452",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 27-year-old female. On the displayed ECG rhythm strip with the horizontal time axis labeled in ms, indicate the single millisecond timestamp of the R‑wave whose next R‑wave occurs after the greatest delay? A. 49339706 ms; B. 49409706 ms; C. 74086391 ms; D. 49399706 ms",
+      "answer": "D. 49399706 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A455",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 56-year-old male patient. Using the ECG tracing with its horizontal axis labeled in ms, identify the single millisecond timepoint that corresponds to the R‑peak after which the next R wave occurs sooner than after any other beat in the recording — the moment of the highest instantaneous heart rate (ms)? A. 57480021 ms; B. 77862375 ms; C. 77940315 ms; D. 77910315 ms",
+      "answer": "C. 77940315 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A455",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 56-year-old male patient. From the ECG recording whose horizontal time scale is shown in ms, identify the single millisecond time point that marks the QRS complex after which the next R‑wave is delayed longer than after any other beat? A. 77940315 ms; B. 57470021 ms; C. 57480021 ms; D. 57780021 ms",
+      "answer": "C. 57480021 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A459",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 63-year-old male. Examine the ECG tracing with its horizontal time axis labeled in ms and give the single millisecond timestamp of the R‑peak that is followed by the shortest subsequent R‑R interval in the recording — the time of the highest instantaneous heart rate? A. 39154077 ms; B. 69424544 ms; C. 71219544 ms; D. 71224544 ms",
+      "answer": "D. 71224544 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A459",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 63-year-old male. In the ECG recording shown with the horizontal time axis marked in ms, indicate the single millisecond timepoint at which an R‑peak occurs that results in the maximum interval before the next R‑peak — the moment representing the slowest beat‑to‑beat heart rate? A. 39164077 ms; B. 39271539 ms; C. 39154077 ms; D. 71224544 ms",
+      "answer": "C. 39154077 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A462",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 65-year-old female. Inspect the provided rhythm strip (horizontal timebase in ms) and state the single millisecond timepoint at which an R‑complex appears that precedes the briefest subsequent R‑R interval — the beat corresponding to the maximum instantaneous heart rate (ms)? A. 76632895 ms; B. 75738959 ms; C. 76662895 ms; D. 76722895 ms",
+      "answer": "C. 76662895 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A462",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 65-year-old female patient. On the ECG strip with its horizontal time axis in ms, state the single millisecond timestamp of the R‑wave that is followed by the longest delay to the next R‑wave — the moment representing the lowest instantaneous heart rate (ms)? A. 76200927 ms; B. 75798959 ms; C. 76662895 ms; D. 75738959 ms",
+      "answer": "D. 75738959 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A466",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 59-year-old female. At what millisecond offset from the start of the ECG recording does the R‑wave occur that is followed by the shortest R‑R interval, representing the fastest beat‑to‑beat heart rate (ms)? A. 22374109 ms; B. 22969109 ms; C. 71257456 ms; D. 22369109 ms",
+      "answer": "D. 22369109 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A466",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 59-year-old female. Review the ECG rhythm strip with millisecond tick marks: at which single millisecond offset does an R wave occur that is followed by the greatest pause before the next R wave (provide that timestamp in ms)? A. 71317456 ms; B. 71257456 ms; C. 22369109 ms; D. 71227456 ms",
+      "answer": "B. 71257456 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A467",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 55-year-old female. Which timestamp (in ms) on the ECG time axis corresponds to the R‑wave after which the next ventricular depolarization occurs most rapidly? A. 7520090 ms; B. 7532615 ms; C. 68749635 ms; D. 7525090 ms",
+      "answer": "D. 7525090 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A467",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 55-year-old female. Refer to the ECG waveform trace with the horizontal timebase marked in ms; what single millisecond timestamp corresponds to the R-wave that begins the most prolonged inter-beat interval (the longest R-R interval) in the recording? A. 68747635 ms; B. 68749635 ms; C. 7525090 ms; D. 68779635 ms",
+      "answer": "B. 68749635 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A468",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 81-year-old male patient. On the ECG recording with the time axis labeled in ms, what single millisecond timestamp marks the R‑wave that is followed by the shortest subsequent R‑R interval (the moment of highest instantaneous heart rate)? A. 60187353 ms; B. 60487353 ms; C. 70531725 ms; D. 60006791 ms",
+      "answer": "A. 60187353 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A468",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 81-year-old male patient. Review the ECG rhythm strip with millisecond markings and state the single millisecond offset at which an R‑peak occurs that is followed by the longest pause to the next R‑peak (i.e., the maximal R‑R interval) — give that time in ms? A. 70531725 ms; B. 72331725 ms; C. 60187353 ms; D. 70743320 ms",
+      "answer": "A. 70531725 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A472",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 70-year-old female patient. Looking at the ECG recording with millisecond markings, at which exact millisecond (ms) does an R‑wave occur that is immediately followed by the most rapid subsequent beat (i.e., the shortest interval to the next R‑wave)? A. 24809930 ms; B. 24209930 ms; C. 45712045 ms; D. 25409930 ms",
+      "answer": "A. 24809930 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A472",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 70-year-old female patient. From the ECG rhythm strip with the horizontal time scale labeled in ms, identify the single millisecond timestamp at which an R‑wave occurs that is followed by the greatest delay before the next R‑wave (i.e., the longest R‑R interval) — give that time in ms? A. 45712045 ms; B. 45722045 ms; C. 45574909 ms; D. 24809930 ms",
+      "answer": "A. 45712045 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A476",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 74-year-old male patient. On the ECG rhythm strip displayed with millisecond calibration, pinpoint the single millisecond timepoint at which an R‑complex occurs that is immediately followed by the shortest interval to the next R‑complex (the moment of maximal instantaneous heart rate, in ms)? A. 73957145 ms; B. 74557145 ms; C. 74780816 ms; D. 40117555 ms",
+      "answer": "B. 74557145 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A476",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 74-year-old male. On the ECG tracing with the horizontal time scale shown in ms, which single millisecond timestamp corresponds to the R‑wave that, when measured to the next R‑wave, yields the longest R‑R interval (the slowest instantaneous heart rate)? A. 74557145 ms; B. 40119555 ms; C. 40717555 ms; D. 40117555 ms",
+      "answer": "D. 40117555 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A482",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 36-year-old male. From the ECG tracing with the horizontal timebase labeled in ms, identify the single millisecond offset that marks the R‑peak immediately preceding the shortest subsequent R‑R interval (the moment of highest instantaneous heart rate); report that time in ms? A. 59852554 ms; B. 74913 ms; C. 84913 ms; D. 1874913 ms",
+      "answer": "B. 74913 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A482",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 36-year-old male. Locate the single millisecond timepoint on the ECG timebase (ms) where an R‑wave occurs immediately before the greatest subsequent interbeat interval; report that timestamp in ms? A. 59852554 ms; B. 74913 ms; C. 59882554 ms; D. 59862554 ms",
+      "answer": "A. 59852554 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A484",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 45-year-old male. Which timestamp in milliseconds corresponds to the fastest heart rate in this ECG recording? A. 70893295 ms; B. 10475624 ms; C. 10444198 ms; D. 10465624 ms",
+      "answer": "B. 10475624 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A484",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 45-year-old male. On the displayed ECG rhythm strip with the horizontal timebase in ms, which single millisecond timestamp marks the R‑wave that immediately precedes the longest R‑R interval (the slowest instantaneous heart rate)? A. 70893295 ms; B. 70953295 ms; C. 71602227 ms; D. 10475624 ms",
+      "answer": "A. 70893295 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A500",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 64-year-old female patient. Examine the ECG trace with the horizontal time axis marked in ms and state the single millisecond timepoint at which an R‑complex occurs that is followed by the shortest R‑R interval (the moment of highest instantaneous heart rate); report that timestamp in ms? A. 29814883 ms; B. 29874883 ms; C. 46162459 ms; D. 62450035 ms",
+      "answer": "B. 29874883 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A500",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 64-year-old female patient. Using the ECG tracing with the horizontal time axis calibrated in ms, indicate the single millisecond offset at which an R‑wave occurs that is followed by the maximal subsequent R‑R interval (the moment of lowest instantaneous heart rate)? A. 62390035 ms; B. 62450035 ms; C. 29874883 ms; D. 62448035 ms",
+      "answer": "B. 62450035 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A504",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 59-year-old female. Examine the ECG strip with the horizontal time scale shown in ms and state the single millisecond timepoint of the R‑complex that precedes the most rapid following beat (the R‑wave followed by the smallest interbeat interval); what is that time in ms? A. 58032104 ms; B. 50441630 ms; C. 58031104 ms; D. 42851155 ms",
+      "answer": "A. 58032104 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A504",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 59-year-old female. Inspect the ECG rhythm strip with the horizontal time markings in ms and give the single millisecond timepoint of the R‑peak that is followed by the greatest delay before the subsequent R‑wave (the moment of slowest instantaneous heart rate); report that time in ms? A. 42861155 ms; B. 42851155 ms; C. 58032104 ms; D. 42850655 ms",
+      "answer": "B. 42851155 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A514",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 74-year-old male patient. From the ECG strip with the horizontal axis shown in ms, state the exact millisecond timestamp of the R‑peak after which the subsequent R‑wave occurs most quickly — the single timepoint (in ms) of the highest instantaneous heart rate? A. 73538617 ms; B. 73658617 ms; C. 47506114 ms; D. 73648617 ms",
+      "answer": "B. 73658617 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A514",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 74-year-old male patient. Which single millisecond mark on the ECG timebase corresponds to the R‑peak that is followed by the longest delay before the next R‑wave (i.e., the point of slowest instantaneous heart rate)? A. 47506114 ms; B. 47508114 ms; C. 73658617 ms; D. 45706114 ms",
+      "answer": "A. 47506114 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A519",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 62-year-old female. Which timestamp in milliseconds corresponds to the fastest heart rate in this ECG recording? A. 13308415 ms; B. 13351736 ms; C. 13321736 ms; D. 68362175 ms",
+      "answer": "C. 13321736 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A519",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 62-year-old female patient. At what time point in ms is the lowest instantaneous heart rate observed in this rhythm strip? A. 70162175 ms; B. 68302175 ms; C. 13321736 ms; D. 68362175 ms",
+      "answer": "D. 68362175 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A521",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 25-year-old female. Inspect the ECG strip with the horizontal time axis shown in ms and state the single millisecond timestamp (ms) at which an R‑complex occurs that is followed by the smallest subsequent R–R interval — the moment of highest instantaneous heart rate? A. 38836435 ms; B. 80666150 ms; C. 38896435 ms; D. 38841435 ms",
+      "answer": "A. 38836435 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A521",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 25-year-old female. Which millisecond timestamp marks the longest RR interval in this ECG trace? A. 80696150 ms; B. 80666150 ms; C. 80366150 ms; D. 38836435 ms",
+      "answer": "B. 80666150 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A525",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 63-year-old male. Which millisecond timestamp marks the shortest RR interval in this ECG trace? A. 37562010 ms; B. 39362010 ms; C. 68648760 ms; D. 37599572 ms",
+      "answer": "A. 37562010 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A525",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 63-year-old male. On the provided ECG rhythm strip with the horizontal time axis labeled in ms, identify the single millisecond timepoint (ms) at which an R‑wave occurs that is followed by the largest delay until the next R‑wave — the moment of the slowest instantaneous heart rate? A. 68648760 ms; B. 37562010 ms; C. 70448760 ms; D. 68638760 ms",
+      "answer": "A. 68648760 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A528",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 40-year-old male. On the ECG trace with the horizontal time axis in ms, report the single millisecond time coordinate of the R‑wave that starts the narrowest interbeat (R‑R) interval — the moment of highest instantaneous heart rate? A. 48312765 ms; B. 48167827 ms; C. 32306875 ms; D. 48432765 ms",
+      "answer": "A. 48312765 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A528",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 40-year-old male. Refer to the ECG tracing's horizontal time axis shown in ms and report the single millisecond timestamp of the R‑wave that is followed by the greatest R‑R gap — the moment of the lowest instantaneous heart rate (report in ms)? A. 40309820 ms; B. 48312765 ms; C. 32306875 ms; D. 32274569 ms",
+      "answer": "C. 32306875 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A529",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 67-year-old male patient. Pinpoint the exact millisecond timestamp on the ECG's horizontal time axis (ms) of the R‑peak that is immediately followed by the shortest R‑R interval — the moment of highest instantaneous heart rate? A. 15624492 ms; B. 9899521 ms; C. 9900521 ms; D. 21348463 ms",
+      "answer": "C. 9900521 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A529",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 67-year-old male patient. On the ECG rhythm strip with the horizontal time axis shown in ms, indicate the single millisecond timestamp of the R‑wave that precedes the longest subsequent R–R interval — report that time in ms? A. 21348463 ms; B. 9900521 ms; C. 20748463 ms; D. 21347963 ms",
+      "answer": "A. 21348463 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A533",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 78-year-old female patient. Which single millisecond offset on the ECG's horizontal time axis (ms) corresponds to the R‑wave that begins the shortest R‑R interval in the recording — the instant of the fastest heart rate? A. 80091709 ms; B. 72275979 ms; C. 80331984 ms; D. 80092209 ms",
+      "answer": "A. 80091709 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A533",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 78-year-old female. Using the ECG strip with the time axis marked in ms, identify the single millisecond timepoint at which a QRS complex occurs that is followed by the largest subsequent interbeat interval — the instant of the slowest instantaneous heart rate; report that time in ms? A. 72875979 ms; B. 80091709 ms; C. 72275979 ms; D. 70475979 ms",
+      "answer": "C. 72275979 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A551",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 58-year-old female. On the ECG rhythm strip with the horizontal axis labeled in ms, identify the single millisecond timestamp of the QRS complex after which the next R‑wave occurs in the shortest interval — report that time in ms? A. 11439408 ms; B. 49532024 ms; C. 11409408 ms; D. 11404408 ms",
+      "answer": "C. 11409408 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A551",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 58-year-old female. Examine the ECG trace with the horizontal time markings in ms and specify the single millisecond time point at which a beat occurs that is followed by the longest delay until the next beat (the moment of lowest instantaneous heart rate); report that time in ms? A. 49531524 ms; B. 11409408 ms; C. 49531024 ms; D. 49532024 ms",
+      "answer": "D. 49532024 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A560",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 74-year-old male. Looking at the ECG display with the time axis graduated in ms, locate the single millisecond timestamp of the QRS complex after which the next R‑wave occurs sooner than after any other beat; what is that time in ms? A. 28400960 ms; B. 66717322 ms; C. 66716322 ms; D. 66836322 ms",
+      "answer": "C. 66716322 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A560",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 74-year-old male. On the displayed ECG trace with the horizontal timemarks in ms, indicate the exact millisecond at which a QRS complex occurs that precedes the longest pause before the next R‑wave; give that timestamp in ms? A. 66716322 ms; B. 28684969 ms; C. 28400960 ms; D. 28402960 ms",
+      "answer": "C. 28400960 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A572",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 62-year-old male patient. Using the ECG rhythm lead shown with the horizontal time markings in ms, locate the single millisecond timepoint at which a QRS complex is followed by the shortest subsequent R‑R interval (the peak instantaneous heart rate) — state that timestamp in ms? A. 51281857 ms; B. 49601857 ms; C. 49481857 ms; D. 73059896 ms",
+      "answer": "C. 49481857 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A572",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 62-year-old male. In the ECG trace shown (horizontal time scale in ms), which single millisecond timestamp marks the beat after which the next R‑wave is delayed the most — in other words, the time point of the slowest instantaneous heart rate? A. 73059896 ms; B. 73059396 ms; C. 73279075 ms; D. 49481857 ms",
+      "answer": "A. 73059896 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A582",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old female patient. On the displayed ECG with the horizontal time axis marked in ms, which single millisecond timepoint corresponds to the R-wave that is followed most quickly by the next R-wave (i.e., the shortest R-R interval)? A. 2468287 ms; B. 2473287 ms; C. 56304375 ms; D. 2492969 ms",
+      "answer": "A. 2468287 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A582",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 75-year-old female. Inspect the ECG rhythm lead with the horizontal time axis labeled in ms and report the single millisecond timepoint of the R‑wave after which the following R‑R interval is longest (i.e., the slowest instantaneous heart rate); what is that timestamp in ms? A. 56904375 ms; B. 56304375 ms; C. 2468287 ms; D. 56299375 ms",
+      "answer": "B. 56304375 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A583",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 25-year-old female patient. On the provided ECG strip with the horizontal time scale labeled in ms, which single millisecond mark corresponds to the onset of the QRS complex after which the next R‑wave follows in the shortest time (the fastest instantaneous heart rate)? A. 3043195 ms; B. 3041195 ms; C. 50227455 ms; D. 26634325 ms",
+      "answer": "B. 3041195 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A583",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 25-year-old female patient. Refer to the ECG recording with the x-axis labeled in ms and state the single millisecond timepoint at which a QRS complex occurs that is followed by the longest delay before the next R‑wave (the slowest instantaneous heart rate); report that timestamp in ms? A. 50827455 ms; B. 50287455 ms; C. 3041195 ms; D. 50227455 ms",
+      "answer": "D. 50227455 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A588",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 74-year-old male patient. Inspect the ECG rhythm lead with the horizontal time axis labeled in ms and state the single millisecond timestamp of the beat that is followed by the shortest subsequent R‑R interval (the point of highest instantaneous heart rate)? A. 55100773 ms; B. 54554721 ms; C. 31088555 ms; D. 54555221 ms",
+      "answer": "D. 54555221 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A588",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 74-year-old male. Using the ECG's horizontal time ruler (marked in ms), indicate the single millisecond timestamp of the QRS complex that precedes the maximum inter‑beat interval (i.e., the slowest instantaneous heart rate); report that time in ms? A. 54555221 ms; B. 31088555 ms; C. 42821888 ms; D. 31089055 ms",
+      "answer": "B. 31088555 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A595",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 78-year-old female patient. Review the ECG rhythm tracing with the horizontal time scale in ms and indicate the single millisecond timepoint at which a beat occurs that is followed most rapidly (in ms) by the next R‑peak — the moment of highest instantaneous heart rate? A. 30062675 ms; B. 31862675 ms; C. 31922675 ms; D. 72174815 ms",
+      "answer": "B. 31862675 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A595",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 78-year-old female patient. Examine the rhythm lead with the horizontal time axis in ms and specify the single millisecond timepoint at which a QRS complex is succeeded by the maximum delay before the next R‑peak (the slowest instantaneous heart rate); state that time in ms? A. 72169815 ms; B. 31862675 ms; C. 72184815 ms; D. 72174815 ms",
+      "answer": "D. 72174815 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A596",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 83-year-old male patient. Review the rhythm strip with the horizontal time axis shown in ms and indicate the single millisecond timestamp at which a QRS complex is followed by the shortest subsequent R‑R interval (the point of highest instantaneous heart rate); give that time in ms? A. 7651035 ms; B. 7711035 ms; C. 7681035 ms; D. 64070306 ms",
+      "answer": "B. 7711035 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A596",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 83-year-old male patient. Which single millisecond timestamp on the ECG time axis (ms) corresponds to the beat that is followed by the largest subsequent R‑R interval — the point of the slowest instantaneous heart rate? A. 7711035 ms; B. 65870306 ms; C. 64070306 ms; D. 63878096 ms",
+      "answer": "C. 64070306 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A59",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 71-year-old female patient. Inspect the rhythm strip with the horizontal timebase shown in ms and indicate the single millisecond offset at which a QRS complex is succeeded by the shortest following R‑R interval (the instant of maximal instantaneous heart rate); state that time in ms? A. 5693476 ms; B. 5701175 ms; C. 61462845 ms; D. 5699175 ms",
+      "answer": "D. 5699175 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A59",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 71-year-old female. Locate on the ECG tracing (horizontal time axis in ms) the single millisecond timestamp at which a QRS complex occurs that is followed by the largest delay to the next R‑wave — state that time in ms? A. 61462845 ms; B. 5699175 ms; C. 61522845 ms; D. 61492845 ms",
+      "answer": "A. 61462845 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A602",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 67-year-old female. On the rhythm strip shown with a horizontal time axis labeled in ms, specify the single-millisecond timepoint of the QRS complex that begins the shortest subsequent cardiac cycle length (the moment of highest instantaneous heart rate); give that time in ms? A. 14077734 ms; B. 14137734 ms; C. 64111571 ms; D. 13936957 ms",
+      "answer": "A. 14077734 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A602",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 67-year-old female patient. Inspect the displayed ECG rhythm strip with the horizontal time axis labeled in ms and indicate the single millisecond timestamp at which a QRS complex occurs that is followed by the longest subsequent R-R interval (the slowest instantaneous heart-rate event)? A. 65911571 ms; B. 64111571 ms; C. 14077734 ms; D. 64106571 ms",
+      "answer": "B. 64111571 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A609",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 51-year-old female patient. On the displayed rhythm tracing with the horizontal time markings in ms, indicate the exact millisecond at which a QRS complex occurs that is followed by the shortest subsequent R‑R interval (the point of maximum instantaneous heart rate)? A. 3038371 ms; B. 3040371 ms; C. 31894481 ms; D. 3039371 ms",
+      "answer": "A. 3038371 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A609",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 51-year-old female. Using the ECG lead shown with time markers in ms, identify the single millisecond offset at which a QRS complex occurs that is followed by the greatest delay before the next R‑wave (the beat with the longest subsequent R‑R interval); report that time in ms? A. 31862587 ms; B. 3038371 ms; C. 33694481 ms; D. 31894481 ms",
+      "answer": "D. 31894481 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A618",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 60-year-old male patient. Review the ECG rhythm strip displayed with the horizontal time axis in ms and state the exact single millisecond offset at which an R‑wave occurs that is followed by the smallest interval to the next R‑wave (the point of maximum instantaneous heart rate); report that time in ms? A. 15114716 ms; B. 15119716 ms; C. 15719716 ms; D. 52025091 ms",
+      "answer": "B. 15119716 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A618",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 60-year-old male patient. Review the ECG rhythm tracing annotated in ms and state the single millisecond timepoint of the beat that is followed by the greatest delay before the next R‑wave (the slowest instantaneous heart‑rate event)? A. 51995091 ms; B. 52055091 ms; C. 15119716 ms; D. 52025091 ms",
+      "answer": "D. 52025091 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A626",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 74-year-old female. Find the single millisecond timestamp on the ECG tracing (horizontal time axis in ms) that corresponds to the beat after which the next R‑wave returns in the shortest delay relative to all other beats; report that time in ms? A. 60843808 ms; B. 34559091 ms; C. 60783808 ms; D. 60785808 ms",
+      "answer": "C. 60783808 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A626",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 74-year-old female patient. In the ECG rhythm tracing shown with the horizontal timebase labeled in ms, identify the single millisecond timestamp at which a QRS complex occurs that is followed by the greatest delay before the next R‑wave — report that time in ms? A. 34559091 ms; B. 60783808 ms; C. 34558091 ms; D. 34439091 ms",
+      "answer": "A. 34559091 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A627",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 55-year-old male. In the shown ECG strip with the horizontal timebase labeled in ms, identify the single millisecond timepoint at which a QRS complex occurs that is followed by the shortest subsequent R‑R interval compared with all other beats — report that timestamp in ms? A. 8439138 ms; B. 8464531 ms; C. 75588760 ms; D. 8164531 ms",
+      "answer": "B. 8464531 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A627",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 55-year-old male patient. On the provided ECG strip with the horizontal timebase labeled in ms, identify the single millisecond timestamp of the QRS complex after which the delay until the next R‑wave is longer than for any other beat — report that time in ms? A. 8464531 ms; B. 75588760 ms; C. 75589760 ms; D. 76188760 ms",
+      "answer": "B. 75588760 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A628",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 82-year-old female patient. When viewing the ECG rhythm strip with the horizontal time axis labeled in ms, specify the single millisecond timestamp of the QRS complex whose following R‑R interval is shorter than any other — the moment of highest instantaneous heart rate? A. 36494562 ms; B. 656240 ms; C. 656740 ms; D. 536740 ms",
+      "answer": "C. 656740 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A628",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 82-year-old female patient. Examine the ECG lead presented and report the single millisecond offset (in ms) of the QRS complex that is succeeded by the maximal R-R interval in the recording? A. 36492562 ms; B. 36531056 ms; C. 656740 ms; D. 36494562 ms",
+      "answer": "D. 36494562 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A629",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 55-year-old male. In the provided ECG strip with the horizontal time axis labeled in ms, which single millisecond timepoint marks the QRS complex after which the next R‑wave reappears in the shortest interval compared with all other beats? A. 24886216 ms; B. 24885216 ms; C. 45888865 ms; D. 26685216 ms",
+      "answer": "B. 24885216 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A629",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 55-year-old male. Review the provided ECG rhythm lead with its horizontal time axis in ms and indicate the single millisecond offset at which a QRS complex occurs that precedes the greatest delay until the next R‑wave — report that timestamp in ms? A. 45858865 ms; B. 24885216 ms; C. 45888865 ms; D. 46347753 ms",
+      "answer": "C. 45888865 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A632",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 58-year-old female patient. Refer to the ECG strip with the horizontal time axis labeled in ms and specify the single millisecond timestamp of the R‑peak after which the subsequent R‑R interval is the shortest in the tracing? A. 68534689 ms; B. 69220035 ms; C. 68524689 ms; D. 37887385 ms",
+      "answer": "A. 68534689 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A632",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 58-year-old female patient. In the ECG tracing with the horizontal time axis shown in ms, identify the single millisecond offset that corresponds to the beat after which the longest pause occurs before the next R‑wave (report that time in ms)? A. 68534689 ms; B. 37887385 ms; C. 37925272 ms; D. 38266258 ms",
+      "answer": "B. 37887385 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A633",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 65-year-old female patient. Examine the rhythm strip shown with the horizontal time axis in ms and give the single millisecond offset of the R‑wave that is followed by the quickest reappearance of the next R‑wave (i.e., the shortest subsequent R‑R interval)? A. 58501195 ms; B. 19757546 ms; C. 19767546 ms; D. 19762546 ms",
+      "answer": "D. 19762546 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A633",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 65-year-old female. Review the rhythm lead with the horizontal time scale marked in ms and specify the single millisecond timepoint of the beat that precedes the largest subsequent R‑R gap in the tracing? A. 19762546 ms; B. 58325692 ms; C. 58201195 ms; D. 58501195 ms",
+      "answer": "D. 58501195 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A638",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 45-year-old female patient. Refer to the provided rhythm strip with the horizontal time axis in ms: which single millisecond timestamp marks the R‑wave that is followed by the shortest R‑R interval (the point of highest instantaneous heart rate)? A. 9738420 ms; B. 55062325 ms; C. 9738920 ms; D. 9737920 ms",
+      "answer": "A. 9738420 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A638",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 45-year-old female. Examine the rhythm lead with the horizontal time markings in ms and give the single millisecond timepoint of the beat that is followed by the greatest prolongation of the subsequent R‑R interval? A. 55007263 ms; B. 55182325 ms; C. 55062325 ms; D. 9738420 ms",
+      "answer": "C. 55062325 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A640",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 84-year-old female patient. Referring to the ECG rhythm lead with the horizontal timebase marked in ms, state the single millisecond timestamp at which a QRS complex occurs that precedes the shortest subsequent R‑R interval (the moment of greatest instantaneous heart rate)? A. 9499135 ms; B. 51079484 ms; C. 9199135 ms; D. 9379135 ms",
+      "answer": "A. 9499135 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A640",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 84-year-old female patient. Examine the ECG rhythm strip with the horizontal time markings in ms and report the single millisecond timepoint of the beat that is followed by the longest pause before the next R‑wave? A. 51079484 ms; B. 9499135 ms; C. 50479484 ms; D. 51078984 ms",
+      "answer": "A. 51079484 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A645",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old male patient. Please scan the ECG timeline annotated in ms and state the precise single millisecond offset of the beat that precedes the shortest subsequent R‑R interval — the timepoint of the maximal instantaneous heart rate? A. 47850611 ms; B. 47706561 ms; C. 47850111 ms; D. 65397204 ms",
+      "answer": "C. 47850111 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A645",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old male patient. On the ECG timeline shown with time markings in ms, state the single millisecond offset at which a QRS complex occurs that is followed by the longest R-R interval (the largest pause before the next R-wave)? A. 65397204 ms; B. 47850111 ms; C. 65398204 ms; D. 65331807 ms",
+      "answer": "A. 65397204 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A646",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 62-year-old male. Which timestamp in milliseconds corresponds to the fastest heart rate in this ECG recording? A. 86188200 ms; B. 85929636 ms; C. 86193200 ms; D. 71495760 ms",
+      "answer": "A. 86188200 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A646",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 62-year-old male. On the displayed ECG timeline labeled in ms, which single millisecond mark corresponds to the QRS complex after which the interval to the following R‑wave is longest (the moment of slowest instantaneous heart rate)? A. 71555760 ms; B. 71567255 ms; C. 71495760 ms; D. 86188200 ms",
+      "answer": "C. 71495760 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A654",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a adult-year-old unknown patient. On the ECG recording with the horizontal time axis shown in ms, pinpoint the single millisecond timepoint at which a QRS complex occurs that is followed by the shortest subsequent R‑R interval, indicating the highest instantaneous heart rate? A. 1919885 ms; B. 59355500 ms; C. 1649885 ms; D. 1949885 ms",
+      "answer": "D. 1949885 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A654",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a adult-year-old unknown. Inspect the ECG tracing annotated in ms and specify the single millisecond offset at which the interbeat (R‑R) interval reaches its maximum, representing the slowest instantaneous heart rate? A. 59415500 ms; B. 59355500 ms; C. 1949885 ms; D. 59354500 ms",
+      "answer": "B. 59355500 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A65",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 81-year-old female. Examine the ECG recording with the horizontal time axis labeled in ms and state the exact millisecond timestamp at which a beat occurs whose subsequent R-R interval is the smallest on the strip, indicating the moment of highest instantaneous heart rate? A. 45986410 ms; B. 12151616 ms; C. 12146616 ms; D. 79826205 ms",
+      "answer": "C. 12146616 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A65",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 81-year-old female. Look at the ECG sweep with the timeline marked in ms; identify the exact millisecond when a QRS complex occurs that leads into the most prolonged gap before the next QRS, representing the moment of slowest instantaneous heart rate? A. 79824205 ms; B. 79825705 ms; C. 12146616 ms; D. 79826205 ms",
+      "answer": "D. 79826205 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A660",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 65-year-old female patient. Examine the ECG tracing with the horizontal time axis labeled in ms and specify the single millisecond timepoint of the QRS complex that is followed by the briefest beat-to-beat (R-R) interval — the moment of highest instantaneous heart rate? A. 34777150 ms; B. 34772150 ms; C. 34737378 ms; D. 74940989 ms",
+      "answer": "B. 34772150 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A660",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 65-year-old female. Which single millisecond on the ECG rhythm strip (time axis in ms) corresponds to the R‑wave that precedes the largest subsequent R‑R interval — the timepoint of the slowest instantaneous heart rate? A. 74970989 ms; B. 74940989 ms; C. 74941989 ms; D. 34772150 ms",
+      "answer": "B. 74940989 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A663",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 74-year-old male. Examine the ECG tracing with the horizontal time axis shown in ms and state the single millisecond timestamp of the QRS complex that is followed by the shortest subsequent R‑R interval on the strip, indicating the point of maximal instantaneous heart rate? A. 27152051 ms; B. 77482978 ms; C. 52454646 ms; D. 27426314 ms",
+      "answer": "D. 27426314 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A663",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 74-year-old male. On the provided ECG trace (horizontal time scale in ms), indicate the exact single millisecond timestamp at which a QRS complex occurs that is followed by the largest subsequent beat-to-beat (R-R) interval — the moment of the slowest instantaneous heart rate? A. 77560460 ms; B. 27426314 ms; C. 77715426 ms; D. 77482978 ms",
+      "answer": "D. 77482978 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A6",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 61-year-old male. On the ECG rhythm strip shown with the horizontal time axis in ms, at which single millisecond does a QRS complex occur that is followed by the shortest subsequent R-R interval — the moment of highest instantaneous heart rate? A. 26931820 ms; B. 26929820 ms; C. 28731820 ms; D. 2311424 ms",
+      "answer": "A. 26931820 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A6",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 61-year-old male patient. On the rhythm strip shown with the horizontal time scale in ms, pinpoint the single-millisecond timepoint at which a QRS complex occurs that is followed by the longest subsequent R–R interval — the moment of the lowest instantaneous heart rate? A. 2281424 ms; B. 2309113 ms; C. 26931820 ms; D. 2311424 ms",
+      "answer": "D. 2311424 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A707",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 69-year-old female patient. Using the ECG tracing shown with the horizontal time axis in ms, indicate the exact single‑millisecond timepoint when a QRS begins that is followed by the briefest interval to the next QRS — the moment of the fastest instantaneous heart rate? A. 27801908 ms; B. 71251495 ms; C. 27885313 ms; D. 28401908 ms",
+      "answer": "A. 27801908 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A707",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 69-year-old female. Using the ECG rhythm strip displayed with the horizontal time axis in ms, identify the exact millisecond at which a ventricular depolarization (QRS onset) occurs that is followed by the largest interbeat interval — the timepoint of the slowest instantaneous heart rate? A. 27801908 ms; B. 71322746 ms; C. 71221495 ms; D. 71251495 ms",
+      "answer": "D. 71251495 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A709",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 85-year-old female patient. Examine the ECG rhythm strip with the horizontal time axis labeled in ms and specify the single‑millisecond timestamp at which a QRS onset occurs that is most closely followed by the next QRS (i.e., the beat followed by the shortest R‑R interval representing the highest instantaneous heart rate)? A. 69161750 ms; B. 8652805 ms; C. 8642305 ms; D. 8652305 ms",
+      "answer": "D. 8652305 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A709",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 85-year-old female. Review the provided ECG waveform with the horizontal timebase shown in ms and state the exact millisecond at which a QRS onset occurs that is followed by the longest interval until the next QRS — the timepoint of the slowest instantaneous heart rate? A. 68561750 ms; B. 8652305 ms; C. 69161250 ms; D. 69161750 ms",
+      "answer": "D. 69161750 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A710",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 30-year-old female patient. Refer to the ECG strip (horizontal timebase in ms) and give the exact millisecond timestamp of the QRS onset that is followed by the shortest interval to the next QRS — the moment representing the fastest instantaneous heart rate? A. 41270135 ms; B. 41270635 ms; C. 41269635 ms; D. 71972304 ms",
+      "answer": "C. 41269635 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A710",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 30-year-old female. On the ECG waveform trace with the horizontal time axis labeled in ms, which single-millisecond timestamp marks the onset of a QRS complex that is followed by the most prolonged pause before the next QRS — the timepoint of the slowest instantaneous heart rate? A. 41269635 ms; B. 72572304 ms; C. 71852304 ms; D. 71972304 ms",
+      "answer": "D. 71972304 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A714",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 86-year-old male. Using the ECG waveform's horizontal time axis shown in ms, state the single millisecond at which a QRS onset is followed by the least elapsed time to the next QRS — the instant of peak instantaneous heart rate? A. 19363645 ms; B. 19364645 ms; C. 19353645 ms; D. 69166799 ms",
+      "answer": "A. 19363645 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A714",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 86-year-old male patient. Refer to the ECG tracing shown with the horizontal time scale in ms and specify the single millisecond timestamp at which a QRS complex begins that is followed by a longer interval to the next QRS than any other — the timepoint of the slowest instantaneous heart rate? A. 19363645 ms; B. 68959299 ms; C. 69165799 ms; D. 69166799 ms",
+      "answer": "D. 69166799 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A721",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 35-year-old female patient. Using the ECG rhythm strip displayed with the horizontal time markers in ms, identify the single millisecond timestamp at which a QRS complex begins that is followed by the shortest interval to the next R wave (the moment of the fastest instantaneous heart rate)? A. 6727956 ms; B. 8519429 ms; C. 69661530 ms; D. 8527956 ms",
+      "answer": "D. 8527956 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A721",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 35-year-old female patient. On the ECG tracing shown with the horizontal time axis in ms, identify the single millisecond timepoint that marks the onset of the QRS complex after which the next R‑wave occurs with the greatest delay compared with all other beats (the moment of the slowest instantaneous heart rate)? A. 69660530 ms; B. 69661530 ms; C. 67861530 ms; D. 8527956 ms",
+      "answer": "B. 69661530 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A723",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 63-year-old male. Identify the single ms timestamp on the ECG time axis that marks the onset of a QRS complex whose following beat-to-beat interval is the briefest on the recording (i.e., the point of greatest instantaneous heart rate)? A. 59615108 ms; B. 69920572 ms; C. 69228290 ms; D. 69233290 ms",
+      "answer": "C. 69228290 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A723",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 63-year-old male. On the displayed ECG with the horizontal time axis labeled in ms, pinpoint the exact single-millisecond offset that marks the QRS onset whose following interbeat interval is longer than any other on the tracing? A. 59315108 ms; B. 59605108 ms; C. 59615108 ms; D. 69228290 ms",
+      "answer": "C. 59615108 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A736",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 57-year-old female. Refer to the ECG tracing annotated in ms and specify the single millisecond timing of the QRS onset that is followed by the smallest beat‑to‑beat interval, representing the highest instantaneous heart rate? A. 83787992 ms; B. 83788492 ms; C. 52959046 ms; D. 68373519 ms",
+      "answer": "A. 83787992 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A736",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 57-year-old female. On the displayed ECG trace with millisecond (ms) time markings, pinpoint the single ms offset that marks the start of the QRS complex which precedes the longest interval before the next R wave — the timing of the slowest heart‑rate beat? A. 53079046 ms; B. 53019046 ms; C. 52959046 ms; D. 83787992 ms",
+      "answer": "C. 52959046 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A743",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 55-year-old male. Using the ECG rhythm strip with time markings in ms, specify the single millisecond timepoint that marks the start of the beat immediately preceding the shortest RR interval (the moment of maximum instantaneous heart rate)? A. 51877524 ms; B. 79109961 ms; C. 78509961 ms; D. 78389961 ms",
+      "answer": "C. 78509961 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A743",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 55-year-old male patient. With the ECG tracing calibrated in ms, point to the single millisecond timepoint that marks the onset of the beat after which the interval to the next R‑wave is most prolonged (the slowest instantaneous heart rate)? A. 51877524 ms; B. 51907524 ms; C. 51358749 ms; D. 78509961 ms",
+      "answer": "A. 51877524 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A745",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 36-year-old male. At what time point in ms is the highest instantaneous heart rate observed in this rhythm strip? A. 75094802 ms; B. 54187138 ms; C. 33279474 ms; D. 32679474 ms",
+      "answer": "C. 33279474 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A745",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 36-year-old male. On the ECG recording with the horizontal time axis labeled in ms, indicate the single millisecond timestamp at which an R complex occurs that is followed by the largest interbeat pause before the next R wave? A. 75124802 ms; B. 76894802 ms; C. 33279474 ms; D. 75094802 ms",
+      "answer": "D. 75094802 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A747",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 32-year-old male. Which millisecond timestamp marks the shortest RR interval in this ECG trace? A. 27363840 ms; B. 29163840 ms; C. 29158840 ms; D. 69183776 ms",
+      "answer": "B. 29163840 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A747",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 32-year-old male patient. On the ECG rhythm strip with the horizontal time markings shown in ms, locate the single millisecond timepoint of the R‑wave that is immediately followed by the greatest delay until the next R‑wave (the moment of the slowest instantaneous heart rate)? A. 29163840 ms; B. 69875613 ms; C. 69183776 ms; D. 69183276 ms",
+      "answer": "C. 69183776 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A751",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 26-year-old male. Which millisecond reading on the ECG timeline corresponds to the onset of the beat that produces the fastest subsequent heart rate (i.e., the smallest RR interval)? A. 78662295 ms; B. 78722295 ms; C. 66308433 ms; D. 78722795 ms",
+      "answer": "B. 78722295 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A751",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 26-year-old male patient. Refer to the ECG recording's time axis labeled in ms and state the single millisecond offset at which an R‑complex occurs that is immediately followed by the largest inter‑R interval (the point of the slowest instantaneous heart rate)? A. 66308933 ms; B. 64508433 ms; C. 78722295 ms; D. 66308433 ms",
+      "answer": "D. 66308433 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A75",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 19-year-old male patient. Refer to the ECG strip with the horizontal time axis labeled in ms; state the single millisecond offset from the start of the recording at which an R‑peak occurs that is followed by the shortest RR interval to the next R‑peak (the moment of highest instantaneous heart rate)? A. 83871994 ms; B. 60388250 ms; C. 82071994 ms; D. 82041994 ms",
+      "answer": "C. 82071994 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A75",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 19-year-old male patient. On the ECG rhythm tracing with the horizontal axis labeled in ms, what single millisecond offset from the start of the recording marks the R‑complex after which the interval to the next R‑complex is maximal (the slowest instantaneous heart rate)? A. 60388250 ms; B. 60390250 ms; C. 60992132 ms; D. 82071994 ms",
+      "answer": "A. 60388250 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A761",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 68-year-old male. Identify the exact single-millisecond timestamp on the ECG time axis (in ms) at which an R-wave occurs that is followed by the shortest RR interval to the next R-wave — the moment of maximal instantaneous heart rate? A. 15160135 ms; B. 15165135 ms; C. 44021175 ms; D. 15210630 ms",
+      "answer": "B. 15165135 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A761",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 68-year-old male patient. Which single millisecond offset from the start of the ECG recording (in ms) corresponds to the R‑peak after which the subsequent RR interval is longest, indicating the slowest instantaneous heart rate? A. 15165135 ms; B. 44021175 ms; C. 44023175 ms; D. 44016175 ms",
+      "answer": "B. 44021175 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A771",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a adult-year-old unknown patient. On the ECG strip with the time axis labeled in ms, what single millisecond offset from the start of the recording marks the R‑peak that is followed by the briefest RR interval — the timepoint of the highest instantaneous heart rate (report in ms)? A. 63979370 ms; B. 8023270 ms; C. 8016255 ms; D. 8015255 ms",
+      "answer": "D. 8015255 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A771",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a adult-year-old unknown patient. Referencing the ECG strip's millisecond time markings, identify the exact millisecond offset from the start of the recording at which an R‑peak occurs that is followed by the greatest delay to the next R‑peak—this is the timepoint of the slowest instantaneous heart rate; report the time in ms? A. 63979370 ms; B. 64279370 ms; C. 8015255 ms; D. 63919370 ms",
+      "answer": "A. 63979370 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A774",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a adult-year-old unknown. At what time point in ms is the highest instantaneous heart rate observed in this rhythm strip? A. 51487804 ms; B. 51362804 ms; C. 18921289 ms; D. 51367804 ms",
+      "answer": "D. 51367804 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A774",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a adult-year-old unknown patient. Locate on the rhythm strip (timebase shown in ms) the millisecond offset from the start of the recording at which an R‑wave occurs that is followed by the longest pause until the next R‑wave — the moment of slowest instantaneous heart rate; report that time in ms? A. 51367804 ms; B. 18921289 ms; C. 18902368 ms; D. 19041289 ms",
+      "answer": "B. 18921289 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A780",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a adult-year-old unknown patient. From the ECG lead displayed with millisecond markers, indicate the exact millisecond timepoint (measured from the start of the recording) at which a beat occurs whose subsequent RR interval is the shortest, denoting the moment of highest instantaneous heart rate (report the time in ms)? A. 26677858 ms; B. 492745 ms; C. 26687858 ms; D. 26807858 ms",
+      "answer": "C. 26687858 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A780",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a adult-year-old unknown. On the ECG tracing with the horizontal timebase shown in ms, at what single millisecond offset from the start of the recording does a beat occur that is followed by the longest pause before the next R‑peak (the moment of slowest instantaneous heart rate)? A. 26687858 ms; B. 13590302 ms; C. 432745 ms; D. 492745 ms",
+      "answer": "D. 492745 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A782",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a adult-year-old unknown. Find the one millisecond timepoint (measured from the start of the ECG recording) on the rhythm strip marked in ms that corresponds to the beat after which the next R‑peak appears sooner than after any other beat; state that time in ms? A. 43810968 ms; B. 43812968 ms; C. 43374839 ms; D. 43895005 ms",
+      "answer": "B. 43812968 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A782",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a adult-year-old unknown patient. On the ECG rhythm tracing marked in ms, which single millisecond timestamp from the start of the recording corresponds to the R‑peak that precedes the greatest inter‑beat gap? A. 43895505 ms; B. 43895005 ms; C. 44195005 ms; D. 43812968 ms",
+      "answer": "B. 43895005 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A784",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a adult-year-old unknown patient. Using the rhythm lead displayed with horizontal time ticks in ms, report the single millisecond timepoint from the start of the recording at which an R‑wave occurs that is followed more quickly than any other by the subsequent R‑wave (the instant of highest instantaneous heart rate)? A. 8244083 ms; B. 74772880 ms; C. 74762880 ms; D. 75362880 ms",
+      "answer": "C. 74762880 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A784",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a adult-year-old unknown patient. Inspect the ECG tracing with the horizontal time ruler in ms and state the single millisecond offset from the start of the recording at which a beat occurs that is followed by the greatest RR interval (the point of lowest instantaneous heart rate); report that time in ms? A. 8244083 ms; B. 74762880 ms; C. 8161643 ms; D. 8214083 ms",
+      "answer": "A. 8244083 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A785",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a adult-year-old unknown. On the ECG tracing with the horizontal time axis labeled in ms, identify the exact millisecond timepoint from the start of the recording at which an R‑wave occurs that is followed by the shortest interval to the next R‑wave (the instant of highest instantaneous heart rate); report that time in ms? A. 76795374 ms; B. 77015730 ms; C. 54004635 ms; D. 76785374 ms",
+      "answer": "D. 76785374 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A785",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a adult-year-old unknown. Locate the millisecond timestamp from the start of the recording shown on the rhythm lead (timebase in ms) that marks the R‑peak after which the interval to the next R‑peak is longest — report that single timepoint in ms? A. 54544681 ms; B. 54004635 ms; C. 53974635 ms; D. 76785374 ms",
+      "answer": "B. 54004635 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A788",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a adult-year-old unknown. Using the ECG lead displayed with a millisecond timebase, state the single millisecond timestamp from the start of the recording at which an R‑peak occurs that corresponds to the highest instantaneous heart rate (report the time in ms)? A. 38518462 ms; B. 4853770 ms; C. 4978743 ms; D. 4973770 ms",
+      "answer": "D. 4973770 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A788",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a adult-year-old unknown. On the displayed rhythm strip with the horizontal time axis in ms, identify the single millisecond point from the start of the recording at which an R‑wave occurs that initiates the longest interval to the next R‑wave; report that time in ms? A. 4973770 ms; B. 38528462 ms; C. 38556980 ms; D. 38518462 ms",
+      "answer": "D. 38518462 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A79",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 80-year-old male. On the rhythm strip with the horizontal time axis labeled in ms, what single millisecond timestamp from the start of the recording marks the R‑wave that is followed sooner than any other by the next R‑wave (the beat that precedes the shortest RR interval)? A. 63540206 ms; B. 43553956 ms; C. 63480206 ms; D. 63470206 ms",
+      "answer": "C. 63480206 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A79",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 80-year-old male patient. Using the rhythm strip displayed with the horizontal time scale in ms, state the single millisecond offset from the start of the recording at which an R‑wave occurs that is followed by the longest pause until the next R‑wave (the moment of slowest instantaneous heart rate); report that time in ms? A. 43553956 ms; B. 43554956 ms; C. 63480206 ms; D. 43613956 ms",
+      "answer": "A. 43553956 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A85",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 81-year-old female patient. On the ECG strip with the horizontal time scale annotated in ms, report the single millisecond offset from the start of the recording that corresponds to the R‑peak which begins the pair of beats with the smallest interbeat (RR) interval — the moment of maximal instantaneous heart rate? A. 16809408 ms; B. 16804408 ms; C. 16204408 ms; D. 66268035 ms",
+      "answer": "B. 16804408 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A85",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 81-year-old female patient. Using the ECG strip with the time axis labeled in ms, state the single millisecond timestamp from the start of the recording at which an R‑wave occurs that is followed by the longest pause before the subsequent R‑wave; give that time in ms? A. 41536222 ms; B. 16804408 ms; C. 66267035 ms; D. 66268035 ms",
+      "answer": "D. 66268035 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A87",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 73-year-old male patient. Refer to the ECG rhythm strip with the timebase labeled in ms; what single millisecond offset from the start of the recording corresponds to the R‑wave that is immediately followed by the shortest RR interval (the point of highest instantaneous heart rate)? A. 40836071 ms; B. 57678615 ms; C. 57558615 ms; D. 57679615 ms",
+      "answer": "B. 57678615 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A87",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 73-year-old male. On the ECG tracing with the horizontal time axis labeled in ms, identify the single millisecond timestamp from the start of the recording at which an R‑peak occurs that is followed by the longest RR interval (the moment of lowest instantaneous heart rate); report that time in ms? A. 40958579 ms; B. 57678615 ms; C. 40836071 ms; D. 40834071 ms",
+      "answer": "C. 40836071 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A89",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 70-year-old female patient. On the rhythm strip provided with the horizontal timebase labeled in ms, at which single millisecond mark from the start of the recording does an R‑peak occur that is immediately followed by the shortest RR interval (the point of highest instantaneous heart rate)? A. 84711845 ms; B. 86481845 ms; C. 79033757 ms; D. 84681845 ms",
+      "answer": "D. 84681845 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A89",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 70-year-old female patient. Review the ECG rhythm strip with its horizontal time axis labeled in ms and state the single millisecond time point from the start of the recording that corresponds to the R peak which marks the onset of the longest interbeat pause on the tracing? A. 84681845 ms; B. 78913757 ms; C. 79033757 ms; D. 79035757 ms",
+      "answer": "C. 79033757 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A93",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 64-year-old male patient. On the ECG tracing with the horizontal time axis marked in ms, what single millisecond offset from the start of the recording corresponds to the R‑wave that is followed by the shortest R‑R interval (the point of highest instantaneous heart rate)? A. 9593894 ms; B. 9594894 ms; C. 9623678 ms; D. 50686905 ms",
+      "answer": "B. 9594894 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A93",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 64-year-old male patient. In the rhythm strip shown with the horizontal time scale labeled in ms, pinpoint the single millisecond timestamp from the start of the recording at which an R‑wave occurs that begins the longest R‑R interval on the tracing (the moment of slowest instantaneous heart rate)? A. 50696905 ms; B. 50686905 ms; C. 50737591 ms; D. 9594894 ms",
+      "answer": "B. 50686905 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A9",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 72-year-old male patient. Identify the millisecond offset from the start of the recording (timebase in ms) that marks the R complex immediately preceding the shortest subsequent R-R interval — the point of highest instantaneous heart rate? A. 44493760 ms; B. 44488760 ms; C. 44355294 ms; D. 43908443 ms",
+      "answer": "B. 44488760 ms"
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A9",
+    "task_type": "closed_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 72-year-old male patient. Using the ECG strip with its horizontal axis labeled in ms, state the single millisecond timepoint from the start of the recording at which an R‑peak occurs immediately before the greatest prolongation of the next R‑R interval (the instant of the slowest instantaneous heart rate)? A. 43906443 ms; B. 44488760 ms; C. 44198602 ms; D. 43908443 ms",
+      "answer": "D. 43908443 ms"
+    },
+    "tag": "test"
+  }
+]

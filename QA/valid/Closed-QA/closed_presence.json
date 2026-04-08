@@ -1,0 +1,4934 @@
+[
+  {
+    "id": "A107",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 45-year-old female patient. Is atrial fibrillation evident in this monitoring segment?",
+      "answer": "No, no clear evidence of Atrial Fibrillation is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A107",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 45-year-old female patient. Are Premature Atrial Contractions evident on this ECG waveform?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A107",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 45-year-old female. In the provided monitoring segment, do the rhythm characteristics meet criteria for ventricular tachycardia?",
+      "answer": "No, characteristic ECG features of Ventricular Tachycardia are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A107",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 45-year-old female patient. On review of this monitoring strip, should Premature Ventricular Contraction be suspected based on the morphology and timing of beats seen in the recording?",
+      "answer": "Yes, findings are consistent with Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A107",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 45-year-old female. On review of the provided waveform, is asystole present at any point during the tracing?",
+      "answer": "No, no clear evidence of Asystole is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A107",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 45-year-old female patient. Should Junctional Escape Rhythm be suspected on review of this recording?",
+      "answer": "Yes, findings are consistent with Junctional Escape Rhythm."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A116",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 66-year-old female. Does the rhythm on this monitoring segment meet criteria for Sinus Bradycardia?",
+      "answer": "No, no clear evidence of Sinus Bradycardia is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A116",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 66-year-old female patient. In this recording, does the rhythm analysis demonstrate Premature Ventricular Contraction?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A116",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 66-year-old female patient. Are the electrocardiographic findings in this monitoring segment consistent with Premature Atrial Contraction?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A116",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 66-year-old female patient. In this monitoring segment, does the electrocardiographic evidence indicate ventricular fibrillation, manifested as rapid, chaotic, and disorganized ventricular activity without identifiable QRS complexes?",
+      "answer": "No, no clear evidence of Ventricular Fibrillation is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A119",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 48-year-old male patient. For this ECG recording, evaluate the rhythm: is asystole present, evidenced by a sustained absence of discernible QRS complexes or other organized electrical activity?",
+      "answer": "No, this tracing does not support Asystole."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A119",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 48-year-old male. On review of this rhythm tracing, is there electrocardiographic evidence consistent with Premature Atrial Contraction, specifically early atrial depolarizations with P‑wave morphology distinct from the baseline and occurring before the expected sinus beat?",
+      "answer": "Yes, findings are consistent with Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A125",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 51-year-old female patient. Assess the monitoring segment: does it demonstrate features consistent with Torsades de Pointes?",
+      "answer": "No, no clear evidence of Torsades de Pointes is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A125",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 51-year-old female. On this ECG strip, is a Premature Ventricular Contraction present?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A125",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 51-year-old female patient. Please assess the provided waveform and indicate whether the tracing demonstrates features consistent with Second-degree AV Block Mobitz II?",
+      "answer": "No, this tracing does not support Second-degree AV Block Mobitz II."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A125",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 51-year-old female. Examine the ECG strip and indicate whether it demonstrates electrocardiographic evidence of Premature Atrial Contraction, for example prematurely occurring P waves with altered morphology preceding the QRS complexes?",
+      "answer": "Yes, findings are consistent with Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A130",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 55-year-old female patient. Does this rhythm tracing suggest 2:1 AV Conduction Block?",
+      "answer": "No, no clear evidence of 2:1 AV Conduction Block is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A130",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 55-year-old female. On the provided waveform, are there electrocardiographic findings consistent with First-degree AV Block?",
+      "answer": "Yes, this ECG segment shows features suggestive of First-degree AV Block."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A130",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 55-year-old female. Review the rhythm tracing and indicate whether Premature Atrial Contractions (PACs) are present on the recording?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A130",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 55-year-old female patient. Does the rhythm strip display findings consistent with atrial tachycardia?",
+      "answer": "No, characteristic ECG features of Atrial Tachycardia are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 78-year-old male patient. On review of the rhythm tracing, is there electrocardiographic evidence of Second-degree AV Block Mobitz I (Wenckebach), for example progressive PR interval prolongation culminating in intermittent non-conducted P waves?",
+      "answer": "No, no clear evidence of Second-degree AV Block Mobitz I is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 78-year-old male. Review the rhythm strip and determine whether the ECG demonstrates a Junctional Escape Rhythm, with junctional escape beats replacing the expected sinus complexes on the recording?",
+      "answer": "Yes, this ECG segment shows features suggestive of Junctional Escape Rhythm."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 78-year-old male. Assess the ECG waveform: does the tracing demonstrate Premature Atrial Contractions, evident as premature atrial complexes distinguishable by their timing and P-wave morphology?",
+      "answer": "Yes, findings are consistent with Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 78-year-old male. Does the presented waveform demonstrate asystole?",
+      "answer": "No, this tracing does not support Asystole."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 78-year-old male patient. In this recording, do the rhythm characteristics—including an irregularly irregular ventricular response and absence of organized atrial activity—support the diagnosis of atrial fibrillation?",
+      "answer": "No, this tracing does not support Atrial Fibrillation."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 78-year-old male patient. When interpreting the presented ECG strip, are there Premature Ventricular Contractions manifesting as premature, wide QRS complexes without preceding P waves that alter the underlying rhythm?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A141",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 74-year-old female patient. Reviewing this ECG recording, do the premature, wide QRS complexes without preceding P waves raise diagnostic suspicion for Premature Ventricular Contraction?",
+      "answer": "Yes, findings are consistent with Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A141",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 74-year-old female patient. On this ECG strip, is there electrocardiographic evidence of Ventricular Tachycardia?",
+      "answer": "No, no clear evidence of Ventricular Tachycardia is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 67-year-old male. On review of the displayed monitoring strip, are premature atrial contractions present in the ECG tracing based on the observed P-wave morphology and timing?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old male. Upon review of the provided rhythm tracing, does the recorded ECG segment demonstrate features consistent with atrial tachycardia?",
+      "answer": "Yes, the rhythm pattern supports the presence of Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 67-year-old male patient. On the provided waveform, are Premature Ventricular Contractions present?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 67-year-old male. In the provided monitoring recording, does the rhythm tracing demonstrate 2:1 AV conduction block?",
+      "answer": "No, this tracing does not support 2:1 AV Conduction Block."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old male. Can you determine from the displayed ECG strip whether the rhythm represents ventricular fibrillation?",
+      "answer": "No, no clear evidence of Ventricular Fibrillation is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 67-year-old male patient. In the provided recording, can you identify any Sinus Pause events on the rhythm strip indicating transient absence of sinus activity?",
+      "answer": "No, characteristic ECG features of Sinus Pause are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A153",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 62-year-old female patient. When reviewing the attached recording, is there electrocardiographic evidence supporting the presence of a junctional escape rhythm?",
+      "answer": "No, this tracing does not support Junctional Escape Rhythm."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A153",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 62-year-old female. Upon inspection of the monitoring segment, is there an episode consistent with asystole evident on the rhythm tracing?",
+      "answer": "No, no clear evidence of Asystole is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A153",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 62-year-old female patient. In this ECG strip, are premature atrial contractions (PACs) present—identified by early P waves with altered morphology and resultant changes in PR interval?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A153",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 62-year-old female. Examining the rhythm recording provided, do any beats fulfill electrocardiographic criteria for Premature Ventricular Contraction?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A191",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 66-year-old male patient. On review of the ECG strip, does the pattern of premature ventricular-origin beats raise diagnostic suspicion for Premature Ventricular Contractions?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A191",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 66-year-old male. While evaluating this ECG strip, do you identify premature atrial contractions—discrete early atrial depolarizations that interrupt the underlying sinus rhythm?",
+      "answer": "Yes, findings are consistent with Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A191",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 66-year-old male. Does the monitoring rhythm display polymorphic ventricular tachycardia consistent with Torsades de Pointes?",
+      "answer": "No, no clear evidence of Torsades de Pointes is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A191",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 66-year-old male. On review of this monitoring segment, do the ECG findings demonstrate Atrial Flutter—specifically organized flutter waves with a rapid atrial rate and consistent AV conduction pattern?",
+      "answer": "No, no clear evidence of Atrial Flutter is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A194",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 64-year-old female patient. Does the rhythm recording demonstrate atrial tachycardia?",
+      "answer": "Yes, this ECG segment shows features suggestive of Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A194",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 64-year-old female patient. In this monitoring segment, is there electrocardiographic evidence of Second-degree AV Block Mobitz I (Wenckebach), such as progressive PR interval prolongation with intermittent non-conducted P waves?",
+      "answer": "No, characteristic ECG features of Second-degree AV Block Mobitz I are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A194",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 64-year-old female patient. On analysis of this rhythm waveform, is asystole present?",
+      "answer": "No, characteristic ECG features of Asystole are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A194",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 64-year-old female. Does this waveform demonstrate Premature Atrial Contraction?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A222",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 59-year-old female patient. Can you identify any Premature Atrial Contraction in this recording?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A222",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 59-year-old female. Does this rhythm tracing show second-degree AV block Mobitz II?",
+      "answer": "No, this tracing does not support Second-degree AV Block Mobitz II."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A222",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 59-year-old female. Review the attached ECG strip and determine whether the tracing demonstrates the characteristic polymorphic ventricular tachycardia pattern consistent with Torsades de Pointes?",
+      "answer": "No, this tracing does not support Torsades de Pointes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A222",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 59-year-old female patient. Does this rhythm tracing demonstrate atrial tachycardia?",
+      "answer": "Yes, this ECG segment shows features suggestive of Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 70-year-old female. In this monitoring segment, are the electrocardiographic findings consistent with second-degree AV block Mobitz I (Wenckebach)?",
+      "answer": "No, characteristic ECG features of Second-degree AV Block Mobitz I are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 70-year-old female patient. When interpreting the provided waveform, does the rhythm tracing demonstrate Premature Atrial Contraction?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 70-year-old female patient. In this monitoring segment, are the rhythm features indicative of ventricular fibrillation, with a chaotic, irregular baseline and absence of identifiable QRS complexes?",
+      "answer": "No, no clear evidence of Ventricular Fibrillation is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 70-year-old female. On review of the provided ECG waveform, can you identify findings consistent with Premature Ventricular Contractions based on the timing and morphology of the QRS complexes?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 70-year-old female. Assessing the provided monitoring segment, are the ECG findings compatible with a diagnosis of atrial fibrillation?",
+      "answer": "No, no clear evidence of Atrial Fibrillation is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 70-year-old female. Do the rhythm and P-wave characteristics on the ECG strip indicate atrial tachycardia?",
+      "answer": "Yes, the rhythm pattern supports the presence of Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A291",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 36-year-old female patient. In the presented monitoring segment, is there electrocardiographic evidence consistent with a Premature Atrial Contraction, such as an early abnormal P‑wave with altered PR timing?",
+      "answer": "Yes, findings are consistent with Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A291",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 36-year-old female patient. Does the recording demonstrate asystole characterized by a sustained absence of ventricular complexes?",
+      "answer": "No, this tracing does not support Asystole."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 75-year-old male. On review of this monitoring segment, are Premature Atrial Contractions present as isolated early atrial beats with altered P-wave morphology?",
+      "answer": "Yes, findings are consistent with Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 75-year-old male. On this rhythm tracing, does the ECG demonstrate polymorphic ventricular tachycardia, evidenced by a rapid ventricular rhythm with beat-to-beat variation in QRS morphology?",
+      "answer": "No, this tracing does not support Polymorphic Ventricular Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 75-year-old male. On review of this rhythm waveform, is there electrocardiographic evidence supporting a diagnosis of atrial tachycardia?",
+      "answer": "Yes, the rhythm pattern supports the presence of Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 75-year-old male. Based on this ECG segment, is there evidence of Third-degree AV Block?",
+      "answer": "No, no clear evidence of Third-degree AV Block is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old male patient. In this rhythm tracing, are Premature Ventricular Contractions present?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 75-year-old male. On this ECG strip, is there electrocardiographic evidence of a ventricular escape rhythm?",
+      "answer": "No, this tracing does not support Ventricular Escape Rhythm."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 72-year-old female. In this waveform, can Premature Ventricular Contraction be identified?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 72-year-old female patient. In this ECG recording, is there electrocardiographic evidence supporting a diagnosis of Premature Atrial Contraction?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 72-year-old female. On this waveform, is first-degree AV block present?",
+      "answer": "No, no clear evidence of First-degree AV Block is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 72-year-old female. Does this recording provide electrocardiographic evidence of atrial fibrillation?",
+      "answer": "No, no clear evidence of Atrial Fibrillation is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 72-year-old female. In this monitoring segment, are there electrocardiographic features consistent with Second-degree AV Block Mobitz I?",
+      "answer": "No, no clear evidence of Second-degree AV Block Mobitz I is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 72-year-old female. Are the ECG findings in this monitoring segment indicative of atrial tachycardia?",
+      "answer": "Yes, this ECG segment shows features suggestive of Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A311",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 63-year-old male. Does the attached rhythm strip demonstrate atrial tachycardia?",
+      "answer": "Yes, the rhythm pattern supports the presence of Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A311",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 63-year-old male. Based on the supplied ECG waveform, is there evidence of Atrial Flutter in this recording?",
+      "answer": "No, this tracing does not support Atrial Flutter."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A311",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 63-year-old male patient. Assess the attached ECG strip for rhythm abnormalities: are Premature Atrial Contraction(s) present in this recording?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A311",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 63-year-old male patient. On analysis of the supplied ECG waveform, is there evidence suggestive of a ventricular escape rhythm?",
+      "answer": "No, no clear evidence of Ventricular Escape Rhythm is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A317",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 56-year-old female patient. On review of this recording, are Premature Atrial Contractions present on the rhythm strip?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A317",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 56-year-old female patient. Does this ECG rhythm tracing demonstrate asystole, evidenced by a sustained absence of discernible QRS complexes?",
+      "answer": "No, characteristic ECG features of Asystole are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 73-year-old male. Within this monitoring segment, are there ECG findings consistent with First-degree AV Block?",
+      "answer": "Yes, the rhythm pattern supports the presence of First-degree AV Block."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 73-year-old male patient. When reviewing this ECG waveform, does the tracing raise diagnostic suspicion for sinus bradycardia?",
+      "answer": "No, characteristic ECG features of Sinus Bradycardia are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 73-year-old male. When reviewing this waveform, do the rhythm characteristics suggest Third-degree AV Block?",
+      "answer": "No, no clear evidence of Third-degree AV Block is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 73-year-old male. Within the monitoring segment provided, is there electrocardiographic evidence of Torsades de Pointes?",
+      "answer": "No, characteristic ECG features of Torsades de Pointes are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 73-year-old male. Does the rhythm on this strip indicate atrial tachycardia?",
+      "answer": "Yes, this ECG segment shows features suggestive of Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 73-year-old male patient. Is there electrocardiographic evidence of Premature Ventricular Contraction on this rhythm tracing?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 38-year-old male patient. When interpreting the provided rhythm strip, do the ventricular rate, regularity, and wide-complex morphology indicate ventricular tachycardia?",
+      "answer": "No, this tracing does not support Ventricular Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 38-year-old male. In this rhythm tracing, do the premature wide-complex beats without preceding P waves represent Premature Ventricular Contractions?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 38-year-old male. On inspection of the supplied waveform, do the rhythm pattern and P–QRS relationships support a diagnosis of Third-degree AV Block (complete AV dissociation)?",
+      "answer": "No, characteristic ECG features of Third-degree AV Block are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 38-year-old male. In the provided recording, are the rhythm and PR-interval patterns consistent with Second-degree AV Block Mobitz I (Wenckebach)?",
+      "answer": "No, no clear evidence of Second-degree AV Block Mobitz I is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 38-year-old male. Are Premature Atrial Contractions present on the provided recording?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 38-year-old male. In the provided monitoring segment, is there electrocardiographic evidence of atrial tachycardia, such as a sustained rapid atrial rhythm with consistent abnormal P‑wave morphology preceding each QRS complex?",
+      "answer": "Yes, the rhythm pattern supports the presence of Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A341",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 71-year-old female patient. In this recording, do isolated early atrial events that alter the atrial–ventricular sequence raise diagnostic suspicion for Premature Atrial Contraction?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A341",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 71-year-old female patient. In the supplied ECG strip, are there electrocardiographic features consistent with ventricular flutter?",
+      "answer": "No, this tracing does not support Ventricular Flutter."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A358",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 40-year-old female. Please evaluate the attached ECG strip and determine whether the rhythm tracing demonstrates Premature Ventricular Contraction?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A358",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 40-year-old female patient. On this rhythm tracing, is ventricular fibrillation present?",
+      "answer": "No, this tracing does not support Ventricular Fibrillation."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A360",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old female patient. Review the rhythm strip and determine whether the tracing represents polymorphic ventricular tachycardia, with a rapid ventricular rhythm and changing QRS morphology?",
+      "answer": "No, characteristic ECG features of Polymorphic Ventricular Tachycardia are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A360",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old female patient. In the provided monitoring segment, are Premature Atrial Contractions visible on the ECG tracing?",
+      "answer": "Yes, findings are consistent with Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A360",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 75-year-old female. Review the provided monitoring segment and determine whether the ECG tracing demonstrates Premature Ventricular Contraction in the recorded rhythm?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A360",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 75-year-old female patient. Does the rhythm strip demonstrate electrocardiographic findings consistent with Second-degree AV Block Mobitz II?",
+      "answer": "No, characteristic ECG features of Second-degree AV Block Mobitz II are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A41",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 59-year-old male patient. On review of this ECG strip, is there electrocardiographic evidence of ventricular fibrillation?",
+      "answer": "No, characteristic ECG features of Ventricular Fibrillation are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A41",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 59-year-old male. On review of this waveform, is there rhythm evidence consistent with 2:1 AV Conduction Block, with only every second P wave being conducted to produce a QRS complex?",
+      "answer": "No, this tracing does not support 2:1 AV Conduction Block."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A41",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 59-year-old male patient. Based on this waveform, should atrial tachycardia be suspected?",
+      "answer": "Yes, this ECG segment shows features suggestive of Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A41",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 59-year-old male patient. When evaluating this monitoring segment, do the tracings demonstrate premature, wide QRS complexes without preceding P waves consistent with Premature Ventricular Contractions?",
+      "answer": "Yes, findings are consistent with Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A41",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 59-year-old male. On this rhythm waveform, are premature atrial contractions evident?",
+      "answer": "Yes, findings are consistent with Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A41",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 59-year-old male. On this rhythm tracing, is third-degree AV block present?",
+      "answer": "No, no clear evidence of Third-degree AV Block is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A422",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 69-year-old male. Does this rhythm tracing demonstrate ventricular flutter (coarse)?",
+      "answer": "No, no clear evidence of Ventricular Flutter (Coarse) is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A422",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 69-year-old male patient. Are there electrocardiographic findings suggestive of Third-degree AV Block here?",
+      "answer": "No, no clear evidence of Third-degree AV Block is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A422",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 69-year-old male patient. On review of the supplied ECG strip, can premature ventricular contractions be detected within the rhythm tracing?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A422",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 69-year-old male. Does the rhythm tracing in this monitoring segment indicate the presence of Premature Atrial Contraction?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 75-year-old male. On review of this rhythm tracing, is atrial tachycardia present, indicated by a sustained organized rapid atrial rhythm with consistent abnormal P-wave morphology and a regular rapid ventricular response?",
+      "answer": "Yes, findings are consistent with Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 75-year-old male. In the provided rhythm tracing, are premature ventricular contractions (PVCs) present within the recording?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 75-year-old male. Based on the rhythm strip shown, can this tracing be interpreted as ventricular fibrillation?",
+      "answer": "No, this tracing does not support Ventricular Fibrillation."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 75-year-old male patient. On review of this rhythm tracing, is there electrocardiographic evidence consistent with sinus tachycardia?",
+      "answer": "No, this tracing does not support Sinus Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 75-year-old male patient. On inspection of the provided ECG recording, is there electrocardiographic evidence of Premature Atrial Contraction, indicated by one or more premature atrial complexes with altered P‑wave morphology and associated PR‑interval changes?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 75-year-old male. On review of the rhythm recording, are sinus pauses evident?",
+      "answer": "No, this tracing does not support Sinus Pause."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A431",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 67-year-old female patient. In the monitoring segment, is there electrocardiographic evidence of polymorphic ventricular tachycardia?",
+      "answer": "No, characteristic ECG features of Polymorphic Ventricular Tachycardia are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A431",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old female. In the provided monitoring segment, does the rhythm tracing demonstrate a Sinus Pause with an abrupt interruption of expected sinus beats?",
+      "answer": "No, no clear evidence of Sinus Pause is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A431",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 67-year-old female patient. Does this recording show evidence of Premature Ventricular Contractions (PVCs) on the ECG strip?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A431",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old female. On this ECG strip, are there atrial-origin premature beats consistent with Premature Atrial Contraction, occurring earlier than the expected sinus impulse and demonstrating a P‑wave morphology different from the native sinus beats?",
+      "answer": "Yes, findings are consistent with Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A451",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 71-year-old male. In this recording, do the early abnormal P waves represent Premature Atrial Contraction?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A451",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 71-year-old male patient. Does this ECG strip show electrocardiographic evidence of atrial fibrillation?",
+      "answer": "No, no clear evidence of Atrial Fibrillation is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A451",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 71-year-old male patient. Does the ECG strip show a rhythm consistent with ventricular tachycardia?",
+      "answer": "No, this tracing does not support Ventricular Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A451",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 71-year-old male patient. On review of the recorded rhythm strip, is there electrocardiographic evidence consistent with Premature Ventricular Contraction?",
+      "answer": "Yes, findings are consistent with Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 56-year-old male patient. On review of the rhythm tracing, is there electrocardiographic evidence of a sinus pause (transient cessation of sinus impulses)?",
+      "answer": "No, this tracing does not support Sinus Pause."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 56-year-old male. In this monitoring segment, does the rhythm tracing demonstrate Premature Atrial Contractions?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 56-year-old male. On this ECG strip, does the rhythm raise suspicion for atrial tachycardia?",
+      "answer": "Yes, the rhythm pattern supports the presence of Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 56-year-old male patient. Are Premature Ventricular Contractions (PVCs) present on this rhythm tracing?",
+      "answer": "Yes, findings are consistent with Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 56-year-old male patient. Interpret the rhythm tracing and determine whether it demonstrates a ventricular escape rhythm based on the ECG features?",
+      "answer": "No, no clear evidence of Ventricular Escape Rhythm is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 56-year-old male. On examination of the waveform, are there electrocardiographic features consistent with sinus bradycardia?",
+      "answer": "No, characteristic ECG features of Sinus Bradycardia are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A464",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 68-year-old male patient. Does the recording demonstrate ECG evidence of Premature Atrial Contraction?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A464",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 68-year-old male patient. In the monitoring segment, are there ECG findings consistent with second-degree AV block Mobitz II?",
+      "answer": "No, characteristic ECG features of Second-degree AV Block Mobitz II are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A469",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 51-year-old female. Is Second-degree AV Block Mobitz I evident on this rhythm tracing?",
+      "answer": "No, no clear evidence of Second-degree AV Block Mobitz I is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A469",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 51-year-old female patient. When assessing the provided waveform, can polymorphic ventricular tachycardia be identified from the rhythm tracing?",
+      "answer": "No, no clear evidence of Polymorphic Ventricular Tachycardia is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A469",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 51-year-old female patient. In this recording, are there rhythm findings consistent with Premature Atrial Contraction?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A469",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 51-year-old female. On this rhythm tracing, are Premature Ventricular Contractions present, characterized by premature, wide QRS complexes without preceding P waves?",
+      "answer": "Yes, findings are consistent with Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A46",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 84-year-old male patient. In this recording, are the rhythm characteristics consistent with sinus bradycardia?",
+      "answer": "No, characteristic ECG features of Sinus Bradycardia are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A46",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 84-year-old male patient. Does this monitoring waveform demonstrate asystole?",
+      "answer": "No, characteristic ECG features of Asystole are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A46",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 84-year-old male. In this monitoring segment, does the rhythm tracing raise diagnostic suspicion for Premature Atrial Contraction?",
+      "answer": "Yes, findings are consistent with Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A46",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 84-year-old male patient. Does the recording demonstrate Second-degree AV Block Mobitz I?",
+      "answer": "No, characteristic ECG features of Second-degree AV Block Mobitz I are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A46",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 84-year-old male. When reviewing this ECG strip, do the rhythm characteristics and P-wave morphology support atrial tachycardia?",
+      "answer": "Yes, this ECG segment shows features suggestive of Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A46",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 84-year-old male. Does this recording demonstrate Premature Ventricular Contractions?",
+      "answer": "Yes, findings are consistent with Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A473",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 55-year-old female patient. Upon review of this waveform, does the tracing warrant diagnostic consideration of Premature Atrial Contraction, with premature atrial depolarizations interrupting the underlying rhythm?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A473",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 55-year-old female. Does the rhythm in this monitoring segment meet criteria for sinus tachycardia?",
+      "answer": "No, this tracing does not support Sinus Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A473",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 55-year-old female patient. Does this monitoring segment contain electrocardiographic evidence of a Premature Ventricular Contraction?",
+      "answer": "Yes, findings are consistent with Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A473",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 55-year-old female. On this waveform, is there electrocardiographic evidence of Ventricular Flutter (Coarse)?",
+      "answer": "No, characteristic ECG features of Ventricular Flutter (Coarse) are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A478",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 57-year-old female patient. Is a Premature Atrial Contraction evident on this rhythm tracing?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A478",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 57-year-old female patient. In the provided monitoring segment, do the observed rhythm characteristics and QRS morphology indicate the presence of a Ventricular Escape Rhythm?",
+      "answer": "No, no clear evidence of Ventricular Escape Rhythm is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A478",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 57-year-old female patient. On review of this rhythm tracing, is Atrial Tachycardia present?",
+      "answer": "Yes, findings are consistent with Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A478",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 57-year-old female. Do the rhythm characteristics on this monitoring segment indicate Second-degree AV Block Mobitz I (Wenckebach)?",
+      "answer": "No, this tracing does not support Second-degree AV Block Mobitz I."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A481",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 41-year-old female. Does this ECG rhythm strip demonstrate a Premature Ventricular Contraction, characterized by an isolated premature, broad QRS complex without an antecedent P wave?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A481",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 41-year-old female. Does the monitoring segment demonstrate atrial fibrillation?",
+      "answer": "No, no clear evidence of Atrial Fibrillation is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A481",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 41-year-old female. On review of this rhythm tracing, do the electrocardiographic findings—such as a rapid, regular wide-complex tachycardia with possible AV dissociation or capture/fusion beats—support a diagnosis of ventricular tachycardia?",
+      "answer": "No, characteristic ECG features of Ventricular Tachycardia are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A481",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 41-year-old female. On this ECG strip, are Premature Atrial Contractions present?",
+      "answer": "Yes, findings are consistent with Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A483",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 31-year-old female patient. On this rhythm strip, are the findings consistent with atrial fibrillation?",
+      "answer": "No, characteristic ECG features of Atrial Fibrillation are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A483",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 31-year-old female. In this monitoring segment, is there electrocardiographic evidence of Premature Ventricular Contractions?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A483",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 31-year-old female patient. When interpreting this ECG strip, are the observed rhythm characteristics consistent with Ventricular Tachycardia?",
+      "answer": "Yes, findings are consistent with Ventricular Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A483",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 31-year-old female. In this rhythm tracing, are the electrocardiographic findings consistent with Second-degree AV Block Mobitz I (Wenckebach)?",
+      "answer": "No, this tracing does not support Second-degree AV Block Mobitz I."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A483",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 31-year-old female. Based on evaluation of this rhythm tracing, is there electrocardiographic evidence supporting a diagnosis of Third-degree AV Block?",
+      "answer": "No, no clear evidence of Third-degree AV Block is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A483",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 31-year-old female patient. In the provided rhythm strip, can Premature Atrial Contractions be identified?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A488",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 78-year-old male. In the presented rhythm tracing, is there electrocardiographic evidence of sinus pause, indicated by transient cessation of sinus P‑wave activity with resultant pauses in ventricular complexes?",
+      "answer": "No, characteristic ECG features of Sinus Pause are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A488",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 78-year-old male patient. On this ECG strip, is there electrocardiographic evidence of Premature Atrial Contraction, evidenced by isolated early P waves with abnormal morphology and otherwise narrow QRS complexes?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A488",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 78-year-old male. In the monitoring segment, is there electrocardiographic evidence of polymorphic ventricular tachycardia?",
+      "answer": "No, this tracing does not support Polymorphic Ventricular Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A488",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 78-year-old male. Reviewing this ECG recording, is there electrocardiographic evidence consistent with atrial tachycardia, such as a persistent rapid atrial rhythm with P‑wave morphology that differs from sinus and a correspondingly regular ventricular response?",
+      "answer": "Yes, this ECG segment shows features suggestive of Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A488",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 78-year-old male. Based on the presented waveform, can you identify whether Premature Ventricular Contraction is present in this recording?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A488",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 78-year-old male. Does this rhythm tracing demonstrate atrial fibrillation?",
+      "answer": "No, this tracing does not support Atrial Fibrillation."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 65-year-old female. When assessing this rhythm strip, would you suspect atrial tachycardia based on the observed atrial activity and its relationship to the ventricular complexes?",
+      "answer": "Yes, the rhythm pattern supports the presence of Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 65-year-old female. Should atrial fibrillation be considered based on the rhythm characteristics visible on this ECG strip?",
+      "answer": "No, this tracing does not support Atrial Fibrillation."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 65-year-old female. In this ECG strip, is there electrocardiographic evidence to support a diagnosis of Premature Atrial Contraction?",
+      "answer": "Yes, findings are consistent with Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 65-year-old female. Reviewing the monitoring segment, are there electrocardiographic features indicative of Premature Ventricular Contraction?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 65-year-old female. Reviewing the provided rhythm tracing, is there electrocardiographic evidence that the rhythm originates from the AV junction consistent with a junctional escape rhythm?",
+      "answer": "No, this tracing does not support Junctional Escape Rhythm."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 65-year-old female patient. Assessing this recording, would you suspect the rhythm represents ventricular flutter (coarse) based on the waveform characteristics?",
+      "answer": "No, this tracing does not support Ventricular Flutter (Coarse)."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A490",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 56-year-old female. Based on the PR interval progression and the rhythm pattern on the presented ECG strip, do the findings raise diagnostic suspicion for Second-degree AV Block Mobitz I (Wenckebach)?",
+      "answer": "No, this tracing does not support Second-degree AV Block Mobitz I."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A490",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 56-year-old female patient. In this ECG tracing, does the waveform demonstrate Premature Atrial Contraction, evidenced by prematurely occurring P waves with altered morphology followed by QRS complexes?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A502",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 44-year-old male patient. Based on this waveform, is there electrocardiographic evidence of Premature Atrial Contraction?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A502",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 44-year-old male patient. On this ECG strip, are the rhythm characteristics consistent with atrial tachycardia?",
+      "answer": "Yes, findings are consistent with Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A502",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 44-year-old male. When reviewing this ECG strip, is there electrocardiographic evidence consistent with 2:1 AV Conduction Block?",
+      "answer": "No, no clear evidence of 2:1 AV Conduction Block is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A502",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 44-year-old male patient. On review of this rhythm tracing, is there electrocardiographic evidence of Sinus Bradycardia, characterized by regular P waves preceding each QRS and an overall ventricular rate under 60 beats per minute?",
+      "answer": "No, no clear evidence of Sinus Bradycardia is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 66-year-old male. Does the recorded rhythm in this monitoring segment meet criteria for ventricular fibrillation?",
+      "answer": "No, no clear evidence of Ventricular Fibrillation is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 66-year-old male. Examining this monitoring segment, is there evidence of atrial tachycardia manifested as a sustained, rapid atrial rhythm with consistent P-wave morphology distinct from sinus activity?",
+      "answer": "Yes, findings are consistent with Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 66-year-old male patient. While reviewing this rhythm recording, do you observe Premature Atrial Contractions (PACs) manifesting as early atrial complexes with P-wave morphology different from the sinus beats within the captured segment?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 66-year-old male. Does this ECG strip demonstrate sinus bradycardia?",
+      "answer": "No, this tracing does not support Sinus Bradycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 66-year-old male. During interpretation of this monitoring segment, are Premature Ventricular Contractions (PVCs) present within the captured rhythm tracing?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 66-year-old male. When evaluating this ECG strip, is there evidence of third-degree AV block (complete heart block) with independent atrial and ventricular activity indicating complete AV dissociation?",
+      "answer": "No, characteristic ECG features of Third-degree AV Block are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A50",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 56-year-old female. Does the timing and morphology of the P waves in this monitoring strip suggest Premature Atrial Contraction?",
+      "answer": "Yes, findings are consistent with Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A50",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 56-year-old female patient. Does this ECG strip show ventricular tachycardia?",
+      "answer": "No, characteristic ECG features of Ventricular Tachycardia are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A523",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 62-year-old male. Reviewing this ECG strip, is there rhythm-tracing evidence consistent with ventricular flutter?",
+      "answer": "No, characteristic ECG features of Ventricular Flutter are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A523",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 62-year-old male patient. Can a Premature Atrial Contraction be detected on this ECG rhythm strip?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 68-year-old male patient. On the provided ECG strip, is Torsades de Pointes present?",
+      "answer": "No, characteristic ECG features of Torsades de Pointes are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 68-year-old male. In the monitoring segment provided, is there electrocardiographic evidence of 2:1 AV conduction block?",
+      "answer": "No, no clear evidence of 2:1 AV Conduction Block is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 68-year-old male. On the presented waveform, is there electrocardiographic evidence consistent with atrial tachycardia?",
+      "answer": "Yes, the rhythm pattern supports the presence of Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 68-year-old male. In the recording, are Premature Atrial Contractions evident?",
+      "answer": "Yes, findings are consistent with Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 68-year-old male patient. Carefully review the provided rhythm tracing and determine whether Premature Ventricular Contractions are present on the recording?",
+      "answer": "Yes, findings are consistent with Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 68-year-old male. Please review the ECG strip and indicate whether the rhythm tracing demonstrates atrial flutter?",
+      "answer": "No, characteristic ECG features of Atrial Flutter are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A536",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 63-year-old female patient. Does the ECG strip show findings consistent with atrial fibrillation?",
+      "answer": "No, no clear evidence of Atrial Fibrillation is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A536",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 63-year-old female patient. On examination of the provided ECG recording, is there electrocardiographic evidence of Premature Atrial Contraction interrupting the baseline rhythm?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A536",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 63-year-old female. Does the provided rhythm recording demonstrate Ventricular Tachycardia?",
+      "answer": "No, this tracing does not support Ventricular Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A536",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 63-year-old female. Does the presented ECG strip demonstrate Premature Ventricular Contractions, and if so, are they isolated or occurring frequently relative to the underlying rhythm?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A538",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 69-year-old male. In the provided rhythm tracing, are there electrocardiographic findings consistent with Premature Atrial Contraction?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A538",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 69-year-old male patient. On inspection of the attached rhythm tracing, are there electrocardiographic findings consistent with asystole?",
+      "answer": "No, no clear evidence of Asystole is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A538",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 69-year-old male. Is atrial tachycardia evident on this ECG strip?",
+      "answer": "No, no clear evidence of Atrial Tachycardia is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A538",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 69-year-old male patient. Does this waveform show electrocardiographic evidence of Premature Ventricular Contraction?",
+      "answer": "Yes, findings are consistent with Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A573",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 61-year-old male. Reviewing the provided monitoring segment, can Premature Ventricular Contraction be detected on the tracing?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A573",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 61-year-old male patient. Does the rhythm tracing demonstrate any Premature Atrial Contractions, evident as early atrial beats relative to the baseline rhythm?",
+      "answer": "Yes, findings are consistent with Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A573",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 61-year-old male. Reviewing the provided monitoring segment, do the electrocardiographic findings support the presence of Torsades de Pointes?",
+      "answer": "No, this tracing does not support Torsades de Pointes."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A573",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 61-year-old male patient. Does this ECG strip demonstrate asystole?",
+      "answer": "No, no clear evidence of Asystole is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A57",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 59-year-old female. When reviewing this monitoring segment, does the rhythm tracing indicate asystole?",
+      "answer": "No, this tracing does not support Asystole."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A57",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 59-year-old female patient. Based on the morphology and timing of atrial activity in the attached recording, does the strip demonstrate Premature Atrial Contraction manifested by premature, morphologically altered P waves with subsequent conducted QRS complexes?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 67-year-old female patient. Does this waveform show electrocardiographic evidence of atrial flutter?",
+      "answer": "No, no clear evidence of Atrial Flutter is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old female. In the provided recording, does the rhythm tracing demonstrate a Sinus Pause?",
+      "answer": "No, characteristic ECG features of Sinus Pause are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 67-year-old female. When evaluating this monitoring segment, does the rhythm tracing demonstrate electrocardiographic evidence of Premature Ventricular Contraction, such as an early, wide QRS complex without a preceding P wave and an associated compensatory pause?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 67-year-old female. Is atrial tachycardia present on this ECG waveform?",
+      "answer": "Yes, the rhythm pattern supports the presence of Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old female. Does the rhythm strip exhibit findings consistent with a junctional escape rhythm?",
+      "answer": "No, characteristic ECG features of Junctional Escape Rhythm are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 67-year-old female patient. On this ECG rhythm strip, are Premature Atrial Contractions (PACs) present?",
+      "answer": "Yes, findings are consistent with Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A600",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 47-year-old male patient. In this waveform, are Premature Atrial Contractions present?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A600",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 47-year-old male patient. Does this ECG strip demonstrate Ventricular Tachycardia?",
+      "answer": "No, characteristic ECG features of Ventricular Tachycardia are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 48-year-old male patient. In this waveform, is there evidence of sinus bradycardia?",
+      "answer": "No, characteristic ECG features of Sinus Bradycardia are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 48-year-old male. In this waveform, are there electrocardiographic findings indicative of Atrial Tachycardia, such as a rapid, organized atrial rhythm with P-wave morphology distinct from the baseline sinus pattern and consistent AV conduction?",
+      "answer": "Yes, this ECG segment shows features suggestive of Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 48-year-old male. On this ECG strip, is there evidence of 2:1 AV Conduction Block?",
+      "answer": "No, characteristic ECG features of 2:1 AV Conduction Block are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 48-year-old male patient. On review of this waveform, is there evidence of a Premature Atrial Contraction, for example an early P wave with altered morphology interrupting the baseline rhythm?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 48-year-old male. In this rhythm tracing, is there evidence of Premature Ventricular Contractions (PVCs), such as premature wide-complex beats without preceding P waves interrupting the baseline rhythm?",
+      "answer": "Yes, findings are consistent with Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 48-year-old male patient. On review of this waveform, is there evidence of first-degree AV block, for example a consistently prolonged PR interval with preserved 1:1 AV conduction?",
+      "answer": "No, characteristic ECG features of First-degree AV Block are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A635",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 79-year-old male patient. In this rhythm strip, are the atrial activations and the ventricular response consistent with Atrial Flutter?",
+      "answer": "No, no clear evidence of Atrial Flutter is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A635",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 79-year-old male patient. On review of this monitoring segment, are the rhythm characteristics consistent with sinus bradycardia?",
+      "answer": "No, this tracing does not support Sinus Bradycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A635",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 79-year-old male. When assessing this monitoring strip, do you observe any Premature Ventricular Contractions interrupting the underlying rhythm?",
+      "answer": "Yes, findings are consistent with Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A635",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 79-year-old male patient. Can a Premature Atrial Contraction be identified on this rhythm tracing?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 55-year-old male. In reviewing this ECG waveform, should Premature Ventricular Contraction be considered as a likely diagnosis based on the timing and morphology of the ventricular complexes?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 55-year-old male. Does the rhythm shown on this ECG recording demonstrate Premature Atrial Contraction?",
+      "answer": "Yes, findings are consistent with Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 55-year-old male. In this recording, should atrial tachycardia be suspected based on the observed rhythm and atrial activity?",
+      "answer": "Yes, the rhythm pattern supports the presence of Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 55-year-old male patient. Reviewing this rhythm tracing, should a Junctional Escape Rhythm be suspected based on the observed atrioventricular activity and ventricular rate?",
+      "answer": "No, no clear evidence of Junctional Escape Rhythm is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 55-year-old male patient. In this ECG recording, is there electrocardiographic evidence of 2:1 AV conduction block, indicated by a consistent pattern of two atrial activations for each conducted ventricular complex?",
+      "answer": "No, this tracing does not support 2:1 AV Conduction Block."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 55-year-old male. In the provided monitoring segment, is there electrocardiographic evidence of Ventricular Fibrillation based on the observed rhythm characteristics and waveform morphology?",
+      "answer": "No, no clear evidence of Ventricular Fibrillation is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A653",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 53-year-old female. Are there electrocardiographic findings in this recording indicative of Premature Atrial Contraction?",
+      "answer": "Yes, findings are consistent with Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A653",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 53-year-old female. In this recording, do the ventricular complexes demonstrate beat-to-beat variation in QRS morphology with a sustained rapid ventricular rate consistent with polymorphic ventricular tachycardia?",
+      "answer": "No, this tracing does not support Polymorphic Ventricular Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A653",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 53-year-old female. In this recording, are premature ventricular contractions evident on the ECG?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A653",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 53-year-old female. Does this ECG strip demonstrate atrial flutter?",
+      "answer": "No, characteristic ECG features of Atrial Flutter are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 68-year-old male. Does the presented ECG strip demonstrate a Sinus Pause affecting the rhythm?",
+      "answer": "Yes, the rhythm pattern supports the presence of Sinus Pause."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 68-year-old male. Can a Premature Ventricular Contraction be identified on this rhythm tracing?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 68-year-old male patient. On the displayed waveform, do the rhythm characteristics—regular rhythm with identifiable sinus P waves and an elevated ventricular rate—support electrocardiographic evidence of sinus tachycardia?",
+      "answer": "No, this tracing does not support Sinus Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 68-year-old male. Are the ECG features on this rhythm tracing consistent with atrial fibrillation?",
+      "answer": "No, characteristic ECG features of Atrial Fibrillation are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 68-year-old male patient. On this waveform, are the atrial-to-ventricular relationships consistent with 2:1 AV Conduction Block?",
+      "answer": "No, characteristic ECG features of 2:1 AV Conduction Block are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 68-year-old male. Does this rhythm tracing show evidence of a Premature Atrial Contraction?",
+      "answer": "Yes, findings are consistent with Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A688",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 62-year-old male patient. In this rhythm tracing, are there premature, broad QRS complexes lacking preceding P waves that would be consistent with Premature Ventricular Contractions?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A688",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 62-year-old male. Review the recording: is there electrocardiographic evidence of Second-degree AV Block Mobitz I (Wenckebach) in this rhythm strip?",
+      "answer": "No, no clear evidence of Second-degree AV Block Mobitz I is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A688",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 62-year-old male patient. Review the recording and determine whether atrial tachycardia is present on the ECG tracing, taking into account atrial rate, P‑wave morphology, and rhythm regularity?",
+      "answer": "Yes, this ECG segment shows features suggestive of Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A688",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 62-year-old male. On review of the ECG strip, do the rhythm features—including P‑wave relationship to the QRS complexes, overall ventricular rate, and QRS morphology—support the presence of a Junctional Escape Rhythm?",
+      "answer": "No, no clear evidence of Junctional Escape Rhythm is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A688",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 62-year-old male patient. Does this monitoring segment demonstrate electrocardiographic evidence of Premature Atrial Contraction?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A688",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 62-year-old male patient. Does the ECG tracing exhibit findings consistent with polymorphic ventricular tachycardia?",
+      "answer": "No, this tracing does not support Polymorphic Ventricular Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A692",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 56-year-old male. In this monitoring segment, is there electrocardiographic evidence of Ventricular Flutter (Coarse), based on the rhythm’s rate, morphology, and regularity?",
+      "answer": "No, no clear evidence of Ventricular Flutter (Coarse) is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A692",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 56-year-old male. Is Premature Atrial Contraction identifiable on this ECG strip?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A701",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 73-year-old female patient. On review of the ECG strip, are Premature Atrial Contractions (PACs) present—early atrial beats with P-wave morphology differing from the sinus P that occur before the next expected sinus complex?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A701",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 73-year-old female patient. On review of this ECG waveform, are premature ventricular contractions present?",
+      "answer": "Yes, findings are consistent with Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A701",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 73-year-old female patient. Is atrial tachycardia evident on this rhythm tracing?",
+      "answer": "No, this tracing does not support Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A701",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 73-year-old female patient. In this rhythm tracing, is there electrocardiographic evidence of atrial fibrillation?",
+      "answer": "No, this tracing does not support Atrial Fibrillation."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 73-year-old female. Can atrial fibrillation be identified on this rhythm tracing?",
+      "answer": "No, characteristic ECG features of Atrial Fibrillation are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 73-year-old female patient. Do the complexes in this ECG waveform exhibit the morphology and timing consistent with Premature Ventricular Contractions?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 73-year-old female patient. Does this ECG rhythm strip demonstrate asystole?",
+      "answer": "No, this tracing does not support Asystole."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 73-year-old female patient. Reviewing this ECG strip, should one suspect Premature Atrial Contraction?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 73-year-old female patient. Within this monitoring segment, are there electrocardiographic features consistent with atrial tachycardia?",
+      "answer": "Yes, this ECG segment shows features suggestive of Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 73-year-old female patient. Based on the presented monitoring segment, is ventricular fibrillation present?",
+      "answer": "No, no clear evidence of Ventricular Fibrillation is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A708",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 69-year-old male. On this ECG tracing, are Premature Atrial Contraction(s) identifiable from the atrial morphology and timing?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A708",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 69-year-old male patient. Is Premature Ventricular Contraction evident in this monitoring segment?",
+      "answer": "Yes, findings are consistent with Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A708",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 69-year-old male patient. On this ECG strip, is there electrocardiographic evidence of atrial tachycardia?",
+      "answer": "Yes, this ECG segment shows features suggestive of Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A708",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 69-year-old male. In this monitoring segment, is there electrocardiographic evidence of Second-degree AV Block Mobitz I (Wenckebach), demonstrated by progressive PR prolongation with a subsequent non-conducted P wave?",
+      "answer": "No, no clear evidence of Second-degree AV Block Mobitz I is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A708",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 69-year-old male patient. On this ECG strip, is there electrocardiographic evidence of 2:1 AV conduction block, demonstrated by a consistent pattern of two P waves for every conducted QRS with every other P wave non-conducted?",
+      "answer": "No, characteristic ECG features of 2:1 AV Conduction Block are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A708",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 69-year-old male. On this ECG strip, is there electrocardiographic evidence of First-degree AV Block?",
+      "answer": "No, characteristic ECG features of First-degree AV Block are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A720",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 80-year-old female. On this ECG strip, are Premature Atrial Contractions present?",
+      "answer": "Yes, this ECG segment shows features suggestive of Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A720",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 80-year-old female. In this monitoring segment, is 2:1 AV Conduction Block evident on the ECG?",
+      "answer": "No, this tracing does not support 2:1 AV Conduction Block."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A720",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 80-year-old female patient. When reviewing this rhythm recording, can you determine whether atrial fibrillation is present by assessing the atrial activity and the pattern of R‑R interval irregularity visible on the strip?",
+      "answer": "No, no clear evidence of Atrial Fibrillation is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A720",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 80-year-old female. Does the provided ECG strip demonstrate Premature Ventricular Contractions?",
+      "answer": "Yes, the rhythm pattern supports the presence of Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A720",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 80-year-old female. When reviewing this recording, can you identify whether the rhythm demonstrates atrial tachycardia by assessing the atrial rate, P‑wave morphology, and its relationship to the QRS complexes?",
+      "answer": "Yes, findings are consistent with Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A720",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 80-year-old female. While reviewing this monitoring segment, is there electrocardiographic evidence of asystole manifested by a sustained absence of discernible ventricular complexes?",
+      "answer": "No, this tracing does not support Asystole."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A765",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 84-year-old female. Does this ECG rhythm tracing demonstrate atrial tachycardia?",
+      "answer": "Yes, findings are consistent with Atrial Tachycardia."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A765",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 84-year-old female. On this ECG strip, do the atrial and ventricular activities show complete atrioventricular dissociation indicative of third-degree AV block?",
+      "answer": "No, no clear evidence of Third-degree AV Block is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A765",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 84-year-old female patient. In this monitoring segment, do the rhythm characteristics meet criteria for ventricular flutter?",
+      "answer": "No, no clear evidence of Ventricular Flutter is present in this segment."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A765",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 84-year-old female patient. In this monitoring segment, are premature atrial contractions present?",
+      "answer": "Yes, findings are consistent with Premature Atrial Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A765",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 84-year-old female patient. On review of this waveform, is there evidence of second-degree AV block Mobitz I (Wenckebach), demonstrated by progressive PR interval prolongation with intermittent nonconducted P waves and grouped ventricular responses?",
+      "answer": "No, characteristic ECG features of Second-degree AV Block Mobitz I are not observed here."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A765",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 84-year-old female. In this monitoring segment, is there evidence of Premature Ventricular Contraction?",
+      "answer": "Yes, findings are consistent with Premature Ventricular Contraction."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A107",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 45-year-old female. In the tracing shown here, do the ECG waveforms support the presence of Premature Atrial Contraction, with early atrial depolarizations and altered P-wave morphology preceding otherwise normal QRS complexes? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A107",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 45-year-old female patient. Do the ECG features in this ECG recording support Ventricular Escape Rhythm? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A107",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 45-year-old female. Does the current monitoring segment support the presence of Premature Ventricular Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A107",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 45-year-old female. Does this recorded rhythm demonstrate Ventricular Fibrillation? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A107",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 45-year-old female patient. Reviewing the rhythm and morphology on this ECG strip, do the findings support the presence of Ventricular Flutter? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A107",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 45-year-old female. Does this waveform show findings consistent with Junctional Escape Rhythm? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A116",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 66-year-old female. In this recorded rhythm, are the early atrial beats and P‑wave morphology consistent with Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A116",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 66-year-old female. On review of this ECG strip, are the rhythm and rate findings consistent with Sinus Tachycardia? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A116",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 66-year-old female. Based on the tracing, does this recorded rhythm demonstrate the characteristic features of Polymorphic Ventricular Tachycardia? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A116",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 66-year-old female. Can the complexes visible in this ECG recording be interpreted as electrocardiographic evidence of Premature Ventricular Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A119",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 48-year-old male. Do the findings on this recorded rhythm support a diagnosis of First-degree AV Block? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A119",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 48-year-old male patient. Does the pattern of premature atrial complexes seen on this waveform support the presence of Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A125",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 51-year-old female patient. Is there evidence of Premature Ventricular Contraction on this rhythm strip? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A125",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 51-year-old female patient. Is Third-degree AV Block present on this ECG recording? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A125",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 51-year-old female. Reviewing this waveform, are there early atrial-origin complexes or abnormal P-wave morphology that would indicate Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A125",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 51-year-old female. Can Ventricular Flutter be recognized from this recorded rhythm? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A130",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 55-year-old female patient. In the current monitoring segment, do the observed atrial depolarizations and their timing indicate the presence of Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A130",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 55-year-old female patient. Does this ECG recording show evidence of First-degree AV Block? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A130",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 55-year-old female patient. Based on the tracing shown here, do the observed ECG features indicate the presence of Torsades de Pointes? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A130",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 55-year-old female patient. Does this waveform support the presence of Asystole? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 78-year-old male. Do the rhythm characteristics visible on the strip shown here support the presence of Sinus Tachycardia? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 78-year-old male patient. Do the observed rhythm characteristics in this recorded rhythm suggest the presence of Atrial Fibrillation? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 78-year-old male patient. On this rhythm strip, are the waveform characteristics consistent with Atrial Tachycardia? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 78-year-old male patient. Does this tracing show evidence of Premature Ventricular Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 78-year-old male patient. Would you consider Torsades de Pointes present on this recorded rhythm, given the observed ventricular waveform characteristics? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 78-year-old male patient. Are the early atrial beats with altered P-wave morphology seen on this waveform indicative of Premature Atrial Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A141",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 74-year-old female patient. Considering the rhythm and QRS morphology depicted, is Premature Ventricular Contraction present on this waveform? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A141",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 74-year-old female. Is Polymorphic Ventricular Tachycardia present in this recorded rhythm? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old male. From inspection of the strip shown here, can the tracing be interpreted as showing Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 67-year-old male. After reviewing the waveform displayed, is there evidence of Ventricular Fibrillation on this ECG strip? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 67-year-old male. Are the findings on this ECG strip compatible with Sinus Tachycardia? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old male. Are there ECG findings of Atrial Tachycardia on the strip shown here? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 67-year-old male. Would you suspect Premature Ventricular Contraction in this tracing? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 67-year-old male patient. Is the rhythm pattern in the strip shown here compatible with Ventricular Flutter? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A153",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 62-year-old female patient. Does the rhythm and wide-complex morphology seen in this tracing support the presence of Ventricular Tachycardia? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A153",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 62-year-old female. Does the pattern on this tracing point to the presence of 2:1 AV Conduction Block? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A153",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 62-year-old female. Are the early abnormal P waves visible on this ECG strip consistent with Premature Atrial Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A153",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 62-year-old female. Does the rhythm strip shown here demonstrate Premature Ventricular Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A191",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 66-year-old male. Do the rhythm characteristics visible in this ECG strip indicate the presence of Second-degree AV Block Mobitz I? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A191",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 66-year-old male. Based on the tracing shown here, would you consider the rhythm consistent with Premature Ventricular Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A191",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 66-year-old male. Does the pattern on this ECG recording point to Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A191",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 66-year-old male. Does the ECG strip provided demonstrate atrioventricular conduction consistent with First-degree AV Block? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A194",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 64-year-old female. Based on this tracing, are the rhythm features—early P waves with altered morphology followed by otherwise normal QRS complexes—consistent with Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A194",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 64-year-old female. Would the tracing shown here lead you to suspect Asystole given the apparent prolonged absence of organized ventricular complexes? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A194",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 64-year-old female. Is Atrial Tachycardia present on this rhythm strip? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A194",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 64-year-old female. On inspection of this ECG recording, do the tracing characteristics support the presence of Ventricular Flutter (Coarse)? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A222",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 59-year-old female. Do the waveforms in the tracing shown here support the presence of a Junctional Escape Rhythm? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A222",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 59-year-old female patient. Considering the timing and morphology of the non-sinus beats visible on this tracing, is there evidence of Premature Atrial Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A222",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 59-year-old female. Does this tracing demonstrate electrocardiographic findings indicative of Atrial Tachycardia? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A222",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 59-year-old female. Do the tracings on this ECG strip indicate Ventricular Flutter (Coarse)? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 70-year-old female. Does the rhythm on this ECG recording indicate the presence of Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 70-year-old female. When reviewing this rhythm strip, should the tracing be interpreted as demonstrating Atrial Flutter? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 70-year-old female patient. Based on the morphology and timing of the abnormal beats seen in this waveform, would you consider Premature Ventricular Contraction likely to be present? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 70-year-old female patient. Is Atrial Tachycardia seen on the strip shown here? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 70-year-old female patient. Does the rhythm shown in this ECG recording indicate Third-degree AV Block? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 70-year-old female patient. Is First-degree AV Block identifiable in this tracing? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A291",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 36-year-old female. Reviewing the rhythm strip provided, would you suspect Ventricular Flutter? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A291",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 36-year-old female patient. Considering the morphology and timing of beats on this tracing, are the observed early atrial complexes consistent with Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old male patient. Reviewing this rhythm strip, would you consider Ventricular Flutter (Coarse) likely to be present? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 75-year-old male patient. Can Junctional Escape Rhythm be recognized from this tracing? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old male patient. Would this rhythm strip lead you to suspect Atrial Tachycardia? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 75-year-old male patient. Would this ECG recording lead you to suspect Third-degree AV Block? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 75-year-old male. Reviewing this waveform, is there electrocardiographic evidence of Premature Atrial Contraction, such as isolated early atrial beats with altered P-wave morphology and shorter coupling intervals compared with the preceding rhythm? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 75-year-old male. Would this recorded rhythm lead you to suspect Second-degree AV Block Mobitz I? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 72-year-old female. Do the rhythm morphology and rapid, regular ventricular oscillations in the strip shown here support the presence of Ventricular Flutter? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 72-year-old female. On this tracing, do the conduction intervals and P–QRS relationships support the presence of 2:1 AV Conduction Block? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 72-year-old female patient. Given this recorded rhythm, would you regard Ventricular Escape Rhythm as likely present? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 72-year-old female patient. Are the ECG features on this tracing consistent with Premature Atrial Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 72-year-old female patient. When reviewing this ECG recording, do the observed rhythm and atrial activity support the presence of Atrial Tachycardia? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 72-year-old female. Might the isolated premature beats on this recorded rhythm indicate Premature Ventricular Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A311",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 63-year-old male. Are the rhythm changes and early abnormal P waves on this ECG recording suggestive of Premature Atrial Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A311",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 63-year-old male. Reviewing the tracing shown here, do the ECG findings support the presence of Second-degree AV Block Mobitz I? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A311",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 63-year-old male patient. Is Atrial Tachycardia identifiable in this ECG recording based on the rhythm and atrial waveforms displayed? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A311",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 63-year-old male. When evaluating the tracing shown here, do the rhythm characteristics support a diagnosis of Third-degree AV Block? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A317",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 56-year-old female. Is Sinus Tachycardia present in this recorded rhythm? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A317",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 56-year-old female. Do the P-wave morphology and atrial timing on this waveform indicate Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 73-year-old male patient. Does the rhythm and QRS morphology on this ECG strip indicate Ventricular Tachycardia? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 73-year-old male patient. Can Ventricular Fibrillation be identified on this waveform by the presence of markedly disordered ventricular activity and absence of recognizable QRS complexes? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 73-year-old male patient. From the current monitoring segment, would you consider Junctional Escape Rhythm likely to be present? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 73-year-old male. When you evaluate the strip shown here, does the ECG tracing demonstrate features that would support a diagnosis of First-degree AV Block? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 73-year-old male patient. Does this waveform contain electrocardiographic evidence of Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 73-year-old male patient. In this ECG recording, are there premature ventricular-origin beats or rhythm features that indicate Premature Ventricular Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 38-year-old male. Are the features on this rhythm strip consistent with First-degree AV Block? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 38-year-old male. When reviewing this waveform, can patterns be identified that are consistent with Premature Ventricular Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 38-year-old male. When assessing this ECG recording, does the rhythm pattern—specifically the relationship between consecutive P waves and QRS complexes—support the diagnosis of 2:1 AV Conduction Block? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 38-year-old male patient. On the tracing provided, are there premature atrial complexes that indicate Premature Atrial Contraction in this ECG recording? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 38-year-old male patient. Does the pattern of atrial activation and the rapid, regular atrial rate evident in this waveform support the presence of Atrial Tachycardia? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 38-year-old male. Is Third-degree AV Block present on the current monitoring segment? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A341",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 71-year-old female. From this ECG strip, is Premature Atrial Contraction present? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A341",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 71-year-old female. When evaluating this ECG strip, do the observed rhythm characteristics indicate the presence of Ventricular Escape Rhythm? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A358",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 40-year-old female. When examining the current monitoring segment, does the ECG tracing display chaotic ventricular electrical activity without discernible organized QRS complexes consistent with Ventricular Fibrillation? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A358",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 40-year-old female patient. Do the complexes on this ECG strip include ventricular premature beats consistent with Premature Ventricular Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A360",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 75-year-old female. When evaluating this ECG recording, is there electrophysiologic evidence consistent with 2:1 AV Conduction Block? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A360",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 75-year-old female patient. When reviewing this waveform, are there ECG findings—such as premature wide QRS complexes without preceding P waves—that are consistent with Premature Ventricular Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A360",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old female patient. Are any individual beats on the strip shown here consistent with Premature Atrial Contraction on ECG? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A360",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 75-year-old female. Would you diagnose Torsades de Pointes from the rhythm seen on this ECG strip? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A41",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 59-year-old male. Are the atrial-to-ventricular conduction findings on the strip shown here consistent with 2:1 AV Conduction Block? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A41",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 59-year-old male patient. Is the pattern of wide, variable QRS complexes seen here typical of Polymorphic Ventricular Tachycardia? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A41",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 59-year-old male patient. Examining this ECG recording, do the rapid, regular wide-complex oscillations seen here support the presence of Ventricular Flutter (Coarse)? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A41",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 59-year-old male. Do the early, widened QRS complexes visible on this ECG strip indicate the presence of Premature Ventricular Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A41",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 59-year-old male patient. Are the atrial and ventricular patterns shown in this ECG recording consistent with Atrial Tachycardia? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A41",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 59-year-old male. Does this waveform support the presence of Premature Atrial Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A422",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 69-year-old male. From this tracing, would you consider Premature Atrial Contraction likely to be present? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A422",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 69-year-old male. When reviewing the current monitoring segment, do the rhythm timing and P-wave‑to‑QRS relationships on the tracing support the presence of Junctional Escape Rhythm? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A422",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 69-year-old male patient. Are there features on this tracing that support the presence of Premature Ventricular Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A422",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 69-year-old male. Reviewing this recorded rhythm, do the tracing features (sustained wide-complex tachycardia with loss of a clear P–QRS relationship) support the presence of Ventricular Tachycardia? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 75-year-old male patient. Is Atrial Fibrillation seen on this ECG recording? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 75-year-old male. On reviewing this recorded rhythm, do the ECG features support the presence of Atrial Tachycardia? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old male patient. Does the tracing display premature, non-sinus atrial beats that would be consistent with Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 75-year-old male. Are Premature Ventricular Contraction beats present on the tracing shown here? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old male patient. Considering the visible conduction intervals on this ECG recording, would you interpret the tracing as consistent with the presence of First-degree AV Block? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 75-year-old male patient. Can Ventricular Tachycardia be recognized from this recorded rhythm? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A431",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 67-year-old female patient. Could this ECG strip be consistent with Atrial Tachycardia? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A431",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 67-year-old female patient. Might this tracing demonstrate Torsades de Pointes based on the polymorphic ventricular morphology? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A431",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 67-year-old female. Do the features seen in this rhythm strip support a diagnosis of Premature Ventricular Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A431",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 67-year-old female. On examining this tracing, do the rhythm and P-wave timing indicate the presence of Premature Atrial Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A451",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 71-year-old male patient. Do the complexes in this recorded rhythm indicate Premature Ventricular Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A451",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 71-year-old male patient. Looking at this tracing, would you interpret the rhythm as showing Premature Atrial Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A451",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 71-year-old male. Is Ventricular Flutter seen on this ECG recording? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A451",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 71-year-old male patient. Would the features seen on this ECG recording prompt you to suspect Torsades de Pointes? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 56-year-old male. Looking at this recorded rhythm, is Premature Atrial Contraction likely present? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 56-year-old male. Is Ventricular Flutter (Coarse) present on this tracing? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 56-year-old male patient. Does the tracing provided show a polymorphic ventricular tachycardia with varying QRS amplitude consistent with Torsades de Pointes? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 56-year-old male patient. Looking at the tracing shown here, would you suspect Premature Ventricular Contraction based on the presence of premature, wide QRS complexes with altered morphology and absent preceding P waves? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 56-year-old male. Are the P-wave morphology and atrial rate seen on this tracing compatible with Atrial Tachycardia? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 56-year-old male patient. Is the conduction abnormality observed in this tracing consistent with Second-degree AV Block Mobitz I? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A464",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 68-year-old male. Is electrocardiographic evidence of Premature Atrial Contraction apparent in this recorded rhythm? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A464",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 68-year-old male patient. Considering the atrial activation pattern and ventricular response seen on this rhythm strip, would you identify Atrial Tachycardia as the underlying rhythm? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A469",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 51-year-old female patient. When interpreting the tracing shown here, do the timing and morphology of any early atrial beats support a diagnosis of Premature Atrial Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A469",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 51-year-old female. Reviewing this recorded rhythm, do the features present support the likelihood of Third-degree AV Block? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A469",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 51-year-old female. Could the rapid, regular, undulating ventricular rhythm seen in this ECG recording represent Ventricular Flutter? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A469",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 51-year-old female. Would the morphology and timing of early complexes in the current monitoring segment be consistent with Premature Ventricular Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A46",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 84-year-old male patient. From the strip shown here, would you consider Second-degree AV Block Mobitz I likely to be present? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A46",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 84-year-old male. Reviewing the tracing from the current monitoring segment, does the rhythm show features consistent with Atrial Tachycardia? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A46",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 84-year-old male. Do the complexes in this tracing indicate Premature Ventricular Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A46",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 84-year-old male. Are the early atrial beats seen on this rhythm strip consistent with Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A46",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 84-year-old male. Can Sinus Tachycardia be recognized from this ECG recording? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A46",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 84-year-old male. Do the observed rhythm and ventricular rate in the current monitoring segment indicate the presence of Sinus Bradycardia? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A473",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 55-year-old female. Are there premature atrial complexes—early P waves with altered morphology preceding QRS complexes—consistent with Premature Atrial Contraction on this rhythm strip? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A473",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 55-year-old female. Is the pattern shown on this tracing compatible with Polymorphic Ventricular Tachycardia, given the presence of rapid wide-complex ventricular beats that change morphology from beat to beat? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A473",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 55-year-old female. When evaluating the rhythm strip provided, do the beat morphology and P‑wave timing on this waveform indicate the presence of Junctional Escape Rhythm? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A473",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 55-year-old female patient. From the strip shown here, would you consider the waveform consistent with Premature Ventricular Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A478",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 57-year-old female patient. Can 2:1 AV Conduction Block be recognized from the tracing shown here? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A478",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 57-year-old female patient. Could the conduction findings on this waveform indicate Second-degree AV Block Mobitz I? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A478",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 57-year-old female patient. On the current monitoring segment, does the tracing show premature atrial beats—early, morphologically different P waves producing isolated premature QRS complexes—consistent with Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A478",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 57-year-old female patient. Do the tracing patterns on the strip shown here support a diagnosis of Atrial Tachycardia? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A481",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 41-year-old female. Can the tracing shown here be interpreted as demonstrating Atrial Tachycardia based on the atrial activity and ventricular response? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A481",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 41-year-old female. Do the characteristics in the tracing shown here support Sinus Tachycardia? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A481",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 41-year-old female. Does the waveform on the strip shown here suggest Premature Ventricular Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A481",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 41-year-old female. Might the premature atrial beat(s) visible in this recorded rhythm indicate Premature Atrial Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A483",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 31-year-old female patient. Considering the atrial activity and ventricular response visible on this tracing, is Atrial Flutter present? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A483",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 31-year-old female patient. Are premature atrial complexes visible on this ECG recording consistent with Premature Atrial Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A483",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 31-year-old female. Would the wide-complex, regular tachycardia visible on the tracing shown here be consistent with Ventricular Tachycardia? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A483",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 31-year-old female patient. Would the presence of early, wide-morphology ventricular complexes on the strip shown here be consistent with Premature Ventricular Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A483",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 31-year-old female. Can this rhythm strip be interpreted as demonstrating Second-degree AV Block Mobitz I? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A483",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 31-year-old female patient. Considering the rapid, wide‑complex undulating activity visible here, would you interpret this recorded rhythm as consistent with Ventricular Flutter (Coarse)? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A488",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 78-year-old male patient. Would you consider Sinus Bradycardia present on the strip shown here? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A488",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 78-year-old male. Could this tracing indicate Ventricular Escape Rhythm? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A488",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 78-year-old male patient. Considering the beat morphology and timing in this tracing, is there evidence consistent with Premature Ventricular Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A488",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 78-year-old male. Do the tracing's rhythm features, such as early P waves with altered morphology followed by normal QRS complexes, support Premature Atrial Contraction in this recorded rhythm? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A488",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 78-year-old male. Reviewing this tracing, do the atrial rate, P-wave morphology, and AV conduction pattern support the presence of Atrial Tachycardia? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A488",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 78-year-old male patient. Do the rhythm, ventricular rate, and P-wave morphology in this ECG recording indicate the presence of Sinus Tachycardia? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 65-year-old female. Do the features evident on this recorded rhythm support the presence of Atrial Tachycardia? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 65-year-old female patient. Do the complexes seen in the current monitoring segment support a diagnosis of Premature Ventricular Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 65-year-old female patient. Given the rhythm and apparent P-wave activity on this ECG strip, do the tracings support the presence of Atrial Fibrillation? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 65-year-old female patient. After inspecting the provided monitoring segment, does the timing and morphology of the atrial complexes suggest Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 65-year-old female patient. On the tracing provided, is there evidence that supports the presence of Sinus Tachycardia? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 65-year-old female patient. Do the rapid, regular, undulating ventricular complexes seen on this ECG strip represent Ventricular Flutter? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A490",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 56-year-old female patient. Do the observed interruptions of atrial activity on this rhythm strip indicate the presence of Sinus Pause? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A490",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 56-year-old female patient. Could the tracing shown here indicate Premature Atrial Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A502",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 44-year-old male patient. Are the electrocardiographic features in the current monitoring segment consistent with Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A502",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 44-year-old male patient. Does the rhythm tracing in the strip shown here demonstrate Atrial Flutter? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A502",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 44-year-old male. Does the atrial activity, rate, and regularity shown on this recorded rhythm indicate the presence of Atrial Tachycardia? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A502",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 44-year-old male. Could the independent atrial and ventricular activity demonstrated on this recorded rhythm indicate Third-degree AV Block? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 66-year-old male patient. Would you consider Junctional Escape Rhythm present on this ECG strip? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 66-year-old male patient. Does the waveform shown here support the presence of Ventricular Flutter? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 66-year-old male patient. Is Ventricular Tachycardia present on the tracing shown here? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 66-year-old male patient. Is there clear evidence of Premature Ventricular Contraction on this waveform? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 66-year-old male. Viewing the strip shown here, does the ECG demonstrate beat(s) compatible with Premature Atrial Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 66-year-old male patient. From this waveform in this ECG recording, would you consider Atrial Tachycardia likely to be present? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A50",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 56-year-old female patient. Can the tracing provided be interpreted as showing Premature Ventricular Contraction? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A50",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 56-year-old female. Does this tracing display ECG findings consistent with Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A523",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 62-year-old male patient. Could the early beats seen on this rhythm strip represent Premature Atrial Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A523",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 62-year-old male patient. Would you consider the tracing shown here indicative of Sinus Tachycardia? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 68-year-old male. Review the ECG tracing: from this waveform, would you consider Junctional Escape Rhythm likely to be present? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 68-year-old male patient. Are the premature broad ventricular complexes visible in this recorded rhythm consistent with Premature Ventricular Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 68-year-old male patient. Would you consider Third-degree AV Block present on this tracing? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 68-year-old male patient. Do the atrial P-wave morphology, atrial rate, and rhythm observed on this waveform indicate Atrial Tachycardia? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 68-year-old male. Could the early atrial beats seen on this tracing represent Premature Atrial Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 68-year-old male. Could the rhythm pattern seen in the current monitoring segment be consistent with Sinus Pause? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A536",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 63-year-old female. From this waveform, is Sinus Pause present? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A536",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 63-year-old female patient. Should this waveform be interpreted as showing Premature Ventricular Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A536",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 63-year-old female. Can the rhythm seen on the strip shown here be attributed to Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A536",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 63-year-old female patient. Is the tracing on this ECG strip consistent with Second-degree AV Block Mobitz II? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A538",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 69-year-old male. Is the rhythm demonstrated on the strip shown here consistent with Junctional Escape Rhythm, based on the P-wave relationship to QRS complexes and the observed ventricular rate? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A538",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 69-year-old male patient. On this waveform, is there electrocardiographic evidence of atrial premature beats—premature, morphologically distinct P waves often followed by narrow QRS complexes—that would be consistent with Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A538",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 69-year-old male patient. Could this ECG recording be consistent with Second-degree AV Block Mobitz I? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A538",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 69-year-old male patient. Does the tracing show waveform features within this recorded rhythm that indicate Premature Ventricular Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A573",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 61-year-old male. Based solely on this tracing, is there evidence of Second-degree AV Block Mobitz I characterized by cyclical PR interval alteration with intermittent failure of ventricular conduction? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A573",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 61-year-old male. Are the observed gaps in atrial depolarization on this tracing consistent with Sinus Pause? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A573",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 61-year-old male patient. Could the early atrial complexes seen here represent Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A573",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 61-year-old male patient. Might the early, broad QRS beats seen here be consistent with Premature Ventricular Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A57",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 59-year-old female. Would the presence of early, abnormally shaped P waves with otherwise normal QRS complexes on this ECG strip indicate Premature Atrial Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A57",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 59-year-old female. Do the ventricular complexes on this rhythm strip indicate Polymorphic Ventricular Tachycardia? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old female. When assessing this ECG strip, do the observed atrial activations and rapid regular rhythm suggest Atrial Tachycardia? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 67-year-old female. Reviewing the tracing provided, does this recorded rhythm display features compatible with Sinus Bradycardia? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 67-year-old female. Does this ECG tracing demonstrate premature atrial activity—early abnormal P waves with otherwise normal QRS complexes—that would be consistent with Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old female. When assessing the tracing shown here, do the ECG features support the presence of Premature Ventricular Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old female. Do the AV conduction patterns displayed in this waveform demonstrate Second-degree AV Block Mobitz II? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old female. Do the pauses visible on this ECG strip indicate Sinus Pause? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A600",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 47-year-old male. Reviewing this tracing, would you consider the findings consistent with Atrial Tachycardia? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A600",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 47-year-old male. Might the early, abnormal P-wave morphology in this recording indicate Premature Atrial Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 48-year-old male patient. Is Sinus Pause seen on the tracing shown here? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 48-year-old male. Would you suspect Atrial Flutter on the tracing shown here? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 48-year-old male patient. Would the abnormalities in atrial activation pattern shown on this waveform be consistent with Premature Atrial Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 48-year-old male. Review this rhythm strip and determine whether the tracing demonstrates electrocardiographic evidence of Ventricular Flutter (Coarse)? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 48-year-old male patient. Are there findings in the current monitoring segment that indicate Premature Ventricular Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 48-year-old male patient. Do the atrial and ventricular features on this recorded rhythm support the presence of Atrial Tachycardia? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A635",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 79-year-old male. Considering the rhythm displayed on the strip shown here, is Second-degree AV Block Mobitz I present? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A635",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 79-year-old male patient. Do the features observed on this waveform provide electrocardiographic evidence consistent with Ventricular Escape Rhythm? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A635",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 79-year-old male patient. Are the rhythms and early atrial depolarizations shown on this ECG recording compatible with Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A635",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 79-year-old male patient. Does the appearance of isolated early, broad QRS complexes in this recorded rhythm indicate the presence of Premature Ventricular Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 55-year-old male patient. Is Ventricular Fibrillation seen on the strip shown here? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 55-year-old male. Would you suspect Atrial Tachycardia in this recorded rhythm? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 55-year-old male. Do the morphology and timing of beats on this recorded rhythm indicate the presence of Premature Ventricular Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 55-year-old male patient. Does the atrial pattern and ventricular response seen in this ECG recording support the presence of Atrial Flutter? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 55-year-old male. Is there ECG evidence of Premature Atrial Contraction in this tracing? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 55-year-old male. On this waveform, are the rhythm findings consistent with Second-degree AV Block Mobitz I? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A653",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 53-year-old female. Can this ECG strip be interpreted as demonstrating First-degree AV Block? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A653",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 53-year-old female. Do the premature, wide QRS complexes seen on this tracing indicate Premature Ventricular Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A653",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 53-year-old female. Do the atrial complexes and their timing on the current monitoring segment support the presence of Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A653",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 53-year-old female patient. Should this ECG strip be interpreted as showing Ventricular Escape Rhythm? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 68-year-old male. Would you consider any premature, wide-complex beats visible on this tracing to represent Premature Ventricular Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 68-year-old male patient. Do ECG findings show Polymorphic Ventricular Tachycardia on the current monitoring segment? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 68-year-old male patient. Could the tracing indicate Ventricular Escape Rhythm? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 68-year-old male. Do the conduction intervals on this ECG strip support First-degree AV Block? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 68-year-old male. Does this tracing display rhythm and atrial activation patterns consistent with Atrial Tachycardia (for example a regular, rapid atrial rhythm with P-wave morphology distinct from sinus)? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 68-year-old male. Reviewing this tracing, does it suggest the presence of Premature Atrial Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A688",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 62-year-old male patient. Could isolated early atrial beats visible on this rhythm strip indicate Premature Atrial Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A688",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 62-year-old male. Do the observed atrial rate and P-wave morphology on this ECG strip indicate Atrial Tachycardia? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A688",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 62-year-old male. Do the beats in the current monitoring segment show characteristics compatible with Premature Ventricular Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A688",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The ECG belongs to a 62-year-old male patient. Do the electrical patterns on this recorded rhythm indicate Ventricular Fibrillation? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A688",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 62-year-old male patient. Would this waveform pattern be in keeping with Torsades de Pointes? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A688",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 62-year-old male. Do the waveform timing and PR interval findings in this tracing indicate Junctional Escape Rhythm? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A692",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 56-year-old male patient. Are features of Premature Atrial Contraction present on this recorded rhythm? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A692",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 56-year-old male. Do the tracing abnormalities on the strip shown here support the presence of Ventricular Flutter (Coarse)? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A701",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 73-year-old female. Are the waveforms on this tracing compatible with Asystole? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A701",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 73-year-old female patient. Do the isolated early atrial impulses with distinct P-wave morphology in this waveform indicate Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A701",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 73-year-old female patient. Is this ECG strip consistent with Ventricular Fibrillation? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A701",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 73-year-old female. Might the beat morphology and timing seen here be consistent with Premature Ventricular Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 73-year-old female. Is Atrial Tachycardia demonstrated by the rhythm and atrial activity seen on this ECG strip? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 73-year-old female patient. Do the abrupt, premature wide QRS complexes visible in this waveform represent findings consistent with Premature Ventricular Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 73-year-old female. Do the continuous, high-rate, coarse ventricular oscillations seen in this recorded rhythm indicate Ventricular Flutter (Coarse)? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 73-year-old female patient. Is Atrial Flutter identifiable in the tracing shown here? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 73-year-old female. Would the pattern seen on this ECG strip indicate First-degree AV Block? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 73-year-old female patient. When you review this tracing, are there atrial extrasystolic beats or other electrocardiographic findings that point to Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A708",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 69-year-old male. When reviewing the current monitoring segment, do the ECG findings support the presence of Atrial Fibrillation? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A708",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 69-year-old male. Can the tracing in this recorded rhythm be interpreted as demonstrating Second-degree AV Block Mobitz II? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A708",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 69-year-old male. Do the electrical characteristics demonstrated by the strip shown here support a diagnosis of Ventricular Fibrillation? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A708",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 69-year-old male patient. Based on the findings in the current monitoring segment, does this tracing show Premature Atrial Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A708",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 69-year-old male patient. Would the tracing be compatible with Premature Ventricular Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A708",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 69-year-old male patient. Does the atrial activity and rate on this recorded rhythm indicate Atrial Tachycardia? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A720",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 80-year-old female patient. Interpret whether this ECG strip demonstrates Third-degree AV Block? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A720",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 80-year-old female. Are the recorded atrial signals consistent with Atrial Tachycardia? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A720",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 80-year-old female patient. Based on the recorded tracing, do the waveforms in the current monitoring segment demonstrate electrical inactivity consistent with Asystole? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A720",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This recording is from a 80-year-old female. Do the ECG rhythm characteristics in the current monitoring segment indicate Sinus Tachycardia? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A720",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This case concerns a 80-year-old female patient. Is the pattern observed in this waveform consistent with Premature Atrial Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A720",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 80-year-old female. Do any beats on this tracing demonstrate features of Premature Ventricular Contraction? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A765",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 84-year-old female. Are the atrial activation pattern and rhythm characteristics seen on this tracing compatible with Atrial Tachycardia? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A765",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 84-year-old female. Do the morphological and timing features visible on the strip shown here indicate Ventricular Tachycardia? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A765",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 84-year-old female patient. In this waveform, do early atrial-origin complexes—premature beats arising from the atria—appear present and therefore support the diagnosis of Premature Atrial Contraction? A. Yes; B. No",
+      "answer": "A. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A765",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 84-year-old female. Does the sequence of conducted and non-conducted beats demonstrated in this tracing indicate the presence of Second-degree AV Block Mobitz I? A. Yes; B. No",
+      "answer": "B. No"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A765",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "You are reviewing a 84-year-old female patient. Can a Premature Ventricular Contraction be identified on this rhythm strip based on the recorded waveform? A. No; B. Yes",
+      "answer": "B. Yes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A765",
+    "task_type": "closed_presence",
+    "qa_pair": {
+      "question": "This patient is a 84-year-old female. Could the pauses and intermittent absence of P waves seen on this tracing represent Sinus Pause? A. No; B. Yes",
+      "answer": "A. No"
+    },
+    "tag": "valid"
+  }
+]

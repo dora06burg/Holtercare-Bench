@@ -1,0 +1,1253 @@
+[
+  {
+    "id": "A107",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 45-year-old female. In this recording, how many occurrences of Junctional Escape Rhythm are visible on the waveform? A. 2; B. 4; C. 3; D. 1",
+      "answer": "A. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A107",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "You are reviewing a 45-year-old female patient. Referencing the rhythm strip, how many Premature Atrial Contraction occurrences are seen on the tracing? A. 2; B. 0; C. 3; D. 1",
+      "answer": "D. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A107",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This patient is a 45-year-old female. Across this ECG segment, how many Premature Ventricular Contraction beats are observed? A. 3; B. 1; C. 0; D. 2",
+      "answer": "B. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A116",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 66-year-old female. How many Premature Atrial Contraction events are present in total in the provided ECG recording? A. 0; B. 2; C. 1; D. 4",
+      "answer": "B. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A116",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "You are reviewing a 66-year-old female patient. In the ECG strip provided, count the Premature Ventricular Contraction beats and state the total number present in the tracing? A. 0; B. 4; C. 2; D. 1",
+      "answer": "C. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A119",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 48-year-old male. Upon visual inspection of the ECG segment, how many Premature Atrial Contraction events are present in the tracing? A. 3; B. 1; C. 2; D. 0",
+      "answer": "B. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A125",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This patient is a 51-year-old female. Review the recording and report the total number of Premature Atrial Contraction occurrences in the tracing? A. 3; B. 2; C. 1; D. 0",
+      "answer": "C. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A125",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "You are reviewing a 51-year-old female patient. On the attached ECG tracing, tally the Premature Ventricular Contraction beats and report the total count? A. 0; B. 3; C. 2; D. 1",
+      "answer": "D. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A130",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 55-year-old female patient. Review the tracing: how many occurrences of First-degree AV Block are present in the waveform trace? A. 4; B. 1; C. 2; D. 0",
+      "answer": "C. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A130",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 55-year-old female patient. While reviewing this rhythm strip tracing for frequency estimation, how many occurrences of Premature Atrial Contraction can you count? A. 3; B. 2; C. 4; D. 0",
+      "answer": "B. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 78-year-old male. Tally the Atrial Tachycardia events in this ECG segment — how many are there overall? A. 3; B. 2; C. 0; D. 1",
+      "answer": "D. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 78-year-old male. Count the total number of Junctional Escape Rhythm events in the provided ECG segment? A. 1; B. 0; C. 3; D. 2",
+      "answer": "A. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 78-year-old male patient. On the provided ECG segment, count the Premature Atrial Contraction events and state the total number observed on the waveform? A. 2; B. 3; C. 1; D. 4",
+      "answer": "A. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 78-year-old male. How many occurrences of Premature Ventricular Contraction are visible in the waveform? A. 1; B. 2; C. 0; D. 3",
+      "answer": "B. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A141",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 74-year-old female patient. As you review the ECG recording, report the total number of Premature Ventricular Contraction events observed in the waveform trace? A. 3; B. 4; C. 2; D. 1",
+      "answer": "C. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 67-year-old male patient. Observing the ECG segment recording, how many total occurrences of Atrial Tachycardia are present? A. 2; B. 0; C. 3; D. 1",
+      "answer": "D. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old male. In this signal strip, how many occurrences of Premature Atrial Contraction are present in total? A. 2; B. 1; C. 0; D. 4",
+      "answer": "A. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 67-year-old male. From the signal strip shown, how many instances of Premature Ventricular Contraction can you count? A. 0; B. 1; C. 2; D. 3",
+      "answer": "B. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A153",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 62-year-old female. Upon chart review of the recording, what is the burden of Premature Atrial Contraction expressed as the total number of occurrences on the signal strip? A. 2; B. 5; C. 4; D. 3",
+      "answer": "C. 4"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A153",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This patient is a 62-year-old female. Count the Premature Ventricular Contraction complexes on the ECG strip; how many are there? A. 2; B. 1; C. 3; D. 0",
+      "answer": "B. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A191",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 66-year-old male patient. Review the ECG strip and state the total number of Premature Atrial Contraction events visible on the tracing? A. 3; B. 1; C. 0; D. 2",
+      "answer": "B. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A191",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 66-year-old male. What is the total number of Premature Ventricular Contraction episodes visible in the provided ECG segment? A. 2; B. 4; C. 0; D. 1",
+      "answer": "A. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A194",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 64-year-old female patient. Please examine the attached ECG strip tracing and indicate how many Atrial Tachycardia events are present in the recording? A. 2; B. 3; C. 0; D. 1",
+      "answer": "D. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A194",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 64-year-old female. Upon review of the waveform, how many discrete Premature Atrial Contraction events are present in total? A. 2; B. 0; C. 1; D. 4",
+      "answer": "A. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A222",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "You are reviewing a 59-year-old female patient. How many Atrial Tachycardia episodes are present in the entire provided signal strip? A. 3; B. 0; C. 2; D. 1",
+      "answer": "D. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A222",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 59-year-old female patient. Please review the tracing and provide the total number of Premature Atrial Contraction beats noted? A. 3; B. 0; C. 4; D. 2",
+      "answer": "D. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 70-year-old female. On this ECG strip, how many discrete episodes of Atrial Tachycardia can you count? A. 3; B. 2; C. 0; D. 1",
+      "answer": "D. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 70-year-old female. For the chart review of this recording, how many Premature Atrial Contraction occurrences are present in the waveform trace? A. 3; B. 1; C. 0; D. 2",
+      "answer": "D. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "You are reviewing a 70-year-old female patient. For chart review purposes, count how many Premature Ventricular Contraction occurrences are seen on the ECG strip? A. 1; B. 3; C. 0; D. 2",
+      "answer": "A. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A291",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This patient is a 36-year-old female. Observing the tracing, how many Premature Atrial Contraction events are visible on the ECG strip? A. 2; B. 1; C. 0; D. 3",
+      "answer": "B. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old male patient. Provide the count of distinct Atrial Tachycardia runs visible on this rhythm tracing? A. 2; B. 0; C. 1; D. 3",
+      "answer": "C. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 75-year-old male. On review of this tracing, what is the total number of Junctional Escape Rhythm occurrences in the signal strip? A. 0; B. 3; C. 2; D. 1",
+      "answer": "D. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 75-year-old male patient. The tracing shows multiple premature atrial complexes—what is the total number of Premature Atrial Contraction occurrences in this recording? A. 2; B. 4; C. 3; D. 0",
+      "answer": "A. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 75-year-old male. On the provided signal strip, what is the total number of Premature Ventricular Contraction events present? A. 0; B. 3; C. 4; D. 2",
+      "answer": "C. 4"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 72-year-old female patient. How many individual occurrences of Atrial Tachycardia are present on the ECG strip? A. 1; B. 2; C. 0; D. 3",
+      "answer": "A. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 72-year-old female. Using the rhythm strip provided, how many Premature Atrial Contraction beats are present in total? A. 0; B. 2; C. 3; D. 1",
+      "answer": "B. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 72-year-old female patient. While reviewing the tracing, how many times does Premature Ventricular Contraction occur in the ECG segment? A. 4; B. 3; C. 1; D. 2",
+      "answer": "D. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A311",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This patient is a 63-year-old male. Inspecting the signal strip, how many discrete Atrial Tachycardia events can you count in the waveform? A. 2; B. 1; C. 0; D. 3",
+      "answer": "B. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A311",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 63-year-old male patient. In the provided ECG segment, what is the total count of Premature Atrial Contraction beats? A. 2; B. 1; C. 4; D. 3",
+      "answer": "A. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A317",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 56-year-old female patient. For the provided signal strip, what is the total number of Premature Atrial Contraction complexes present in the tracing? A. 4; B. 0; C. 2; D. 3",
+      "answer": "D. 3"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "You are reviewing a 73-year-old male patient. On chart review of the ECG strip, what is the total number of Atrial Tachycardia occurrences documented in the recording? A. 3; B. 1; C. 2; D. 0",
+      "answer": "B. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 73-year-old male. How many distinct First-degree AV Block events are recorded on the tracing? A. 2; B. 1; C. 3; D. 0",
+      "answer": "B. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 73-year-old male patient. With reference to the supplied rhythm strip, determine the total number of Premature Atrial Contraction complexes visible on the waveform? A. 2; B. 1; C. 0; D. 4",
+      "answer": "A. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 73-year-old male. By inspecting the provided recording, how many Premature Ventricular Contraction beats are present within this ECG segment? A. 4; B. 0; C. 5; D. 3",
+      "answer": "A. 4"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This patient is a 38-year-old male. Tally the number of Atrial Tachycardia episodes visible in the ECG segment? A. 3; B. 1; C. 2; D. 0",
+      "answer": "B. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 38-year-old male patient. Signal strip: how many total Premature Atrial Contraction occurrences can you count on this tracing? A. 1; B. 3; C. 2; D. 4",
+      "answer": "C. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 38-year-old male. Please review the rhythm strip and state the total number of Premature Ventricular Contraction events visible on the waveform trace? A. 2; B. 1; C. 4; D. 3",
+      "answer": "A. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A341",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 71-year-old female patient. Based on the provided signal strip, what is the total number of Premature Atrial Contraction episodes observed in the tracing? A. 3; B. 4; C. 2; D. 1",
+      "answer": "C. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A358",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 40-year-old female. For chart review, how many Premature Ventricular Contraction events are present on the ECG strip? A. 1; B. 2; C. 3; D. 4",
+      "answer": "B. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A360",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 75-year-old female. Review the recording and state the total number of Premature Atrial Contraction events on the tracing? A. 0; B. 4; C. 2; D. 1",
+      "answer": "C. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A360",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old female patient. When reviewing the rhythm strip, how many occurrences of Premature Ventricular Contraction can you count? A. 2; B. 1; C. 0; D. 3",
+      "answer": "B. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A41",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 59-year-old male. Using the signal strip provided, what is the total number of Atrial Tachycardia episodes visible in the ECG segment? A. 1; B. 3; C. 2; D. 0",
+      "answer": "A. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A41",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "You are reviewing a 59-year-old male patient. On the shown waveform trace, how many Premature Atrial Contraction events can you count in the displayed segment? A. 2; B. 1; C. 3; D. 0",
+      "answer": "B. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A41",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 59-year-old male. Referencing the waveform, what is the total number of Premature Ventricular Contraction beats visible? A. 4; B. 3; C. 1; D. 2",
+      "answer": "D. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A422",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 69-year-old male patient. Examining the tracing, how many Premature Atrial Contraction beats are present? A. 4; B. 1; C. 3; D. 2",
+      "answer": "D. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A422",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This patient is a 69-year-old male. On the presented rhythm strip, how many Premature Ventricular Contraction complexes occur in total? A. 0; B. 1; C. 2; D. 3",
+      "answer": "B. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 75-year-old male. On inspection of this ECG segment, how many occurrences of Atrial Tachycardia are present? A. 2; B. 3; C. 0; D. 1",
+      "answer": "D. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 75-year-old male patient. How many distinct instances of Premature Atrial Contraction can be counted in the supplied ECG waveform segment for chart review? A. 2; B. 0; C. 4; D. 1",
+      "answer": "A. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This patient is a 75-year-old male. For evaluation, examine the waveform trace and state the total number of Premature Ventricular Contraction events visible on the signal strip? A. 2; B. 1; C. 4; D. 3",
+      "answer": "A. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A431",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 67-year-old female. Reviewing the waveform, what is the total number of Premature Atrial Contraction complexes visible in this recording? A. 0; B. 1; C. 2; D. 3",
+      "answer": "B. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A431",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old female. Examining the provided recording, how many Premature Ventricular Contraction occurrences can you count on the tracing? A. 1; B. 2; C. 3; D. 0",
+      "answer": "A. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A451",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 71-year-old male patient. On this recording, what is the total number of Premature Atrial Contraction beats visible on the tracing? A. 3; B. 0; C. 2; D. 4",
+      "answer": "C. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A451",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This patient is a 71-year-old male. Inspecting the waveform, how many Premature Ventricular Contraction events are present in total? A. 0; B. 1; C. 2; D. 3",
+      "answer": "B. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This patient is a 56-year-old male. From careful inspection of the tracing, how many instances of Atrial Tachycardia can you count on this ECG strip? A. 3; B. 0; C. 1; D. 2",
+      "answer": "C. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 56-year-old male. For chart documentation, tally the total number of Premature Atrial Contraction occurrences visible on this waveform trace? A. 0; B. 2; C. 1; D. 3",
+      "answer": "B. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 56-year-old male patient. Referring to the displayed waveform tracing, how many instances of Premature Ventricular Contraction are present in total? A. 3; B. 2; C. 1; D. 0",
+      "answer": "C. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A464",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This patient is a 68-year-old male. Using the provided waveform trace, how many Premature Atrial Contraction occurrences are present on this ECG strip? A. 3; B. 2; C. 4; D. 0",
+      "answer": "A. 3"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A469",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 51-year-old female patient. Review the rhythm strip and count how many Premature Atrial Contraction occurrences are visible on the waveform trace? A. 1; B. 4; C. 3; D. 2",
+      "answer": "D. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A469",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 51-year-old female. Observing the ECG strip, how many Premature Ventricular Contraction beats are visible in total? A. 3; B. 2; C. 1; D. 0",
+      "answer": "C. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A46",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "You are reviewing a 84-year-old male patient. What number of Atrial Tachycardia events can you count on the ECG strip? A. 0; B. 2; C. 3; D. 1",
+      "answer": "D. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A46",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 84-year-old male patient. By reviewing the tracing, what is the total number of Premature Atrial Contraction complexes identified? A. 2; B. 3; C. 0; D. 4",
+      "answer": "A. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A46",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 84-year-old male patient. Review this rhythm strip and report the total count of Premature Ventricular Contraction beats in the recording? A. 3; B. 0; C. 2; D. 1",
+      "answer": "D. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A473",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 55-year-old female. Using the waveform tracing, how many times does Premature Atrial Contraction occur in this recording? A. 2; B. 0; C. 3; D. 4",
+      "answer": "A. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A473",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 55-year-old female patient. Inspecting the waveform, what is the total number of Premature Ventricular Contraction events visible? A. 0; B. 2; C. 4; D. 1",
+      "answer": "B. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A478",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "You are reviewing a 57-year-old female patient. On the provided waveform trace, how many distinct occurrences of Atrial Tachycardia can you count in total? A. 0; B. 2; C. 1; D. 3",
+      "answer": "C. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A478",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This patient is a 57-year-old female. How many Premature Atrial Contraction events are present in the recording? A. 5; B. 3; C. 4; D. 0",
+      "answer": "B. 3"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A481",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 41-year-old female patient. On the provided signal strip, how many Premature Atrial Contraction episodes are present in total within the waveform trace? A. 2; B. 4; C. 1; D. 3",
+      "answer": "A. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A481",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 41-year-old female patient. From the recording, what is the total number of Premature Ventricular Contraction events on the tracing? A. 3; B. 0; C. 1; D. 2",
+      "answer": "C. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A483",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 31-year-old female. Chart review: what is the total number of Premature Atrial Contraction complexes on the signal strip waveform trace? A. 2; B. 3; C. 0; D. 1",
+      "answer": "D. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A483",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 31-year-old female patient. After examining the recording, how many Premature Ventricular Contraction complexes are present on the waveform trace? A. 3; B. 0; C. 4; D. 2",
+      "answer": "D. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A483",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 31-year-old female patient. As part of this rhythm interpretation and chart review, how many times does Ventricular Tachycardia occur within the provided tracing? A. 3; B. 2; C. 1; D. 0",
+      "answer": "C. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A488",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 78-year-old male patient. On the tracing, how many distinct Atrial Tachycardia events are present in total? A. 3; B. 1; C. 2; D. 0",
+      "answer": "B. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A488",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "You are reviewing a 78-year-old male patient. Using the provided ECG segment, how many Premature Atrial Contraction events are present in the recording? A. 4; B. 2; C. 3; D. 1",
+      "answer": "C. 3"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A488",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 78-year-old male patient. On the tracing provided, count how many times Premature Ventricular Contraction appears in the ECG segment? A. 5; B. 3; C. 4; D. 6",
+      "answer": "C. 4"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This patient is a 65-year-old female. In this waveform recording, how many discrete occurrences of Atrial Tachycardia are present? A. 3; B. 0; C. 1; D. 2",
+      "answer": "C. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "You are reviewing a 65-year-old female patient. Based on the ECG segment, what is the total number of Premature Atrial Contraction episodes you can identify? A. 4; B. 2; C. 3; D. 0",
+      "answer": "B. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 65-year-old female. What is the aggregate count of Premature Ventricular Contraction occurrences documented on the accompanying rhythm signal strip? A. 1; B. 0; C. 3; D. 2",
+      "answer": "D. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A490",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 56-year-old female. By inspection of the tracing, how many Premature Atrial Contraction beats are present? A. 4; B. 0; C. 1; D. 3",
+      "answer": "D. 3"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A502",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 44-year-old male patient. How many separate Atrial Tachycardia events does the supplied waveform contain? A. 0; B. 3; C. 1; D. 2",
+      "answer": "C. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A502",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This patient is a 44-year-old male. Please count the Premature Atrial Contraction beats on this signal strip and report the total number observed? A. 3; B. 1; C. 5; D. 0",
+      "answer": "A. 3"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This patient is a 66-year-old male. Please review the signal strip and report the total number of Atrial Tachycardia occurrences in the recording? A. 0; B. 3; C. 1; D. 2",
+      "answer": "C. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 66-year-old male patient. While reviewing the signal strip, how many Premature Atrial Contraction complexes are present in the recording? A. 0; B. 4; C. 2; D. 1",
+      "answer": "C. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 66-year-old male. In the ECG strip shown, how many Premature Ventricular Contraction beats occur within the displayed segment? A. 2; B. 3; C. 0; D. 1",
+      "answer": "A. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A523",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 62-year-old male. For chart review, count how many occurrences of Premature Atrial Contraction are present on this waveform trace? A. 1; B. 2; C. 0; D. 3",
+      "answer": "A. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 68-year-old male. In this signal strip, what is the total number of Atrial Tachycardia events observed? A. 3; B. 1; C. 0; D. 2",
+      "answer": "B. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 68-year-old male patient. Based on the ECG segment supplied, how many Premature Atrial Contraction occurrences can be counted across the tracing? A. 2; B. 3; C. 1; D. 0",
+      "answer": "A. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 68-year-old male. In the ECG segment shown, how many Premature Ventricular Contraction complexes can you count? A. 2; B. 0; C. 3; D. 1",
+      "answer": "D. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A536",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This patient is a 63-year-old female. On the supplied tracing, what is the total number of Premature Atrial Contraction events observed? A. 2; B. 1; C. 3; D. 0",
+      "answer": "B. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A536",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 63-year-old female patient. On this recording, how many occurrences of Premature Ventricular Contraction are visible in the signal strip? A. 2; B. 3; C. 0; D. 1",
+      "answer": "D. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A538",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 69-year-old male patient. Inspect the ECG segment and report the number of Premature Atrial Contraction episodes visible on the tracing? A. 4; B. 2; C. 3; D. 1",
+      "answer": "B. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A538",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 69-year-old male patient. From this tracing, what is the total number of Premature Ventricular Contraction complexes? A. 3; B. 4; C. 2; D. 0",
+      "answer": "C. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A573",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This patient is a 61-year-old male. After reviewing the tracing, how many instances of Premature Atrial Contraction are present? A. 0; B. 4; C. 1; D. 2",
+      "answer": "D. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A573",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 61-year-old male patient. How many Premature Ventricular Contraction beats are present in the signal strip? A. 2; B. 1; C. 0; D. 3",
+      "answer": "A. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A57",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 59-year-old female. While reviewing the tracing, how many Premature Atrial Contraction events occur in total? A. 4; B. 6; C. 2; D. 3",
+      "answer": "A. 4"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 67-year-old female patient. Please determine the total number of Atrial Tachycardia occurrences visible on this recording? A. 3; B. 0; C. 2; D. 1",
+      "answer": "D. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "You are reviewing a 67-year-old female patient. From the given rhythm strip, determine how many individual Premature Atrial Contraction events appear? A. 2; B. 4; C. 3; D. 0",
+      "answer": "A. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 67-year-old female patient. On inspection of this rhythm strip, how many Premature Ventricular Contraction complexes are present in the recording? A. 2; B. 0; C. 3; D. 4",
+      "answer": "A. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A600",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 47-year-old male. On observing the provided waveform, what is the total number of Premature Atrial Contraction occurrences seen throughout the signal strip? A. 0; B. 3; C. 1; D. 2",
+      "answer": "C. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This patient is a 48-year-old male. From the ECG strip, how many instances of Atrial Tachycardia can you count in total? A. 3; B. 0; C. 2; D. 1",
+      "answer": "D. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 48-year-old male patient. Signal strip assessment: how many occurrences of Premature Atrial Contraction are recorded? A. 3; B. 2; C. 1; D. 0",
+      "answer": "B. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 48-year-old male. While reviewing this tracing for chart documentation, how many Premature Ventricular Contraction complexes can you count in total? A. 1; B. 0; C. 4; D. 3",
+      "answer": "D. 3"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A635",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "You are reviewing a 79-year-old male patient. On the ECG segment, what is the total number of Premature Atrial Contraction episodes present? A. 0; B. 3; C. 5; D. 1",
+      "answer": "B. 3"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A635",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 79-year-old male. Using the waveform trace, report the total count of Premature Ventricular Contraction occurrences? A. 2; B. 3; C. 0; D. 1",
+      "answer": "D. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 55-year-old male. Based on the ECG segment, tally the number of Atrial Tachycardia occurrences present in the tracing? A. 0; B. 1; C. 3; D. 2",
+      "answer": "B. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 55-year-old male. Using this recording, how many Premature Atrial Contraction complexes are seen on the rhythm strip? A. 3; B. 4; C. 2; D. 5",
+      "answer": "B. 4"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 55-year-old male. On reviewing the ECG strip, how many Premature Ventricular Contraction beats can you count in the tracing? A. 1; B. 0; C. 2; D. 3",
+      "answer": "C. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A653",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 53-year-old female. For diagnostic review of the waveform trace, how many Premature Atrial Contraction events are visible in the recording? A. 2; B. 4; C. 0; D. 3",
+      "answer": "A. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A653",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "You are reviewing a 53-year-old female patient. Using the ECG strip recording provided, how many Premature Ventricular Contraction beats are there in total? A. 0; B. 3; C. 2; D. 1",
+      "answer": "D. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 68-year-old male. Reviewing the tracing, how many episodes of Atrial Tachycardia are present in the recording? A. 1; B. 0; C. 3; D. 2",
+      "answer": "A. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 68-year-old male patient. Carefully examine the ECG tracing and report the total number of Premature Atrial Contraction events present in the recording? A. 2; B. 0; C. 3; D. 1",
+      "answer": "A. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 68-year-old male patient. Please examine the recording and state the total number of Sinus Pause events observed in the waveform trace? A. 3; B. 2; C. 0; D. 4",
+      "answer": "B. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A688",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 62-year-old male. On careful observation of the ECG waveform, how many discrete occurrences of Atrial Tachycardia are present? A. 2; B. 3; C. 1; D. 0",
+      "answer": "C. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A688",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 62-year-old male. On the rhythm strip provided, how many Premature Atrial Contraction events are present in the tracing? A. 0; B. 2; C. 4; D. 1",
+      "answer": "B. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A688",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This patient is a 62-year-old male. When reviewing the signal strip for occurrence burden, how many Premature Ventricular Contraction events are present in the waveform trace? A. 0; B. 3; C. 2; D. 1",
+      "answer": "D. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A692",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "You are reviewing a 56-year-old male patient. On the accompanying ECG segment, what is the total number of Premature Atrial Contraction occurrences seen in the waveform? A. 3; B. 0; C. 1; D. 2",
+      "answer": "C. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A701",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 73-year-old female. Using the displayed ECG strip, how many individual Premature Atrial Contraction events are present in this segment? A. 3; B. 0; C. 1; D. 2",
+      "answer": "C. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A701",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This patient is a 73-year-old female. From the tracing provided, how many Premature Ventricular Contraction events are visible on the waveform trace? A. 0; B. 3; C. 2; D. 1",
+      "answer": "D. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 73-year-old female patient. As part of the chart review, count the total number of Atrial Tachycardia episodes visible in this tracing; what is the total number observed? A. 3; B. 1; C. 2; D. 0",
+      "answer": "B. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "You are reviewing a 73-year-old female patient. Review the attached ECG segment and state the total number of Premature Atrial Contraction occurrences visible on the waveform trace? A. 3; B. 2; C. 4; D. 1",
+      "answer": "B. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The ECG belongs to a 73-year-old female patient. Observed on review of this waveform, how many Premature Ventricular Contraction episodes are present in total? A. 2; B. 1; C. 3; D. 0",
+      "answer": "B. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A708",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "You are reviewing a 69-year-old male patient. While reviewing the waveform trace, count the total number of times Atrial Tachycardia occurs in this ECG recording? A. 4; B. 2; C. 0; D. 3",
+      "answer": "D. 3"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A708",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 69-year-old male patient. Count and report the number of Premature Atrial Contraction beats seen on this ECG strip? A. 5; B. 0; C. 3; D. 4",
+      "answer": "C. 3"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A708",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 69-year-old male. Tally the total number of Premature Ventricular Contraction occurrences visible within this ECG segment? A. 4; B. 3; C. 2; D. 0",
+      "answer": "B. 3"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A720",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 80-year-old female patient. In the signal strip provided, what is the total number of Atrial Tachycardia events visible? A. 3; B. 1; C. 0; D. 2",
+      "answer": "B. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A720",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "You are reviewing a 80-year-old female patient. After examining the entire waveform, what is the total number of Premature Atrial Contraction complexes observed? A. 2; B. 3; C. 5; D. 4",
+      "answer": "B. 3"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A720",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "You are reviewing a 80-year-old female patient. For the provided ECG strip, how many Premature Ventricular Contraction beats are present on the tracing? A. 2; B. 0; C. 1; D. 4",
+      "answer": "A. 2"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A765",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This recording is from a 84-year-old female. Please report the total number of Atrial Tachycardia occurrences visible on this ECG strip? A. 2; B. 3; C. 1; D. 0",
+      "answer": "C. 1"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A765",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "This case concerns a 84-year-old female patient. Referring to the waveform, how many Premature Atrial Contraction events should be counted overall? A. 0; B. 1; C. 3; D. 4",
+      "answer": "C. 3"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A765",
+    "task_type": "closed_event_counting",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 84-year-old female. From the ECG strip provided, what is the total number of Premature Ventricular Contraction events visible? A. 4; B. 3; C. 2; D. 1",
+      "answer": "C. 2"
+    },
+    "tag": "valid"
+  }
+]

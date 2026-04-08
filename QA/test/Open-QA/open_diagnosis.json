@@ -1,0 +1,1352 @@
+[
+  {
+    "id": "A102",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 20-year-old male patient. Which abnormal heart rhythm types can be identified from this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A106",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 82-year-old female. What arrhythmia types are present in this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction, Atrial Tachycardia, and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A10",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 36-year-old male patient. Which abnormal heart rhythms can be identified on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A111",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 33-year-old male. Which cardiac rhythm abnormalities are depicted in this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A11",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 75-year-old male. Which types of arrhythmias are seen in this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction, Premature Ventricular Contraction, and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A120",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 29-year-old male. Which rhythm abnormalities can be identified in this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A138",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 63-year-old female. What kinds of rhythm abnormalities can be identified in this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A139",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 65-year-old male. What arrhythmia types are evident in this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Atrial Tachycardia, Asystole, Premature Ventricular Contraction, and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A149",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 53-year-old female patient. Which specific rhythm abnormalities can be identified on this ECG tracing?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A14",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 74-year-old male patient. Which arrhythmia types can be identified from the presented ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A150",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 81-year-old male. Which abnormal heart rhythm types are visible on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Atrial Tachycardia, Premature Ventricular Contraction, and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A151",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 50-year-old female. What arrhythmia types are present on this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A172",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 65-year-old female. Which rhythm irregularities can be identified on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A174",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 53-year-old female patient. What arrhythmia types can be identified on this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A175",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 68-year-old male patient. Which arrhythmia patterns are visible on this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Second-degree AV Block Mobitz I, First-degree AV Block, Premature Ventricular Contraction, and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A178",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 66-year-old male patient. What abnormal rhythm types can be observed on this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A17",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 68-year-old male patient. Which abnormal rhythm types can be identified in this ECG recording?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A181",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 63-year-old male patient. Which kinds of heart rhythm abnormalities are visible on this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A185",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 66-year-old male patient. Which cardiac rhythm abnormalities are present in this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction, Atrial Tachycardia, and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A186",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 63-year-old female patient. Which specific rhythm abnormalities can be identified on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction, Premature Ventricular Contraction, Ventricular Tachycardia, and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A18",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 71-year-old female. Which arrhythmic patterns are visible on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction, Premature Ventricular Contraction, and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A192",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 57-year-old female. Which abnormal rhythm patterns can be identified in this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A199",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 50-year-old female. Which arrhythmia patterns are present in this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A200",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 71-year-old female. Which arrhythmia patterns can be identified from this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A201",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 29-year-old female. Which arrhythmia types can be identified from the findings on this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A202",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 23-year-old male. Which arrhythmias are visible on this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A213",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 67-year-old female patient. What kinds of rhythm disturbances are demonstrated on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Atrial Tachycardia, Premature Atrial Contraction, and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A214",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 65-year-old male patient. Which arrhythmic patterns can be identified on this ECG recording?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A228",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 44-year-old female. Which types of abnormal heart rhythms are present in this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A230",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 83-year-old female. Which types of rhythm abnormalities can be identified in the ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Atrial Tachycardia, Premature Ventricular Contraction, and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A237",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 79-year-old female patient. What arrhythmia types are demonstrated in this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction, Premature Ventricular Contraction, and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A238",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 89-year-old female. Which arrhythmia types are visible on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Atrial Tachycardia, Premature Atrial Contraction, Asystole, and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A240",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 74-year-old male patient. Which specific abnormal heart rhythms can be detected in this ECG recording?",
+      "answer": "The arrhythmias present in this ECG strip are Ventricular Tachycardia, Premature Atrial Contraction, Atrial Tachycardia, and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A242",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 54-year-old male. Which arrhythmia patterns can be identified on this single-lead ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction, Atrial Tachycardia, and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A248",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 69-year-old female. Which specific arrhythmia patterns can be seen on this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A252",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 46-year-old male. Which arrhythmia types are present on this ECG tracing?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A25",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 81-year-old female patient. Which rhythm disturbances are visible on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction, Atrial Tachycardia, and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A263",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 79-year-old female. What kinds of rhythm disturbances are evident in this ECG tracing?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A264",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 50-year-old female. Which arrhythmic patterns can be identified from this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A265",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 68-year-old female. Which abnormal cardiac rhythms can be identified on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A266",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 40-year-old female patient. Which arrhythmia types are present on this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A269",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 65-year-old male patient. What abnormal rhythm(s) can be identified in this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction, Atrial Tachycardia, and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A293",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 28-year-old female. What types of cardiac rhythm abnormalities are visible on this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A29",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 65-year-old female. What arrhythmia types are visible in this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Atrial Tachycardia and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A302",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 70-year-old male. Which abnormal heart rhythm types are seen on this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction, Premature Ventricular Contraction, and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A307",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 74-year-old male patient. Which arrhythmia types are present in this ECG tracing?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A308",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 56-year-old female patient. Which specific rhythm abnormalities are seen on this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A309",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 67-year-old male patient. Which rhythm abnormalities can be identified from this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A330",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 93-year-old male. What abnormal rhythm types can be identified on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Asystole."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A336",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 69-year-old male patient. Which types of abnormal heart rhythms are visible on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Asystole."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A338",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 71-year-old male patient. Which abnormal heart rhythm patterns are visible on the presented ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction, Premature Atrial Contraction, and Ventricular Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A34",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 43-year-old female. Which types of abnormal heart rhythms are visible on this ECG recording?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction, Atrial Tachycardia, and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A350",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 67-year-old male patient. Which arrhythmia patterns can be identified in this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A356",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 60-year-old female patient. What types of abnormal heart rhythms are present on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A359",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 63-year-old female patient. Which arrhythmia patterns can be detected in this ECG tracing?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A366",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 33-year-old female patient. Which rhythm abnormalities can be identified on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A369",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 69-year-old male patient. Which abnormal heart rhythms are present on this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A373",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 70-year-old female patient. Which rhythm abnormalities are visible on this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A379",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 44-year-old male patient. Which kinds of rhythm abnormalities are visible in this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Second-degree AV Block Mobitz I."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A37",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 57-year-old male patient. Which specific abnormal rhythm(s) are visible on this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A384",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 76-year-old male. Which types of arrhythmias can be identified from this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A386",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 62-year-old male. Which rhythm disturbances are visible on this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A392",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 61-year-old female. Which irregular heart rhythm types are visible on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A394",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 47-year-old female. Which arrhythmia types are visible in this ECG tracing?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A396",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 65-year-old female. What specific abnormal rhythm types can be identified in this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A398",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 71-year-old female. Which abnormal rhythm types are identifiable on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction, Premature Ventricular Contraction, and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A399",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 53-year-old female. What arrhythmia types does this ECG strip demonstrate?",
+      "answer": "The arrhythmias present in this ECG strip are Atrial Tachycardia and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A403",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 58-year-old male. What arrhythmia types can be identified from the rhythm strip shown?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A404",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 52-year-old male. What arrhythmias are evident on this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A40",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 59-year-old male patient. Which kinds of arrhythmias are visible on this ECG tracing?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A414",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 37-year-old female. What arrhythmia patterns can be identified in this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A416",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 63-year-old male patient. What types of irregular heart rhythms are present on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Atrial Tachycardia, Premature Ventricular Contraction, and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A418",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 42-year-old male patient. Which abnormal heart rhythm types can be identified from the tracing shown on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A420",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 65-year-old male patient. Which abnormal rhythm patterns can be identified on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Atrial Fibrillation, Premature Atrial Contraction, and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A423",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 57-year-old male patient. Which arrhythmias can be identified in this ECG recording?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A429",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 91-year-old male patient. Which arrhythmias can be identified from this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction, Premature Ventricular Contraction, and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A432",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 71-year-old female. Which abnormal rhythm types are present in this electrocardiogram strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction, Atrial Tachycardia, and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A435",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 63-year-old male patient. Which cardiac rhythm disturbances can be identified on this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction, Atrial Tachycardia, and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A43",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 52-year-old male. Which arrhythmias are seen in this ECG recording?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A440",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 93-year-old male patient. What abnormal heart rhythms are present in this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction, Atrial Tachycardia, and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A444",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 79-year-old male. What arrhythmic patterns can be identified on this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A447",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old male. Which arrhythmia types are present on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A452",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 27-year-old female. Which rhythm disturbances are present on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A455",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 56-year-old male patient. What arrhythmia types are present in this ECG tracing?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A459",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 63-year-old male. Which specific rhythm abnormalities are seen in this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction, Premature Ventricular Contraction, and Ventricular Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A462",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 65-year-old female. Which irregular heart rhythm types can be identified from this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Atrial Tachycardia and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A466",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 59-year-old female. Which types of arrhythmias can be identified on this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A467",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 55-year-old female patient. What abnormal rhythm types are present in this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction, Premature Atrial Contraction, and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A468",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 81-year-old male patient. Which arrhythmia types are present in this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction, Premature Atrial Contraction, and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A472",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 70-year-old female patient. What arrhythmic patterns are present in this ECG recording?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A476",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 74-year-old male patient. Which abnormal heart rhythm types appear on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction, Premature Ventricular Contraction, and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A484",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 45-year-old male. Which rhythm abnormalities can be identified on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A500",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 64-year-old female patient. What arrhythmia types are present in this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction, Premature Atrial Contraction, and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A504",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 59-year-old female. What specific rhythm abnormalities can be identified on this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction, Premature Atrial Contraction, and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A514",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 74-year-old male. What kinds of arrhythmias can be identified from this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A519",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 62-year-old female. Which abnormal rhythm patterns can be identified on the shown ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Atrial Tachycardia and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A521",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 25-year-old female. Which rhythm abnormalities can be identified on this ECG tracing?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A525",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 63-year-old male patient. Which abnormal rhythm types are visible on this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A528",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 40-year-old male patient. What rhythm disturbances can be identified from this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A533",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 78-year-old female. What types of cardiac rhythm abnormalities are visible on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A551",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 58-year-old female. What arrhythmia types can be detected in this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A560",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 74-year-old male. Which arrhythmia types are present in this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction, Atrial Tachycardia, and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A572",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 62-year-old male. Which types of irregular heart rhythm are visible on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A582",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 75-year-old female. Which abnormal heart rhythm patterns are present in this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A583",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 25-year-old female. Which rhythm abnormalities are present in this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A588",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 74-year-old male patient. Which kinds of abnormal cardiac rhythms can be identified on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A595",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 78-year-old female patient. Which arrhythmias can be identified on this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Atrial Tachycardia and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A596",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 83-year-old male patient. What arrhythmia types can be identified in this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A59",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 71-year-old female. Which abnormal heart rhythm types are present on this ECG tracing?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A602",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old female. Which rhythm abnormalities are visible on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A609",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 51-year-old female. Which types of irregular heart rhythms are visible on this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A618",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 60-year-old male patient. What arrhythmia types can be detected in this ECG recording?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction, Atrial Tachycardia, Premature Atrial Contraction, and Ventricular Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A626",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 74-year-old female. Which abnormal heart rhythm types are visible on this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Atrial Tachycardia and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A627",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 55-year-old male patient. What rhythm abnormalities are visible on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction, Atrial Tachycardia, and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A628",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 82-year-old female. Which arrhythmia types are present in this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Atrial Tachycardia and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A629",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 55-year-old male. What kinds of arrhythmias can be identified from this ECG recording?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A632",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 58-year-old female. Which arrhythmia patterns are visible on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A633",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 65-year-old female. Which rhythm abnormalities are present on this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Atrial Tachycardia and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A638",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 45-year-old female patient. Which abnormal rhythm patterns are visible on this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A640",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 84-year-old female. What arrhythmia types can be detected on this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Atrial Tachycardia, Premature Ventricular Contraction, and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A645",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 75-year-old male. Which abnormal heart rhythms are seen on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction, Premature Atrial Contraction, and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A646",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 62-year-old male. Which types of abnormal heart rhythms are present in this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A654",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a adult-year-old unknown patient. Which arrhythmia types can be identified in the presented ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A65",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 81-year-old female patient. Which types of abnormal rhythms are present on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction, Atrial Tachycardia, and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A660",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 65-year-old female. Which arrhythmia types are visible on this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A663",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 74-year-old male. Which cardiac rhythm abnormalities can be identified on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction, Premature Ventricular Contraction, and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A6",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 61-year-old male patient. Which abnormal rhythm types appear on this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction, Atrial Tachycardia, and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A707",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 69-year-old female. What kinds of abnormal rhythm findings can be identified in this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A709",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 85-year-old female. Which arrhythmia categories appear in this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Atrial Fibrillation, Premature Atrial Contraction, Premature Ventricular Contraction, and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A714",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 86-year-old male. What types of heart rhythm abnormalities are present in this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A721",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 35-year-old female patient. What specific arrhythmia types are visible on this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A723",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 63-year-old male patient. Which arrhythmia types are visible on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A736",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 57-year-old female patient. Which arrhythmia types can be identified from this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Atrial Tachycardia, Premature Ventricular Contraction, and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A743",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 55-year-old male patient. Which arrhythmia types can be observed in this ECG recording?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A747",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 32-year-old male. Which arrhythmia patterns are present in this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A751",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 26-year-old male patient. What arrhythmia types can be identified from this ECG strip?",
+      "answer": "The arrhythmia present in this ECG strip is Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A75",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 19-year-old male. What kinds of abnormal heart rhythms are visible on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A761",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 68-year-old male patient. Which abnormal rhythm types are visible on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction, Ventricular Tachycardia, Atrial Tachycardia, and Premature Atrial Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A774",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a adult-year-old unknown patient. What arrhythmia types are visible on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are 2:1 AV Conduction Block, Atrial Tachycardia, Second-degree AV Block Mobitz I, Premature Ventricular Contraction, Premature Atrial Contraction, Atrial Fibrillation, Atrial Flutter, Ventricular Tachycardia, and Ventricular Fibrillation."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A780",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a adult-year-old unknown patient. What rhythm disturbances are visible on this electrocardiogram strip?",
+      "answer": "The arrhythmias present in this ECG strip are Ventricular Tachycardia, Ventricular Escape Rhythm, Junctional Escape Rhythm, Premature Ventricular Contraction, Asystole, Ventricular Fibrillation, and Ventricular Flutter."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A782",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a adult-year-old unknown. Which arrhythmia types can be detected in the presented ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction and Ventricular Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A784",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a adult-year-old unknown patient. Which types of irregular heart rhythms are present in this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Ventricular Contraction, Ventricular Tachycardia, Sinus Pause, Premature Atrial Contraction, and Ventricular Flutter."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A785",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a adult-year-old unknown. Which abnormal heart rhythm patterns are seen on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Ventricular Tachycardia, Ventricular Fibrillation, and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A788",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a adult-year-old unknown patient. What arrhythmia types can be identified from the tracing in this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction, Junctional Escape Rhythm, Premature Ventricular Contraction, and Asystole."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A79",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 80-year-old male patient. Which types of cardiac rhythm abnormalities are present in the ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A85",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 81-year-old female patient. What types of abnormal heart rhythms are visible on this ECG tracing?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A87",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 73-year-old male patient. Which arrhythmia types are present in this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction, Premature Ventricular Contraction, and Atrial Tachycardia."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A89",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 70-year-old female patient. Which abnormal cardiac rhythms are present on this ECG recording?",
+      "answer": "The arrhythmias present in this ECG strip are Atrial Tachycardia, Premature Atrial Contraction, Premature Ventricular Contraction, and Ventricular Escape Rhythm."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A93",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 64-year-old male. Which types of abnormal heart rhythm are shown on this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction, Second-degree AV Block Mobitz I, and Premature Ventricular Contraction."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A9",
+    "task_type": "open_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 72-year-old male patient. Which arrhythmia types can be identified in this ECG strip?",
+      "answer": "The arrhythmias present in this ECG strip are Premature Atrial Contraction and Atrial Tachycardia."
+    },
+    "tag": "test"
+  }
+]

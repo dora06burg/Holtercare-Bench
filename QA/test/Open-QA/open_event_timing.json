@@ -1,0 +1,2756 @@
+[
+  {
+    "id": "A102",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 20-year-old male. How many occurrences of Premature Atrial Contraction are present in this waveform, and what are the exact occurrence timepoints in ms for each?",
+      "answer": "A total of 1 episode of Premature Atrial Contraction is detected. The specific timestamp is: 56139967 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A106",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 82-year-old female patient. Atrial Tachycardia is present in this trace; state how many occurrences there are and list the exact occurrence timepoints in ms for each?",
+      "answer": "A total of 1 episode of Atrial Tachycardia is detected. The specific timestamp is: 2284607 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A106",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 82-year-old female patient. For clinical handoff, Premature Atrial Contraction has been identified in this waveform; how many occurrences are there and what are the exact ms positions of each occurrence?",
+      "answer": "A total of 3 episodes of Premature Atrial Contraction are detected. The specific timestamps are: 1028324, 17179240, 17215495 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A106",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 82-year-old female patient. How many occurrences of Premature Ventricular Contraction are present in this recording, and what are the exact temporal offsets in ms for each occurrence?",
+      "answer": "Premature Ventricular Contraction occurs 2 times in this recording, specifically at 2235798, 12561375 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A10",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 36-year-old male. Premature Atrial Contraction has been confirmed in this recording; how many total events occurred and what are the exact occurrence times in ms for each event?",
+      "answer": "We observed 2 events consistent with Premature Atrial Contraction, located at the following timestamps: 27267249, 62186605 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A10",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 36-year-old male. Handing off this waveform which documents confirmed Premature Ventricular Contraction: report the total number of Premature Ventricular Contraction events and list every occurrence timepoint in ms?",
+      "answer": "Premature Ventricular Contraction occurs 1 time in this recording, specifically at 80474043 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A111",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 33-year-old male patient. Provide the total count of confirmed Premature Atrial Contraction events in this strip and then list the exact occurrence times in ms for each event?",
+      "answer": "A total of 1 episode of Premature Atrial Contraction is detected. The specific timestamp is: 81753657 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A11",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 75-year-old male patient. Atrial Tachycardia is documented in this ECG segment; how many total occurrences are there, and what are the exact ms positions of each occurrence?",
+      "answer": "Atrial Tachycardia occurs 1 time in this recording, specifically at 54507030 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A11",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 75-year-old male patient. List, first, the timestamps in milliseconds (ms) for every documented Premature Atrial Contraction occurrence in this ECG segment, and then state the exact total number of occurrences?",
+      "answer": "We observed 4 events consistent with Premature Atrial Contraction, located at the following timestamps: 7564702, 11796135, 16565832, 35048344 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A11",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 75-year-old male. Premature Ventricular Contraction is confirmed in this waveform; how many total occurrences are there, and what are the exact occurrence times in milliseconds (ms) for each event?",
+      "answer": "We observed 2 events consistent with Premature Ventricular Contraction, located at the following timestamps: 13428826, 25827670 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A120",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 29-year-old male patient. Premature Atrial Contraction is documented in this waveform; how many occurrences are there, and what are the exact occurrence times in ms?",
+      "answer": "A total of 1 episode of Premature Atrial Contraction is detected. The specific timestamp is: 776915 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A138",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 63-year-old female. Provide the timestamps (in ms) of every documented Premature Atrial Contraction in this ECG segment, then state the total number of occurrences?",
+      "answer": "Premature Atrial Contraction occurs 2 times in this recording, specifically at 36402915, 46105815 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A139",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 65-year-old male patient. Asystole is confirmed in this trace; state the total number of occurrences first, then list the precise occurrence timestamps in milliseconds (ms) for each event?",
+      "answer": "A total of 2 episodes of Asystole are detected. The specific timestamps are: 21087668, 29175474 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A139",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 65-year-old male. Atrial Tachycardia is confirmed in this ECG segment; please provide the total number of occurrences and the exact temporal offsets of each occurrence in milliseconds (ms)?",
+      "answer": "We observed 1 event consistent with Atrial Tachycardia, located at the following timestamp: 17320457 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A139",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 65-year-old male patient. For the documented Premature Atrial Contraction(s) present in this strip, provide the exact occurrence times in milliseconds (ms) for each event first, and then state the total number of occurrences?",
+      "answer": "A total of 1 episode of Premature Atrial Contraction is detected. The specific timestamp is: 47665086 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A149",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 53-year-old female patient. In this trace, Premature Atrial Contraction is present; provide the total number of occurrences and the exact ms positions of each event?",
+      "answer": "Premature Atrial Contraction occurs 1 time in this recording, specifically at 40519260 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A14",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 74-year-old male. In milliseconds, what are the timepoints in this strip of each confirmed Premature Atrial Contraction event, and what is the total number of occurrences?",
+      "answer": "We observed 2 events consistent with Premature Atrial Contraction, located at the following timestamps: 2370489, 40003811 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A14",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 74-year-old male patient. Provide the temporal offsets (in milliseconds, ms) of every documented Premature Ventricular Contraction in this waveform, and then report the total number of occurrences?",
+      "answer": "Premature Ventricular Contraction occurs 1 time in this recording, specifically at 55980605 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A150",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 81-year-old male patient. Occurrence times (ms): how many confirmed Atrial Tachycardia events are present in this ECG segment, and what are the exact occurrence times in milliseconds for each event?",
+      "answer": "We observed 1 event consistent with Atrial Tachycardia, located at the following timestamp: 45685650 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A150",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 81-year-old male. For reporting purposes, Premature Atrial Contraction is documented in this trace; first state how many occurrences are present and then list the exact occurrence timepoints (ms) for each event?",
+      "answer": "We observed 2 events consistent with Premature Atrial Contraction, located at the following timestamps: 51414553, 72344330 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A150",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 81-year-old male. Premature Ventricular Contraction has been identified in this waveform; provide the count of occurrences and the precise timepoints (ms) of each event?",
+      "answer": "We observed 3 events consistent with Premature Ventricular Contraction, located at the following timestamps: 2094246, 3826878, 60871709 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A151",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 50-year-old female patient. List the occurrence times (in milliseconds) of every documented Premature Ventricular Contraction in this waveform, and state the total number of occurrences?",
+      "answer": "We observed 2 events consistent with Premature Ventricular Contraction, located at the following timestamps: 80049447, 81483465 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A172",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 65-year-old female. This trace contains documented Premature Atrial Contraction events; how many Premature Atrial Contraction occurrences are present and what are the exact ms positions (milliseconds) of each occurrence in chronological order?",
+      "answer": "A total of 1 episode of Premature Atrial Contraction is detected. The specific timestamp is: 38895819 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A172",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 65-year-old female. In this recording Premature Ventricular Contraction has been documented; first state the total number of Premature Ventricular Contraction occurrences, and then list the exact ms positions (milliseconds) of each occurrence in chronological order?",
+      "answer": "A total of 4 episodes of Premature Ventricular Contraction are detected. The specific timestamps are: 8935064, 17134000, 17154245, 50198349 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A174",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 53-year-old female. Handoff: Premature Atrial Contraction is confirmed in this trace; how many Premature Atrial Contraction events occur and what are the exact occurrence times in milliseconds (ms) for each event in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 4 times in this recording, specifically at 58866626, 61181020, 71392380, 84098292 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A174",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 53-year-old female. Report how many Premature Ventricular Contraction events are documented in this trace; first give the total count, then list the exact occurrence times in ms for each event in chronological order?",
+      "answer": "We observed 1 event consistent with Premature Ventricular Contraction, located at the following timestamp: 11626925 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A175",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 68-year-old male. First-degree AV Block is documented in this recording; how many total occurrences are there and what are the exact ms positions (milliseconds) of each occurrence in chronological order?",
+      "answer": "A total of 1 episode of First-degree AV Block is detected. The specific timestamp is: 57697790 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A175",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 68-year-old male. Premature Atrial Contraction is confirmed in this recording — provide the total number of occurrences first, followed by the exact ms positions (milliseconds) of every occurrence in chronological order?",
+      "answer": "We observed 1 event consistent with Premature Atrial Contraction, located at the following timestamp: 79917736 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A175",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 68-year-old male. Premature Ventricular Contraction is documented in this ECG segment; state the total number of Premature Ventricular Contraction occurrences and list the exact timestamps in milliseconds (ms) for each occurrence in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 2 times in this recording, specifically at 75767197, 80278486 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A178",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 66-year-old male patient. State the total number of documented Premature Atrial Contraction events in this strip, and then provide the exact occurrence times in milliseconds (ms) for each event in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 1 time in this recording, specifically at 56245654 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A17",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 68-year-old male patient. Premature Atrial Contraction has been detected here. Can you list the exact timestamps in ms for all of its occurrences, along with the total frequency?",
+      "answer": "Premature Atrial Contraction occurs 2 times in this recording, specifically at 54712498, 78145990 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A17",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 68-year-old male patient. Handoff: Premature Ventricular Contraction is confirmed present in this strip; list the occurrence times (in ms) of every Premature Ventricular Contraction in chronological order, and then report the total number of occurrences?",
+      "answer": "Premature Ventricular Contraction occurs 2 times in this recording, specifically at 6505368, 40550000 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A181",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 63-year-old male. Premature Atrial Contraction is confirmed present in this trace; first state the total number of Premature Atrial Contraction occurrences, then list the exact timestamps in milliseconds (ms) for each occurrence in chronological order?",
+      "answer": "We observed 2 events consistent with Premature Atrial Contraction, located at the following timestamps: 2112050, 6216614 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A185",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 66-year-old male. Handoff: Atrial Tachycardia has been documented in this ECG segment — first state the total number of Atrial Tachycardia events, then list every exact occurrence time in milliseconds (ms) for each event in chronological order?",
+      "answer": "We observed 1 event consistent with Atrial Tachycardia, located at the following timestamp: 697069 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A185",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 66-year-old male. Premature Atrial Contraction has been observed in this trace; how many times does Premature Atrial Contraction occur, and what are all the occurrence times in milliseconds (ms) in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 3 times in this recording, specifically at 170141, 385880, 685189 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A185",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 66-year-old male patient. We have identified Premature Ventricular Contraction in this recording. Could you specify its total count and pinpoint the exact time in ms of each occurrence?",
+      "answer": "Premature Ventricular Contraction occurs 2 times in this recording, specifically at 2253460, 63264265 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A186",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 63-year-old female. Provide the timestamps in milliseconds (ms) for every documented Atrial Tachycardia event in this waveform in chronological order, and then state the total number of Atrial Tachycardia occurrences?",
+      "answer": "Atrial Tachycardia occurs 1 time in this recording, specifically at 81339100 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A186",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 63-year-old female. The trace contains confirmed Premature Atrial Contraction; state the total number of Premature Atrial Contraction occurrences and list every temporal offset in milliseconds (ms) for each event in chronological order?",
+      "answer": "We observed 1 event consistent with Premature Atrial Contraction, located at the following timestamp: 9814936 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A186",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 63-year-old female. This recording contains confirmed Premature Ventricular Contraction — report the total number of occurrences first, then provide all exact occurrence timepoints in milliseconds (ms) for each event in chronological order?",
+      "answer": "A total of 2 episodes of Premature Ventricular Contraction are detected. The specific timestamps are: 18118873, 75308805 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A18",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 71-year-old female. Atrial Tachycardia is confirmed in this recording; how many times does Atrial Tachycardia occur, and what are the exact ms positions of each occurrence in chronological order?",
+      "answer": "A total of 1 episode of Atrial Tachycardia is detected. The specific timestamp is: 75643641 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A18",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 71-year-old female patient. This strip documents confirmed Premature Atrial Contraction — list every occurrence time in milliseconds (ms) in chronological order (occurrence times), and then state the total number of Premature Atrial Contraction events?",
+      "answer": "A total of 2 episodes of Premature Atrial Contraction are detected. The specific timestamps are: 137268, 483113 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A18",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 71-year-old female. In this strip Premature Ventricular Contraction is documented; first report the total number of Premature Ventricular Contraction events, and then provide every exact occurrence timestamp in milliseconds (ms) in chronological order?",
+      "answer": "A total of 3 episodes of Premature Ventricular Contraction are detected. The specific timestamps are: 1325895, 5388286, 5960502 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A192",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 57-year-old female. Premature Atrial Contraction is present in this strip; first report the total number of Premature Atrial Contraction events, and then list all occurrence times in milliseconds (ms) in chronological order (occurrence times)?",
+      "answer": "We observed 1 event consistent with Premature Atrial Contraction, located at the following timestamp: 58713300 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A192",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 57-year-old female patient. Premature Ventricular Contraction has been confirmed in this trace; first state how many Premature Ventricular Contraction events occurred, and then list the exact occurrence timestamps in milliseconds (ms) for each event in chronological order?",
+      "answer": "We observed 1 event consistent with Premature Ventricular Contraction, located at the following timestamp: 3673930 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A199",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 50-year-old female. Handoff: This recording contains confirmed Premature Atrial Contraction—provide the total number of Premature Atrial Contraction occurrences and list every occurrence time in milliseconds (ms) for each event in chronological order?",
+      "answer": "We observed 1 event consistent with Premature Atrial Contraction, located at the following timestamp: 49653333 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A200",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 71-year-old female patient. List, in chronological order, all temporal offsets in milliseconds (ms) of the Premature Atrial Contraction occurrences in this strip, and then state the total number of Premature Atrial Contraction events present?",
+      "answer": "Premature Atrial Contraction occurs 2 times in this recording, specifically at 52323777, 60876824 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A200",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 71-year-old female. The recording documents confirmed Premature Ventricular Contraction in this trace; please state the total number of Premature Ventricular Contraction events and list all occurrence timepoints in milliseconds (ms) in chronological order?",
+      "answer": "We observed 1 event consistent with Premature Ventricular Contraction, located at the following timestamp: 65432641 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A201",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 29-year-old female. Handoff: Premature Atrial Contraction has been documented in this strip; first list every occurrence time in milliseconds (ms) in chronological order, and then report the total number of Premature Atrial Contraction events?",
+      "answer": "We observed 2 events consistent with Premature Atrial Contraction, located at the following timestamps: 29606129, 77538522 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A202",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 23-year-old male patient. How many Premature Atrial Contraction events have been identified in this recording, and what are the exact occurrence timepoints in milliseconds (ms) for each event?",
+      "answer": "We observed 1 event consistent with Premature Atrial Contraction, located at the following timestamp: 42197181 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A202",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 23-year-old male patient. Provide every occurrence timepoint in milliseconds (ms), listed in chronological order, for the documented Premature Ventricular Contraction events in this waveform, and then state the total number of Premature Ventricular Contraction occurrences?",
+      "answer": "We observed 2 events consistent with Premature Ventricular Contraction, located at the following timestamps: 128225, 2786237 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A213",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 67-year-old female patient. Atrial Tachycardia is documented in this trace; report the total number of occurrences and list every occurrence timepoint in milliseconds (ms) in chronological order?",
+      "answer": "We observed 1 event consistent with Atrial Tachycardia, located at the following timestamp: 7614379 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A213",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 67-year-old female. Timepoints: Premature Atrial Contraction is confirmed in this trace; list every occurrence timepoint in milliseconds (ms) in chronological order and state the total number of Premature Atrial Contraction events?",
+      "answer": "Premature Atrial Contraction occurs 1 time in this recording, specifically at 10985031 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A213",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 67-year-old female. Premature Ventricular Contraction is present in this trace; report the total number of Premature Ventricular Contraction events, and provide all occurrence timestamps in milliseconds (ms) in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 1 time in this recording, specifically at 63206515 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A214",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 65-year-old male patient. In this ECG segment, Premature Atrial Contraction is documented; first provide all occurrence timepoints in milliseconds (ms) in chronological order, and then indicate the total number of Premature Atrial Contraction events?",
+      "answer": "Premature Atrial Contraction occurs 3 times in this recording, specifically at 11048655, 49958131, 49975170 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A228",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 44-year-old female. Premature Atrial Contraction is present in this waveform; state how many times it occurs, and list every occurrence's exact ms positions in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 2 times in this recording, specifically at 12903825, 51884511 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A230",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 83-year-old female patient. Atrial Tachycardia is documented in this strip; first state the total number of occurrences, then list all occurrence timepoints in exact milliseconds (ms) in chronological order?",
+      "answer": "We observed 1 event consistent with Atrial Tachycardia, located at the following timestamp: 7143990 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A230",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 83-year-old female. List the exact ms positions, in chronological order, of every occurrence of Premature Atrial Contraction documented in this trace, and then report the total number of occurrences?",
+      "answer": "We observed 2 events consistent with Premature Atrial Contraction, located at the following timestamps: 40242041, 79035389 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A230",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 83-year-old female patient. Premature Ventricular Contraction is documented in this waveform — please state the total number of occurrences first, then list each occurrence time in milliseconds (ms) in chronological order?",
+      "answer": "We observed 2 events consistent with Premature Ventricular Contraction, located at the following timestamps: 17717328, 78149186 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A237",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 79-year-old female patient. Handoff: Atrial Tachycardia is confirmed in this recording; state the total number of occurrences first, then list every occurrence timestamp in milliseconds (ms) in chronological order?",
+      "answer": "We observed 1 event consistent with Atrial Tachycardia, located at the following timestamp: 59364200 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A237",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 79-year-old female. Given that Premature Atrial Contraction is present in this ECG segment, how many times does it occur and what are the exact timestamps in milliseconds?",
+      "answer": "We observed 4 events consistent with Premature Atrial Contraction, located at the following timestamps: 967781, 1500941, 59971439, 61198386 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A237",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 79-year-old female. Handoff: Premature Ventricular Contraction is confirmed in this ECG segment; first list every temporal offset in milliseconds (ms) for each occurrence in chronological order, then state the total number of occurrences?",
+      "answer": "Premature Ventricular Contraction occurs 1 time in this recording, specifically at 46418940 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A238",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 89-year-old female. For the handoff, Atrial Tachycardia has been confirmed in this ECG segment; how many occurrences are there, and what are the exact ms positions of each occurrence in chronological order?",
+      "answer": "We observed 1 event consistent with Atrial Tachycardia, located at the following timestamp: 5778844 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A238",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 89-year-old female. Premature Atrial Contraction is confirmed in this recording; provide the total number of occurrences and list every occurrence time in milliseconds (ms) in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 2 times in this recording, specifically at 5767620, 10997046 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A238",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 89-year-old female patient. For reporting purposes, Premature Ventricular Contraction has been identified in this trace; please provide the total number of occurrences and list all occurrence times in milliseconds (ms)?",
+      "answer": "We observed 1 event consistent with Premature Ventricular Contraction, located at the following timestamp: 71481205 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A240",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 74-year-old male. In this strip, Atrial Tachycardia is present; please list all occurrence timepoints in milliseconds (ms) in chronological order and then state the total number of occurrences?",
+      "answer": "A total of 1 episode of Atrial Tachycardia is detected. The specific timestamp is: 46421690 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A240",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 74-year-old male patient. Premature Atrial Contraction has been identified in this trace; list all occurrence times in milliseconds (ms) in chronological order, then provide the total number of occurrences?",
+      "answer": "We observed 3 events consistent with Premature Atrial Contraction, located at the following timestamps: 4407352, 5100031, 21949355 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A240",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 74-year-old male patient. Handoff to the clinical team: Ventricular Tachycardia is documented in this trace—please list all occurrence times in milliseconds (ms) in chronological order first, and then state the total number of occurrences?",
+      "answer": "We observed 1 event consistent with Ventricular Tachycardia, located at the following timestamp: 2526487 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A242",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 54-year-old male patient. Handoff: Atrial Tachycardia is documented in this trace; how many times does it occur, and what are the exact occurrence timestamps in milliseconds (ms) in chronological order?",
+      "answer": "We observed 1 event consistent with Atrial Tachycardia, located at the following timestamp: 3894125 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A242",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 54-year-old male. How many times does the already-present Premature Atrial Contraction occur in this strip, and what are all occurrence timepoints in milliseconds (ms) in chronological order?",
+      "answer": "We observed 2 events consistent with Premature Atrial Contraction, located at the following timestamps: 1610899, 42344155 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A242",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 54-year-old male. With Premature Ventricular Contraction confirmed in this ECG segment, how many times does it occur and what are the exact occurrence timepoints in milliseconds (ms) in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 2 times in this recording, specifically at 37843892, 45019229 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A248",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 69-year-old female. Please report how many Premature Atrial Contraction events are documented in this ECG segment, and then list the exact ms positions of every occurrence in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 4 times in this recording, specifically at 8442605, 21392274, 44643878, 66028970 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A252",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 46-year-old male patient. Premature Atrial Contraction is confirmed present in this strip; how many occurrences are there, and what are the temporal offsets of each occurrence in milliseconds (ms) in chronological order?",
+      "answer": "A total of 1 episode of Premature Atrial Contraction is detected. The specific timestamp is: 15024672 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A25",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 81-year-old female patient. Timestamps (ms) of each occurrence of Atrial Tachycardia in this recording in chronological order, and the total number of occurrences (Atrial Tachycardia is confirmed present)?",
+      "answer": "Atrial Tachycardia occurs 1 time in this recording, specifically at 36971034 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A25",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 81-year-old female patient. Handing off—Premature Atrial Contraction is confirmed present in this waveform; how many occurrences are there, and what are the exact occurrence timepoints in milliseconds (ms) for each occurrence in chronological order?",
+      "answer": "We observed 2 events consistent with Premature Atrial Contraction, located at the following timestamps: 1237891, 58325765 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A25",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 81-year-old female patient. This strip confirms Premature Ventricular Contraction is present; in reporting style, state the total number of occurrences and list all occurrence times in milliseconds (ms) in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 1 time in this recording, specifically at 77147364 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A263",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 79-year-old female patient. Handoff: Premature Atrial Contraction is confirmed present in this recording — report the total number of occurrences and provide all occurrence timestamps in milliseconds (ms) in chronological order?",
+      "answer": "A total of 1 episode of Premature Atrial Contraction is detected. The specific timestamp is: 51116684 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A264",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 50-year-old female. Premature Atrial Contraction is present in this strip; report the total number of occurrences and provide all occurrence times in milliseconds (ms) for each event in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 4 times in this recording, specifically at 20836203, 32012990, 36720151, 53518916 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A264",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 50-year-old female patient. For this ECG segment, Premature Ventricular Contraction is present; report the total number of occurrences first, and then give the exact occurrence times in milliseconds (ms) for each event in chronological order?",
+      "answer": "We observed 2 events consistent with Premature Ventricular Contraction, located at the following timestamps: 74551176, 74770817 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A265",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 68-year-old female. List the temporal offsets in milliseconds (ms) for each Premature Atrial Contraction identified in this waveform in chronological order, and then report the total number of occurrences?",
+      "answer": "We observed 1 event consistent with Premature Atrial Contraction, located at the following timestamp: 5323056 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A265",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 68-year-old female. Premature Ventricular Contraction is present in this trace; how many occurrences are there, and what are the temporal offsets in milliseconds (ms) for each occurrence in chronological order?",
+      "answer": "We observed 2 events consistent with Premature Ventricular Contraction, located at the following timestamps: 24445525, 26809714 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A266",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 40-year-old female patient. Premature Atrial Contraction is documented in this strip; first state the total number of occurrences, and then list all temporal offsets in milliseconds (ms) for each occurrence in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 1 time in this recording, specifically at 77631914 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A269",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 65-year-old male. Atrial Tachycardia is observed in this ECG segment; how many occurrences are there, and what are the exact ms positions for each occurrence in chronological order?",
+      "answer": "We observed 1 event consistent with Atrial Tachycardia, located at the following timestamp: 47209113 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A269",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 65-year-old male. This trace contains documented Premature Atrial Contraction; report how many occur and provide the exact ms positions for each occurrence in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 3 times in this recording, specifically at 71751969, 71826400, 74079149 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A269",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 65-year-old male patient. Premature Ventricular Contraction is present in this recording; first list every occurrence's temporal offsets in milliseconds (ms) in chronological order, and then state the total number of occurrences?",
+      "answer": "A total of 3 episodes of Premature Ventricular Contraction are detected. The specific timestamps are: 4171907, 27259478, 57838006 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A293",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 28-year-old female. Provide the exact occurrence timepoints (in ms) for every documented Premature Ventricular Contraction in this waveform in chronological order, and then report the total number of occurrences?",
+      "answer": "Premature Ventricular Contraction occurs 3 times in this recording, specifically at 417275, 759181, 1954159 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A29",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 65-year-old female. Handing this off: Atrial Tachycardia is confirmed in this strip; please state the total number of occurrences and provide all occurrence timepoints in milliseconds (ms) for each event in chronological order?",
+      "answer": "Atrial Tachycardia occurs 6 times in this recording, specifically at 564112, 669950, 818960, 43082649, 43636452, 44383250 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A29",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 65-year-old female patient. Premature Atrial Contraction is present in this trace; how many occurrences are there, and what are the temporal offsets in milliseconds (ms) for each event in chronological order?",
+      "answer": "A total of 2 episodes of Premature Atrial Contraction are detected. The specific timestamps are: 21887469, 52537000 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A302",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 70-year-old male. Handoff: Atrial Tachycardia has been documented in this strip — first state the total number of occurrences, then provide all occurrence timepoints in milliseconds (ms) in chronological order?",
+      "answer": "We observed 1 event consistent with Atrial Tachycardia, located at the following timestamp: 32098620 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A302",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 70-year-old male. Premature Atrial Contraction has been confirmed in this recording; how many occurrences are there and what are the exact occurrence times in milliseconds (ms) for each event in chronological order?",
+      "answer": "We observed 3 events consistent with Premature Atrial Contraction, located at the following timestamps: 327335, 12175771, 38569795 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A302",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 70-year-old male. Forwarding this waveform: Premature Ventricular Contraction is documented here; first list all temporal offsets in milliseconds (ms) for each occurrence in chronological order, and then provide the total count of Premature Ventricular Contraction events?",
+      "answer": "Premature Ventricular Contraction occurs 2 times in this recording, specifically at 22821637, 48052400 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A307",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 74-year-old male. This ECG segment contains confirmed Premature Ventricular Contraction; state how many Premature Ventricular Contraction events are present and provide every occurrence time in milliseconds (ms) in chronological order?",
+      "answer": "We observed 1 event consistent with Premature Ventricular Contraction, located at the following timestamp: 56521601 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A308",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 56-year-old female. Premature Atrial Contraction is confirmed present in this recording; please state the total number of occurrences and list every occurrence time in ms (milliseconds) in chronological order?",
+      "answer": "We observed 2 events consistent with Premature Atrial Contraction, located at the following timestamps: 33966350, 50732845 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A309",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old male. Premature Atrial Contraction is documented in this trace; please provide the total number of Premature Atrial Contraction events and list all occurrence timepoints in milliseconds (ms) in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 2 times in this recording, specifically at 29154440, 40548166 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A309",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old male. Handoff: This waveform contains documented Premature Ventricular Contraction — first list every temporal offset in milliseconds (ms) for each occurrence in chronological order, and then state the total number of Premature Ventricular Contraction events?",
+      "answer": "Premature Ventricular Contraction occurs 1 time in this recording, specifically at 59680365 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A330",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 93-year-old male. Asystole is documented in this trace; how many times does Asystole occur, and what are the exact ms positions (milliseconds) of each occurrence in chronological order?",
+      "answer": "A total of 2 episodes of Asystole are detected. The specific timestamps are: 52034330, 60769530 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A330",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 93-year-old male. Handing off this strip: Premature Ventricular Contraction is documented — first state the total number of Premature Ventricular Contraction events, then list every occurrence timepoint in milliseconds (ms) in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 2 times in this recording, specifically at 9391066, 83732081 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A336",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 69-year-old male patient. Handoff: Confirmed Asystole is present in this recording; list every occurrence time in milliseconds (ms) in chronological order (occurrence times), and then provide the total number of Asystole events?",
+      "answer": "Asystole occurs 2 times in this recording, specifically at 53598734, 57715356 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A336",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 69-year-old male. List the timestamps in milliseconds for every occurrence of Premature Ventricular Contraction documented in this trace in chronological order, and then provide the total number of Premature Ventricular Contraction events present?",
+      "answer": "A total of 3 episodes of Premature Ventricular Contraction are detected. The specific timestamps are: 240882, 11807460, 19809765 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A338",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 71-year-old male. Premature Atrial Contraction is documented in this ECG segment; please state how many Premature Atrial Contraction events occur and list the exact occurrence timepoints in milliseconds (ms) for each event in chronological order?",
+      "answer": "A total of 2 episodes of Premature Atrial Contraction are detected. The specific timestamps are: 1750245, 73821871 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A338",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 71-year-old male patient. Premature Ventricular Contraction is present in this trace; how many times does it occur and what are the temporal offsets in milliseconds (ms) for each occurrence in chronological order?",
+      "answer": "A total of 2 episodes of Premature Ventricular Contraction are detected. The specific timestamps are: 124409, 31442277 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A338",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 71-year-old male patient. List the exact ms positions of every documented Ventricular Tachycardia occurrence in this trace in chronological order, and then provide the total number of Ventricular Tachycardia events?",
+      "answer": "A total of 1 episode of Ventricular Tachycardia is detected. The specific timestamp is: 31444997 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A34",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 43-year-old female. Atrial Tachycardia is documented in this recording; how many occurrences are present and what are the exact occurrence timepoints in milliseconds (ms) for each event in chronological order?",
+      "answer": "A total of 1 episode of Atrial Tachycardia is detected. The specific timestamp is: 43890284 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A34",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 43-year-old female. Premature Atrial Contraction is present in this waveform; first state how many occurrences there are, then list all temporal offsets in milliseconds (ms) for each occurrence in chronological order?",
+      "answer": "We observed 3 events consistent with Premature Atrial Contraction, located at the following timestamps: 18622251, 46539055, 82362351 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A34",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 43-year-old female. This strip confirms Premature Ventricular Contraction is present; state how many occurrences there are and provide all occurrence times in milliseconds (ms) in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 1 time in this recording, specifically at 15134492 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A350",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 67-year-old male. Handoff: Atrial Tachycardia is confirmed in this trace; first provide the total number of Atrial Tachycardia occurrences, then list every occurrence timestamp in milliseconds (ms) in chronological order?",
+      "answer": "Atrial Tachycardia occurs 1 time in this recording, specifically at 58693206 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A350",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 67-year-old male patient. The presence of Premature Atrial Contraction is documented in this ECG segment; state how many occurrences are present and list every exact occurrence time in milliseconds (ms) in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 3 times in this recording, specifically at 6006316, 17596585, 23706315 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A356",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 60-year-old female patient. Premature Atrial Contraction is documented in this ECG segment; how many occurrences are there, and what are the temporal offsets in milliseconds (ms) for each occurrence listed in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 1 time in this recording, specifically at 68317365 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A356",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 60-year-old female patient. Report the exact ms positions, in chronological order, of each Premature Ventricular Contraction detected in this recording, and then provide the total number of occurrences?",
+      "answer": "We observed 1 event consistent with Premature Ventricular Contraction, located at the following timestamp: 799272 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A359",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 63-year-old female. Premature Atrial Contraction is documented in this ECG segment; state the total number of occurrences first, and then provide the exact occurrence timestamps in milliseconds (ms) for each event in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 2 times in this recording, specifically at 36487660, 64593077 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A366",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 33-year-old female. The recording shows Premature Atrial Contraction in this trace; how many Premature Atrial Contraction events are present and what are the precise timestamps (ms) for each occurrence in chronological order?",
+      "answer": "A total of 2 episodes of Premature Atrial Contraction are detected. The specific timestamps are: 55043474, 64320944 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A366",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 33-year-old female patient. In this trace Premature Ventricular Contraction is documented; report the total number of occurrences and provide every occurrence timepoint in milliseconds (ms) in chronological order?",
+      "answer": "A total of 1 episode of Premature Ventricular Contraction is detected. The specific timestamp is: 35783151 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A369",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 69-year-old male. Handoff: Premature Ventricular Contraction is documented in this waveform — first provide the total number of Premature Ventricular Contraction occurrences, and then list all occurrence times in milliseconds (ms) for each event in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 1 time in this recording, specifically at 73776255 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A373",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 70-year-old female patient. State the total number of Atrial Tachycardia occurrences present in this ECG segment, and list every occurrence timestamp in milliseconds (ms) in chronological order?",
+      "answer": "We observed 1 event consistent with Atrial Tachycardia, located at the following timestamp: 44396733 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A373",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 70-year-old female. For the receiving clinician, Premature Atrial Contraction has been documented in this recording; how many times does it occur and what are the temporal offsets in milliseconds (ms) for each occurrence in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 2 times in this recording, specifically at 5291363, 25402100 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A379",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 44-year-old male patient. Report the number of Premature Atrial Contraction events documented in this ECG segment, and list the exact ms positions for each occurrence in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 2 times in this recording, specifically at 13882979, 31961727 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A379",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 44-year-old male patient. Handoff: Second-degree AV Block Mobitz I is documented in this ECG segment; how many times does it occur, and what are the exact ms positions (in milliseconds) for each occurrence in chronological order?",
+      "answer": "A total of 1 episode of Second-degree AV Block Mobitz I is detected. The specific timestamp is: 61121945 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A37",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 57-year-old male patient. Premature Atrial Contraction has been documented in this recording; provide the occurrence times in milliseconds (ms) for every Premature Atrial Contraction event in chronological order, and then state the total number of Premature Atrial Contraction occurrences?",
+      "answer": "We observed 1 event consistent with Premature Atrial Contraction, located at the following timestamp: 36435568 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A384",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 76-year-old male. Atrial Tachycardia is observed in this recording; please report the total number of occurrences and list the exact occurrence timestamps in milliseconds (ms) for each event in chronological order?",
+      "answer": "We observed 1 event consistent with Atrial Tachycardia, located at the following timestamp: 37601750 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A384",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 76-year-old male. Premature Atrial Contraction is present in this recording: how many occurrences are there, and what are the exact ms positions of each occurrence in chronological order?",
+      "answer": "We observed 2 events consistent with Premature Atrial Contraction, located at the following timestamps: 3552999, 25271515 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A386",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 62-year-old male. Premature Atrial Contraction has been identified in this ECG segment; report the total number of occurrences and provide the exact timestamps in ms for each occurrence in chronological order?",
+      "answer": "A total of 2 episodes of Premature Atrial Contraction are detected. The specific timestamps are: 46217929, 48438725 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A392",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 61-year-old female patient. In milliseconds, Premature Atrial Contraction is present in this trace — how many times does it occur and what are the exact occurrence times in ms for each event in chronological order?",
+      "answer": "We observed 3 events consistent with Premature Atrial Contraction, located at the following timestamps: 15997394, 18221871, 29711461 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A392",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 61-year-old female patient. First state the total number of documented Premature Ventricular Contraction occurrences in this strip, and then provide the exact occurrence timepoints in milliseconds (ms) for each event in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 2 times in this recording, specifically at 23315522, 44904680 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A394",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 47-year-old female. This trace contains confirmed Premature Atrial Contraction; first state the total number of occurrences, and then provide the exact occurrence timestamps in milliseconds (ms) for each event in chronological order?",
+      "answer": "A total of 3 episodes of Premature Atrial Contraction are detected. The specific timestamps are: 27042240, 63577656, 83994850 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A396",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 65-year-old female patient. Handoff: This strip contains confirmed Premature Atrial Contraction; report the total number of occurrences and list every occurrence timepoint in ms in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 2 times in this recording, specifically at 12455083, 20556744 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A398",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 71-year-old female patient. Handoff: Atrial Tachycardia has been confirmed in this ECG segment; first state the total number of occurrences and then list the exact occurrence times in milliseconds (ms) for each event in chronological order?",
+      "answer": "Atrial Tachycardia occurs 1 time in this recording, specifically at 54314495 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A398",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 71-year-old female patient. Handoff: Premature Atrial Contraction is confirmed in this recording; how many times does it occur, and what are the exact occurrence times in milliseconds (ms) for each event?",
+      "answer": "Premature Atrial Contraction occurs 3 times in this recording, specifically at 1330530, 1361407, 58303100 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A398",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 71-year-old female patient. Please state the total number of Premature Ventricular Contraction occurrences documented in this recording, followed by all occurrence times in milliseconds (ms) for each event in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 1 time in this recording, specifically at 6035826 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A399",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 53-year-old female. Handoff: Atrial Tachycardia is documented in this strip; first state the total number of occurrences, and then list all occurrence timepoints in milliseconds (ms) in chronological order?",
+      "answer": "Atrial Tachycardia occurs 1 time in this recording, specifically at 23749780 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A399",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 53-year-old female patient. Handoff: Premature Atrial Contraction is confirmed in this trace; report the total number of occurrences and provide the exact ms positions for each event in chronological order?",
+      "answer": "A total of 1 episode of Premature Atrial Contraction is detected. The specific timestamp is: 65907574 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A403",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 58-year-old male. On this strip Premature Atrial Contraction is documented; list all occurrence times in milliseconds (ms) for each event in chronological order, then state the total number of Premature Atrial Contraction occurrences?",
+      "answer": "We observed 1 event consistent with Premature Atrial Contraction, located at the following timestamp: 65812269 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A404",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 52-year-old male patient. Handoff: Premature Ventricular Contraction has been identified in this ECG segment; please state the total number of occurrences and provide all occurrence timestamps in milliseconds (ms) in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 1 time in this recording, specifically at 62831026 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A40",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 59-year-old male. Premature Atrial Contraction has been identified in this trace; how many occurrences are there, and what are the exact temporal offsets in milliseconds (ms) for each occurrence in chronological order?",
+      "answer": "We observed 3 events consistent with Premature Atrial Contraction, located at the following timestamps: 33431661, 34296685, 46463665 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A414",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 37-year-old female patient. Premature Atrial Contraction has been confirmed as present in this trace; how many times does it occur, and list the exact occurrence timestamps in milliseconds (ms) for each event in chronological order?",
+      "answer": "We observed 1 event consistent with Premature Atrial Contraction, located at the following timestamp: 7189653 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A416",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 63-year-old male patient. Documented Atrial Tachycardia is present in this strip—state the total number of occurrences and list all precise occurrence timepoints in milliseconds (ms) for each event in chronological order?",
+      "answer": "A total of 1 episode of Atrial Tachycardia is detected. The specific timestamp is: 4945170 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A416",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 63-year-old male patient. Premature Atrial Contraction is confirmed present in this strip; list the exact ms positions of every occurrence in chronological order, then state the total number of occurrences?",
+      "answer": "We observed 3 events consistent with Premature Atrial Contraction, located at the following timestamps: 17413908, 49512237, 60177380 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A416",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 63-year-old male. Premature Ventricular Contraction is confirmed present in this recording; state how many times it occurs and list all occurrence times in milliseconds (ms) in chronological order?",
+      "answer": "We observed 3 events consistent with Premature Ventricular Contraction, located at the following timestamps: 171809, 14583850, 37376140 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A418",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 42-year-old male patient. In this strip, Premature Atrial Contraction is present; report the total number of occurrences and list each occurrence's temporal offsets in milliseconds (ms) in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 4 times in this recording, specifically at 79868576, 80093366, 80211437, 82038955 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A418",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 42-year-old male. Timepoints (ms): Premature Ventricular Contraction is documented in this waveform — how many occurrences are there, and what are all occurrence timepoints in milliseconds (ms) in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 1 time in this recording, specifically at 33898989 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A420",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 65-year-old male. Occurrence times (ms): Atrial Fibrillation is documented as present in this ECG segment; how many total occurrences are there and what are all occurrence times in milliseconds (ms) listed in chronological order?",
+      "answer": "Atrial Fibrillation occurs 1 time in this recording, specifically at 1878173 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A420",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 65-year-old male patient. Atrial Tachycardia is confirmed in this strip; how many occurrences are there and what are all occurrence times in milliseconds (ms) listed in chronological order?",
+      "answer": "Atrial Tachycardia occurs 1 time in this recording, specifically at 70132367 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A420",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 65-year-old male. Premature Atrial Contraction is documented in this waveform; how many occurrences are there and what are all occurrence timepoints in milliseconds (ms) in chronological order?",
+      "answer": "We observed 2 events consistent with Premature Atrial Contraction, located at the following timestamps: 2050637, 53334271 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A423",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 57-year-old male. Premature Atrial Contraction is confirmed present in this strip; first give the total number of occurrences and then list each occurrence's temporal offsets in milliseconds (ms) in chronological order?",
+      "answer": "We observed 1 event consistent with Premature Atrial Contraction, located at the following timestamp: 16153352 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A423",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 57-year-old male. Premature Ventricular Contraction is documented in this ECG segment; state the total number of occurrences and provide every occurrence timestamp in milliseconds (ms) in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 2 times in this recording, specifically at 4022773, 20759844 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A429",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 91-year-old male. Atrial Tachycardia is documented in this waveform; state the total number of occurrences first, then list every exact occurrence timepoint in milliseconds (ms) in chronological order?",
+      "answer": "We observed 1 event consistent with Atrial Tachycardia, located at the following timestamp: 78789230 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A429",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 91-year-old male. Premature Atrial Contraction is present in this trace; what is the total number of occurrences and what are all occurrence timepoints in milliseconds (ms) in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 2 times in this recording, specifically at 177905, 4486089 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A429",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 91-year-old male patient. Premature Ventricular Contraction is present in this ECG segment; report the total number of occurrences and list every occurrence's temporal offsets in ms in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 2 times in this recording, specifically at 6623872, 10792183 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A432",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 71-year-old female patient. Atrial Tachycardia is present in this trace; how many times does it occur and what are the temporal offsets in ms for each occurrence in chronological order?",
+      "answer": "A total of 1 episode of Atrial Tachycardia is detected. The specific timestamp is: 6601456 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A432",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 71-year-old female patient. In this waveform, Premature Atrial Contraction has been documented — report the total count of occurrences first, then provide every occurrence's exact ms positions in chronological order?",
+      "answer": "A total of 2 episodes of Premature Atrial Contraction are detected. The specific timestamps are: 7437015, 21887265 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A432",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 71-year-old female patient. Premature Ventricular Contraction is documented in this ECG segment; please state the total number of occurrences and list the exact timestamps in milliseconds (ms) for each occurrence in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 2 times in this recording, specifically at 2754487, 77063145 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A435",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 63-year-old male. This ECG segment contains documented Atrial Tachycardia; please state the total number of occurrences and list all occurrence timepoints in milliseconds (ms) in chronological order?",
+      "answer": "A total of 1 episode of Atrial Tachycardia is detected. The specific timestamp is: 6958879 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A435",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 63-year-old male patient. Premature Atrial Contraction has been identified in this trace; please report the total number of occurrences and list the exact temporal offsets in milliseconds (ms) for each occurrence in chronological order?",
+      "answer": "A total of 2 episodes of Premature Atrial Contraction are detected. The specific timestamps are: 13435786, 48094940 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A435",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 63-year-old male patient. Please take over: list the exact occurrence times in milliseconds (ms) for every confirmed Premature Ventricular Contraction in this ECG segment in chronological order, and then state the total number of occurrences?",
+      "answer": "A total of 1 episode of Premature Ventricular Contraction is detected. The specific timestamp is: 134397 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A43",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 52-year-old male. This waveform contains documented Premature Atrial Contraction; please specify the total number of occurrences and provide all occurrence times in milliseconds (ms) in chronological order?",
+      "answer": "We observed 2 events consistent with Premature Atrial Contraction, located at the following timestamps: 31546210, 47918341 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A43",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 52-year-old male. In exact ms positions, Premature Ventricular Contraction is confirmed in this trace; state the total number of occurrences and list all occurrence times in milliseconds (ms) in chronological order?",
+      "answer": "We observed 1 event consistent with Premature Ventricular Contraction, located at the following timestamp: 502986 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A440",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 93-year-old male. Atrial Tachycardia is present in this trace; in a concise report, first state the total number of occurrences and then list all occurrence timepoints in milliseconds (ms) in chronological order?",
+      "answer": "Atrial Tachycardia occurs 1 time in this recording, specifically at 8363256 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A440",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 93-year-old male. Provide the total number of Premature Atrial Contraction events already documented in this ECG segment, and then list each event's temporal offsets in milliseconds (ms) in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 3 times in this recording, specifically at 14642680, 32589595, 55362286 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A440",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 93-year-old male. In this ECG segment Premature Ventricular Contraction is already confirmed — first list all occurrence times in milliseconds (ms) in chronological order, and then state the total number of Premature Ventricular Contraction occurrences (provide the count after the occurrence times)?",
+      "answer": "We observed 1 event consistent with Premature Ventricular Contraction, located at the following timestamp: 4585999 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A444",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 79-year-old male patient. Handing off — Premature Atrial Contraction is confirmed in this trace; state the total number of Premature Atrial Contraction events and list every occurrence's temporal offsets in milliseconds (ms) in chronological order?",
+      "answer": "A total of 2 episodes of Premature Atrial Contraction are detected. The specific timestamps are: 43312010, 44175231 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A447",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 67-year-old male. Premature Atrial Contraction is documented in this ECG segment; how many Premature Atrial Contraction events occur, and what are all occurrence timestamps in milliseconds (ms) listed in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 2 times in this recording, specifically at 11741400, 46001226 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A447",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 67-year-old male. This strip contains confirmed Premature Ventricular Contraction events; first list every occurrence time as exact ms positions (milliseconds) in chronological order, and then state the total number of Premature Ventricular Contraction events?",
+      "answer": "We observed 2 events consistent with Premature Ventricular Contraction, located at the following timestamps: 1615179, 24387693 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A452",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 27-year-old female. This trace contains confirmed Premature Atrial Contraction events — please provide the total number of Premature Atrial Contraction occurrences and list every occurrence time in milliseconds (ms) in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 2 times in this recording, specifically at 59715270, 67590396 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A452",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 27-year-old female. Handing this off: Premature Ventricular Contraction is documented in this trace — first state the total number of occurrences, then list every occurrence time in exact ms positions (milliseconds) in chronological order?",
+      "answer": "We observed 2 events consistent with Premature Ventricular Contraction, located at the following timestamps: 7850870, 25993405 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A455",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 56-year-old male patient. Premature Atrial Contraction is confirmed present in this trace; how many Premature Atrial Contraction events occur and what are the exact ms positions (milliseconds) for each occurrence listed in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 1 time in this recording, specifically at 22790442 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A459",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 63-year-old male. The recording contains documented Premature Atrial Contraction; state the total number of Premature Atrial Contraction events and list every occurrence time in milliseconds (ms) in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 1 time in this recording, specifically at 22041832 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A459",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 63-year-old male. Handoff: This waveform contains confirmed Premature Ventricular Contraction—provide the exact ms positions (milliseconds) for every occurrence in chronological order first, and then state the total number of Premature Ventricular Contraction events?",
+      "answer": "We observed 2 events consistent with Premature Ventricular Contraction, located at the following timestamps: 118716, 48754422 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A459",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 63-year-old male. Ventricular Tachycardia is documented in this waveform; please provide the total number of Ventricular Tachycardia occurrences and list the exact occurrence times in milliseconds (ms) for each event in chronological order?",
+      "answer": "We observed 1 event consistent with Ventricular Tachycardia, located at the following timestamp: 61184375 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A462",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 65-year-old female. How many Atrial Tachycardia occurrences are recorded in this waveform (Atrial Tachycardia is confirmed), and what are the exact ms positions for each occurrence in chronological order?",
+      "answer": "A total of 1 episode of Atrial Tachycardia is detected. The specific timestamp is: 27708099 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A462",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 65-year-old female patient. Premature Atrial Contraction is present in this recording; how many total Premature Atrial Contraction events occur, and list the exact temporal offsets in milliseconds (ms) for each event in chronological order?",
+      "answer": "A total of 2 episodes of Premature Atrial Contraction are detected. The specific timestamps are: 34742539, 67084351 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A466",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 59-year-old female. Premature Atrial Contraction is present in this trace; for handoff, how many Premature Atrial Contraction events occur and what are the exact ms positions for each occurrence in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 2 times in this recording, specifically at 54629730, 70920286 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A467",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 55-year-old female patient. This strip documents confirmed Atrial Tachycardia; first list the exact ms positions for each Atrial Tachycardia occurrence in chronological order, then state the total number of Atrial Tachycardia events?",
+      "answer": "Atrial Tachycardia occurs 1 time in this recording, specifically at 68235124 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A467",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 55-year-old female. Premature Atrial Contraction is documented in this strip; provide the total number of Premature Atrial Contraction occurrences and list all exact ms positions (milliseconds) for each occurrence in chronological order?",
+      "answer": "A total of 2 episodes of Premature Atrial Contraction are detected. The specific timestamps are: 20827909, 42243645 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A467",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 55-year-old female patient. With Premature Ventricular Contraction confirmed in this recording, how many Premature Ventricular Contraction events occur and what are the exact occurrence timestamps in milliseconds (ms) for each event in chronological order?",
+      "answer": "We observed 1 event consistent with Premature Ventricular Contraction, located at the following timestamp: 18166049 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A468",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 81-year-old male patient. In ms, Atrial Tachycardia is confirmed in this recording; how many Atrial Tachycardia events occur and what are the exact occurrence timestamps in milliseconds for each event in chronological order?",
+      "answer": "We observed 1 event consistent with Atrial Tachycardia, located at the following timestamp: 47190806 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A468",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 81-year-old male patient. For handoff: Premature Atrial Contraction is confirmed in this ECG segment — first provide all occurrence timestamps in ms (milliseconds) in chronological order, then state the total number of Premature Atrial Contraction events?",
+      "answer": "Premature Atrial Contraction occurs 2 times in this recording, specifically at 5689489, 40604175 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A468",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 81-year-old male. First state the total number of Premature Ventricular Contraction events confirmed in this recording, then list all occurrence times in ms for each event in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 3 times in this recording, specifically at 1532370, 4491566, 17836360 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A472",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 70-year-old female. Premature Atrial Contraction is documented in this waveform; first state the total number of Premature Atrial Contraction events, and then list the exact ms positions for each occurrence in chronological order?",
+      "answer": "A total of 2 episodes of Premature Atrial Contraction are detected. The specific timestamps are: 42982310, 78911110 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A472",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 70-year-old female. Premature Ventricular Contraction is present in this ECG segment; how many times does it occur, and what are the occurrence times in milliseconds (ms) for each event?",
+      "answer": "We observed 1 event consistent with Premature Ventricular Contraction, located at the following timestamp: 38240256 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A476",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 74-year-old male. Handoff: Atrial Tachycardia has been documented in this waveform—please provide the total number of Atrial Tachycardia episodes and list the exact timestamps in milliseconds (ms) for each occurrence in chronological order?",
+      "answer": "We observed 2 events consistent with Atrial Tachycardia, located at the following timestamps: 27310872, 82070410 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A476",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 74-year-old male. Premature Atrial Contraction is documented in this strip; please provide the total number of Premature Atrial Contraction events and list every occurrence timestamp in milliseconds (ms)?",
+      "answer": "Premature Atrial Contraction occurs 2 times in this recording, specifically at 13028685, 48319597 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A476",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 74-year-old male. Premature Ventricular Contraction is present in this waveform; please provide the total number of Premature Ventricular Contraction events and list their exact occurrence times in milliseconds (ms)?",
+      "answer": "Premature Ventricular Contraction occurs 1 time in this recording, specifically at 50224116 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A484",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 45-year-old male patient. Premature Atrial Contraction is present in this strip; please report the total number of Premature Atrial Contraction occurrences and provide the temporal offsets for each occurrence in milliseconds (ms) in chronological order?",
+      "answer": "We observed 2 events consistent with Premature Atrial Contraction, located at the following timestamps: 48864869, 78962280 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A484",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 45-year-old male. In milliseconds, for this recording in which Premature Ventricular Contraction is present, how many Premature Ventricular Contraction events occur and what are the exact timestamps in ms for each occurrence in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 2 times in this recording, specifically at 10717162, 13801671 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A500",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 64-year-old female patient. This recording confirms the presence of Atrial Tachycardia; please state the total number of Atrial Tachycardia events and list every occurrence timestamp in milliseconds (ms) as timestamps in chronological order?",
+      "answer": "A total of 1 episode of Atrial Tachycardia is detected. The specific timestamp is: 39247560 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A500",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 64-year-old female. Premature Atrial Contraction is present in this trace; how many events occur and what are the temporal offsets in milliseconds (ms) for each occurrence?",
+      "answer": "Premature Atrial Contraction occurs 3 times in this recording, specifically at 2621325, 30846059, 37374995 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A500",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 64-year-old female patient. Provide the temporal offsets in milliseconds for every Premature Ventricular Contraction present in this ECG segment, listed in chronological order, and then state the total number of occurrences?",
+      "answer": "A total of 1 episode of Premature Ventricular Contraction is detected. The specific timestamp is: 16581090 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A504",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 59-year-old female. Atrial Tachycardia is documented in this waveform; how many discrete Atrial Tachycardia events occur, and what are the exact ms positions for each occurrence listed in chronological order?",
+      "answer": "Atrial Tachycardia occurs 1 time in this recording, specifically at 57845400 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A504",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 59-year-old female. This waveform contains documented Premature Atrial Contraction; state the total number of Premature Atrial Contraction occurrences and provide every occurrence time in milliseconds (ms) for each event in chronological order?",
+      "answer": "A total of 2 episodes of Premature Atrial Contraction are detected. The specific timestamps are: 44203540, 46853470 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A504",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 59-year-old female. For clinical handoff: Premature Ventricular Contraction is confirmed in this waveform—please state the total number of PVC events and list every occurrence timepoint in milliseconds (ms) for each event in chronological order?",
+      "answer": "A total of 2 episodes of Premature Ventricular Contraction are detected. The specific timestamps are: 475455, 22030775 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A514",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 74-year-old male patient. This trace contains confirmed Premature Ventricular Contraction; how many occurrences are present and what are the exact occurrence times in milliseconds (ms) for each event in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 1 time in this recording, specifically at 61374609 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A519",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 62-year-old female. Atrial Tachycardia has been confirmed in this waveform; report the total number of Atrial Tachycardia occurrences and list every occurrence timepoint in milliseconds (ms) in chronological order?",
+      "answer": "A total of 1 episode of Atrial Tachycardia is detected. The specific timestamp is: 16834947 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A519",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 62-year-old female. This ECG segment documents Premature Atrial Contraction—how many occurrences are present and what are the exact temporal offsets in milliseconds (ms) for each occurrence listed in chronological order?",
+      "answer": "A total of 1 episode of Premature Atrial Contraction is detected. The specific timestamp is: 64927600 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A521",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 25-year-old female patient. Premature Atrial Contraction is documented in this recording; first state the total number of occurrences, and then provide every occurrence timestamp in milliseconds (ms) in chronological order?",
+      "answer": "We observed 3 events consistent with Premature Atrial Contraction, located at the following timestamps: 26446053, 29830985, 60493830 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A525",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 63-year-old male. Provide the exact ms positions of each Premature Atrial Contraction already identified in this waveform in chronological order, and then state the total number of occurrences?",
+      "answer": "A total of 2 episodes of Premature Atrial Contraction are detected. The specific timestamps are: 8316571, 66179400 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A528",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 40-year-old male patient. This trace documents Premature Atrial Contraction as present; state the total number of occurrences and list the exact occurrence timepoints in milliseconds (ms) for each event in chronological order?",
+      "answer": "We observed 1 event consistent with Premature Atrial Contraction, located at the following timestamp: 8034984 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A533",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 78-year-old female. Premature Atrial Contraction is documented in this recording; please state the total number of occurrences and provide the exact temporal offsets in milliseconds (ms) for each occurrence in chronological order?",
+      "answer": "A total of 2 episodes of Premature Atrial Contraction are detected. The specific timestamps are: 23740359, 34349665 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A533",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 78-year-old female patient. Handoff: Premature Ventricular Contraction is present in this strip — list all occurrence times in milliseconds (ms) in chronological order, and then state the total number of occurrences?",
+      "answer": "Premature Ventricular Contraction occurs 1 time in this recording, specifically at 3074850 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A551",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 58-year-old female. Atrial Tachycardia has been confirmed in this recording; first state the total number of episodes detected, then provide the temporal offsets of each episode in milliseconds (ms) in chronological order?",
+      "answer": "Atrial Tachycardia occurs 1 time in this recording, specifically at 14129849 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A551",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 58-year-old female. Premature Atrial Contraction has been identified in this ECG segment; provide the total number of occurrences and the exact ms positions of each occurrence in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 4 times in this recording, specifically at 718576, 770415, 15418036, 45837636 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A560",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 74-year-old male patient. Atrial Tachycardia is documented in this trace—provide the total number of occurrences and list each occurrence time in exact milliseconds (ms) in chronological order?",
+      "answer": "A total of 1 episode of Atrial Tachycardia is detected. The specific timestamp is: 37707764 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A560",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 74-year-old male patient. Premature Atrial Contraction is documented in this ECG segment; how many times does it occur and what are the temporal offsets of each occurrence in milliseconds (ms)?",
+      "answer": "Premature Atrial Contraction occurs 2 times in this recording, specifically at 1143965, 2077450 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A560",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 74-year-old male. Premature Ventricular Contraction is documented in this recording; report the total number of occurrences and list the exact occurrence times in milliseconds (ms) for each event in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 1 time in this recording, specifically at 51386100 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A572",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 62-year-old male. Premature Atrial Contraction is present in this waveform; first provide all occurrence times (in ms) in chronological order, and then report the total number of occurrences?",
+      "answer": "Premature Atrial Contraction occurs 1 time in this recording, specifically at 16338871 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A572",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 62-year-old male. Premature Ventricular Contraction has been identified in this recording; please state the total number of occurrences and list the exact occurrence times in ms for each event in chronological order?",
+      "answer": "A total of 1 episode of Premature Ventricular Contraction is detected. The specific timestamp is: 43569346 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A582",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 75-year-old female patient. Taking over the review: Premature Atrial Contraction is documented in this waveform, so provide the total number of Premature Atrial Contraction events and list all occurrence timestamps in milliseconds (ms) in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 1 time in this recording, specifically at 33129758 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A582",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 75-year-old female. Premature Ventricular Contraction is documented in this strip; how many occurrences are there, and what are the temporal offsets in milliseconds (ms) for each occurrence in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 2 times in this recording, specifically at 14724382, 40934816 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A583",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 25-year-old female patient. Based on the confirmed presence of Premature Atrial Contraction in this waveform, please provide the number of episodes and their corresponding timestamps in milliseconds?",
+      "answer": "A total of 1 episode of Premature Atrial Contraction is detected. The specific timestamp is: 26758959 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A588",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 74-year-old male patient. The trace confirms Premature Atrial Contraction is present—how many Premature Atrial Contraction events occur, and what are the precise occurrence times in milliseconds (ms) for each event in chronological order?",
+      "answer": "We observed 4 events consistent with Premature Atrial Contraction, located at the following timestamps: 14181090, 16367969, 45020745, 64019019 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A588",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 74-year-old male. This strip confirms Premature Ventricular Contraction is present; please hand off the total number of occurrences and provide all occurrence times in milliseconds (ms) for each event in chronological order?",
+      "answer": "A total of 2 episodes of Premature Ventricular Contraction are detected. The specific timestamps are: 304888, 53791899 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A595",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 78-year-old female patient. Atrial Tachycardia is documented in this waveform; please state the total number of Atrial Tachycardia occurrences and list the exact timestamps in ms (milliseconds) for each occurrence in chronological order?",
+      "answer": "Atrial Tachycardia occurs 1 time in this recording, specifically at 12789030 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A595",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 78-year-old female patient. This ECG segment contains confirmed Premature Atrial Contraction; provide the total number of occurrences first, then list each occurrence's exact timestamps in ms (milliseconds) in chronological order?",
+      "answer": "We observed 2 events consistent with Premature Atrial Contraction, located at the following timestamps: 12796286, 45344607 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A596",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 83-year-old male patient. In this waveform Premature Ventricular Contraction is confirmed; first list the exact temporal offsets in milliseconds (ms) for each occurrence in chronological order, then state the total number of Premature Ventricular Contraction events?",
+      "answer": "A total of 2 episodes of Premature Ventricular Contraction are detected. The specific timestamps are: 47800329, 85725369 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A59",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 71-year-old female. Premature Ventricular Contraction is documented in this strip; how many Premature Ventricular Contraction occurrences are present, and what are the exact occurrence times in ms for each occurrence in chronological order?",
+      "answer": "A total of 1 episode of Premature Ventricular Contraction is detected. The specific timestamp is: 74367245 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A602",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 67-year-old female patient. Premature Atrial Contraction is present in this ECG segment; state the total number of Premature Atrial Contraction occurrences and provide every temporal offset in ms (milliseconds) for each occurrence in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 1 time in this recording, specifically at 29992747 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A602",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 67-year-old female patient. Handoff: Premature Ventricular Contraction is present in this trace; how many Premature Ventricular Contraction occurrences are there, and what are the exact temporal offsets in ms (milliseconds) for each occurrence in chronological order?",
+      "answer": "A total of 3 episodes of Premature Ventricular Contraction are detected. The specific timestamps are: 7790583, 17050180, 66949385 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A609",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 51-year-old female patient. Timestamps (ms): Premature Atrial Contraction is documented in this waveform—what is the total number of Premature Atrial Contraction occurrences and what are the exact occurrence timestamps in milliseconds for each event in chronological order?",
+      "answer": "We observed 2 events consistent with Premature Atrial Contraction, located at the following timestamps: 58181773, 74518535 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A618",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 60-year-old male patient. Handoff: Atrial Tachycardia is confirmed in this recording; please state how many Atrial Tachycardia occurrences are present and list the exact temporal offsets of each occurrence in ms (milliseconds)?",
+      "answer": "A total of 1 episode of Atrial Tachycardia is detected. The specific timestamp is: 15118350 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A618",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 60-year-old male. Premature Ventricular Contraction has been documented in this recording; first state how many times Premature Ventricular Contraction occurs, and then list every occurrence's temporal offset in milliseconds (ms) in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 1 time in this recording, specifically at 9500095 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A618",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 60-year-old male patient. Ventricular Tachycardia is confirmed in this strip; how many times does Ventricular Tachycardia occur and what are the exact occurrence timepoints in milliseconds (ms) for each event?",
+      "answer": "Ventricular Tachycardia occurs 1 time in this recording, specifically at 75466168 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A626",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 74-year-old female patient. Handoff: Atrial Tachycardia is documented in this strip; report the total number of Atrial Tachycardia occurrences and provide every exact occurrence time in ms in chronological order?",
+      "answer": "A total of 1 episode of Atrial Tachycardia is detected. The specific timestamp is: 5307935 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A626",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 74-year-old female. How many documented Premature Atrial Contraction occurrences are there in this recording, and what are the occurrence times in ms (milliseconds) for each event in chronological order?",
+      "answer": "We observed 2 events consistent with Premature Atrial Contraction, located at the following timestamps: 27358764, 38094925 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A627",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 55-year-old male patient. Handoff: Atrial Tachycardia is present in this ECG segment — first list the exact ms positions (milliseconds) of every Atrial Tachycardia occurrence in chronological order, and then state the total number of occurrences?",
+      "answer": "We observed 1 event consistent with Atrial Tachycardia, located at the following timestamp: 1442000 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A627",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 55-year-old male patient. Handoff: Premature Atrial Contraction is documented in this trace; first list the temporal offsets in ms (milliseconds) for every occurrence in chronological order, and then state the total number of Premature Atrial Contraction events?",
+      "answer": "A total of 3 episodes of Premature Atrial Contraction are detected. The specific timestamps are: 347290, 76261037, 76996806 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A627",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 55-year-old male. Handoff: Premature Ventricular Contraction is confirmed in this ECG segment; first provide all occurrence times in ms (milliseconds) in chronological order, and then report the total number of Premature Ventricular Contraction events?",
+      "answer": "A total of 2 episodes of Premature Ventricular Contraction are detected. The specific timestamps are: 71457110, 75171686 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A628",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 82-year-old female patient. Atrial Tachycardia is confirmed in this ECG segment; first state the total number of Atrial Tachycardia occurrences, and then list every occurrence timestamp in milliseconds (ms) in chronological order?",
+      "answer": "Atrial Tachycardia occurs 1 time in this recording, specifically at 194241 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A628",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 82-year-old female patient. Handoff: Premature Atrial Contraction is present in this ECG segment; please provide the total number of Premature Atrial Contraction occurrences and list every exact occurrence time in ms (milliseconds) in chronological order?",
+      "answer": "We observed 4 events consistent with Premature Atrial Contraction, located at the following timestamps: 287336, 1015935, 7909775, 61321946 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A629",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 55-year-old male patient. Handoff: This waveform contains confirmed Premature Ventricular Contraction; first state how many Premature Ventricular Contraction events occur, and then list every occurrence time in ms (milliseconds) for each event in chronological order?",
+      "answer": "A total of 2 episodes of Premature Ventricular Contraction are detected. The specific timestamps are: 8964540, 50778975 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A632",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 58-year-old female. This strip documents confirmed Premature Atrial Contraction; state the total number of Premature Atrial Contraction events and list the exact temporal offsets in milliseconds (ms) for each occurrence?",
+      "answer": "We observed 1 event consistent with Premature Atrial Contraction, located at the following timestamp: 57703810 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A632",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 58-year-old female patient. First state how many Premature Ventricular Contraction events are confirmed in this trace, and then list every occurrence time in milliseconds (ms) for each event in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 3 times in this recording, specifically at 30534351, 38213298, 46517995 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A633",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 65-year-old female patient. This trace contains documented Atrial Tachycardia—state the total number of Atrial Tachycardia events and list every exact occurrence time in milliseconds (ms) for each event in chronological order?",
+      "answer": "Atrial Tachycardia occurs 1 time in this recording, specifically at 19771559 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A633",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 65-year-old female. Premature Atrial Contraction is documented in this recording; how many Premature Atrial Contraction events occur, and what are the exact occurrence timepoints in ms (milliseconds) for each event in chronological order?",
+      "answer": "A total of 2 episodes of Premature Atrial Contraction are detected. The specific timestamps are: 64818400, 67292316 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A638",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 45-year-old female patient. Premature Atrial Contraction is confirmed in this trace, how many occurrences are present and what are the exact occurrence timestamps in milliseconds (ms) for each event in chronological order?",
+      "answer": "A total of 1 episode of Premature Atrial Contraction is detected. The specific timestamp is: 21721391 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A640",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 84-year-old female. This trace documents that Atrial Tachycardia has been observed; how many occurrences are there and what are the exact temporal offsets in milliseconds (ms) for each occurrence in chronological order?",
+      "answer": "Atrial Tachycardia occurs 1 time in this recording, specifically at 45584654 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A640",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 84-year-old female patient. Handoff: Premature Atrial Contraction has been identified in this waveform—how many occurrences are there, and what are all the occurrence times in ms for each event in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 2 times in this recording, specifically at 55068066, 62766296 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A640",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 84-year-old female. Premature Ventricular Contraction is documented in this trace; please provide the total number of occurrences and list all temporal offsets in milliseconds (ms) for each event in chronological order?",
+      "answer": "A total of 2 episodes of Premature Ventricular Contraction are detected. The specific timestamps are: 29870451, 57991476 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A645",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 75-year-old male patient. How many Atrial Tachycardia events have been identified in this waveform, and what are the exact temporal offsets in milliseconds (ms) for each occurrence in chronological order?",
+      "answer": "A total of 3 episodes of Atrial Tachycardia are detected. The specific timestamps are: 2847016, 41904336, 59243212 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A645",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 75-year-old male patient. For the Premature Atrial Contraction events documented in this waveform, provide the total number of occurrences and list all occurrence times in milliseconds (ms) in chronological order?",
+      "answer": "A total of 3 episodes of Premature Atrial Contraction are detected. The specific timestamps are: 8552358, 20696830, 36729620 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A645",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 75-year-old male patient. Provide the exact ms positions of every Premature Ventricular Contraction occurrence in this recording, with times listed in chronological order, and then state the total number of occurrences; Premature Ventricular Contraction is present in this recording?",
+      "answer": "Premature Ventricular Contraction occurs 5 times in this recording, specifically at 15540623, 42414495, 45784360, 57905146, 75829520 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A646",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 62-year-old male patient. At which timepoints (in milliseconds) in this ECG segment do the confirmed Atrial Tachycardia events occur, and what is the total number of occurrences?",
+      "answer": "We observed 1 event consistent with Atrial Tachycardia, located at the following timestamp: 44750179 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A646",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 62-year-old male patient. Premature Atrial Contraction has been confirmed present in this recording; first state the total number of occurrences, and then provide all occurrence timestamps in milliseconds (ms)?",
+      "answer": "We observed 1 event consistent with Premature Atrial Contraction, located at the following timestamp: 16861725 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A654",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a adult-year-old unknown. Handoff: Atrial Tachycardia is confirmed in this recording; please list every temporal offset in milliseconds (ms) where Atrial Tachycardia occurs in chronological order, and then state the total number of occurrences?",
+      "answer": "We observed 1 event consistent with Atrial Tachycardia, located at the following timestamp: 51135574 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A654",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a adult-year-old unknown. First give the total count of Premature Atrial Contraction events present in this trace, then list all temporal offsets in milliseconds (ms) for each occurrence in chronological order?",
+      "answer": "We observed 3 events consistent with Premature Atrial Contraction, located at the following timestamps: 17287006, 47633484, 68754841 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A65",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 81-year-old female. Atrial Tachycardia is confirmed in this strip; please provide the total number of occurrences and list all occurrence timepoints in milliseconds (ms) for each event in chronological order?",
+      "answer": "We observed 1 event consistent with Atrial Tachycardia, located at the following timestamp: 16758571 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A65",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 81-year-old female patient. Premature Atrial Contraction is confirmed in this strip; for handoff, how many times does it occur, and what are all occurrence times in milliseconds (ms) listed in chronological order?",
+      "answer": "A total of 1 episode of Premature Atrial Contraction is detected. The specific timestamp is: 42154381 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A65",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 81-year-old female patient. Handoff: Premature Ventricular Contraction is confirmed in this waveform—what is the total number of occurrences, and what are the exact occurrence timestamps in ms (milliseconds) for each event in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 1 time in this recording, specifically at 12441637 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A660",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 65-year-old female. Provide the occurrence times (in ms) for each documented Premature Atrial Contraction in this strip in chronological order, and state the total number of Premature Atrial Contraction occurrences?",
+      "answer": "Premature Atrial Contraction occurs 2 times in this recording, specifically at 4758016, 61905950 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A660",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 65-year-old female patient. Documented Premature Ventricular Contraction appears in this ECG segment; please state the total number of Premature Ventricular Contraction events, and list the temporal offsets in milliseconds (ms) for each occurrence in chronological order?",
+      "answer": "We observed 2 events consistent with Premature Ventricular Contraction, located at the following timestamps: 550599, 917241 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A663",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 74-year-old male patient. Atrial Tachycardia is documented in this waveform; provide the total number of occurrences and list every occurrence timestamp in ms (milliseconds) in chronological order?",
+      "answer": "A total of 2 episodes of Atrial Tachycardia are detected. The specific timestamps are: 6131466, 73870895 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A663",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 74-year-old male. Premature Atrial Contraction is confirmed in this recording; how many times does it occur, and what are the occurrence times in ms for each event in chronological order?",
+      "answer": "We observed 3 events consistent with Premature Atrial Contraction, located at the following timestamps: 1362420, 13440970, 14041935 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A663",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 74-year-old male patient. This waveform contains confirmed Premature Ventricular Contraction; how many occurrences are there, and what are all occurrence timestamps in milliseconds (ms)?",
+      "answer": "A total of 2 episodes of Premature Ventricular Contraction are detected. The specific timestamps are: 15608422, 56502655 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A6",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 61-year-old male patient. Atrial Tachycardia has been documented in this waveform; state the total number of occurrences and then list the exact occurrence times in milliseconds (ms) for each event in chronological order?",
+      "answer": "A total of 1 episode of Atrial Tachycardia is detected. The specific timestamp is: 26927264 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A6",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 61-year-old male patient. For handoff purposes, Premature Atrial Contraction is documented in this ECG segment; first state the total number of occurrences, and then list each event's exact ms positions in chronological order?",
+      "answer": "We observed 3 events consistent with Premature Atrial Contraction, located at the following timestamps: 214947, 74579615, 79130375 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A6",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 61-year-old male patient. Premature Ventricular Contraction is documented in this waveform; how many occurrences are present, and what are the exact occurrence timestamps in milliseconds (ms) for each event in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 6 times in this recording, specifically at 249218, 3319856, 11465464, 19003063, 32344961, 50967888 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A707",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 69-year-old female. Report the total number of Premature Atrial Contraction events confirmed in this ECG segment, and list all occurrence timepoints in milliseconds (ms) for each event in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 2 times in this recording, specifically at 2592970, 26449906 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A707",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 69-year-old female patient. The trace documents confirmed Premature Ventricular Contraction; state the total number of occurrences, and list every occurrence timepoint in milliseconds (ms) for each event?",
+      "answer": "We observed 2 events consistent with Premature Ventricular Contraction, located at the following timestamps: 25666560, 66886949 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A709",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 85-year-old female. Atrial Fibrillation is confirmed in this trace; how many occurrences are there and what are the exact occurrence timestamps in milliseconds (ms) for each event listed in chronological order?",
+      "answer": "We observed 2 events consistent with Atrial Fibrillation, located at the following timestamps: 8648545, 8656065 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A709",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 85-year-old female. Atrial Tachycardia has been confirmed in this strip; how many times does it occur and what are the exact occurrence times in milliseconds (ms) for each event listed in chronological order?",
+      "answer": "Atrial Tachycardia occurs 1 time in this recording, specifically at 54076180 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A709",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 85-year-old female patient. Premature Atrial Contraction is confirmed in this recording; report the total number of occurrences and provide all occurrence times in milliseconds (ms) in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 4 times in this recording, specifically at 26554615, 61526556, 61962305, 62682467 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A714",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 86-year-old male. Premature Atrial Contraction is confirmed in this strip; how many occurrences are there, and what are the exact occurrence timepoints in milliseconds (ms) in chronological order?",
+      "answer": "We observed 3 events consistent with Premature Atrial Contraction, located at the following timestamps: 227600, 1597225, 52888452 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A714",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 86-year-old male patient. Premature Ventricular Contraction is documented in this ECG segment; state the total number of occurrences first, and then provide every occurrence time as exact milliseconds (ms) in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 3 times in this recording, specifically at 36120271, 37223707, 38758130 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A721",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 35-year-old female. Premature Atrial Contraction has been documented in this trace; how many Premature Atrial Contraction events occur, and what are the temporal offsets in milliseconds (ms) for each occurrence in chronological order?",
+      "answer": "We observed 1 event consistent with Premature Atrial Contraction, located at the following timestamp: 12780515 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A721",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 35-year-old female patient. Handoff — Premature Ventricular Contraction is confirmed in this trace; please state the total number of Premature Ventricular Contraction events and give the temporal offsets in milliseconds (ms) for each occurrence in chronological order?",
+      "answer": "A total of 1 episode of Premature Ventricular Contraction is detected. The specific timestamp is: 3403755 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A723",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 63-year-old male patient. Handoff — Premature Atrial Contraction is confirmed present in this recording; provide the total number of Premature Atrial Contraction events and the exact timestamps for each occurrence in milliseconds (ms)?",
+      "answer": "A total of 1 episode of Premature Atrial Contraction is detected. The specific timestamp is: 54773314 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A723",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 63-year-old male. List the occurrence times in ms of every documented Premature Ventricular Contraction in this ECG segment in chronological order, and then provide the total number of Premature Ventricular Contraction events present?",
+      "answer": "A total of 1 episode of Premature Ventricular Contraction is detected. The specific timestamp is: 14016665 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A736",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 57-year-old female. Atrial Tachycardia is confirmed in this strip; state the total number of Atrial Tachycardia occurrences and provide every occurrence's temporal offsets in milliseconds (ms) in chronological order?",
+      "answer": "Atrial Tachycardia occurs 1 time in this recording, specifically at 16837995 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A736",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 57-year-old female. Premature Atrial Contraction is confirmed to be present in this waveform; state the total number of Premature Atrial Contraction events and provide every occurrence's temporal offsets in milliseconds (ms) in chronological order?",
+      "answer": "We observed 2 events consistent with Premature Atrial Contraction, located at the following timestamps: 36228187, 45397642 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A736",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 57-year-old female patient. Handoff: Premature Ventricular Contraction is confirmed present in this ECG segment; first list all occurrence times in milliseconds (ms) in chronological order, then state the total number of Premature Ventricular Contraction events?",
+      "answer": "A total of 1 episode of Premature Ventricular Contraction is detected. The specific timestamp is: 29354368 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A743",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 55-year-old male. Premature Atrial Contraction is present in this trace; how many times does Premature Atrial Contraction occur and what are all occurrence times in milliseconds (ms)?",
+      "answer": "We observed 2 events consistent with Premature Atrial Contraction, located at the following timestamps: 22202956, 67042035 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A747",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 32-year-old male patient. Premature Ventricular Contraction is present in this waveform; state the total number of Premature Ventricular Contraction events and list every occurrence timestamp in ms (milliseconds) in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 1 time in this recording, specifically at 22352225 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A751",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 26-year-old male. This trace contains documented Premature Atrial Contraction events; first state the total number of Premature Atrial Contraction occurrences, then list each occurrence's exact times in milliseconds (ms) in chronological order?",
+      "answer": "A total of 1 episode of Premature Atrial Contraction is detected. The specific timestamp is: 22664412 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A75",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 19-year-old male patient. Premature Atrial Contraction is confirmed present in this recording; provide the total number of Premature Atrial Contraction occurrences and list the exact temporal offsets in milliseconds (ms) for each occurrence in chronological order?",
+      "answer": "We observed 1 event consistent with Premature Atrial Contraction, located at the following timestamp: 56387740 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A75",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 19-year-old male patient. Handoff: Premature Ventricular Contraction is present in this recording; first list all occurrence timepoints in milliseconds (ms) in chronological order, and then state the total number of Premature Ventricular Contraction events?",
+      "answer": "A total of 1 episode of Premature Ventricular Contraction is detected. The specific timestamp is: 21615775 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A761",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 68-year-old male patient. Premature Atrial Contraction is documented in this ECG segment; first list every occurrence timepoint in milliseconds (ms) in chronological order, then state the total number of Premature Atrial Contraction events present?",
+      "answer": "A total of 1 episode of Premature Atrial Contraction is detected. The specific timestamp is: 37001089 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A761",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 68-year-old male patient. Report the temporal offsets (in milliseconds) of every Premature Ventricular Contraction occurrence documented in this strip in chronological order, and then state the total number of such occurrences?",
+      "answer": "A total of 6 episodes of Premature Ventricular Contraction are detected. The specific timestamps are: 387096, 761607, 3393235, 3408695, 6790519, 66145338 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A761",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 68-year-old male patient. How many occurrences of Ventricular Tachycardia are documented in this trace, and what are the exact occurrence times in milliseconds (ms) for each occurrence listed in chronological order?",
+      "answer": "Ventricular Tachycardia occurs 1 time in this recording, specifically at 6924524 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A774",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a adult-year-old unknown. Atrial Flutter is confirmed in this trace; how many Atrial Flutter events occur, and what are the exact ms positions (milliseconds) of each occurrence listed in chronological order?",
+      "answer": "Atrial Flutter occurs 1 time in this recording, specifically at 51124101 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A774",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a adult-year-old unknown. Exact ms positions: Ventricular Fibrillation is confirmed in this trace; how many distinct Ventricular Fibrillation episodes occur, and what are the exact occurrence times in milliseconds (ms) for each event in chronological order?",
+      "answer": "We observed 2 events consistent with Ventricular Fibrillation, located at the following timestamps: 51537658, 52162906 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A774",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a adult-year-old unknown. Ventricular Tachycardia is documented in this strip; indicate the total number of Ventricular Tachycardia occurrences and list the exact temporal offsets in milliseconds (ms) for each event in chronological order?",
+      "answer": "Ventricular Tachycardia occurs 2 times in this recording, specifically at 34466526, 51297986 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A780",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a adult-year-old unknown. This recording documents the presence of Junctional Escape Rhythm; please state the total number of Junctional Escape Rhythm occurrences and list every occurrence timestamp in milliseconds (ms) for each event in chronological order?",
+      "answer": "Junctional Escape Rhythm occurs 2 times in this recording, specifically at 1721854, 2633112 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A780",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a adult-year-old unknown patient. Ventricular Escape Rhythm is documented in this recording; state how many times Ventricular Escape Rhythm occurs and provide every occurrence timestamp in milliseconds (ms) in chronological order?",
+      "answer": "Ventricular Escape Rhythm occurs 2 times in this recording, specifically at 456824, 464831 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A780",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a adult-year-old unknown. Ventricular Flutter is documented in this trace; state the total number of occurrences and list the exact ms positions of each occurrence in chronological order?",
+      "answer": "Ventricular Flutter occurs 1 time in this recording, specifically at 29043722 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A782",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a adult-year-old unknown. This trace documents the presence of Premature Ventricular Contraction; please provide the total number of Premature Ventricular Contraction occurrences and list the temporal offsets in milliseconds (ms) of each occurrence in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 2 times in this recording, specifically at 43573529, 43736600 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A782",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a adult-year-old unknown. Ventricular Tachycardia is present in this recording; please report the total number of Ventricular Tachycardia events, and list the exact occurrence timestamps in milliseconds (ms) for each event in chronological order?",
+      "answer": "We observed 2 events consistent with Ventricular Tachycardia, located at the following timestamps: 43735100, 43756851 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A784",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a adult-year-old unknown patient. Premature Atrial Contraction is present in this strip; how many Premature Atrial Contraction events occur and what are the exact occurrence times in milliseconds (ms) for each event in chronological order?",
+      "answer": "A total of 1 episode of Premature Atrial Contraction is detected. The specific timestamp is: 62272901 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A784",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a adult-year-old unknown patient. Handoff: Premature Ventricular Contraction is documented in this waveform — first report how many Premature Ventricular Contraction events occur, and then provide the exact ms positions of each occurrence in chronological order?",
+      "answer": "A total of 2 episodes of Premature Ventricular Contraction are detected. The specific timestamps are: 3373100, 3580505 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A784",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a adult-year-old unknown patient. Ventricular Flutter is documented in this recording; first report how many Ventricular Flutter events occur, and then list all occurrence timepoints in milliseconds (ms) for each event in chronological order?",
+      "answer": "We observed 1 event consistent with Ventricular Flutter, located at the following timestamp: 74750575 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A785",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a adult-year-old unknown patient. Premature Ventricular Contraction is confirmed in this recording; list the occurrence times in milliseconds (ms) for every Premature Ventricular Contraction event in chronological order, and then report the total number of Premature Ventricular Contraction occurrences?",
+      "answer": "We observed 3 events consistent with Premature Ventricular Contraction, located at the following timestamps: 62563009, 76768264, 83197255 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A785",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a adult-year-old unknown patient. Ventricular Fibrillation is present in this strip; please state the total number of Ventricular Fibrillation events and provide all occurrence times in milliseconds (ms) for each event in chronological order?",
+      "answer": "Ventricular Fibrillation occurs 7 times in this recording, specifically at 64922689, 64931166, 64941681, 70478808, 70487422, 85544470, 85556161 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A785",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a adult-year-old unknown. Ventricular Tachycardia has been identified in this ECG segment; how many distinct occurrences are present, and what are the temporal offsets for each occurrence in milliseconds (ms) listed in chronological order?",
+      "answer": "A total of 5 episodes of Ventricular Tachycardia are detected. The specific timestamps are: 62663058, 64921631, 70469771, 70472127, 74786138 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A788",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a adult-year-old unknown patient. Asystole is present in this trace; indicate the total number of Asystole occurrences and list all occurrence timepoints in milliseconds (ms) for each event in chronological order?",
+      "answer": "A total of 5 episodes of Asystole are detected. The specific timestamps are: 38501746, 38515337, 38533396, 38571120, 38578320 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A788",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a adult-year-old unknown patient. Junctional Escape Rhythm is present in this recording; state the total number of Junctional Escape Rhythm events first, and then list the exact occurrence timestamps in milliseconds (ms) for each event in chronological order?",
+      "answer": "A total of 1 episode of Junctional Escape Rhythm is detected. The specific timestamp is: 38454394 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A788",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a adult-year-old unknown patient. Handoff: Premature Ventricular Contraction has been identified in this strip — how many Premature Ventricular Contraction occurrences are there, and what are the exact occurrence times in milliseconds (ms) for each event in chronological order?",
+      "answer": "Premature Ventricular Contraction occurs 2 times in this recording, specifically at 1617521, 38546627 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A79",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 80-year-old male patient. Premature Atrial Contraction is documented in this waveform; state the total number of Premature Atrial Contraction occurrences first, and then list all occurrence times in milliseconds (ms) for each event in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 2 times in this recording, specifically at 56449680, 70485520 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A79",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 80-year-old male. Premature Ventricular Contraction is present in this strip; first state the total number of Premature Ventricular Contraction events, and then list all exact occurrence times in milliseconds (ms) for each event in chronological order (exact ms positions)?",
+      "answer": "Premature Ventricular Contraction occurs 1 time in this recording, specifically at 63531980 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A85",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 81-year-old female patient. This ECG segment documents Premature Atrial Contraction; how many Premature Atrial Contraction events are present, and what are the temporal offsets in milliseconds (ms) for each occurrence in chronological order?",
+      "answer": "We observed 3 events consistent with Premature Atrial Contraction, located at the following timestamps: 3555625, 31721589, 34677668 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A85",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 81-year-old female. Premature Ventricular Contraction is confirmed in this recording; how many occurrences are there and what are the exact occurrence timepoints in ms (milliseconds) for each event in chronological order?",
+      "answer": "A total of 1 episode of Premature Ventricular Contraction is detected. The specific timestamp is: 77339262 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A87",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 73-year-old male patient. Atrial Tachycardia is documented in this recording; please provide the total number of Atrial Tachycardia occurrences and list all occurrence timestamps in milliseconds (ms) for each event in chronological order?",
+      "answer": "We observed 1 event consistent with Atrial Tachycardia, located at the following timestamp: 37901774 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A87",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This case concerns a 73-year-old male patient. Please provide the total number of Premature Atrial Contraction occurrences present in this strip and list all occurrence timepoints in ms (milliseconds) for each event in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 5 times in this recording, specifically at 840720, 1065957, 2290835, 17295280, 33335009 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A87",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 73-year-old male patient. Premature Ventricular Contraction is present in this strip; state the total number of Premature Ventricular Contraction occurrences and list all occurrence times in ms (milliseconds) in chronological order?",
+      "answer": "We observed 2 events consistent with Premature Ventricular Contraction, located at the following timestamps: 36469323, 78475755 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A89",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 70-year-old female patient. For the Atrial Tachycardia events already identified in this trace, first list all occurrence timepoints in milliseconds (ms) in chronological order, and then state the total number of Atrial Tachycardia occurrences?",
+      "answer": "A total of 1 episode of Atrial Tachycardia is detected. The specific timestamp is: 10907050 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A89",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 70-year-old female. Handoff: This strip contains confirmed Premature Atrial Contraction events; first list all temporal offsets in milliseconds (ms) for each occurrence in chronological order, and then state the total number of Premature Atrial Contraction events?",
+      "answer": "We observed 2 events consistent with Premature Atrial Contraction, located at the following timestamps: 60821335, 61283061 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A89",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 70-year-old female patient. Ventricular Escape Rhythm is documented in this strip; first state the total number of occurrences, then list the occurrence times in milliseconds (ms) for each event in chronological order?",
+      "answer": "We observed 1 event consistent with Ventricular Escape Rhythm, located at the following timestamp: 76343930 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A93",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This patient is a 64-year-old male. This recording documents confirmed Premature Atrial Contraction; how many Premature Atrial Contraction events are present and what are the exact occurrence timestamps in milliseconds (ms) for each event listed in chronological order?",
+      "answer": "We observed 1 event consistent with Premature Atrial Contraction, located at the following timestamp: 41938044 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A93",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 64-year-old male patient. Exact ms positions and total count of Premature Ventricular Contraction events documented in this recording?",
+      "answer": "Premature Ventricular Contraction occurs 5 times in this recording, specifically at 14746102, 20791050, 33882578, 55798792, 72400776 milliseconds."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A93",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 64-year-old male. Second-degree AV Block Mobitz I is confirmed to be present in this recording; how many times does Second-degree AV Block Mobitz I occur, and what are the exact occurrence timepoints in milliseconds (ms) for each event listed in chronological order?",
+      "answer": "We observed 2 events consistent with Second-degree AV Block Mobitz I, located at the following timestamps: 57856187, 57880447 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A9",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "This recording is from a 72-year-old male. This waveform documents Atrial Tachycardia; how many Atrial Tachycardia events are present, and what are the exact temporal offsets (in ms) for each occurrence in chronological order?",
+      "answer": "A total of 1 episode of Atrial Tachycardia is detected. The specific timestamp is: 55547750 ms."
+    },
+    "tag": "test"
+  },
+  {
+    "id": "A9",
+    "task_type": "open_event_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 72-year-old male patient. Premature Atrial Contraction is present in this trace; how many Premature Atrial Contraction events occur, and what are the temporal offsets (ms) for each event in chronological order?",
+      "answer": "Premature Atrial Contraction occurs 2 times in this recording, specifically at 27640950, 27844765 milliseconds."
+    },
+    "tag": "test"
+  }
+]

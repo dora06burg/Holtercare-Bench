@@ -1,0 +1,938 @@
+[
+  {
+    "id": "A107",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 45-year-old female. Which of the listed rhythm abnormalities best matches the waveform characteristics demonstrated in this tracing? A. Polymorphic Ventricular Tachycardia; B. Sinus Tachycardia; C. Asystole; D. Premature Ventricular Contraction",
+      "answer": "D. Premature Ventricular Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A107",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 45-year-old female. Which of the listed diagnoses is not present in this tracing? A. Premature Atrial Contraction; B. Premature Ventricular Contraction; C. Junctional Escape Rhythm; D. Torsades de Pointes",
+      "answer": "D. Torsades de Pointes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A116",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 66-year-old female. Which diagnosis best explains the waveform pattern on this ECG strip? A. Sinus Bradycardia; B. 2:1 AV Conduction Block; C. Premature Atrial Contraction; D. Ventricular Escape Rhythm",
+      "answer": "C. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A116",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 66-year-old female patient. Which one of the provided rhythm diagnoses is absent from this ECG strip? A. Third-degree AV Block; B. Premature Atrial Contraction; C. Premature Ventricular Contraction",
+      "answer": "A. Third-degree AV Block"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A119",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 48-year-old male patient. Using the waveform displayed in this ECG recording, which single diagnosis from the options best fits the overall rhythm and morphology? A. Second-degree AV Block Mobitz II; B. Premature Atrial Contraction; C. Asystole; D. Junctional Escape Rhythm",
+      "answer": "B. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A119",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 48-year-old male. Select which of the listed rhythm disorders is not demonstrated by the waveform shown? A. 2:1 AV Conduction Block; B. Premature Atrial Contraction",
+      "answer": "A. 2:1 AV Conduction Block"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A125",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 51-year-old female patient. Which single cardiac rhythm diagnosis best accounts for the waveform pattern observed on this ECG strip? A. Atrial Fibrillation; B. Ventricular Fibrillation; C. Premature Atrial Contraction; D. Third-degree AV Block",
+      "answer": "C. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A125",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 51-year-old female patient. Examine the waveform shown and select the diagnosis from the list that is not present? A. Premature Atrial Contraction; B. Premature Ventricular Contraction; C. Sinus Pause",
+      "answer": "C. Sinus Pause"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A130",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 55-year-old female patient. Select the single diagnosis that best matches the waveform shown? A. Torsades de Pointes; B. Third-degree AV Block; C. Atrial Fibrillation; D. First-degree AV Block",
+      "answer": "D. First-degree AV Block"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A130",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 55-year-old female. Which diagnosis among the options below is not represented by the pattern in this tracing? A. Premature Atrial Contraction; B. Torsades de Pointes; C. First-degree AV Block",
+      "answer": "B. Torsades de Pointes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 78-year-old male. Which diagnosis most appropriately explains the tracing on this ECG strip? A. Atrial Tachycardia; B. Sinus Bradycardia; C. Ventricular Fibrillation; D. Ventricular Escape Rhythm",
+      "answer": "A. Atrial Tachycardia"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 78-year-old male patient. Which diagnosis is not present in this ECG strip? A. Atrial Tachycardia; B. Premature Ventricular Contraction; C. Asystole; D. Junctional Escape Rhythm",
+      "answer": "C. Asystole"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A141",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 74-year-old female patient. Examining the tracing in this ECG recording, which single diagnostic choice best explains the overall waveform characteristics? A. Ventricular Tachycardia; B. Premature Ventricular Contraction; C. Second-degree AV Block Mobitz I; D. Ventricular Flutter (Coarse)",
+      "answer": "B. Premature Ventricular Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A141",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 74-year-old female. Select the diagnosis listed that is not represented in the waveform shown? A. Premature Ventricular Contraction; B. Ventricular Escape Rhythm",
+      "answer": "B. Ventricular Escape Rhythm"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 67-year-old male patient. From the diagnoses provided, which single choice most accurately reflects the waveform pattern demonstrated in this tracing? A. Premature Atrial Contraction; B. Asystole; C. First-degree AV Block; D. Ventricular Flutter",
+      "answer": "A. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 67-year-old male. From the options provided, which rhythm diagnosis does this tracing fail to demonstrate? A. Premature Ventricular Contraction; B. Atrial Tachycardia; C. Ventricular Escape Rhythm; D. Premature Atrial Contraction",
+      "answer": "C. Ventricular Escape Rhythm"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A153",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 62-year-old female. Which rhythm disturbance best corresponds to the overall pattern shown in this ECG strip? A. Premature Atrial Contraction; B. Sinus Tachycardia; C. Second-degree AV Block Mobitz I; D. Atrial Flutter",
+      "answer": "A. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A153",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 62-year-old female patient. Select the diagnosis among the three choices that is not depicted in the waveform shown? A. Sinus Bradycardia; B. Premature Ventricular Contraction; C. Premature Atrial Contraction",
+      "answer": "A. Sinus Bradycardia"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A191",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 66-year-old male. Which listed disorder most appropriately accounts for the rhythm characteristics observed in this tracing? A. Second-degree AV Block Mobitz II; B. Premature Ventricular Contraction; C. Atrial Fibrillation; D. Asystole",
+      "answer": "B. Premature Ventricular Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A191",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 66-year-old male. Which of the three listed disorders is not present as a rhythm finding in this tracing? A. Premature Atrial Contraction; B. Premature Ventricular Contraction; C. Sinus Bradycardia",
+      "answer": "C. Sinus Bradycardia"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A194",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 64-year-old female patient. Which rhythm disorder from the four listed options most closely reflects the pattern seen in this tracing? A. Atrial Flutter; B. Atrial Fibrillation; C. Premature Atrial Contraction; D. Ventricular Fibrillation",
+      "answer": "C. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A194",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 64-year-old female patient. Which diagnosis listed can be excluded by this ECG strip? A. Atrial Tachycardia; B. Ventricular Fibrillation; C. Premature Atrial Contraction",
+      "answer": "B. Ventricular Fibrillation"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A222",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 59-year-old female. Which single diagnosis best corresponds to the waveform pattern shown in this tracing? A. Atrial Tachycardia; B. Asystole; C. Atrial Flutter; D. Third-degree AV Block",
+      "answer": "A. Atrial Tachycardia"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A222",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 59-year-old female. From the three provided diagnoses, which one is not present in the waveform shown? A. Premature Atrial Contraction; B. Atrial Tachycardia; C. 2:1 AV Conduction Block",
+      "answer": "C. 2:1 AV Conduction Block"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 70-year-old female patient. Which single diagnosis among the choices most closely matches the overall pattern seen on this ECG strip? A. Torsades de Pointes; B. Third-degree AV Block; C. Premature Atrial Contraction; D. Sinus Pause",
+      "answer": "C. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 70-year-old female patient. Which disorder among the listed choices is not depicted by the electrical pattern recorded in this tracing? A. Sinus Tachycardia; B. Premature Ventricular Contraction; C. Premature Atrial Contraction; D. Atrial Tachycardia",
+      "answer": "A. Sinus Tachycardia"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A291",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 36-year-old female patient. Considering the waveform pattern visible in this tracing, which one diagnosis among the options best accounts for the rhythm displayed? A. First-degree AV Block; B. Second-degree AV Block Mobitz II; C. Atrial Flutter; D. Premature Atrial Contraction",
+      "answer": "D. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old male patient. Which single clinical diagnosis most closely corresponds to the electrocardiographic pattern demonstrated in this tracing? A. Sinus Tachycardia; B. Atrial Tachycardia; C. Atrial Flutter; D. Second-degree AV Block Mobitz I",
+      "answer": "B. Atrial Tachycardia"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old male patient. Considering the findings in this ECG recording, which single diagnosis among the four provided is not supported by the waveform? A. Premature Atrial Contraction; B. Ventricular Flutter (Coarse); C. Atrial Tachycardia; D. Premature Ventricular Contraction",
+      "answer": "B. Ventricular Flutter (Coarse)"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 72-year-old female patient. Which diagnosis best explains the overall pattern seen in this ECG strip? A. Sinus Bradycardia; B. Second-degree AV Block Mobitz I; C. Asystole; D. Atrial Tachycardia",
+      "answer": "D. Atrial Tachycardia"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 72-year-old female patient. Which of the listed diagnoses is not supported by the rhythm features visible in this tracing? A. Premature Ventricular Contraction; B. Premature Atrial Contraction; C. Atrial Tachycardia; D. Sinus Bradycardia",
+      "answer": "D. Sinus Bradycardia"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A311",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 63-year-old male patient. Based on the waveform and rhythm displayed in this ECG recording, which single diagnosis best explains the tracing? A. Torsades de Pointes; B. Asystole; C. Atrial Tachycardia; D. Sinus Pause",
+      "answer": "C. Atrial Tachycardia"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A317",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 56-year-old female. Given the waveform displayed in this ECG recording, which diagnosis from the answer choices best fits the tracing? A. Sinus Pause; B. Atrial Tachycardia; C. Ventricular Tachycardia; D. Premature Atrial Contraction",
+      "answer": "D. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 73-year-old male patient. Which diagnosis best corresponds to the pattern seen on this ECG strip? A. Premature Atrial Contraction; B. Atrial Fibrillation; C. Sinus Pause; D. Torsades de Pointes",
+      "answer": "A. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 73-year-old male patient. From the disorders listed, which one does the rhythm in this tracing fail to demonstrate? A. Ventricular Escape Rhythm; B. Premature Atrial Contraction; C. Premature Ventricular Contraction; D. First-degree AV Block",
+      "answer": "A. Ventricular Escape Rhythm"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 38-year-old male. Which single diagnosis best fits the cardiac rhythm and waveform demonstrated by this tracing? A. Polymorphic Ventricular Tachycardia; B. Ventricular Flutter (Coarse); C. Atrial Flutter; D. Premature Atrial Contraction",
+      "answer": "D. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 38-year-old male patient. Considering the waveform presented in this ECG recording, which one of the listed diagnoses is absent? A. Premature Ventricular Contraction; B. Torsades de Pointes; C. Atrial Tachycardia; D. Premature Atrial Contraction",
+      "answer": "B. Torsades de Pointes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A341",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 71-year-old female. Which diagnosis of the four choices most closely matches the abnormal features displayed in this tracing? A. Ventricular Tachycardia; B. Premature Atrial Contraction; C. Second-degree AV Block Mobitz II; D. Atrial Fibrillation",
+      "answer": "B. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A341",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 71-year-old female patient. Which diagnosis of the two listed is not represented by this ECG strip? A. Ventricular Fibrillation; B. Premature Atrial Contraction",
+      "answer": "A. Ventricular Fibrillation"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A358",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 40-year-old female patient. Which diagnosis best fits the overall pattern seen in this ECG strip? A. Polymorphic Ventricular Tachycardia; B. First-degree AV Block; C. Premature Ventricular Contraction; D. Ventricular Flutter",
+      "answer": "C. Premature Ventricular Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A360",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 75-year-old female. From the four diagnostic choices provided, which one best fits the waveform shown? A. Premature Atrial Contraction; B. Second-degree AV Block Mobitz II; C. 2:1 AV Conduction Block; D. Second-degree AV Block Mobitz I",
+      "answer": "A. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A41",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 59-year-old male patient. Which diagnosis listed most appropriately accounts for the pattern seen in this tracing? A. Ventricular Flutter; B. Atrial Tachycardia; C. Sinus Tachycardia; D. Junctional Escape Rhythm",
+      "answer": "B. Atrial Tachycardia"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A41",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 59-year-old male patient. Of the disorders given, which is absent from the rhythm recorded on this tracing? A. Premature Ventricular Contraction; B. Premature Atrial Contraction; C. Ventricular Escape Rhythm; D. Atrial Tachycardia",
+      "answer": "C. Ventricular Escape Rhythm"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A422",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 69-year-old male. Referring to the waveform depicted in this ECG recording, which single diagnostic choice out of the four best fits the overall tracing? A. Premature Ventricular Contraction; B. Atrial Flutter; C. Torsades de Pointes; D. Asystole",
+      "answer": "A. Premature Ventricular Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A422",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 69-year-old male patient. Based on the waveform in this ECG recording, which one of the listed diagnoses does the tracing fail to demonstrate? A. Premature Atrial Contraction; B. First-degree AV Block; C. Premature Ventricular Contraction",
+      "answer": "B. First-degree AV Block"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 75-year-old male patient. Using the waveform shown in this ECG recording, which single diagnosis among the four choices most closely fits the tracing? A. Second-degree AV Block Mobitz II; B. Ventricular Flutter; C. Premature Atrial Contraction; D. Atrial Flutter",
+      "answer": "C. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 75-year-old male. Select which single listed diagnosis is absent from the waveform shown? A. Ventricular Flutter; B. Premature Atrial Contraction; C. Atrial Tachycardia; D. Premature Ventricular Contraction",
+      "answer": "A. Ventricular Flutter"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A431",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 67-year-old female patient. Which single diagnosis from the four options best corresponds to the ECG tracing shown? A. Premature Atrial Contraction; B. Ventricular Flutter; C. Atrial Flutter; D. Atrial Tachycardia",
+      "answer": "A. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A431",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 67-year-old female patient. Which listed diagnosis would be least consistent with the findings on this ECG strip? A. Asystole; B. Premature Ventricular Contraction; C. Premature Atrial Contraction",
+      "answer": "A. Asystole"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A451",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 71-year-old male patient. Which single diagnostic label best accounts for the waveform pattern demonstrated in this tracing? A. Premature Atrial Contraction; B. Ventricular Flutter; C. Third-degree AV Block; D. Ventricular Tachycardia",
+      "answer": "A. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 56-year-old male. Refer to the waveform shown and choose the single diagnosis from the four options that best matches this tracing? A. Atrial Fibrillation; B. Asystole; C. Third-degree AV Block; D. Premature Ventricular Contraction",
+      "answer": "D. Premature Ventricular Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 56-year-old male patient. Which single diagnosis among the choices is least consistent with the findings on this tracing? A. Atrial Tachycardia; B. Premature Ventricular Contraction; C. Ventricular Flutter (Coarse); D. Premature Atrial Contraction",
+      "answer": "C. Ventricular Flutter (Coarse)"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A464",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 68-year-old male patient. Based on the waveform appearance in this ECG recording, which of the four listed diagnoses most accurately explains the tracing? A. First-degree AV Block; B. Premature Atrial Contraction; C. Atrial Tachycardia; D. Sinus Pause",
+      "answer": "B. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A464",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 68-year-old male. Between the two diagnostic choices provided, which condition is not depicted by the waveform in this tracing? A. Premature Atrial Contraction; B. Third-degree AV Block",
+      "answer": "B. Third-degree AV Block"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A469",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 51-year-old female patient. Examine the waveform shown and select the single diagnosis among the options that best explains the tracing? A. Junctional Escape Rhythm; B. Premature Atrial Contraction; C. Atrial Flutter; D. Ventricular Escape Rhythm",
+      "answer": "B. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A469",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 51-year-old female. Which one of the listed rhythm disorders is absent from the findings shown in this tracing? A. Premature Atrial Contraction; B. Ventricular Flutter (Coarse); C. Premature Ventricular Contraction",
+      "answer": "B. Ventricular Flutter (Coarse)"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A46",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 84-year-old male. Which single clinical diagnosis best accounts for the ECG waveform features evident in this tracing? A. Asystole; B. Ventricular Tachycardia; C. Premature Atrial Contraction; D. Ventricular Fibrillation",
+      "answer": "C. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A473",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 55-year-old female. From the four choices provided, which rhythm diagnosis most closely matches the waveform features seen in this tracing? A. Polymorphic Ventricular Tachycardia; B. Atrial Tachycardia; C. Premature Ventricular Contraction; D. Ventricular Tachycardia",
+      "answer": "C. Premature Ventricular Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A473",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 55-year-old female. From examination of this ECG recording, which single diagnosis among the three listed is not depicted in the rhythm shown? A. Sinus Bradycardia; B. Premature Ventricular Contraction; C. Premature Atrial Contraction",
+      "answer": "A. Sinus Bradycardia"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A478",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 57-year-old female. Which listed disorder among the four choices most closely matches the cardiac rhythm depicted in this tracing? A. Second-degree AV Block Mobitz I; B. Junctional Escape Rhythm; C. Atrial Tachycardia; D. Second-degree AV Block Mobitz II",
+      "answer": "C. Atrial Tachycardia"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A478",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 57-year-old female. From the diagnoses provided, which one is not depicted in this ECG strip? A. Second-degree AV Block Mobitz I; B. Premature Atrial Contraction; C. Atrial Tachycardia",
+      "answer": "A. Second-degree AV Block Mobitz I"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A481",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 41-year-old female patient. Which single disorder from the four options most appropriately explains the cardiac rhythm shown on this tracing? A. 2:1 AV Conduction Block; B. Torsades de Pointes; C. Atrial Tachycardia; D. Premature Ventricular Contraction",
+      "answer": "D. Premature Ventricular Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A481",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 41-year-old female. Refer to the waveform shown and select the diagnosis listed that is not represented by this tracing? A. Premature Ventricular Contraction; B. Premature Atrial Contraction; C. Third-degree AV Block",
+      "answer": "C. Third-degree AV Block"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A483",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 31-year-old female patient. Which single diagnosis among the options most closely aligns with the waveform pattern presented in this tracing? A. Ventricular Escape Rhythm; B. Ventricular Flutter; C. Ventricular Flutter (Coarse); D. Premature Atrial Contraction",
+      "answer": "D. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A488",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 78-year-old male patient. Which diagnosis in the list is not represented by the pattern on this ECG strip? A. Atrial Tachycardia; B. Premature Atrial Contraction; C. Premature Ventricular Contraction; D. Torsades de Pointes",
+      "answer": "D. Torsades de Pointes"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 65-year-old female patient. Which single diagnosis among the answer choices best corresponds to the waveform pattern depicted in this tracing? A. Atrial Flutter; B. Premature Atrial Contraction; C. Torsades de Pointes; D. Sinus Bradycardia",
+      "answer": "B. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 65-year-old female patient. Which of the following diagnoses does this ECG strip rule out? A. Atrial Tachycardia; B. Premature Ventricular Contraction; C. Premature Atrial Contraction; D. Ventricular Escape Rhythm",
+      "answer": "D. Ventricular Escape Rhythm"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A490",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 56-year-old female patient. Which disorder listed below most accurately reflects the rhythm and waveform features evident on this ECG tracing? A. Premature Atrial Contraction; B. Third-degree AV Block; C. Sinus Bradycardia; D. Polymorphic Ventricular Tachycardia",
+      "answer": "A. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A490",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 56-year-old female patient. Which of the two listed rhythm abnormalities is not demonstrated by this tracing? A. Second-degree AV Block Mobitz I; B. Premature Atrial Contraction",
+      "answer": "A. Second-degree AV Block Mobitz I"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A502",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 44-year-old male. Which diagnosis best accounts for the ECG waveform pattern demonstrated in this tracing? A. Ventricular Flutter; B. Polymorphic Ventricular Tachycardia; C. 2:1 AV Conduction Block; D. Premature Atrial Contraction",
+      "answer": "D. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A502",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 44-year-old male patient. Which disorder from the list can be excluded based on the rhythm characteristics visible in this tracing? A. Ventricular Flutter; B. Atrial Tachycardia; C. Premature Atrial Contraction",
+      "answer": "A. Ventricular Flutter"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 66-year-old male. Select the diagnosis from the four options that best accounts for the waveform shown? A. Asystole; B. Polymorphic Ventricular Tachycardia; C. Atrial Tachycardia; D. Sinus Tachycardia",
+      "answer": "C. Atrial Tachycardia"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 66-year-old male. Which listed disorder would be excluded by the rhythm recorded in this tracing? A. Premature Atrial Contraction; B. Junctional Escape Rhythm; C. Premature Ventricular Contraction; D. Atrial Tachycardia",
+      "answer": "B. Junctional Escape Rhythm"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A50",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 56-year-old female. Examining the rhythm and waveform features in this tracing, which single diagnostic label among the options most closely corresponds to the ECG pattern shown? A. Premature Atrial Contraction; B. Torsades de Pointes; C. Premature Ventricular Contraction; D. Sinus Tachycardia",
+      "answer": "A. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A50",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 56-year-old female patient. Which diagnosis listed does this tracing fail to demonstrate? A. Ventricular Escape Rhythm; B. Premature Atrial Contraction",
+      "answer": "A. Ventricular Escape Rhythm"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A523",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 62-year-old male. Referring to the waveform in this ECG recording, which diagnosis among the choices best corresponds to the overall tracing? A. 2:1 AV Conduction Block; B. Ventricular Tachycardia; C. Premature Atrial Contraction; D. Sinus Pause",
+      "answer": "C. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A523",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 62-year-old male patient. Based on the waveform in this ECG recording, which of the two listed diagnoses is not present in the tracing? A. 2:1 AV Conduction Block; B. Premature Atrial Contraction",
+      "answer": "A. 2:1 AV Conduction Block"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 68-year-old male patient. Referring to this ECG recording, which single diagnosis among the provided options most appropriately corresponds to the observed rhythm and waveform morphology? A. Atrial Flutter; B. 2:1 AV Conduction Block; C. Premature Atrial Contraction; D. Sinus Bradycardia",
+      "answer": "C. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 68-year-old male patient. From the following diagnostic choices, which one does this tracing fail to demonstrate? A. Ventricular Flutter (Coarse); B. Atrial Tachycardia; C. Premature Atrial Contraction; D. Premature Ventricular Contraction",
+      "answer": "A. Ventricular Flutter (Coarse)"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A536",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 63-year-old female. Which listed disorder should be considered the most likely diagnosis for the rhythm and waveform displayed in this tracing? A. Premature Atrial Contraction; B. Ventricular Flutter (Coarse); C. Ventricular Escape Rhythm; D. Third-degree AV Block",
+      "answer": "A. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A538",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 69-year-old male patient. After reviewing the ECG recording, which single diagnosis from the options most closely corresponds to the waveform morphology and rhythm pattern shown? A. Atrial Flutter; B. Atrial Tachycardia; C. Premature Atrial Contraction; D. Ventricular Flutter",
+      "answer": "C. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A538",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 69-year-old male. Considering the rhythm characteristics displayed in this tracing, which of the listed diagnoses is not present? A. Third-degree AV Block; B. Premature Atrial Contraction; C. Premature Ventricular Contraction",
+      "answer": "A. Third-degree AV Block"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A573",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 61-year-old male. Based on the waveform morphology in this ECG recording, which single listed diagnosis would you select as the most likely match? A. Premature Ventricular Contraction; B. First-degree AV Block; C. Third-degree AV Block; D. Ventricular Tachycardia",
+      "answer": "A. Premature Ventricular Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A57",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 59-year-old female. Which diagnosis among the four options best matches the rhythm pattern demonstrated in this tracing? A. Premature Atrial Contraction; B. Polymorphic Ventricular Tachycardia; C. Atrial Flutter; D. 2:1 AV Conduction Block",
+      "answer": "A. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 67-year-old female. From the four diagnostic choices provided, which best corresponds to the overall pattern seen in the waveform of this ECG recording? A. Atrial Tachycardia; B. Ventricular Tachycardia; C. Torsades de Pointes; D. Junctional Escape Rhythm",
+      "answer": "A. Atrial Tachycardia"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 67-year-old female patient. Which diagnosis presented in the options is not demonstrated by the overall pattern of this ECG strip? A. Atrial Tachycardia; B. Premature Ventricular Contraction; C. Sinus Tachycardia; D. Premature Atrial Contraction",
+      "answer": "C. Sinus Tachycardia"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A600",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 47-year-old male. Select the one diagnosis from the four choices that best fits the waveform shown? A. Atrial Flutter; B. Ventricular Flutter (Coarse); C. Premature Atrial Contraction; D. Ventricular Tachycardia",
+      "answer": "C. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 48-year-old male patient. Considering the waveform presented in this ECG recording, which one of the four listed diagnoses best accounts for the tracing's overall rhythm and morphology? A. Premature Atrial Contraction; B. Sinus Bradycardia; C. First-degree AV Block; D. Ventricular Fibrillation",
+      "answer": "A. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 48-year-old male patient. From the disorders listed, which rhythm diagnosis is not demonstrated by this tracing? A. Sinus Bradycardia; B. Atrial Tachycardia; C. Premature Atrial Contraction; D. Premature Ventricular Contraction",
+      "answer": "A. Sinus Bradycardia"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A635",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 79-year-old male. Using the patterns visible on this ECG recording, which single diagnosis from the choices provided most plausibly corresponds to the tracing? A. Premature Atrial Contraction; B. Second-degree AV Block Mobitz II; C. Ventricular Fibrillation; D. Ventricular Flutter (Coarse)",
+      "answer": "A. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 55-year-old male patient. Assess the waveform shown and select the single diagnosis from the four options that best fits this ECG tracing? A. Premature Ventricular Contraction; B. Torsades de Pointes; C. Ventricular Flutter (Coarse); D. 2:1 AV Conduction Block",
+      "answer": "A. Premature Ventricular Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 55-year-old male. Which diagnosis provided is least consistent with the waveform characteristics seen in this tracing? A. Premature Ventricular Contraction; B. Premature Atrial Contraction; C. Asystole; D. Atrial Tachycardia",
+      "answer": "C. Asystole"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A653",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The ECG belongs to a 53-year-old female patient. Which of the listed disorders best matches the rhythm and waveform characteristics demonstrated in this tracing? A. 2:1 AV Conduction Block; B. First-degree AV Block; C. Premature Ventricular Contraction; D. Second-degree AV Block Mobitz I",
+      "answer": "C. Premature Ventricular Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 68-year-old male. Which diagnosis listed most closely corresponds to the waveform pattern shown in this tracing? A. Premature Atrial Contraction; B. First-degree AV Block; C. Ventricular Escape Rhythm; D. Atrial Fibrillation",
+      "answer": "A. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A688",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 62-year-old male patient. Examining the waveform in this ECG recording, which single diagnosis from the four options most closely matches the overall rhythm and morphology observed? A. Ventricular Escape Rhythm; B. Ventricular Flutter; C. Atrial Tachycardia; D. Ventricular Tachycardia",
+      "answer": "C. Atrial Tachycardia"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A692",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 56-year-old male. Examining the tracing in this ECG recording, which single diagnosis among the choices best fits the observed rhythm and waveform characteristics? A. Premature Atrial Contraction; B. Asystole; C. 2:1 AV Conduction Block; D. Sinus Pause",
+      "answer": "A. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A692",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This case concerns a 56-year-old male patient. Which diagnosis provided in the options is not demonstrated by this tracing? A. Premature Atrial Contraction; B. Sinus Tachycardia",
+      "answer": "B. Sinus Tachycardia"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A701",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 73-year-old female patient. Which listed disorder should be selected as the diagnosis based on the rhythm and waveform depicted in this tracing? A. Premature Ventricular Contraction; B. Polymorphic Ventricular Tachycardia; C. Ventricular Fibrillation; D. Junctional Escape Rhythm",
+      "answer": "A. Premature Ventricular Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A701",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 73-year-old female patient. Given the cardiac rhythm shown in this tracing, which of the listed rhythm disorders is absent? A. Premature Ventricular Contraction; B. Premature Atrial Contraction; C. Atrial Tachycardia",
+      "answer": "C. Atrial Tachycardia"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 73-year-old female patient. Referring to this ECG recording, which one diagnosis listed best matches the overall tracing displayed? A. Second-degree AV Block Mobitz I; B. Premature Ventricular Contraction; C. Sinus Pause; D. Junctional Escape Rhythm",
+      "answer": "B. Premature Ventricular Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "You are reviewing a 73-year-old female patient. From the four diagnoses provided, which one would be least consistent with the rhythm recorded on this tracing? A. Atrial Tachycardia; B. Premature Atrial Contraction; C. Premature Ventricular Contraction; D. 2:1 AV Conduction Block",
+      "answer": "D. 2:1 AV Conduction Block"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A708",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This recording is from a 69-year-old male. Given the rhythm and waveform features visible on this tracing, which listed disorder is the most probable diagnosis? A. Premature Ventricular Contraction; B. Junctional Escape Rhythm; C. Atrial Fibrillation; D. Sinus Pause",
+      "answer": "A. Premature Ventricular Contraction"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A720",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 80-year-old female. Given the waveform presented in this ECG recording, which one of the four diagnostic options best corresponds to the rhythm and overall morphology of the tracing? A. Sinus Tachycardia; B. Third-degree AV Block; C. Sinus Pause; D. Atrial Tachycardia",
+      "answer": "D. Atrial Tachycardia"
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A765",
+    "task_type": "closed_diagnosis",
+    "qa_pair": {
+      "question": "This patient is a 84-year-old female. Based on the waveform in this ECG recording, which diagnosis among the options most appropriately explains the overall rhythm pattern? A. 2:1 AV Conduction Block; B. Third-degree AV Block; C. Premature Atrial Contraction; D. Second-degree AV Block Mobitz II",
+      "answer": "C. Premature Atrial Contraction"
+    },
+    "tag": "valid"
+  }
+]

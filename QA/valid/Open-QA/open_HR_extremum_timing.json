@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "A107",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 45-year-old female. For handoff, what is the timepoint in ms in this ECG segment at which the fastest heart rate occurs?",
+      "answer": "The exact timestamp for the fastest heart rate is 67391005 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A107",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 45-year-old female patient. After reviewing this ECG segment, what is the exact timepoint in milliseconds when the slowest heart rate occurs?",
+      "answer": "The exact timestamp for the slowest heart rate is 51354705 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A116",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 66-year-old female patient. Exact ms position in this recording where the fastest heart rate occurs?",
+      "answer": "In this recording, the fastest heart rate is detected at 2453535 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A116",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 66-year-old female patient. Millisecond timestamp for the occurrence of the slowest heart rate in this ECG segment?",
+      "answer": "The slowest heart rate occurs precisely at 70315325 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A119",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 48-year-old male. Identify the precise millisecond timepoint (ms) within this strip when the fastest heart rate takes place?",
+      "answer": "The exact timestamp for the fastest heart rate is 18563720 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A119",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 48-year-old male. Provide the millisecond timestamp in this strip corresponding to the slowest heart rate?",
+      "answer": "The exact timestamp for the slowest heart rate is 66127586 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A125",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 51-year-old female. Handoff: in this strip, mark the moment of the fastest heart rate, and report that timestamp in milliseconds (ms)?",
+      "answer": "The fastest heart rate occurs precisely at 77320614 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A125",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 51-year-old female. Occurrence time (ms): in this trace, when does the slowest heart rate occur?",
+      "answer": "In this recording, the slowest heart rate is detected at 23007575 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A130",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 55-year-old female. In this strip, when does the fastest heart rate occur, and what is its occurrence time in milliseconds (ms)?",
+      "answer": "In this recording, the fastest heart rate is detected at 78402609 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A130",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 55-year-old female. Handoff: in this waveform, provide the exact ms position where the slowest heart rate occurs?",
+      "answer": "In this recording, the slowest heart rate is detected at 75552545 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 78-year-old male. Millisecond timestamp: in this strip, what is the occurrence time (in milliseconds, ms) of the fastest heart rate?",
+      "answer": "In this recording, the fastest heart rate is detected at 13041970 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A133",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 78-year-old male patient. In this ECG segment, provide the millisecond timestamp (ms) at which the slowest heart rate occurs?",
+      "answer": "In this recording, the slowest heart rate is detected at 53375910 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A141",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 74-year-old female. This waveform: please hand off the exact timestamp in milliseconds (ms) at which the fastest heart rate occurs?",
+      "answer": "The exact timestamp for the fastest heart rate is 6349285 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A141",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 74-year-old female. Identify the exact millisecond (ms) position in this waveform of the slowest heart rate occurrence?",
+      "answer": "In this recording, the slowest heart rate is detected at 55313975 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 67-year-old male patient. In this trace, state the millisecond timestamp (ms) at which the fastest heart rate occurs?",
+      "answer": "The exact timestamp for the fastest heart rate is 747575 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A148",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 67-year-old male. In this recording, identify the exact occurrence time in milliseconds (ms) of the slowest heart rate?",
+      "answer": "The slowest heart rate occurs precisely at 54970878 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A153",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 62-year-old female. What is the exact ms position in this trace of the fastest heart rate?",
+      "answer": "The fastest heart rate occurs precisely at 73635605 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A153",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 62-year-old female. Handoff: in this trace, what is the timepoint in milliseconds (ms) of the slowest heart rate occurrence?",
+      "answer": "The slowest heart rate occurs precisely at 9903825 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A191",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 66-year-old male patient. For this waveform, at what millisecond timestamp (ms) does the fastest heart rate occur?",
+      "answer": "The exact timestamp for the fastest heart rate is 67340487 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A191",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 66-year-old male patient. Considering this strip, state the precise timepoint in milliseconds (ms) when the slowest heart rate occurs?",
+      "answer": "The slowest heart rate occurs precisely at 33542315 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A194",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 64-year-old female. Time (ms): Handoff — in this ECG segment, state the exact ms position of the fastest heart rate?",
+      "answer": "The exact timestamp for the fastest heart rate is 29421479 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A194",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 64-year-old female patient. Timepoint (milliseconds) for this strip — report the millisecond timestamp when the slowest heart rate occurs?",
+      "answer": "In this recording, the slowest heart rate is detected at 54895005 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A222",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 59-year-old female. In this trace, what is the occurrence time (ms) of the fastest heart rate?",
+      "answer": "The exact timestamp for the fastest heart rate is 3683035 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A222",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 59-year-old female. At what timestamp (ms) in this trace does the slowest heart rate occur?",
+      "answer": "In this recording, the slowest heart rate is detected at 43890076 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 70-year-old female patient. In this ECG segment, locate the beat with the fastest heart rate, and state its exact ms position?",
+      "answer": "In this recording, the fastest heart rate is detected at 76274573 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A232",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 70-year-old female. Locate the slowest heart rate in this waveform, and state its millisecond timestamp?",
+      "answer": "The exact timestamp for the slowest heart rate is 40939606 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A291",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 36-year-old female. Exact ms position in this strip where the fastest heart rate occurs?",
+      "answer": "In this recording, the fastest heart rate is detected at 2598505 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A291",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 36-year-old female. Report the millisecond timestamp within this strip at which the slowest heart rate occurs?",
+      "answer": "The exact timestamp for the slowest heart rate is 72159802 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 75-year-old male. Time (ms): in this strip, when does the fastest heart rate occur?",
+      "answer": "The fastest heart rate occurs precisely at 82784487 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A296",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 75-year-old male patient. Within this strip, provide the occurrence time in milliseconds (ms) for the single timepoint that represents the slowest heart rate?",
+      "answer": "In this recording, the slowest heart rate is detected at 58995850 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 72-year-old female patient. State the single millisecond timestamp (ms) in this ECG segment when the fastest heart rate occurs for handoff?",
+      "answer": "The fastest heart rate occurs precisely at 74498695 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A303",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 72-year-old female. Give the occurrence time in milliseconds (ms) of the slowest heart rate in this waveform?",
+      "answer": "In this recording, the slowest heart rate is detected at 46251755 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A311",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 63-year-old male patient. Please provide the single millisecond timepoint (ms) in this waveform when the fastest heart rate occurs, and report only that timestamp?",
+      "answer": "The exact timestamp for the fastest heart rate is 1414473 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A311",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 63-year-old male patient. In this strip, what is the millisecond timestamp (ms) of the slowest heart rate occurrence?",
+      "answer": "The slowest heart rate occurs precisely at 51328280 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A317",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 56-year-old female patient. Provide the exact millisecond (ms) position within this trace that marks the occurrence of the fastest heart rate?",
+      "answer": "The exact timestamp for the fastest heart rate is 7255978 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A317",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 56-year-old female patient. In this waveform, indicate the occurrence time in milliseconds (ms) of the slowest heart rate, and state the single exact millisecond timestamp?",
+      "answer": "The exact timestamp for the slowest heart rate is 78925911 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 73-year-old male. At what millisecond timestamp (ms) in this ECG segment does the fastest heart rate occur?",
+      "answer": "The exact timestamp for the fastest heart rate is 10134400 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A322",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 73-year-old male patient. Please determine in this ECG segment the timestamp in milliseconds (ms) at which the slowest heart rate occurs, and report only that single millisecond timestamp?",
+      "answer": "The slowest heart rate occurs precisely at 71813400 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 38-year-old male. Handing this trace off, please provide the exact ms position in this trace where the fastest heart rate occurs?",
+      "answer": "In this recording, the fastest heart rate is detected at 42676630 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A329",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 38-year-old male. Timepoint (milliseconds, ms) in this waveform: what single timepoint corresponds to the slowest heart rate?",
+      "answer": "The exact timestamp for the slowest heart rate is 71154845 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A341",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 71-year-old female. I am reporting this trace, so what is the occurrence time in milliseconds (ms) of the fastest heart rate?",
+      "answer": "The exact timestamp for the fastest heart rate is 47369316 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A341",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 71-year-old female. For this trace, indicate the exact timestamp in milliseconds (ms) at which the slowest heart rate occurs, and report that single millisecond value?",
+      "answer": "In this recording, the slowest heart rate is detected at 47329661 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A358",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 40-year-old female. For this trace, please hand off the exact occurrence time in milliseconds (ms) of the fastest heart rate?",
+      "answer": "In this recording, the fastest heart rate is detected at 16035960 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A358",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 40-year-old female. In this ECG segment, what is the timepoint in milliseconds (ms) at which the slowest heart rate occurs?",
+      "answer": "In this recording, the slowest heart rate is detected at 63390640 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A360",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 75-year-old female. In this ECG segment, indicate the timepoint in milliseconds (ms) at which the fastest heart rate occurs, and state the precise occurrence time in ms?",
+      "answer": "In this recording, the fastest heart rate is detected at 24840206 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A360",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 75-year-old female patient. Hand off the exact millisecond timestamp (ms) in this strip when the slowest heart rate occurs?",
+      "answer": "The slowest heart rate occurs precisely at 57679581 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A41",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 59-year-old male. Handoff: state the exact ms position in this recording when the fastest heart rate occurs?",
+      "answer": "The exact timestamp for the fastest heart rate is 17972649 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A41",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 59-year-old male. For reporting, examine this ECG segment and state the exact ms position at which the slowest heart rate occurs?",
+      "answer": "The slowest heart rate occurs precisely at 83511037 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A422",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 69-year-old male. Timestamp (ms) in this strip for the fastest heart rate?",
+      "answer": "In this recording, the fastest heart rate is detected at 19434660 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A422",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 69-year-old male. Give the exact millisecond (ms) timestamp in this ECG segment when the slowest heart rate occurs?",
+      "answer": "In this recording, the slowest heart rate is detected at 48499085 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 75-year-old male. For handoff, inspect this ECG segment, and list the exact timepoint in milliseconds (ms) at which the fastest heart rate occurs?",
+      "answer": "The fastest heart rate occurs precisely at 72039690 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A426",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 75-year-old male patient. Identify the exact ms position in this strip where the slowest heart rate occurs?",
+      "answer": "The exact timestamp for the slowest heart rate is 47665919 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A431",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 67-year-old female patient. Referencing this recording, please specify the millisecond timestamp where the fastest heart rate is observed, and report the exact occurrence time in ms?",
+      "answer": "The exact timestamp for the fastest heart rate is 79442865 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A431",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 67-year-old female patient. In this trace, what is the occurrence time of the slowest heart rate in milliseconds, and provide the exact timestamp in ms?",
+      "answer": "The slowest heart rate occurs precisely at 30799721 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A451",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 71-year-old male patient. In this strip, what is the exact timestamp in milliseconds (ms) at which the fastest heart rate occurs, and provide only the millisecond value?",
+      "answer": "The fastest heart rate occurs precisely at 2172596 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A451",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 71-year-old male. Occurrence time in milliseconds (ms) of the slowest heart rate in this strip?",
+      "answer": "The slowest heart rate occurs precisely at 17599090 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 56-year-old male. In this ECG segment, locate the fastest heart rate and provide its occurrence timepoint in milliseconds (ms)?",
+      "answer": "The fastest heart rate occurs precisely at 74135711 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A461",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 56-year-old male. In this waveform, report the occurrence timestamp in milliseconds (ms) when the slowest heart rate occurs?",
+      "answer": "The slowest heart rate occurs precisely at 22560245 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A464",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 68-year-old male patient. When does the fastest heart rate occur in this strip, and at what timestamp in milliseconds (ms)?",
+      "answer": "The fastest heart rate occurs precisely at 2614236 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A464",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 68-year-old male. Exact ms position in this trace at which the slowest heart rate occurs?",
+      "answer": "In this recording, the slowest heart rate is detected at 63323570 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A469",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 51-year-old female. Please report the timestamp in milliseconds (ms) within this trace when the fastest heart rate occurs, and state the exact ms value of that occurrence?",
+      "answer": "The exact timestamp for the fastest heart rate is 2937095 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A469",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 51-year-old female patient. Time (ms) handoff: within this recording, state the exact millisecond timestamp when the slowest heart rate occurs?",
+      "answer": "The slowest heart rate occurs precisely at 52169319 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A46",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 84-year-old male patient. Could you state the occurrence time in milliseconds (ms) within this trace of the fastest heart rate?",
+      "answer": "In this recording, the fastest heart rate is detected at 59422706 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A46",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 84-year-old male patient. Referencing this trace, when does the slowest heart rate occur, and provide the millisecond timestamp (ms) for that moment?",
+      "answer": "The slowest heart rate occurs precisely at 46966252 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A473",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 55-year-old female patient. For handoff from this strip, identify the precise occurrence time in milliseconds (ms) of the fastest heart rate?",
+      "answer": "In this recording, the fastest heart rate is detected at 64394860 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A473",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 55-year-old female. Refer to this ECG segment, and report the timepoint in milliseconds (ms) of the slowest heart rate?",
+      "answer": "The slowest heart rate occurs precisely at 52324545 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A478",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 57-year-old female patient. Give the exact ms position in this strip at which the fastest heart rate occurs?",
+      "answer": "The fastest heart rate occurs precisely at 77030420 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A478",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 57-year-old female patient. In this strip, what is the millisecond timestamp of the slowest heart rate, and state the exact occurrence time in ms?",
+      "answer": "The exact timestamp for the slowest heart rate is 45669429 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A481",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 41-year-old female patient. Within this ECG segment, what is the exact ms position at which the fastest heart rate occurs?",
+      "answer": "In this recording, the fastest heart rate is detected at 86386342 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A481",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 41-year-old female. For handoff, in this recording indicate the exact ms position of the slowest heart rate, and provide that single millisecond occurrence?",
+      "answer": "The slowest heart rate occurs precisely at 62597109 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A483",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 31-year-old female patient. In this ECG segment, indicate the millisecond timestamp at which the fastest heart rate occurs?",
+      "answer": "The fastest heart rate occurs precisely at 76340331 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A483",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 31-year-old female patient. At what exact ms position in this ECG segment does the slowest heart rate occur?",
+      "answer": "In this recording, the slowest heart rate is detected at 61096323 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A488",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 78-year-old male patient. Millisecond timestamp of the fastest heart rate in this trace (ms)?",
+      "answer": "In this recording, the fastest heart rate is detected at 21690177 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A488",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 78-year-old male patient. Timepoint in ms within this strip at which the slowest heart rate occurs?",
+      "answer": "The exact timestamp for the slowest heart rate is 47683312 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 65-year-old female. Report the occurrence time in milliseconds of the fastest heart rate in this waveform, and state that single millisecond timestamp?",
+      "answer": "The fastest heart rate occurs precisely at 74130910 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A489",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 65-year-old female patient. In this strip, report the exact ms position (milliseconds) when the slowest heart rate occurs?",
+      "answer": "The exact timestamp for the slowest heart rate is 57928746 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A490",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 56-year-old female. Give the single timepoint in milliseconds (ms) within this strip corresponding to the fastest heart rate?",
+      "answer": "The fastest heart rate occurs precisely at 59655489 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A490",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 56-year-old female. Referencing this strip, what is the occurrence time in milliseconds of the slowest heart rate?",
+      "answer": "The slowest heart rate occurs precisely at 71482686 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A502",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 44-year-old male patient. Report the single millisecond timepoint (ms) in this trace at which the fastest heart rate occurs?",
+      "answer": "In this recording, the fastest heart rate is detected at 69432859 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A502",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 44-year-old male patient. Handoff: millisecond timestamp (ms) for the timepoint in this strip when the slowest heart rate occurs?",
+      "answer": "The slowest heart rate occurs precisely at 14186632 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 66-year-old male. Millisecond timestamp (ms) in this trace: what single millisecond marks the occurrence of the fastest heart rate?",
+      "answer": "In this recording, the fastest heart rate is detected at 29015454 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A507",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 66-year-old male patient. Timestamp (ms): provide the exact millisecond at which the slowest heart rate occurs in this strip?",
+      "answer": "In this recording, the slowest heart rate is detected at 64539442 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A50",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 56-year-old female patient. Millisecond timestamp (ms) indicating when the fastest heart rate occurs in this recording?",
+      "answer": "The fastest heart rate occurs precisely at 6496895 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A50",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 56-year-old female. Handoff: within this ECG segment, provide the occurrence time in milliseconds (ms), and indicate the one millisecond when the slowest heart rate occurs?",
+      "answer": "The exact timestamp for the slowest heart rate is 65175970 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A523",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 62-year-old male patient. Timepoint (milliseconds, ms) in this trace corresponding to the occurrence of the fastest heart rate?",
+      "answer": "In this recording, the fastest heart rate is detected at 9154165 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A523",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 62-year-old male. In this trace, indicate the millisecond timestamp (ms) at which the slowest heart rate occurs?",
+      "answer": "In this recording, the slowest heart rate is detected at 60005319 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 68-year-old male. Give the exact millisecond timestamp (ms) in this recording corresponding to the fastest heart rate?",
+      "answer": "In this recording, the fastest heart rate is detected at 3767455 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A535",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 68-year-old male patient. For this ECG segment, what exact timestamp in milliseconds (ms) marks the occurrence of the slowest heart rate?",
+      "answer": "In this recording, the slowest heart rate is detected at 63234395 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A536",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 63-year-old female. For this ECG segment, what is the occurrence timepoint in milliseconds (ms) of the fastest heart rate?",
+      "answer": "In this recording, the fastest heart rate is detected at 6186484 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A536",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 63-year-old female. In this recording, where does the slowest heart rate occur, and what is the exact ms position (milliseconds)?",
+      "answer": "The slowest heart rate occurs precisely at 42519900 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A538",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 69-year-old male. Within this waveform, what is the precise millisecond timestamp (ms) at which the fastest heart rate occurs?",
+      "answer": "In this recording, the fastest heart rate is detected at 9501874 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A538",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 69-year-old male. Handoff — within this strip, what is the exact ms position (milliseconds) where the slowest heart rate occurs?",
+      "answer": "The slowest heart rate occurs precisely at 48866284 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A573",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 61-year-old male. Handoff: indicate the exact ms position within this waveform where the fastest heart rate occurs, and provide the single millisecond timestamp?",
+      "answer": "The fastest heart rate occurs precisely at 80550636 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A573",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 61-year-old male. In this strip, what is the exact millisecond timestamp (ms) of the slowest heart rate, and state the single millisecond timestamp?",
+      "answer": "The exact timestamp for the slowest heart rate is 8145000 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A57",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 59-year-old female. Referring to this recording, provide the timestamp in milliseconds that marks the occurrence of the fastest heart rate, and give the single millisecond value?",
+      "answer": "The exact timestamp for the fastest heart rate is 1449754 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A57",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 59-year-old female. For this strip, locate the timepoint in milliseconds corresponding to the slowest heart rate, and report that single millisecond timestamp?",
+      "answer": "In this recording, the slowest heart rate is detected at 52173760 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 67-year-old female patient. Please state the single millisecond timepoint in this recording when the fastest heart rate occurs, and report only that value in ms?",
+      "answer": "The fastest heart rate occurs precisely at 3576615 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A580",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 67-year-old female. For this recording, locate when the slowest heart rate occurs, expressed as a single millisecond timestamp?",
+      "answer": "The exact timestamp for the slowest heart rate is 60110375 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A600",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 47-year-old male. Reviewing this strip, report the timepoint in milliseconds (ms) that corresponds to the fastest heart rate?",
+      "answer": "The fastest heart rate occurs precisely at 12520250 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A600",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 47-year-old male. State the timepoint in milliseconds (ms) at which the slowest heart rate occurs in this strip?",
+      "answer": "The exact timestamp for the slowest heart rate is 65022653 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 48-year-old male patient. Report the millisecond timestamp (ms) in this recording when the fastest heart rate occurs?",
+      "answer": "The fastest heart rate occurs precisely at 32453885 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A613",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 48-year-old male patient. In milliseconds (ms), what timestamp in this ECG segment corresponds to the slowest heart rate?",
+      "answer": "The exact timestamp for the slowest heart rate is 76943690 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A635",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 79-year-old male. Timepoint (ms): provide the single millisecond timestamp in this ECG segment at which the fastest heart rate occurs?",
+      "answer": "The exact timestamp for the fastest heart rate is 15948395 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A635",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 79-year-old male. For this recording, report the exact ms position where the slowest heart rate occurs, and provide only that single millisecond timestamp?",
+      "answer": "In this recording, the slowest heart rate is detected at 76118096 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 55-year-old male. Occurrence time in milliseconds (ms) in this recording — hand off the single millisecond timestamp at which the fastest heart rate occurs?",
+      "answer": "The exact timestamp for the fastest heart rate is 1931800 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A650",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 55-year-old male patient. Please hand off the millisecond timestamp for this trace, and state the single millisecond (ms) at which the slowest heart rate occurs?",
+      "answer": "The slowest heart rate occurs precisely at 44040020 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A653",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 53-year-old female patient. Timepoint (ms): for this strip, provide the single millisecond timestamp when the fastest heart rate occurs?",
+      "answer": "The fastest heart rate occurs precisely at 2512916 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A653",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 53-year-old female patient. Timepoint (ms): hand off the exact millisecond in this waveform at which the slowest heart rate occurs?",
+      "answer": "The exact timestamp for the slowest heart rate is 68420551 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 68-year-old male. Timepoint in milliseconds (ms): identify the single-millisecond timepoint in this trace at which the fastest heart rate occurs?",
+      "answer": "The exact timestamp for the fastest heart rate is 83739801 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A667",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The current monitoring segment comes from a 68-year-old male. Passing this recording to you, please report the single-millisecond timestamp (ms) at which the slowest heart rate occurs?",
+      "answer": "The exact timestamp for the slowest heart rate is 2179915 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A677",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 73-year-old female. Specify the single-millisecond timestamp (ms) in this recording at which the fastest heart rate occurs?",
+      "answer": "The fastest heart rate occurs precisely at 78362339 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A677",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 73-year-old female. ms (milliseconds) — handoff: in this strip, report the occurrence time of the slowest heart rate?",
+      "answer": "The exact timestamp for the slowest heart rate is 70835870 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A688",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 62-year-old male patient. Report the occurrence time in milliseconds (ms) of the fastest heart rate in this waveform?",
+      "answer": "The fastest heart rate occurs precisely at 32455270 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A688",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 62-year-old male patient. State the occurrence time in milliseconds (ms) within this trace of the slowest heart rate?",
+      "answer": "The exact timestamp for the slowest heart rate is 55832826 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A692",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 56-year-old male patient. Refer to this ECG segment, and provide the millisecond timestamp (ms) that marks the occurrence of the fastest heart rate?",
+      "answer": "The fastest heart rate occurs precisely at 23668038 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A692",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 56-year-old male. Provide the millisecond timestamp (ms) within this waveform at which the slowest heart rate occurs?",
+      "answer": "The slowest heart rate occurs precisely at 66936230 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A701",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 73-year-old female patient. Refer to this strip, and state the single millisecond timepoint (ms) at which the fastest heart rate occurs?",
+      "answer": "The exact timestamp for the fastest heart rate is 7220815 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A701",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 73-year-old female. Report the exact ms position in this waveform where the slowest heart rate occurs?",
+      "answer": "The slowest heart rate occurs precisely at 77579684 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 73-year-old female patient. Timepoint (ms) in this strip: what single millisecond timestamp marks the occurrence of the fastest heart rate?",
+      "answer": "In this recording, the fastest heart rate is detected at 7145491 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A703",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 73-year-old female patient. What is the precise ms timestamp of the minimum heart rate event in this waveform?",
+      "answer": "The exact timestamp for the slowest heart rate is 71109574 milliseconds."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A708",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This recording is from a 69-year-old male. Occurrence time (ms) in this waveform: which single millisecond timestamp marks the fastest heart rate?",
+      "answer": "In this recording, the fastest heart rate is detected at 34432440 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A708",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "The ECG belongs to a 69-year-old male patient. Handoff: within this strip, when does the slowest heart rate occur, and what is the millisecond timestamp (ms) of that event?",
+      "answer": "In this recording, the slowest heart rate is detected at 11162060 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A720",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This patient is a 80-year-old female. Please inspect this trace, and give the single timepoint in milliseconds (ms) when the fastest heart rate occurs?",
+      "answer": "The fastest heart rate occurs precisely at 29895294 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A720",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 80-year-old female patient. Handoff: within this recording, identify the single timepoint in milliseconds (ms) when the slowest heart rate occurs, and state that exact ms timepoint?",
+      "answer": "In this recording, the slowest heart rate is detected at 75352990 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A765",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "This case concerns a 84-year-old female patient. Referring to this trace, what is the exact position in milliseconds (ms) of the single occurrence of the fastest heart rate?",
+      "answer": "The fastest heart rate occurs precisely at 3632725 ms."
+    },
+    "tag": "valid"
+  },
+  {
+    "id": "A765",
+    "task_type": "open_HR_extremum_timing",
+    "qa_pair": {
+      "question": "You are reviewing a 84-year-old female patient. In this recording, state the exact millisecond timestamp (ms) when the single slowest heart rate is observed?",
+      "answer": "The exact timestamp for the slowest heart rate is 64418730 milliseconds."
+    },
+    "tag": "valid"
+  }
+]
