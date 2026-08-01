@@ -8,7 +8,7 @@ We provide a supplementary document (`Appendix.pdf`) that contains extended deta
 
 * **Detailed Distribution of Clinical Annotations:** Exhaustive frequency tables for all beat-level and rhythm-level annotations within Holtercare-23K, demonstrating its clinical scale and diversity.
 * **Prompt Templates:** The exact, full-text prompt structures utilized by GPT-5-mini for both the automated HolterAgent QA generation pipeline and the LLM-as-a-judge report evaluation system.
-* **Supplemental Experimental Results:** Extended textual generation performance evaluations, including comprehensive BLEU n-gram overlap metrics for both *Open-QA* and *Report Generation* tasks.
+* **Supplemental Experimental Results:** Extended textual generation performance evaluations, including comprehensive BLEU n-gram overlap metrics for both *Open-QA* and *Report Generation* tasks, and additional analyses on modality alignment and statistical significance of fine-tuning improvements.
 
 ## 2. Holtercare-23K QA Dataset
 
