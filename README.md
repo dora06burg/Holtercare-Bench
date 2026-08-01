@@ -1,18 +1,6 @@
 # Holtercare-Bench: A Multimodal Benchmark for Evaluating Long-Term Dynamic ECG Analysis
 
-This repository contains the supplementary materials, the complete QA dataset, and data access instructions for the paper **"Holtercare-Bench: A Multimodal Benchmark for Evaluating Long-Term Dynamic ECG Analysis"**. 
-
-## 1. Supplementary Appendix
-
-We provide a supplementary document (`Appendix.pdf`) that contains extended details and results omitted from the main manuscript due to space constraints. The appendix includes:
-
-* **Detailed Distribution of Clinical Annotations:** Exhaustive frequency tables for all beat-level and rhythm-level annotations within Holtercare-23K, demonstrating its clinical scale and diversity.
-* **Prompt Templates:** The exact, full-text prompt structures utilized by GPT-5-mini for both the automated HolterAgent QA generation pipeline and the LLM-as-a-judge report evaluation system.
-* **Supplemental Experimental Results:** Extended textual generation performance evaluations, including comprehensive BLEU n-gram overlap metrics for both *Open-QA* and *Report Generation* tasks, and additional analyses on modality alignment and statistical significance of fine-tuning improvements.
-
-## 2. Holtercare-23K QA Dataset
-
-The `QA/` directory contains the complete 22,980 multimodal QA pairs of Holtercare-23K. 
+This repository contains the complete QA dataset for the paper **"Holtercare-Bench: A Multimodal Benchmark for Evaluating Long-Term Dynamic ECG Analysis"**. The `QA/` directory contains the complete 22,980 multimodal QA pairs of Holtercare-23K. 
 
 - **Splits:** The data is properly partitioned into `train`, `valid`, and `test` sets at the independent patient case level to prevent data leakage.
 - **Task Coverage:** The dataset comprehensively covers the 12 fine-grained sub-tasks across the 3 main cognitive tiers: *Closed-QA*, *Open-QA*, and *Report Generation*.
